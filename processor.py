@@ -78,6 +78,7 @@ def main():
                         fist_seen_timestamp=timestamp,
                         last_seen_timestamp=timestamp,
                     ))
+                    livestream.last_seen_timestamp = timestamp
             except Exception:
                 traceback.print_exc()
                 sys.exit(f'Error processing {p}')

@@ -1,0 +1,71 @@
+[
+  {
+    "liveId": "340943740386217984",
+    "coverPath": "/20190530/15592169213425Y3wGJZNOQ.jpg",
+    "title": "实习第15天",
+    "liveType": 1,
+    "status": 2,
+    "ctime": "1559216921865",
+    "userInfo": {
+      "userId": "327574",
+      "nickname": "GNZ48-熊心瑶",
+      "avatar": "/mediasource/avatar/20190228/155135996408281CB6TA2xf.jpg",
+      "badge": [],
+      "level": 1,
+      "isStar": true,
+      "friends": "0",
+      "followers": "0",
+      "teamLogo": "/mediasource/teamLogo2/all/gnz48_n3.png",
+      "signature": "",
+      "bgImg": "",
+      "vip": false,
+      "userRole": 3
+    }
+  },
+  {
+    "liveId": "340951543851061248",
+    "coverPath": "/20190530/15592187819495e8724qgHh.jpg",
+    "title": "✨快乐小李✨",
+    "liveType": 1,
+    "status": 2,
+    "ctime": "1559218782336",
+    "userInfo": {
+      "userId": "677397",
+      "nickname": "SNH48-李星羽",
+      "avatar": "/mediasource/avatar/20190407/1554636108440Gu7Inz0qOi.jpg",
+      "badge": [],
+      "level": 1,
+      "isStar": true,
+      "friends": "0",
+      "followers": "0",
+      "teamLogo": "/mediasource/teamLogo2/all/snh48_x.png",
+      "signature": "",
+      "bgImg": "",
+      "vip": false,
+      "userRole": 3
+    }
+  },
+  {
+    "liveId": "340943746488930304",
+    "coverPath": "/20190530/155921692278131rYFJ5c3i.jpg",
+    "title": "不会动的小赖",
+    "liveType": 1,
+    "status": 2,
+    "ctime": "1559216923591",
+    "userInfo": {
+      "userId": "530440",
+      "nickname": "IDFT-赖俊亦",
+      "avatar": "/mediasource/avatar/20190213/1550061722081Z9c031902p.jpg",
+      "badge": [],
+      "level": 1,
+      "isStar": true,
+      "friends": "0",
+      "followers": "0",
+      "teamLogo": "/mediasource/teamLogo/all/idft_logo_2.png",
+      "signature": "",
+      "bgImg": "",
+      "vip": false,
+      "userRole": 3
+    }
+  }
+]

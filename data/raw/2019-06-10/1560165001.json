@@ -1,0 +1,71 @@
+[
+  {
+    "liveId": "344918773743816704",
+    "coverPath": "/20190610/15601646433322WE5XMhcUj.jpg",
+    "title": "∠( ᐛ 」∠)＿",
+    "liveType": 1,
+    "status": 2,
+    "ctime": "1560164643702",
+    "userInfo": {
+      "userId": "530390",
+      "nickname": "SNH48-王睿琦",
+      "avatar": "/20190520/1558323111452s3Z90fwuk7.jpg",
+      "badge": [],
+      "level": 1,
+      "isStar": true,
+      "friends": "0",
+      "followers": "0",
+      "teamLogo": "/mediasource/teamLogo2/all/snh48_x.png",
+      "signature": "",
+      "bgImg": "",
+      "vip": false,
+      "userRole": 3
+    }
+  },
+  {
+    "liveId": "344909197829017600",
+    "coverPath": "/20190610/1560162359084d5e235NKk8.jpg",
+    "title": "嘿嘿 吃饭了吗",
+    "liveType": 1,
+    "status": 2,
+    "ctime": "1560162360569",
+    "userInfo": {
+      "userId": "460004",
+      "nickname": "IDFT-杨允涵",
+      "avatar": "/mediasource/avatar/20181027/1540649704887L38FXNji6v.jpg",
+      "badge": [],
+      "level": 1,
+      "isStar": true,
+      "friends": "0",
+      "followers": "0",
+      "teamLogo": "/mediasource/teamLogo/all/idft_logo_2.png",
+      "signature": "",
+      "bgImg": "",
+      "vip": false,
+      "userRole": 3
+    }
+  },
+  {
+    "liveId": "344912285923086336",
+    "coverPath": "/20190609/1560081218063v7O1v03c6F.jpg",
+    "title": "看看",
+    "liveType": 1,
+    "status": 2,
+    "ctime": "1560163097123",
+    "userInfo": {
+      "userId": "607591",
+      "nickname": "GNZ48-吴羽霏",
+      "avatar": "/mediasource/avatar/20180805/1533400850576XkF46Fa3et.jpg",
+      "badge": [],
+      "level": 1,
+      "isStar": true,
+      "friends": "0",
+      "followers": "0",
+      "teamLogo": "/mediasource/teamLogo2/all/gnz48_n3.png",
+      "signature": "",
+      "bgImg": "",
+      "vip": false,
+      "userRole": 3
+    }
+  }
+]

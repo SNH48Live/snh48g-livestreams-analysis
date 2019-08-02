@@ -1,0 +1,52 @@
+[
+  {
+    "liveId": "356528144223375360",
+    "coverPath": "/20190712/1562932532861fkn5IS783M.jpg",
+    "title": "做饭中",
+    "liveType": 1,
+    "status": 2,
+    "ctime": "1562932533283",
+    "userInfo": {
+      "userId": "610042",
+      "nickname": "BEJ48-唐霖",
+      "avatar": "/20190629/1561738268619KorlJtueFS.jpg",
+      "badge": [],
+      "level": 1,
+      "isStar": true,
+      "friends": "0",
+      "followers": "0",
+      "teamLogo": "/mediasource/teamLogo2/all/bej48_j.png",
+      "signature": "",
+      "bgImg": "",
+      "vip": false,
+      "userRole": 3
+    },
+    "liveMode": 0,
+    "pictureOrientation": 0
+  },
+  {
+    "liveId": "356516734445621248",
+    "coverPath": "/20190712/1562929809907G5Y8dO9L2I.jpg",
+    "title": "❤",
+    "liveType": 2,
+    "status": 2,
+    "ctime": "1562929812914",
+    "userInfo": {
+      "userId": "614739",
+      "nickname": "IDFT-王梦竹",
+      "avatar": "/20190604/15596256055607R84E8S1AT.jpg",
+      "badge": [],
+      "level": 1,
+      "isStar": true,
+      "friends": "0",
+      "followers": "0",
+      "teamLogo": "/mediasource/teamLogo/all/idft_logo_2.png",
+      "signature": "",
+      "bgImg": "",
+      "vip": false,
+      "userRole": 3
+    },
+    "liveMode": 0,
+    "pictureOrientation": 0
+  }
+]

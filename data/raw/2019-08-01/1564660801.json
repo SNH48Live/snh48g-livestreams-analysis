@@ -1,0 +1,102 @@
+[
+  {
+    "liveId": "363768120287760384",
+    "coverPath": "/20190801/1564658676877g4qjdaF517.jpg",
+    "title": "八月 你好",
+    "liveType": 2,
+    "status": 2,
+    "ctime": "1564658678108",
+    "userInfo": {
+      "userId": "459995",
+      "nickname": "GNZ48-赖梓惜",
+      "avatar": "/mediasource/avatar/20181220/15453201878674NK0vNJ9Gl.jpg",
+      "badge": [],
+      "level": 1,
+      "isStar": true,
+      "friends": "0",
+      "followers": "0",
+      "teamLogo": "/mediasource/teamLogo/all/gnz_z_log2.png",
+      "signature": "",
+      "bgImg": "",
+      "vip": false,
+      "userRole": 3
+    },
+    "liveMode": 0,
+    "pictureOrientation": 0
+  },
+  {
+    "liveId": "363772557341298688",
+    "coverPath": "/20190801/1564659735150d7Z3kZcg93.jpg",
+    "title": "用来增进感情的直播",
+    "liveType": 1,
+    "status": 2,
+    "ctime": "1564659735869",
+    "userInfo": {
+      "userId": "530431",
+      "nickname": "GNZ48-陈佳莹",
+      "avatar": "/20190721/1563668893930fsJ2Ps4v9u.jpg",
+      "badge": [],
+      "level": 1,
+      "isStar": true,
+      "friends": "0",
+      "followers": "0",
+      "teamLogo": "/mediasource/teamLogo2/all/gnz48_g.png",
+      "signature": "",
+      "bgImg": "",
+      "vip": false,
+      "userRole": 3
+    },
+    "liveMode": 0,
+    "pictureOrientation": 0
+  },
+  {
+    "liveId": "363776339009671168",
+    "coverPath": "/20190801/1564660637332Q5G76gqWsE.jpg",
+    "title": "聊一会",
+    "liveType": 1,
+    "status": 2,
+    "ctime": "1564660637474",
+    "userInfo": {
+      "userId": "327568",
+      "nickname": "GNZ48-刘倩倩",
+      "avatar": "/mediasource/avatar/20190214/15501163598931eB1n5Uz9s.jpg",
+      "badge": [],
+      "level": 1,
+      "isStar": true,
+      "friends": "0",
+      "followers": "0",
+      "teamLogo": "/mediasource/teamLogo2/all/gnz48_n3.png",
+      "signature": "",
+      "bgImg": "",
+      "vip": false,
+      "userRole": 3
+    },
+    "liveMode": 0,
+    "pictureOrientation": 0
+  },
+  {
+    "liveId": "363776263445090304",
+    "coverPath": "/20190801/1564660619084coZqVRuhn9.jpg",
+    "title": "、",
+    "liveType": 1,
+    "status": 2,
+    "ctime": "1564660619459",
+    "userInfo": {
+      "userId": "19",
+      "nickname": "SNH48-孔肖吟",
+      "avatar": "/mediasource/avatar/20181101/1541073277380161Ks2dd3A.jpg",
+      "badge": [],
+      "level": 1,
+      "isStar": true,
+      "friends": "0",
+      "followers": "0",
+      "teamLogo": "/mediasource/teamLogo2/all/snh48_s2.png",
+      "signature": "",
+      "bgImg": "",
+      "vip": false,
+      "userRole": 3
+    },
+    "liveMode": 0,
+    "pictureOrientation": 0
+  }
+]

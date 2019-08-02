@@ -1,0 +1,140 @@
+[
+  {
+    "liveId": "333367641405984768",
+    "coverPath": "/20190509/1557410638571hEyX1e8rq1.jpg",
+    "title": "随便播播",
+    "liveType": 1,
+    "status": 2,
+    "ctime": "1557410638898",
+    "userInfo": {
+      "userId": "530447",
+      "nickname": "GNZ48-谢艾琳",
+      "avatar": "/mediasource/avatar/20181027/15406329992611VPbuHE7KM.jpg",
+      "badge": [],
+      "level": 1,
+      "isStar": true,
+      "friends": "0",
+      "followers": "0",
+      "teamLogo": "/mediasource/teamLogo2/all/gnz48_n3.png",
+      "signature": "",
+      "bgImg": "",
+      "vip": false,
+      "userRole": 3
+    }
+  },
+  {
+    "liveId": "333363772819050496",
+    "coverPath": "/20190509/1557409716213ERgH32dg45.jpg",
+    "title": "吃马赛克  食材准备中",
+    "liveType": 1,
+    "status": 2,
+    "ctime": "1557409717039",
+    "userInfo": {
+      "userId": "614755",
+      "nickname": "IDFT-黄琬璎",
+      "avatar": "/mediasource/avatar/20180523/1527059771019m3K3oYK40t.jpg",
+      "badge": [],
+      "level": 1,
+      "isStar": true,
+      "friends": "0",
+      "followers": "0",
+      "teamLogo": "/mediasource/teamLogo/all/idft_logo_2.png",
+      "signature": "",
+      "bgImg": "",
+      "vip": false,
+      "userRole": 3
+    }
+  },
+  {
+    "liveId": "333382527380951040",
+    "coverPath": "/20190509/1557414187602D9yQlvA9Nz.jpg",
+    "title": "聊点什么呢",
+    "liveType": 1,
+    "status": 2,
+    "ctime": "1557414188475",
+    "userInfo": {
+      "userId": "417320",
+      "nickname": "GNZ48-龙亦瑞",
+      "avatar": "/mediasource/avatar/20190225/1551080730904c9yOx38iu9.jpg",
+      "badge": [],
+      "level": 1,
+      "isStar": true,
+      "friends": "0",
+      "followers": "0",
+      "teamLogo": "/mediasource/teamLogo/all/gnz_z_log2.png",
+      "signature": "",
+      "bgImg": "",
+      "vip": false,
+      "userRole": 3
+    }
+  },
+  {
+    "liveId": "333357712502755328",
+    "coverPath": "/20190509/15574082713982y29ZJ0i4g.jpg",
+    "title": "在等我吗？",
+    "liveType": 1,
+    "status": 2,
+    "ctime": "1557408271698",
+    "userInfo": {
+      "userId": "530431",
+      "nickname": "GNZ48-陈佳莹",
+      "avatar": "/mediasource/avatar/20190326/1553553177124W55DRcsvl2.jpg",
+      "badge": [],
+      "level": 1,
+      "isStar": true,
+      "friends": "0",
+      "followers": "0",
+      "teamLogo": "/mediasource/teamLogo2/all/gnz48_g.png",
+      "signature": "",
+      "bgImg": "",
+      "vip": false,
+      "userRole": 3
+    }
+  },
+  {
+    "liveId": "333376780454662144",
+    "coverPath": "/20190509/1557412817601Tm26Qa1vw5.jpg",
+    "title": "叮咚～我就在这里",
+    "liveType": 1,
+    "status": 2,
+    "ctime": "1557412817920",
+    "userInfo": {
+      "userId": "614739",
+      "nickname": "IDFT-王梦竹",
+      "avatar": "/mediasource/avatar/20190323/1553278247276oS8o2lE4kV.jpg",
+      "badge": [],
+      "level": 1,
+      "isStar": true,
+      "friends": "0",
+      "followers": "0",
+      "teamLogo": "/mediasource/teamLogo/all/idft_logo_2.png",
+      "signature": "",
+      "bgImg": "",
+      "vip": false,
+      "userRole": 3
+    }
+  },
+  {
+    "liveId": "333389066242166784",
+    "coverPath": "/20190509/1557415746366Hr4gaaU3NX.jpg",
+    "title": "试一下麦",
+    "liveType": 2,
+    "status": 2,
+    "ctime": "1557415747461",
+    "userInfo": {
+      "userId": "868352",
+      "nickname": "SNH48-刘洁",
+      "avatar": "/mediasource/avatar/20190125/1548349798859C3T09C5heZ.jpg",
+      "badge": [],
+      "level": 1,
+      "isStar": true,
+      "friends": "0",
+      "followers": "0",
+      "teamLogo": "/mediasource/teamLogo2/all/snh48_n2.png",
+      "signature": "",
+      "bgImg": "/20190507/1557235677246O3isc11xeo.jpg",
+      "vip": false,
+      "userRole": 3
+    }
+  }
+]

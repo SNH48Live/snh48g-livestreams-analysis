@@ -1,0 +1,163 @@
+[
+  {
+    "liveId": "352201102740754432",
+    "coverPath": "/20190630/15619008729181u04zT280f.jpg",
+    "title": "来👀",
+    "liveType": 1,
+    "status": 2,
+    "ctime": "1561900886473",
+    "userInfo": {
+      "userId": "6738",
+      "nickname": "SNH48-宋昕冉",
+      "avatar": "/mediasource/avatar/20190403/1554304149247Q7m2uMoeJ1.jpg",
+      "badge": [],
+      "level": 1,
+      "isStar": true,
+      "friends": "0",
+      "followers": "0",
+      "teamLogo": "/mediasource/teamLogo2/all/snh48_x.png",
+      "signature": "",
+      "bgImg": "",
+      "vip": false,
+      "userRole": 3
+    }
+  },
+  {
+    "liveId": "352204658654908416",
+    "coverPath": "/20190630/1561901733771KAg90o75ga.jpg",
+    "title": "五毛钱的天",
+    "liveType": 1,
+    "status": 2,
+    "ctime": "1561901734269",
+    "userInfo": {
+      "userId": "867892",
+      "nickname": "SNH48-郭爽",
+      "avatar": "/20190606/155980121040330jQV5JVzB.jpg",
+      "badge": [],
+      "level": 1,
+      "isStar": true,
+      "friends": "0",
+      "followers": "0",
+      "teamLogo": "/mediasource/teamLogo2/all/snh48_h2.png",
+      "signature": "",
+      "bgImg": "/20190606/1559764564094Qru8k1nmjq.jpg",
+      "vip": false,
+      "userRole": 3
+    }
+  },
+  {
+    "liveId": "352193468654489600",
+    "coverPath": "/20190630/1561899065402XV6l6yi4tc.jpg",
+    "title": "Niku🥩🍗",
+    "liveType": 1,
+    "status": 2,
+    "ctime": "1561899065946",
+    "userInfo": {
+      "userId": "327564",
+      "nickname": "GNZ48-陈欣妤",
+      "avatar": "/mediasource/avatar/20181031/1540984990227s8GZd9i97q.jpg",
+      "badge": [],
+      "level": 1,
+      "isStar": true,
+      "friends": "0",
+      "followers": "0",
+      "teamLogo": "/mediasource/teamLogo2/all/gnz48_n3.png",
+      "signature": "",
+      "bgImg": "",
+      "vip": false,
+      "userRole": 3
+    }
+  },
+  {
+    "liveId": "352205944976642048",
+    "coverPath": "/20190630/1561901824242BL580i22SQ.jpg",
+    "title": "来啦",
+    "liveType": 1,
+    "status": 2,
+    "ctime": "1561902040609",
+    "userInfo": {
+      "userId": "21",
+      "nickname": "SNH48-许佳琪",
+      "avatar": "/mediasource/avatar/20180925/1537887254128GPTbD94euQ.jpg",
+      "badge": [],
+      "level": 1,
+      "isStar": true,
+      "friends": "0",
+      "followers": "0",
+      "teamLogo": "/mediasource/teamLogo2/all/snh48_s2.png",
+      "signature": "",
+      "bgImg": "",
+      "vip": false,
+      "userRole": 3
+    }
+  },
+  {
+    "liveId": "352203732632276992",
+    "coverPath": "/20190630/1561901511525K2p11KCbm0.jpg",
+    "title": "最后一天的挣扎！！！！！！！",
+    "liveType": 2,
+    "status": 2,
+    "ctime": "1561901513487",
+    "userInfo": {
+      "userId": "614761",
+      "nickname": "IDFT-吴学雨",
+      "avatar": "/20190607/1559838127855vhcFSu86jM.jpg",
+      "badge": [],
+      "level": 1,
+      "isStar": true,
+      "friends": "0",
+      "followers": "0",
+      "teamLogo": "/mediasource/teamLogo/all/idft_logo_2.png",
+      "signature": "",
+      "bgImg": "",
+      "vip": false,
+      "userRole": 3
+    }
+  },
+  {
+    "liveId": "352210104820240384",
+    "coverPath": "/20190630/1561903032040Xi5Prq0d7k.jpg",
+    "title": "咳～凑凑分……",
+    "liveType": 1,
+    "status": 2,
+    "ctime": "1561903032259",
+    "userInfo": {
+      "userId": "614739",
+      "nickname": "IDFT-王梦竹",
+      "avatar": "/20190604/15596256055607R84E8S1AT.jpg",
+      "badge": [],
+      "level": 1,
+      "isStar": true,
+      "friends": "0",
+      "followers": "0",
+      "teamLogo": "/mediasource/teamLogo/all/idft_logo_2.png",
+      "signature": "",
+      "bgImg": "",
+      "vip": false,
+      "userRole": 3
+    }
+  },
+  {
+    "liveId": "352196860101595136",
+    "coverPath": "/20190630/1561899874246T3KIsre2Fs.jpg",
+    "title": "来了",
+    "liveType": 1,
+    "status": 2,
+    "ctime": "1561899874518",
+    "userInfo": {
+      "userId": "327571",
+      "nickname": "GNZ48-唐莉佳",
+      "avatar": "/mediasource/avatar/20190130/154883183192989139ZJ472.jpg",
+      "badge": [],
+      "level": 1,
+      "isStar": true,
+      "friends": "0",
+      "followers": "0",
+      "teamLogo": "/mediasource/teamLogo2/all/gnz48_n3.png",
+      "signature": "",
+      "bgImg": "",
+      "vip": false,
+      "userRole": 3
+    }
+  }
+]

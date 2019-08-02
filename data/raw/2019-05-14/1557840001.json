@@ -1,0 +1,163 @@
+[
+  {
+    "liveId": "335162135612821504",
+    "coverPath": "/20190514/1557838479504xURos92z4s.jpg",
+    "title": "好久不见",
+    "liveType": 1,
+    "status": 2,
+    "ctime": "1557838480141",
+    "userInfo": {
+      "userId": "874508",
+      "nickname": "IDFT-尚官",
+      "avatar": "/mediasource/avatar/20190407/1554629669002MgHL7DDwv3.jpg",
+      "badge": [],
+      "level": 1,
+      "isStar": true,
+      "friends": "0",
+      "followers": "0",
+      "teamLogo": "/mediasource/teamLogo/all/idft_logo_2.png",
+      "signature": "",
+      "bgImg": "/20190416/15553995584983HTG023YQA.jpg",
+      "vip": false,
+      "userRole": 3
+    }
+  },
+  {
+    "liveId": "335152204096540672",
+    "coverPath": "/20190514/1557836111790dRp7Fv13V6.jpg",
+    "title": "想我了吗",
+    "liveType": 1,
+    "status": 2,
+    "ctime": "1557836112283",
+    "userInfo": {
+      "userId": "18",
+      "nickname": "SNH48-徐晨辰",
+      "avatar": "/mediasource/avatar/20190209/1549651868260kNNAF2ognA.jpg",
+      "badge": [],
+      "level": 1,
+      "isStar": true,
+      "friends": "0",
+      "followers": "0",
+      "teamLogo": "/mediasource/teamLogo2/all/snh48_s2.png",
+      "signature": "",
+      "bgImg": "",
+      "vip": false,
+      "userRole": 3
+    }
+  },
+  {
+    "liveId": "335156819500273664",
+    "coverPath": "/20190416/1555430092327M1A62mHE9D.jpg",
+    "title": "在线热聊",
+    "liveType": 2,
+    "status": 2,
+    "ctime": "1557837212275",
+    "userInfo": {
+      "userId": "707365",
+      "nickname": "IDFT-戴紫薇",
+      "avatar": "/mediasource/avatar/20190123/1548242321357p2mYSbnREE.jpg",
+      "badge": [],
+      "level": 1,
+      "isStar": true,
+      "friends": "0",
+      "followers": "0",
+      "teamLogo": "/mediasource/teamLogo/all/idft_logo_2.png",
+      "signature": "",
+      "bgImg": "",
+      "vip": false,
+      "userRole": 3
+    }
+  },
+  {
+    "liveId": "335148641840599040",
+    "coverPath": "/20190514/155783526127620gmK2V3mK.jpg",
+    "title": "为了积分，冲啊！",
+    "liveType": 2,
+    "status": 2,
+    "ctime": "1557835262699",
+    "userInfo": {
+      "userId": "679462",
+      "nickname": "IDFT-李苏洪",
+      "avatar": "/mediasource/avatar/20190402/1554136593549e37MPOGv2o.jpg",
+      "badge": [],
+      "level": 1,
+      "isStar": true,
+      "friends": "0",
+      "followers": "0",
+      "teamLogo": "/mediasource/teamLogo/all/idft_logo_2.png",
+      "signature": "",
+      "bgImg": "",
+      "vip": false,
+      "userRole": 3
+    }
+  },
+  {
+    "liveId": "335168310597193728",
+    "coverPath": "/20190514/1557839951798ZUGJcgfuJz.jpg",
+    "title": "欢迎来冉蔚的ktv",
+    "liveType": 1,
+    "status": 2,
+    "ctime": "1557839952372",
+    "userInfo": {
+      "userId": "614734",
+      "nickname": "SNH48-冉蔚",
+      "avatar": "/mediasource/avatar/20190406/1554559929498QRCY1tUJ09.jpg",
+      "badge": [],
+      "level": 1,
+      "isStar": true,
+      "friends": "0",
+      "followers": "0",
+      "teamLogo": "/mediasource/teamLogo2/all/snh48_x.png",
+      "signature": "",
+      "bgImg": "",
+      "vip": false,
+      "userRole": 3
+    }
+  },
+  {
+    "liveId": "335147112022740992",
+    "coverPath": "/20190508/1557316808391MG8C0iCP5z.jpg",
+    "title": "一家人",
+    "liveType": 1,
+    "status": 2,
+    "ctime": "1557834898238",
+    "userInfo": {
+      "userId": "8",
+      "nickname": "SNH48-孙芮",
+      "avatar": "/mediasource/avatar/20190214/1550123117339PcXGE6BBg4.jpg",
+      "badge": [],
+      "level": 1,
+      "isStar": true,
+      "friends": "0",
+      "followers": "0",
+      "teamLogo": "/mediasource/teamLogo2/all/snh48_s2.png",
+      "signature": "",
+      "bgImg": "/20190419/1555657199301255RGW26zU.jpg",
+      "vip": false,
+      "userRole": 3
+    }
+  },
+  {
+    "liveId": "335157189655990272",
+    "coverPath": "/20190514/1557837300407IBWo92h9vo.jpg",
+    "title": "唠会",
+    "liveType": 1,
+    "status": 2,
+    "ctime": "1557837300636",
+    "userInfo": {
+      "userId": "677405",
+      "nickname": "SNH48-朱小丹",
+      "avatar": "/mediasource/avatar/20190412/1555043595865KP1k5jlX1e.jpg",
+      "badge": [],
+      "level": 1,
+      "isStar": true,
+      "friends": "0",
+      "followers": "0",
+      "teamLogo": "/mediasource/teamLogo2/all/snh48_s2.png",
+      "signature": "",
+      "bgImg": "/20190416/1555352698501Hx7LPH9e6P.jpg",
+      "vip": false,
+      "userRole": 3
+    }
+  }
+]

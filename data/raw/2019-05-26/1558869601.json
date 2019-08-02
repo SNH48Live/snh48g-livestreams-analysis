@@ -1,0 +1,71 @@
+[
+  {
+    "liveId": "339484762775031808",
+    "coverPath": "/20190526/1558869073954264Ic9Jr96.jpg",
+    "title": "十分钟！",
+    "liveType": 1,
+    "status": 2,
+    "ctime": "1558869074766",
+    "userInfo": {
+      "userId": "711739",
+      "nickname": "BEJ48-熊鑫",
+      "avatar": "/mediasource/avatar/20190406/1554533740711QDHB1v85zs.jpg",
+      "badge": [],
+      "level": 1,
+      "isStar": true,
+      "friends": "0",
+      "followers": "0",
+      "teamLogo": "/mediasource/teamLogo2/all/bej48_e.png",
+      "signature": "",
+      "bgImg": "",
+      "vip": false,
+      "userRole": 3
+    }
+  },
+  {
+    "liveId": "339477632340791296",
+    "coverPath": "/20190526/15588673740053aHLwsSomL.jpg",
+    "title": "没有小伙伴儿",
+    "liveType": 1,
+    "status": 2,
+    "ctime": "1558867374738",
+    "userInfo": {
+      "userId": "327601",
+      "nickname": "BEJ48-陈倩楠",
+      "avatar": "/mediasource/avatar/20190210/1549802281304XSUvOT4b7q.jpg",
+      "badge": [],
+      "level": 1,
+      "isStar": true,
+      "friends": "0",
+      "followers": "0",
+      "teamLogo": "/mediasource/teamLogo2/all/bej48_e.png",
+      "signature": "",
+      "bgImg": "",
+      "vip": false,
+      "userRole": 3
+    }
+  },
+  {
+    "liveId": "339473023022993408",
+    "coverPath": "/20190526/1558866273191CBRr5HOCvA.jpg",
+    "title": "这一刻心的飞镖好像脱靶了💗",
+    "liveType": 2,
+    "status": 2,
+    "ctime": "1558866275791",
+    "userInfo": {
+      "userId": "458335",
+      "nickname": "IDFT-李慧",
+      "avatar": "/mediasource/avatar/20180826/1535246668998G04P3qHPSi.jpg",
+      "badge": [],
+      "level": 1,
+      "isStar": true,
+      "friends": "0",
+      "followers": "0",
+      "teamLogo": "/mediasource/teamLogo/all/idft_logo_2.png",
+      "signature": "",
+      "bgImg": "/20190416/15554076685914Li2dwzO2Y.jpg",
+      "vip": false,
+      "userRole": 3
+    }
+  }
+]

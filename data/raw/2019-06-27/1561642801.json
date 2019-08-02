@@ -1,0 +1,163 @@
+[
+  {
+    "liveId": "351112184662396928",
+    "coverPath": "/20190627/15616412643879ZHSrBrSYy.jpg",
+    "title": "这是个电台～",
+    "liveType": 2,
+    "status": 2,
+    "ctime": "1561641267846",
+    "userInfo": {
+      "userId": "652650",
+      "nickname": "BEJ48-杨鑫",
+      "avatar": "/mediasource/avatar/20190408/155470403898675mtiA9PXJ.jpg",
+      "badge": [],
+      "level": 1,
+      "isStar": true,
+      "friends": "0",
+      "followers": "0",
+      "teamLogo": "/mediasource/teamLogo2/all/bej48_b.png",
+      "signature": "",
+      "bgImg": "",
+      "vip": false,
+      "userRole": 3
+    }
+  },
+  {
+    "liveId": "351108925486862336",
+    "coverPath": "/20190627/15616404903579w4G2362xC.jpg",
+    "title": "多说话 以防自闭",
+    "liveType": 1,
+    "status": 2,
+    "ctime": "1561640491123",
+    "userInfo": {
+      "userId": "614761",
+      "nickname": "IDFT-吴学雨",
+      "avatar": "/20190607/1559838127855vhcFSu86jM.jpg",
+      "badge": [],
+      "level": 1,
+      "isStar": true,
+      "friends": "0",
+      "followers": "0",
+      "teamLogo": "/mediasource/teamLogo/all/idft_logo_2.png",
+      "signature": "",
+      "bgImg": "",
+      "vip": false,
+      "userRole": 3
+    }
+  },
+  {
+    "liveId": "351112293903044608",
+    "coverPath": "/20190627/1561641293031744EqCLi0E.jpg",
+    "title": "hi",
+    "liveType": 1,
+    "status": 2,
+    "ctime": "1561641293891",
+    "userInfo": {
+      "userId": "36",
+      "nickname": "SNH48-钱蓓婷",
+      "avatar": "/mediasource/avatar/15191826878632L1BWx8088.jpg",
+      "badge": [],
+      "level": 1,
+      "isStar": true,
+      "friends": "0",
+      "followers": "0",
+      "teamLogo": "/mediasource/teamLogo2/all/snh48_s2.png",
+      "signature": "",
+      "bgImg": "",
+      "vip": false,
+      "userRole": 3
+    }
+  },
+  {
+    "liveId": "351117973506560000",
+    "coverPath": "/20190627/1561642647636s9p2Y7l8H5.jpg",
+    "title": "努力🈺️",
+    "liveType": 1,
+    "status": 2,
+    "ctime": "1561642648000",
+    "userInfo": {
+      "userId": "608997",
+      "nickname": "IDFT-司珀琳",
+      "avatar": "/mediasource/avatar/20190305/15517988953323Wtua2396i.jpg",
+      "badge": [],
+      "level": 1,
+      "isStar": true,
+      "friends": "0",
+      "followers": "0",
+      "teamLogo": "/mediasource/teamLogo/all/idft_logo_2.png",
+      "signature": "",
+      "bgImg": "",
+      "vip": false,
+      "userRole": 3
+    }
+  },
+  {
+    "liveId": "351101757710733312",
+    "coverPath": "/20190626/1561553475859GglLm67uue.jpg",
+    "title": "买菜了",
+    "liveType": 1,
+    "status": 2,
+    "ctime": "1561638782192",
+    "userInfo": {
+      "userId": "614730",
+      "nickname": "IDFT-孟玥",
+      "avatar": "/mediasource/avatar/20181015/1539605755360VDEs04N5Yc.jpg",
+      "badge": [],
+      "level": 1,
+      "isStar": true,
+      "friends": "0",
+      "followers": "0",
+      "teamLogo": "/mediasource/teamLogo/all/idft_logo_2.png",
+      "signature": "",
+      "bgImg": "",
+      "vip": false,
+      "userRole": 3
+    }
+  },
+  {
+    "liveId": "351107393475383296",
+    "coverPath": "/20190601/1559363181481WH1bd0bWj1.jpg",
+    "title": "听说电台修好啦",
+    "liveType": 2,
+    "status": 2,
+    "ctime": "1561640125551",
+    "userInfo": {
+      "userId": "874698",
+      "nickname": "IDFT-鄢羽蝶",
+      "avatar": "/mediasource/avatar/20190410/1554910632819tY6VCI2M8S.jpg",
+      "badge": [],
+      "level": 1,
+      "isStar": true,
+      "friends": "0",
+      "followers": "0",
+      "teamLogo": "/mediasource/teamLogo/all/idft_logo_2.png",
+      "signature": "",
+      "bgImg": "",
+      "vip": false,
+      "userRole": 3
+    }
+  },
+  {
+    "liveId": "351112844325752832",
+    "coverPath": "/20190627/1561641424875Go80QIUQ36.jpg",
+    "title": "玩～",
+    "liveType": 1,
+    "status": 2,
+    "ctime": "1561641425006",
+    "userInfo": {
+      "userId": "327568",
+      "nickname": "GNZ48-刘倩倩",
+      "avatar": "/mediasource/avatar/20190214/15501163598931eB1n5Uz9s.jpg",
+      "badge": [],
+      "level": 1,
+      "isStar": true,
+      "friends": "0",
+      "followers": "0",
+      "teamLogo": "/mediasource/teamLogo2/all/gnz48_n3.png",
+      "signature": "",
+      "bgImg": "",
+      "vip": false,
+      "userRole": 3
+    }
+  }
+]

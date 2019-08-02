@@ -1,0 +1,102 @@
+[
+  {
+    "liveId": "355065202869080064",
+    "coverPath": "",
+    "title": "聊聊近况",
+    "liveType": 1,
+    "status": 2,
+    "ctime": "1562583740829",
+    "userInfo": {
+      "userId": "677400",
+      "nickname": "SNH48-王欣颜甜甜",
+      "avatar": "/20190528/1559003203044V435mwRNe3.jpg",
+      "badge": [],
+      "level": 1,
+      "isStar": true,
+      "friends": "0",
+      "followers": "0",
+      "teamLogo": "/mediasource/teamLogo2/all/snh48_h2.png",
+      "signature": "",
+      "bgImg": "",
+      "vip": false,
+      "userRole": 3
+    },
+    "liveMode": 0,
+    "pictureOrientation": 0
+  },
+  {
+    "liveId": "355057059229405184",
+    "coverPath": "/20190708/1562581799091VbDcPrMFU2.jpg",
+    "title": "来，k歌直播间",
+    "liveType": 1,
+    "status": 2,
+    "ctime": "1562581799345",
+    "userInfo": {
+      "userId": "460004",
+      "nickname": "IDFT-杨允涵",
+      "avatar": "/mediasource/avatar/20181027/1540649704887L38FXNji6v.jpg",
+      "badge": [],
+      "level": 1,
+      "isStar": true,
+      "friends": "0",
+      "followers": "0",
+      "teamLogo": "/mediasource/teamLogo/all/idft_logo_2.png",
+      "signature": "",
+      "bgImg": "",
+      "vip": false,
+      "userRole": 3
+    },
+    "liveMode": 0,
+    "pictureOrientation": 0
+  },
+  {
+    "liveId": "355072013789630464",
+    "coverPath": "/20190708/15625853644513IC8EB3TCB.jpg",
+    "title": "巴啦啦",
+    "liveType": 1,
+    "status": 2,
+    "ctime": "1562585364751",
+    "userInfo": {
+      "userId": "609002",
+      "nickname": "BEJ48-赵天杨",
+      "avatar": "/mediasource/avatar/20190308/1551995787450W9Njd26877.jpg",
+      "badge": [],
+      "level": 1,
+      "isStar": true,
+      "friends": "0",
+      "followers": "0",
+      "teamLogo": "/mediasource/teamLogo2/all/bej48_b.png",
+      "signature": "",
+      "bgImg": "",
+      "vip": false,
+      "userRole": 3
+    },
+    "liveMode": 0,
+    "pictureOrientation": 0
+  },
+  {
+    "liveId": "355078122353004544",
+    "coverPath": "/20190708/1562586820530gj19nO44vR.jpg",
+    "title": "hi",
+    "liveType": 1,
+    "status": 2,
+    "ctime": "1562586821130",
+    "userInfo": {
+      "userId": "36",
+      "nickname": "SNH48-钱蓓婷",
+      "avatar": "/mediasource/avatar/15191826878632L1BWx8088.jpg",
+      "badge": [],
+      "level": 1,
+      "isStar": true,
+      "friends": "0",
+      "followers": "0",
+      "teamLogo": "/mediasource/teamLogo2/all/snh48_s2.png",
+      "signature": "",
+      "bgImg": "",
+      "vip": false,
+      "userRole": 3
+    },
+    "liveMode": 0,
+    "pictureOrientation": 0
+  }
+]

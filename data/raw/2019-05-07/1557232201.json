@@ -1,0 +1,94 @@
+[
+  {
+    "liveId": "332618239963893760",
+    "coverPath": "/20190507/1557231966683empei5CYZn.jpg",
+    "title": "☀",
+    "liveType": 2,
+    "status": 2,
+    "ctime": "1557231968155",
+    "userInfo": {
+      "userId": "623828",
+      "nickname": "BEJ48-李娜",
+      "avatar": "/mediasource/avatar/20181106/1541483012746C6yccGv9eO.jpg",
+      "badge": [],
+      "level": 1,
+      "isStar": true,
+      "friends": "0",
+      "followers": "0",
+      "teamLogo": "/mediasource/teamLogo2/all/bej48_e.png",
+      "signature": "",
+      "bgImg": "",
+      "vip": false,
+      "userRole": 3
+    }
+  },
+  {
+    "liveId": "332617624546250752",
+    "coverPath": "/20190507/1557231820102V53D77SQw0.jpg",
+    "title": "嗨晚上好",
+    "liveType": 2,
+    "status": 2,
+    "ctime": "1557231821034",
+    "userInfo": {
+      "userId": "874693",
+      "nickname": "GNZ48-邓熳慧",
+      "avatar": "/mediasource/avatar/20190324/15533999659348IEM46dcJj.jpg",
+      "badge": [],
+      "level": 1,
+      "isStar": true,
+      "friends": "0",
+      "followers": "0",
+      "teamLogo": "/mediasource/teamLogo2/all/gnz48_n3.png",
+      "signature": "",
+      "bgImg": "",
+      "vip": false,
+      "userRole": 3
+    }
+  },
+  {
+    "liveId": "332604477307424768",
+    "coverPath": "/20190507/15572286847938ME288a9pp.jpg",
+    "title": "好久不见",
+    "liveType": 2,
+    "status": 2,
+    "ctime": "1557228686882",
+    "userInfo": {
+      "userId": "874508",
+      "nickname": "IDFT-尚官",
+      "avatar": "/mediasource/avatar/20190407/1554629669002MgHL7DDwv3.jpg",
+      "badge": [],
+      "level": 1,
+      "isStar": true,
+      "friends": "0",
+      "followers": "0",
+      "teamLogo": "/mediasource/teamLogo/all/idft_logo_2.png",
+      "signature": "",
+      "bgImg": "/20190416/15553995584983HTG023YQA.jpg",
+      "vip": false,
+      "userRole": 3
+    }
+  },
+  {
+    "liveId": "332617976318332928",
+    "coverPath": "/20190507/1557231888455x6l1Kw02Vr.jpg",
+    "title": "hi唱歌",
+    "liveType": 2,
+    "status": 2,
+    "ctime": "1557231904901",
+    "userInfo": {
+      "userId": "607591",
+      "nickname": "GNZ48-吴羽霏",
+      "avatar": "/mediasource/avatar/20180805/1533400850576XkF46Fa3et.jpg",
+      "badge": [],
+      "level": 1,
+      "isStar": true,
+      "friends": "0",
+      "followers": "0",
+      "teamLogo": "/mediasource/teamLogo2/all/gnz48_n3.png",
+      "signature": "",
+      "bgImg": "",
+      "vip": false,
+      "userRole": 3
+    }
+  }
+]

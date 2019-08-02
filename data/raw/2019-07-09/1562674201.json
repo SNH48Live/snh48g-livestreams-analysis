@@ -1,0 +1,52 @@
+[
+  {
+    "liveId": "355439618517962752",
+    "coverPath": "",
+    "title": "嘿",
+    "liveType": 1,
+    "status": 2,
+    "ctime": "1562673008433",
+    "userInfo": {
+      "userId": "39",
+      "nickname": "SNH48-吴哲晗",
+      "avatar": "/mediasource/avatar/20190124/1548327409737qi2IxvgK29.jpg",
+      "badge": [],
+      "level": 1,
+      "isStar": true,
+      "friends": "0",
+      "followers": "0",
+      "teamLogo": "/mediasource/teamLogo2/all/snh48_s2.png",
+      "signature": "",
+      "bgImg": "",
+      "vip": false,
+      "userRole": 3
+    },
+    "liveMode": 0,
+    "pictureOrientation": 0
+  },
+  {
+    "liveId": "355440036761374720",
+    "coverPath": "/20190709/1562673105682xIklqg78d8.jpg",
+    "title": "hu！ha",
+    "liveType": 2,
+    "status": 2,
+    "ctime": "1562673108148",
+    "userInfo": {
+      "userId": "327569",
+      "nickname": "GNZ48-卢静",
+      "avatar": "/20190628/15616607674307R9607YPlx.jpg",
+      "badge": [],
+      "level": 1,
+      "isStar": true,
+      "friends": "0",
+      "followers": "0",
+      "teamLogo": "/mediasource/teamLogo2/all/gnz48_n3.png",
+      "signature": "",
+      "bgImg": "",
+      "vip": false,
+      "userRole": 3
+    },
+    "liveMode": 0,
+    "pictureOrientation": 0
+  }
+]

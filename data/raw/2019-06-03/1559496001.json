@@ -1,0 +1,71 @@
+[
+  {
+    "liveId": "342110762377744384",
+    "coverPath": "/20190603/1559495160972237I9gtS88.jpg",
+    "title": "天选出道直播",
+    "liveType": 1,
+    "status": 2,
+    "ctime": "1559495161861",
+    "userInfo": {
+      "userId": "614756",
+      "nickname": "SNH48-林舒晴",
+      "avatar": "/mediasource/avatar/20190109/1547033827577sR60gCnS8L.jpg",
+      "badge": [],
+      "level": 1,
+      "isStar": true,
+      "friends": "0",
+      "followers": "0",
+      "teamLogo": "/mediasource/teamLogo2/all/snh48_h2.png",
+      "signature": "",
+      "bgImg": "",
+      "vip": false,
+      "userRole": 3
+    }
+  },
+  {
+    "liveId": "342114047939645440",
+    "coverPath": "/20190603/1559495944753L3s1UaLZg7.jpg",
+    "title": "五毛钱的天",
+    "liveType": 1,
+    "status": 2,
+    "ctime": "1559495945200",
+    "userInfo": {
+      "userId": "867892",
+      "nickname": "SNH48-郭爽",
+      "avatar": "/mediasource/avatar/20190402/1554202021273A36CLf5u1W.jpg",
+      "badge": [],
+      "level": 1,
+      "isStar": true,
+      "friends": "0",
+      "followers": "0",
+      "teamLogo": "/mediasource/teamLogo2/all/snh48_h2.png",
+      "signature": "",
+      "bgImg": "/20190429/1556491753375dHpYu5o3s9.jpg",
+      "vip": false,
+      "userRole": 3
+    }
+  },
+  {
+    "liveId": "342105062863867904",
+    "coverPath": "/20190603/1559493802115Qk011I36vW.jpg",
+    "title": "我是Shelly～",
+    "liveType": 1,
+    "status": 2,
+    "ctime": "1559493802360",
+    "userInfo": {
+      "userId": "63573",
+      "nickname": "BEJ48-熊素君",
+      "avatar": "/mediasource/avatar/20180608/1528436744438dC7138UwNE.jpg",
+      "badge": [],
+      "level": 1,
+      "isStar": true,
+      "friends": "0",
+      "followers": "0",
+      "teamLogo": "/mediasource/teamLogo2/all/bej48_b.png",
+      "signature": "",
+      "bgImg": "",
+      "vip": false,
+      "userRole": 3
+    }
+  }
+]

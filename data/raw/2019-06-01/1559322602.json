@@ -1,0 +1,94 @@
+[
+  {
+    "liveId": "341376871161466880",
+    "coverPath": "/20190601/1559320187547HM37h0vV0y.jpg",
+    "title": "🐷🐷🐷",
+    "liveType": 1,
+    "status": 2,
+    "ctime": "1559320188560",
+    "userInfo": {
+      "userId": "679448",
+      "nickname": "SNH48-陈俊羽",
+      "avatar": "/mediasource/avatar/20190226/155111833498635ny9u0RJL.jpg",
+      "badge": [],
+      "level": 1,
+      "isStar": true,
+      "friends": "0",
+      "followers": "0",
+      "teamLogo": "/mediasource/teamLogo2/all/snh48_s2.png",
+      "signature": "",
+      "bgImg": "/20190420/1555775954557Kip4ffmh0K.jpg",
+      "vip": false,
+      "userRole": 3
+    }
+  },
+  {
+    "liveId": "341377586915250176",
+    "coverPath": "/20190601/15593203579926rg2UxGf2q.jpg",
+    "title": "小姗来辽",
+    "liveType": 1,
+    "status": 2,
+    "ctime": "1559320359209",
+    "userInfo": {
+      "userId": "407121",
+      "nickname": "BEJ48-孙语姗",
+      "avatar": "/mediasource/avatar/20181223/1545517248915e6t9P18LB4.jpg",
+      "badge": [],
+      "level": 1,
+      "isStar": true,
+      "friends": "0",
+      "followers": "0",
+      "teamLogo": "/mediasource/teamLogo2/all/bej48_j.png",
+      "signature": "",
+      "bgImg": "/20190417/1555434404779Q95gqm3n99.jpg",
+      "vip": false,
+      "userRole": 3
+    }
+  },
+  {
+    "liveId": "341376076374413312",
+    "coverPath": "/20190601/1559319998138NWavlxATtX.jpg",
+    "title": "随缘",
+    "liveType": 1,
+    "status": 2,
+    "ctime": "1559319999067",
+    "userInfo": {
+      "userId": "407127",
+      "nickname": "BEJ48-张怀瑾",
+      "avatar": "/20190529/1559111309410YXom0G71qE.jpg",
+      "badge": [],
+      "level": 1,
+      "isStar": true,
+      "friends": "0",
+      "followers": "0",
+      "teamLogo": "/mediasource/teamLogo2/all/bej48_j.png",
+      "signature": "",
+      "bgImg": "/20190529/15591112806816q8BE22Hrz.jpg",
+      "vip": false,
+      "userRole": 3
+    }
+  },
+  {
+    "liveId": "341384996174237696",
+    "coverPath": "/20190601/15593221251224YvU6Y2ux4.jpg",
+    "title": "177.0你的林嘉佩直播了",
+    "liveType": 1,
+    "status": 2,
+    "ctime": "1559322125712",
+    "userInfo": {
+      "userId": "63562",
+      "nickname": "GNZ48-林嘉佩",
+      "avatar": "/mediasource/avatar/20181012/15392802278986ARyi03706.jpg",
+      "badge": [],
+      "level": 2,
+      "isStar": true,
+      "friends": "0",
+      "followers": "0",
+      "teamLogo": "/mediasource/teamLogo2/all/gnz48_g.png",
+      "signature": "",
+      "bgImg": "",
+      "vip": false,
+      "userRole": 3
+    }
+  }
+]

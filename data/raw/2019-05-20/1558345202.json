@@ -1,0 +1,71 @@
+[
+  {
+    "liveId": "337284833616924672",
+    "coverPath": "/20190520/155834457013469R45U62H8.jpg",
+    "title": "💕",
+    "liveType": 1,
+    "status": 2,
+    "ctime": "1558344570783",
+    "userInfo": {
+      "userId": "722780",
+      "nickname": "GNZ48-梁娇",
+      "avatar": "/mediasource/avatar/20190402/15541964296320seCBM1d15.jpg",
+      "badge": [],
+      "level": 1,
+      "isStar": true,
+      "friends": "0",
+      "followers": "0",
+      "teamLogo": "/mediasource/teamLogo2/all/gnz48_g.png",
+      "signature": "",
+      "bgImg": "/20190415/1555325214526qtHRKeDcFy.jpg",
+      "vip": false,
+      "userRole": 3
+    }
+  },
+  {
+    "liveId": "337283834365939712",
+    "coverPath": "/20190520/1558344331819hTBUArECQU.jpg",
+    "title": "点进来都是单身狗",
+    "liveType": 1,
+    "status": 2,
+    "ctime": "1558344332308",
+    "userInfo": {
+      "userId": "460005",
+      "nickname": "SNH48-赵佳蕊",
+      "avatar": "/mediasource/avatar/20190302/1551537719541b7mprAqr66.jpg",
+      "badge": [],
+      "level": 1,
+      "isStar": true,
+      "friends": "0",
+      "followers": "0",
+      "teamLogo": "/mediasource/teamLogo2/all/snh48_n2.png",
+      "signature": "",
+      "bgImg": "/20190417/15554923084801bQ9h18moa.jpg",
+      "vip": false,
+      "userRole": 3
+    }
+  },
+  {
+    "liveId": "337282591740465152",
+    "coverPath": "/20190520/1558344035576PTXqywmp3S.jpg",
+    "title": "嘿嘿",
+    "liveType": 1,
+    "status": 2,
+    "ctime": "1558344036108",
+    "userInfo": {
+      "userId": "63577",
+      "nickname": "GNZ48-曾艾佳",
+      "avatar": "/mediasource/avatar/20190328/1553753452196XIc0WU2sWG.jpg",
+      "badge": [],
+      "level": 1,
+      "isStar": true,
+      "friends": "0",
+      "followers": "0",
+      "teamLogo": "/mediasource/teamLogo2/all/gnz48_g.png",
+      "signature": "",
+      "bgImg": "/20190517/1558085200388GsC0tkmb1I.jpg",
+      "vip": false,
+      "userRole": 3
+    }
+  }
+]

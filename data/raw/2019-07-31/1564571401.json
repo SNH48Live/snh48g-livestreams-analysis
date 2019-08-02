@@ -1,0 +1,52 @@
+[
+  {
+    "liveId": "363400800067457024",
+    "coverPath": "/20190731/1564571095973q6t5c9pmRw.jpg",
+    "title": "Reading a book📖",
+    "liveType": 2,
+    "status": 2,
+    "ctime": "1564571102065",
+    "userInfo": {
+      "userId": "867896",
+      "nickname": "IDFT-田密",
+      "avatar": "/20190731/1564570143385hNI68pKcbg.jpg",
+      "badge": [],
+      "level": 1,
+      "isStar": true,
+      "friends": "0",
+      "followers": "0",
+      "teamLogo": "/mediasource/teamLogo/all/idft_logo_2.png",
+      "signature": "",
+      "bgImg": "",
+      "vip": false,
+      "userRole": 3
+    },
+    "liveMode": 0,
+    "pictureOrientation": 0
+  },
+  {
+    "liveId": "363397577558528000",
+    "coverPath": "/20190731/1564570333453GNoA51oLfV.jpg",
+    "title": "营业时间到了",
+    "liveType": 1,
+    "status": 2,
+    "ctime": "1564570334090",
+    "userInfo": {
+      "userId": "417320",
+      "nickname": "GNZ48-龙亦瑞",
+      "avatar": "/mediasource/avatar/20190225/1551080730904c9yOx38iu9.jpg",
+      "badge": [],
+      "level": 1,
+      "isStar": true,
+      "friends": "0",
+      "followers": "0",
+      "teamLogo": "/mediasource/teamLogo/all/gnz_z_log2.png",
+      "signature": "",
+      "bgImg": "",
+      "vip": false,
+      "userRole": 3
+    },
+    "liveMode": 0,
+    "pictureOrientation": 0
+  }
+]

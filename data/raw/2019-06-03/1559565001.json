@@ -1,0 +1,117 @@
+[
+  {
+    "liveId": "342395301813620736",
+    "coverPath": "/20190603/1559563000539GI6iz0C60J.jpg",
+    "title": "我又直播了",
+    "liveType": 1,
+    "status": 2,
+    "ctime": "1559563001348",
+    "userInfo": {
+      "userId": "63554",
+      "nickname": "BEJ48-段艺璇",
+      "avatar": "/mediasource/avatar/20190226/1551176339365r4BVxn60hs.jpg",
+      "badge": [],
+      "level": 1,
+      "isStar": true,
+      "friends": "0",
+      "followers": "0",
+      "teamLogo": "/mediasource/teamLogo2/all/bej48_b.png",
+      "signature": "",
+      "bgImg": "",
+      "vip": false,
+      "userRole": 3
+    }
+  },
+  {
+    "liveId": "342403543079915520",
+    "coverPath": "/20190603/1559564961804wlC8GUN7W4.jpg",
+    "title": "想我了吗",
+    "liveType": 2,
+    "status": 2,
+    "ctime": "1559564965812",
+    "userInfo": {
+      "userId": "874505",
+      "nickname": "IDFT-刘宇晴",
+      "avatar": "/mediasource/avatar/20190227/1551275776874HFh1XiOA3W.jpg",
+      "badge": [],
+      "level": 1,
+      "isStar": true,
+      "friends": "0",
+      "followers": "0",
+      "teamLogo": "/mediasource/teamLogo/all/idft_logo_2.png",
+      "signature": "",
+      "bgImg": "/20190513/15577207229857SR4zx5OE4.jpg",
+      "vip": false,
+      "userRole": 3
+    }
+  },
+  {
+    "liveId": "342393847249965056",
+    "coverPath": "/20190603/1559562654108s0g7T70LWA.jpg",
+    "title": "试试看",
+    "liveType": 1,
+    "status": 2,
+    "ctime": "1559562654554",
+    "userInfo": {
+      "userId": "530390",
+      "nickname": "SNH48-王睿琦",
+      "avatar": "/20190520/1558323111452s3Z90fwuk7.jpg",
+      "badge": [],
+      "level": 1,
+      "isStar": true,
+      "friends": "0",
+      "followers": "0",
+      "teamLogo": "/mediasource/teamLogo2/all/snh48_x.png",
+      "signature": "",
+      "bgImg": "",
+      "vip": false,
+      "userRole": 3
+    }
+  },
+  {
+    "liveId": "342403313525657600",
+    "coverPath": "/20190603/1559564908500111xS4NBwV.jpg",
+    "title": "这次不能卡",
+    "liveType": 2,
+    "status": 2,
+    "ctime": "1559564911489",
+    "userInfo": {
+      "userId": "63549",
+      "nickname": "BEJ48-陈美君",
+      "avatar": "/mediasource/avatar/20180505/1525490672019vhaUovXM26.jpg",
+      "badge": [],
+      "level": 1,
+      "isStar": true,
+      "friends": "0",
+      "followers": "0",
+      "teamLogo": "/mediasource/teamLogo2/all/bej48_b.png",
+      "signature": "",
+      "bgImg": "",
+      "vip": false,
+      "userRole": 3
+    }
+  },
+  {
+    "liveId": "342400138953428992",
+    "coverPath": "/20190601/1559363181481WH1bd0bWj1.jpg",
+    "title": "没有画面的电台",
+    "liveType": 1,
+    "status": 2,
+    "ctime": "1559564154613",
+    "userInfo": {
+      "userId": "874698",
+      "nickname": "IDFT-鄢羽蝶",
+      "avatar": "/mediasource/avatar/20190410/1554910632819tY6VCI2M8S.jpg",
+      "badge": [],
+      "level": 1,
+      "isStar": true,
+      "friends": "0",
+      "followers": "0",
+      "teamLogo": "/mediasource/teamLogo/all/idft_logo_2.png",
+      "signature": "",
+      "bgImg": "",
+      "vip": false,
+      "userRole": 3
+    }
+  }
+]

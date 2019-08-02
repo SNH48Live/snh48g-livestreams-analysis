@@ -1,0 +1,94 @@
+[
+  {
+    "liveId": "342432960158175232",
+    "coverPath": "/20190603/1559571979109Q6xSUUoL5U.jpg",
+    "title": "冲浪🏄‍♀️",
+    "liveType": 1,
+    "status": 2,
+    "ctime": "1559571979798",
+    "userInfo": {
+      "userId": "711735",
+      "nickname": "BEJ48-曲美霖",
+      "avatar": "/mediasource/avatar/20190220/1550643122590xo68HjPx7R.jpg",
+      "badge": [],
+      "level": 1,
+      "isStar": true,
+      "friends": "0",
+      "followers": "0",
+      "teamLogo": "/mediasource/teamLogo2/all/bej48_b.png",
+      "signature": "",
+      "bgImg": "",
+      "vip": false,
+      "userRole": 3
+    }
+  },
+  {
+    "liveId": "342433618382884864",
+    "coverPath": "/20190603/15595721355541S7zm9cWC6.jpg",
+    "title": "嗷",
+    "liveType": 1,
+    "status": 2,
+    "ctime": "1559572136731",
+    "userInfo": {
+      "userId": "614755",
+      "nickname": "IDFT-黄琬璎",
+      "avatar": "/mediasource/avatar/20180523/1527059771019m3K3oYK40t.jpg",
+      "badge": [],
+      "level": 1,
+      "isStar": true,
+      "friends": "0",
+      "followers": "0",
+      "teamLogo": "/mediasource/teamLogo/all/idft_logo_2.png",
+      "signature": "",
+      "bgImg": "",
+      "vip": false,
+      "userRole": 3
+    }
+  },
+  {
+    "liveId": "342445336001581056",
+    "coverPath": "/20190510/1557481769280QP1kCHO97p.jpg",
+    "title": "6.3 小电台",
+    "liveType": 1,
+    "status": 2,
+    "ctime": "1559574930428",
+    "userInfo": {
+      "userId": "327566",
+      "nickname": "GNZ48-洪静雯",
+      "avatar": "/mediasource/avatar/20190327/155367844806561E6f3WFN0.jpg",
+      "badge": [],
+      "level": 1,
+      "isStar": true,
+      "friends": "0",
+      "followers": "0",
+      "teamLogo": "/mediasource/teamLogo2/all/gnz48_n3.png",
+      "signature": "",
+      "bgImg": "/20190513/155772206575992UXct6pWt.jpg",
+      "vip": false,
+      "userRole": 3
+    }
+  },
+  {
+    "liveId": "342453622088208384",
+    "coverPath": "/20190603/1559576905059ihNt34m210.jpg",
+    "title": "宝贝们～",
+    "liveType": 1,
+    "status": 2,
+    "ctime": "1559576905985",
+    "userInfo": {
+      "userId": "707369",
+      "nickname": "IDFT-魏小燕",
+      "avatar": "/mediasource/avatar/20190412/1555062531968beck8pV8lL.jpg",
+      "badge": [],
+      "level": 1,
+      "isStar": true,
+      "friends": "0",
+      "followers": "0",
+      "teamLogo": "/mediasource/teamLogo/all/idft_logo_2.png",
+      "signature": "",
+      "bgImg": "",
+      "vip": false,
+      "userRole": 3
+    }
+  }
+]

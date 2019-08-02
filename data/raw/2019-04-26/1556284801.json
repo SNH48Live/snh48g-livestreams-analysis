@@ -1,0 +1,163 @@
+[
+  {
+    "liveId": "328635926888386560",
+    "coverPath": "/20190426/1556282509635ba7sVW73q4.jpg",
+    "title": "进来",
+    "liveType": 1,
+    "status": 2,
+    "ctime": "1556282510730",
+    "userInfo": {
+      "userId": "63558",
+      "nickname": "SNH48-洪珮雲",
+      "avatar": "/mediasource/avatar/1509551046109l79Z0FIAD2.jpg",
+      "badge": [],
+      "level": 1,
+      "isStar": true,
+      "friends": "0",
+      "followers": "0",
+      "teamLogo": "/mediasource/teamLogo2/all/snh48_h2.png",
+      "signature": "",
+      "bgImg": "",
+      "vip": false,
+      "userRole": 3
+    }
+  },
+  {
+    "liveId": "328634963939102720",
+    "coverPath": "/20190426/1556282277598DpYx7pbvY5.jpg",
+    "title": "月底冲业绩啦！",
+    "liveType": 2,
+    "status": 2,
+    "ctime": "1556282281145",
+    "userInfo": {
+      "userId": "679462",
+      "nickname": "IDFT-李苏洪",
+      "avatar": "/mediasource/avatar/20190402/1554136593549e37MPOGv2o.jpg",
+      "badge": [],
+      "level": 1,
+      "isStar": true,
+      "friends": "0",
+      "followers": "0",
+      "teamLogo": "/mediasource/teamLogo/all/idft_logo_2.png",
+      "signature": "",
+      "bgImg": "",
+      "vip": false,
+      "userRole": 3
+    }
+  },
+  {
+    "liveId": "328636699688898560",
+    "coverPath": "/20190426/155628269260899a3npngvM.jpg",
+    "title": "滴!",
+    "liveType": 2,
+    "status": 2,
+    "ctime": "1556282694568",
+    "userInfo": {
+      "userId": "530440",
+      "nickname": "IDFT-赖俊亦",
+      "avatar": "/mediasource/avatar/20190213/1550061722081Z9c031902p.jpg",
+      "badge": [],
+      "level": 1,
+      "isStar": true,
+      "friends": "0",
+      "followers": "0",
+      "teamLogo": "/mediasource/teamLogo/all/idft_logo_2.png",
+      "signature": "",
+      "bgImg": "",
+      "vip": false,
+      "userRole": 3
+    }
+  },
+  {
+    "liveId": "328622423070806016",
+    "coverPath": "/20190426/15562790243157GgH669vU4.jpg",
+    "title": "玩一会",
+    "liveType": 1,
+    "status": 2,
+    "ctime": "1556279291168",
+    "userInfo": {
+      "userId": "6739",
+      "nickname": "SNH48-孙歆文",
+      "avatar": "/mediasource/avatar/20181222/15454567664790Ez1U04TAZ.jpg",
+      "badge": [],
+      "level": 1,
+      "isStar": true,
+      "friends": "0",
+      "followers": "0",
+      "teamLogo": "/mediasource/teamLogo2/all/snh48_x.png",
+      "signature": "",
+      "bgImg": "",
+      "vip": false,
+      "userRole": 3
+    }
+  },
+  {
+    "liveId": "328643526946263040",
+    "coverPath": "/20190426/15562843215125Qk0jadaEW.jpg",
+    "title": "苹果直播好丑a",
+    "liveType": 1,
+    "status": 2,
+    "ctime": "1556284322400",
+    "userInfo": {
+      "userId": "874505",
+      "nickname": "IDFT-刘宇晴",
+      "avatar": "/mediasource/avatar/20190227/1551275776874HFh1XiOA3W.jpg",
+      "badge": [],
+      "level": 1,
+      "isStar": true,
+      "friends": "0",
+      "followers": "0",
+      "teamLogo": "/mediasource/teamLogo/all/idft_logo_2.png",
+      "signature": "",
+      "bgImg": "/20190415/1555336133714yq6rI1nDYf.jpg",
+      "vip": false,
+      "userRole": 3
+    }
+  },
+  {
+    "liveId": "328614143032365056",
+    "coverPath": "/20190426/1556277314651mwn1GR97vZ.jpg",
+    "title": "酷酷女孩",
+    "liveType": 2,
+    "status": 2,
+    "ctime": "1556277316721",
+    "userInfo": {
+      "userId": "867896",
+      "nickname": "IDFT-田密",
+      "avatar": "/mediasource/avatar/20190409/1554821012970LahZQ367pX.jpg",
+      "badge": [],
+      "level": 1,
+      "isStar": true,
+      "friends": "0",
+      "followers": "0",
+      "teamLogo": "/mediasource/teamLogo/all/idft_logo_2.png",
+      "signature": "",
+      "bgImg": "",
+      "vip": false,
+      "userRole": 3
+    }
+  },
+  {
+    "liveId": "328642347264708608",
+    "coverPath": "/20190426/1556284039385YhfCZjWD4l.jpg",
+    "title": "改卷子",
+    "liveType": 2,
+    "status": 2,
+    "ctime": "1556284041145",
+    "userInfo": {
+      "userId": "614728",
+      "nickname": "IDFT-雷宇霄",
+      "avatar": "/mediasource/avatar/20190127/1548583798929xb20cd5Qn0.jpg",
+      "badge": [],
+      "level": 1,
+      "isStar": true,
+      "friends": "0",
+      "followers": "0",
+      "teamLogo": "/mediasource/teamLogo/all/idft_logo_2.png",
+      "signature": "",
+      "bgImg": "",
+      "vip": false,
+      "userRole": 3
+    }
+  }
+]

@@ -1,0 +1,94 @@
+[
+  {
+    "liveId": "332651120929083392",
+    "coverPath": "/20190507/1557239801645878t1iXMnX.jpg",
+    "title": "🐒来啦",
+    "liveType": 2,
+    "status": 2,
+    "ctime": "1557239807076",
+    "userInfo": {
+      "userId": "6738",
+      "nickname": "SNH48-宋昕冉",
+      "avatar": "/mediasource/avatar/20190403/1554304149247Q7m2uMoeJ1.jpg",
+      "badge": [],
+      "level": 1,
+      "isStar": true,
+      "friends": "0",
+      "followers": "0",
+      "teamLogo": "/mediasource/teamLogo2/all/snh48_x.png",
+      "signature": "",
+      "bgImg": "",
+      "vip": false,
+      "userRole": 3
+    }
+  },
+  {
+    "liveId": "332634508100440064",
+    "coverPath": "/20190507/15572358459842bNqEZ9ogQ.jpg",
+    "title": "随便播播",
+    "liveType": 1,
+    "status": 2,
+    "ctime": "1557235846446",
+    "userInfo": {
+      "userId": "530447",
+      "nickname": "GNZ48-谢艾琳",
+      "avatar": "/mediasource/avatar/20181027/15406329992611VPbuHE7KM.jpg",
+      "badge": [],
+      "level": 1,
+      "isStar": true,
+      "friends": "0",
+      "followers": "0",
+      "teamLogo": "/mediasource/teamLogo2/all/gnz48_n3.png",
+      "signature": "",
+      "bgImg": "",
+      "vip": false,
+      "userRole": 3
+    }
+  },
+  {
+    "liveId": "332650753625493504",
+    "coverPath": "/20190507/1557239719365c87SYJp60s.jpg",
+    "title": "随便看看呢啵啵啵啵啵啵",
+    "liveType": 1,
+    "status": 2,
+    "ctime": "1557239719639",
+    "userInfo": {
+      "userId": "63576",
+      "nickname": "GNZ48-阳青颖",
+      "avatar": "/mediasource/avatar/20180803/1533267979128J4V9yg1UE7.jpg",
+      "badge": [],
+      "level": 1,
+      "isStar": true,
+      "friends": "0",
+      "followers": "0",
+      "teamLogo": "/mediasource/teamLogo2/all/gnz48_g.png",
+      "signature": "",
+      "bgImg": "",
+      "vip": false,
+      "userRole": 3
+    }
+  },
+  {
+    "liveId": "332642923879141376",
+    "coverPath": "/20190507/155723637751637e8pkdO13.jpg",
+    "title": "嗨嗨！",
+    "liveType": 1,
+    "status": 2,
+    "ctime": "1557237852902",
+    "userInfo": {
+      "userId": "327569",
+      "nickname": "GNZ48-卢静",
+      "avatar": "/mediasource/avatar/20181203/1543838223093Yj9mrz47V4.jpg",
+      "badge": [],
+      "level": 1,
+      "isStar": true,
+      "friends": "0",
+      "followers": "0",
+      "teamLogo": "/mediasource/teamLogo2/all/gnz48_n3.png",
+      "signature": "",
+      "bgImg": "",
+      "vip": false,
+      "userRole": 3
+    }
+  }
+]

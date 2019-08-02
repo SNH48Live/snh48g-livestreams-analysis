@@ -1,0 +1,94 @@
+[
+  {
+    "liveId": "336635360645550080",
+    "coverPath": "/20190518/1558189723779CZm7jGjs6I.jpg",
+    "title": "一会儿~",
+    "liveType": 1,
+    "status": 2,
+    "ctime": "1558189724360",
+    "userInfo": {
+      "userId": "881190",
+      "nickname": "SNH48-颜沁",
+      "avatar": "/mediasource/avatar/20190222/1550837074291LN3SFl6et1.jpg",
+      "badge": [],
+      "level": 1,
+      "isStar": true,
+      "friends": "0",
+      "followers": "0",
+      "teamLogo": "/mediasource/teamLogo2/all/snh48_n2.png",
+      "signature": "",
+      "bgImg": "",
+      "vip": false,
+      "userRole": 3
+    }
+  },
+  {
+    "liveId": "336630220098179072",
+    "coverPath": "/20190518/1558188492382M3GZMLb2bJ.jpg",
+    "title": "🌻🔋",
+    "liveType": 2,
+    "status": 2,
+    "ctime": "1558188498268",
+    "userInfo": {
+      "userId": "327602",
+      "nickname": "BEJ48-刘胜男",
+      "avatar": "/mediasource/avatar/20180912/1536738767599RNswodwA3R.jpg",
+      "badge": [],
+      "level": 1,
+      "isStar": true,
+      "friends": "0",
+      "followers": "0",
+      "teamLogo": "/mediasource/teamLogo2/all/bej48_e.png",
+      "signature": "",
+      "bgImg": "",
+      "vip": false,
+      "userRole": 3
+    }
+  },
+  {
+    "liveId": "336633411703476224",
+    "coverPath": "/20190518/15581892590199IjzK3YrYO.jpg",
+    "title": "久等了",
+    "liveType": 1,
+    "status": 2,
+    "ctime": "1558189259327",
+    "userInfo": {
+      "userId": "417326",
+      "nickname": "GNZ48-王偲越",
+      "avatar": "/mediasource/avatar/20190121/1548078577946YWW7jN2ZUL.jpg",
+      "badge": [],
+      "level": 1,
+      "isStar": true,
+      "friends": "0",
+      "followers": "0",
+      "teamLogo": "/mediasource/teamLogo/all/gnz_z_log2.png",
+      "signature": "",
+      "bgImg": "",
+      "vip": false,
+      "userRole": 3
+    }
+  },
+  {
+    "liveId": "336588418137788416",
+    "coverPath": "/20190518/1558178531846oAOCu3Q07y.jpg",
+    "title": "重新做人",
+    "liveType": 1,
+    "status": 2,
+    "ctime": "1558178532393",
+    "userInfo": {
+      "userId": "407104",
+      "nickname": "BEJ48-葛司琪",
+      "avatar": "/mediasource/avatar/20180809/1533816085151L3OoB4t2xZ.jpg",
+      "badge": [],
+      "level": 1,
+      "isStar": true,
+      "friends": "0",
+      "followers": "0",
+      "teamLogo": "/mediasource/teamLogo2/all/bej48_j.png",
+      "signature": "",
+      "bgImg": "",
+      "vip": false,
+      "userRole": 3
+    }
+  }
+]

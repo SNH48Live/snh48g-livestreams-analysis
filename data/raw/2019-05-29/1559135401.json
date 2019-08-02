@@ -1,0 +1,94 @@
+[
+  {
+    "liveId": "340588630946680832",
+    "coverPath": "/20190529/1559132256874OaP2c9ITV3.jpg",
+    "title": "游戏2",
+    "liveType": 1,
+    "status": 2,
+    "ctime": "1559132257159",
+    "userInfo": {
+      "userId": "677397",
+      "nickname": "SNH48-李星羽",
+      "avatar": "/mediasource/avatar/20190407/1554636108440Gu7Inz0qOi.jpg",
+      "badge": [],
+      "level": 1,
+      "isStar": true,
+      "friends": "0",
+      "followers": "0",
+      "teamLogo": "/mediasource/teamLogo2/all/snh48_x.png",
+      "signature": "",
+      "bgImg": "",
+      "vip": false,
+      "userRole": 3
+    }
+  },
+  {
+    "liveId": "340580976207663104",
+    "coverPath": "/20190529/15591304306670ZZ6V9Pjio.jpg",
+    "title": "我迟到啦😖",
+    "liveType": 1,
+    "status": 2,
+    "ctime": "1559130432416",
+    "userInfo": {
+      "userId": "417321",
+      "nickname": "GNZ48-农燕萍",
+      "avatar": "/mediasource/avatar/20190320/15530499365132cGb73U939.jpg",
+      "badge": [],
+      "level": 1,
+      "isStar": true,
+      "friends": "0",
+      "followers": "0",
+      "teamLogo": "/mediasource/teamLogo/all/gnz_z_log2.png",
+      "signature": "",
+      "bgImg": "",
+      "vip": false,
+      "userRole": 3
+    }
+  },
+  {
+    "liveId": "340599444747390976",
+    "coverPath": "/20190529/1559134833764OXK3A0Xt7z.jpg",
+    "title": "☀",
+    "liveType": 2,
+    "status": 2,
+    "ctime": "1559134835659",
+    "userInfo": {
+      "userId": "623828",
+      "nickname": "BEJ48-李娜",
+      "avatar": "/mediasource/avatar/20181106/1541483012746C6yccGv9eO.jpg",
+      "badge": [],
+      "level": 1,
+      "isStar": true,
+      "friends": "0",
+      "followers": "0",
+      "teamLogo": "/mediasource/teamLogo2/all/bej48_e.png",
+      "signature": "",
+      "bgImg": "",
+      "vip": false,
+      "userRole": 3
+    }
+  },
+  {
+    "liveId": "340600764376092672",
+    "coverPath": "/20190529/1559135148806oZ80eK221Z.jpg",
+    "title": "快进来",
+    "liveType": 2,
+    "status": 2,
+    "ctime": "1559135149851",
+    "userInfo": {
+      "userId": "327600",
+      "nickname": "BEJ48-顼凘炀",
+      "avatar": "/mediasource/avatar/20190219/1550565330746Vf7H0gZMi8.jpg",
+      "badge": [],
+      "level": 1,
+      "isStar": true,
+      "friends": "0",
+      "followers": "0",
+      "teamLogo": "/mediasource/teamLogo2/all/bej48_e.png",
+      "signature": "",
+      "bgImg": "",
+      "vip": false,
+      "userRole": 3
+    }
+  }
+]

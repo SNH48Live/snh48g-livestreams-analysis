@@ -1,0 +1,140 @@
+[
+  {
+    "liveId": "344931556774449152",
+    "coverPath": "/20190610/1560167690849fkD5X7VL0C.jpg",
+    "title": "临时素着播 打扰了",
+    "liveType": 1,
+    "status": 2,
+    "ctime": "1560167691277",
+    "userInfo": {
+      "userId": "18",
+      "nickname": "SNH48-徐晨辰",
+      "avatar": "/mediasource/avatar/20190209/1549651868260kNNAF2ognA.jpg",
+      "badge": [],
+      "level": 2,
+      "isStar": true,
+      "friends": "0",
+      "followers": "0",
+      "teamLogo": "/mediasource/teamLogo2/all/snh48_s2.png",
+      "signature": "",
+      "bgImg": "",
+      "vip": false,
+      "userRole": 3
+    }
+  },
+  {
+    "liveId": "344928494051725312",
+    "coverPath": "/20190610/1560166960547061d70Cc7V.jpg",
+    "title": "Hi",
+    "liveType": 1,
+    "status": 2,
+    "ctime": "1560166961077",
+    "userInfo": {
+      "userId": "327587",
+      "nickname": "BEJ48-冯思佳",
+      "avatar": "/mediasource/avatar/20180420/1524158237082F67tg21k3I.jpg",
+      "badge": [],
+      "level": 1,
+      "isStar": true,
+      "friends": "0",
+      "followers": "0",
+      "teamLogo": "/mediasource/teamLogo2/all/bej48_e.png",
+      "signature": "",
+      "bgImg": "/20190416/1555430011580O9sDA7w1gQ.jpg",
+      "vip": false,
+      "userRole": 3
+    }
+  },
+  {
+    "liveId": "344934503386255360",
+    "coverPath": "/20190610/15601683933569kG8VUzl3O.jpg",
+    "title": "户外搞头回来打歌了",
+    "liveType": 1,
+    "status": 2,
+    "ctime": "1560168393793",
+    "userInfo": {
+      "userId": "6742",
+      "nickname": "SNH48-王晓佳",
+      "avatar": "/mediasource/avatar/20181108/1541613622152rqdd1hWjsf.jpg",
+      "badge": [],
+      "level": 1,
+      "isStar": true,
+      "friends": "0",
+      "followers": "0",
+      "teamLogo": "/mediasource/teamLogo2/all/snh48_x.png",
+      "signature": "",
+      "bgImg": "/20190522/1558533393576H2DJV56Fp1.jpg",
+      "vip": false,
+      "userRole": 3
+    }
+  },
+  {
+    "liveId": "344932322566279168",
+    "coverPath": "/20190510/1557501948950dCv15671H4.jpg",
+    "title": "我来了",
+    "liveType": 1,
+    "status": 2,
+    "ctime": "1560167873853",
+    "userInfo": {
+      "userId": "874717",
+      "nickname": "IDFT-武晓迪",
+      "avatar": "/mediasource/avatar/20190320/15530212766396Z27rSj8z0.jpg",
+      "badge": [],
+      "level": 1,
+      "isStar": true,
+      "friends": "0",
+      "followers": "0",
+      "teamLogo": "/mediasource/teamLogo/all/idft_logo_2.png",
+      "signature": "",
+      "bgImg": "/20190515/1557911708377gzxK1r0i2K.jpg",
+      "vip": false,
+      "userRole": 3
+    }
+  },
+  {
+    "liveId": "344922034987143168",
+    "coverPath": "/20190610/1560165420934rKtJl51T1K.jpg",
+    "title": "🌈",
+    "liveType": 1,
+    "status": 2,
+    "ctime": "1560165421140",
+    "userInfo": {
+      "userId": "6431",
+      "nickname": "SNH48-陈琳",
+      "avatar": "/mediasource/avatar/1518856096740p5MR8Iak8P.jpg",
+      "badge": [],
+      "level": 1,
+      "isStar": true,
+      "friends": "0",
+      "followers": "0",
+      "teamLogo": "/mediasource/teamLogo2/all/snh48_x.png",
+      "signature": "",
+      "bgImg": "",
+      "vip": false,
+      "userRole": 3
+    }
+  },
+  {
+    "liveId": "344921807668449280",
+    "coverPath": "/20190610/1560165366381qEUllv37o8.jpg",
+    "title": "和前的n次方夫一起看团魂&巡演",
+    "liveType": 1,
+    "status": 2,
+    "ctime": "1560165367284",
+    "userInfo": {
+      "userId": "327564",
+      "nickname": "GNZ48-陈欣妤",
+      "avatar": "/mediasource/avatar/20181031/1540984990227s8GZd9i97q.jpg",
+      "badge": [],
+      "level": 1,
+      "isStar": true,
+      "friends": "0",
+      "followers": "0",
+      "teamLogo": "/mediasource/teamLogo2/all/gnz48_n3.png",
+      "signature": "",
+      "bgImg": "",
+      "vip": false,
+      "userRole": 3
+    }
+  }
+]

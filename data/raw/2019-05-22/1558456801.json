@@ -1,0 +1,117 @@
+[
+  {
+    "liveId": "337750082400882688",
+    "coverPath": "/20190522/1558455493690kjhECP32E3.jpg",
+    "title": "唱个歌说晚安～",
+    "liveType": 2,
+    "status": 2,
+    "ctime": "1558455494737",
+    "userInfo": {
+      "userId": "614734",
+      "nickname": "SNH48-冉蔚",
+      "avatar": "/mediasource/avatar/20190406/1554559929498QRCY1tUJ09.jpg",
+      "badge": [],
+      "level": 1,
+      "isStar": true,
+      "friends": "0",
+      "followers": "0",
+      "teamLogo": "/mediasource/teamLogo2/all/snh48_x.png",
+      "signature": "",
+      "bgImg": "",
+      "vip": false,
+      "userRole": 3
+    }
+  },
+  {
+    "liveId": "337745016927358976",
+    "coverPath": "/20190521/1558454286084h1CQvx1j7n.jpg",
+    "title": "Z国风云录 开博",
+    "liveType": 1,
+    "status": 2,
+    "ctime": "1558454287033",
+    "userInfo": {
+      "userId": "459995",
+      "nickname": "GNZ48-赖梓惜",
+      "avatar": "/mediasource/avatar/20181220/15453201878674NK0vNJ9Gl.jpg",
+      "badge": [],
+      "level": 1,
+      "isStar": true,
+      "friends": "0",
+      "followers": "0",
+      "teamLogo": "/mediasource/teamLogo/all/gnz_z_log2.png",
+      "signature": "",
+      "bgImg": "",
+      "vip": false,
+      "userRole": 3
+    }
+  },
+  {
+    "liveId": "337734634418540544",
+    "coverPath": "/20190521/1558451810653A535QV9Cxp.jpg",
+    "title": "好久不见啊",
+    "liveType": 2,
+    "status": 2,
+    "ctime": "1558451811650",
+    "userInfo": {
+      "userId": "614728",
+      "nickname": "IDFT-雷宇霄",
+      "avatar": "/mediasource/avatar/20190127/1548583798929xb20cd5Qn0.jpg",
+      "badge": [],
+      "level": 1,
+      "isStar": true,
+      "friends": "0",
+      "followers": "0",
+      "teamLogo": "/mediasource/teamLogo/all/idft_logo_2.png",
+      "signature": "",
+      "bgImg": "",
+      "vip": false,
+      "userRole": 3
+    }
+  },
+  {
+    "liveId": "337754925765038080",
+    "coverPath": "/20190522/1558456648102kEADp81XcT.jpg",
+    "title": "十万伏特⚡️",
+    "liveType": 2,
+    "status": 2,
+    "ctime": "1558456649027",
+    "userInfo": {
+      "userId": "63577",
+      "nickname": "GNZ48-曾艾佳",
+      "avatar": "/mediasource/avatar/20190328/1553753452196XIc0WU2sWG.jpg",
+      "badge": [],
+      "level": 1,
+      "isStar": true,
+      "friends": "0",
+      "followers": "0",
+      "teamLogo": "/mediasource/teamLogo2/all/gnz48_g.png",
+      "signature": "",
+      "bgImg": "/20190517/1558085200388GsC0tkmb1I.jpg",
+      "vip": false,
+      "userRole": 3
+    }
+  },
+  {
+    "liveId": "337744365958795264",
+    "coverPath": "/20190521/15584539751913E156H21u2.jpg",
+    "title": "(灬ºωº灬)",
+    "liveType": 2,
+    "status": 2,
+    "ctime": "1558454131831",
+    "userInfo": {
+      "userId": "407101",
+      "nickname": "BEJ48-陈雅钰",
+      "avatar": "/mediasource/avatar/20180608/15284236842127d0f40wTba.jpg",
+      "badge": [],
+      "level": 1,
+      "isStar": true,
+      "friends": "0",
+      "followers": "0",
+      "teamLogo": "/mediasource/teamLogo2/all/bej48_j.png",
+      "signature": "",
+      "bgImg": "",
+      "vip": false,
+      "userRole": 3
+    }
+  }
+]

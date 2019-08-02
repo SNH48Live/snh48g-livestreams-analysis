@@ -1,0 +1,71 @@
+[
+  {
+    "liveId": "349268907797581824",
+    "coverPath": "/20190622/1561201796071q5417e3JwH.jpg",
+    "title": "突然直播",
+    "liveType": 1,
+    "status": 2,
+    "ctime": "1561201796477",
+    "userInfo": {
+      "userId": "874500",
+      "nickname": "IDFT-冯嘉宝",
+      "avatar": "/mediasource/avatar/20190410/1554836077228l1hB971a2f.jpg",
+      "badge": [],
+      "level": 1,
+      "isStar": true,
+      "friends": "0",
+      "followers": "0",
+      "teamLogo": "/mediasource/teamLogo/all/idft_logo_2.png",
+      "signature": "",
+      "bgImg": "/20190416/155540368953294eN6ekrhj.jpg",
+      "vip": false,
+      "userRole": 3
+    }
+  },
+  {
+    "liveId": "349271132666138624",
+    "coverPath": "/20190622/1561202326485hfJiTv5UfD.jpg",
+    "title": "晚上好ヾ(Ő∀Ő)ﾉ",
+    "liveType": 1,
+    "status": 2,
+    "ctime": "1561202326921",
+    "userInfo": {
+      "userId": "327591",
+      "nickname": "BEJ48-李梓",
+      "avatar": "/mediasource/avatar/20180617/1529172122894zh6k61ung7.jpg",
+      "badge": [],
+      "level": 1,
+      "isStar": true,
+      "friends": "0",
+      "followers": "0",
+      "teamLogo": "/mediasource/teamLogo2/all/bej48_e.png",
+      "signature": "",
+      "bgImg": "",
+      "vip": false,
+      "userRole": 3
+    }
+  },
+  {
+    "liveId": "349270457358028800",
+    "coverPath": "/20190622/1561202164953A6oNVe8A7u.jpg",
+    "title": "苏杉杉的电台",
+    "liveType": 1,
+    "status": 2,
+    "ctime": "1561202165917",
+    "userInfo": {
+      "userId": "327597",
+      "nickname": "BEJ48-苏杉杉",
+      "avatar": "/mediasource/avatar/20180829/1535545582428vP45t8wGVs.jpg",
+      "badge": [],
+      "level": 1,
+      "isStar": true,
+      "friends": "0",
+      "followers": "0",
+      "teamLogo": "/mediasource/teamLogo2/all/bej48_e.png",
+      "signature": "",
+      "bgImg": "",
+      "vip": false,
+      "userRole": 3
+    }
+  }
+]

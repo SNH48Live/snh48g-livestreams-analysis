@@ -1,0 +1,140 @@
+[
+  {
+    "liveId": "348602411631054848",
+    "coverPath": "/20190620/1561042891072op7144b7fZ.jpg",
+    "title": "🌛",
+    "liveType": 1,
+    "status": 2,
+    "ctime": "1561042891256",
+    "userInfo": {
+      "userId": "407135",
+      "nickname": "BEJ48-杨一帆",
+      "avatar": "/20190610/15601072394565gU0J69rPI.jpg",
+      "badge": [],
+      "level": 1,
+      "isStar": true,
+      "friends": "0",
+      "followers": "0",
+      "teamLogo": "/mediasource/teamLogo2/all/bej48_e.png",
+      "signature": "",
+      "bgImg": "",
+      "vip": false,
+      "userRole": 3
+    }
+  },
+  {
+    "liveId": "348585981292384256",
+    "coverPath": "/20190620/1561038973784f5yQUU1i9B.jpg",
+    "title": "唠嗑",
+    "liveType": 1,
+    "status": 2,
+    "ctime": "1561038974001",
+    "userInfo": {
+      "userId": "20",
+      "nickname": "SNH48-李宇琪",
+      "avatar": "/mediasource/avatar/15180980193700Kq2lDs71P.jpg",
+      "badge": [],
+      "level": 1,
+      "isStar": true,
+      "friends": "0",
+      "followers": "0",
+      "teamLogo": "/mediasource/teamLogo2/all/snh48_s2.png",
+      "signature": "",
+      "bgImg": "",
+      "vip": false,
+      "userRole": 3
+    }
+  },
+  {
+    "liveId": "348595595018833920",
+    "coverPath": "/20190620/15610412659703y1DeenBxp.jpg",
+    "title": "养家糊口",
+    "liveType": 1,
+    "status": 2,
+    "ctime": "1561041266066",
+    "userInfo": {
+      "userId": "679462",
+      "nickname": "IDFT-李苏洪",
+      "avatar": "/20190607/1559869428179JqoL4NSWWP.jpg",
+      "badge": [],
+      "level": 2,
+      "isStar": true,
+      "friends": "0",
+      "followers": "0",
+      "teamLogo": "/mediasource/teamLogo/all/idft_logo_2.png",
+      "signature": "",
+      "bgImg": "/20190517/1558028103609jr0FjKGhIq.jpg",
+      "vip": false,
+      "userRole": 3
+    }
+  },
+  {
+    "liveId": "348595965895970816",
+    "coverPath": "/20190620/15610413539440P3tSG3397.jpg",
+    "title": "小张诚邀您一同吃瓜",
+    "liveType": 1,
+    "status": 2,
+    "ctime": "1561041354489",
+    "userInfo": {
+      "userId": "63582",
+      "nickname": "SNH48-张怡",
+      "avatar": "/mediasource/avatar/20181025/1540475517669K5z48SpenC.jpg",
+      "badge": [],
+      "level": 1,
+      "isStar": true,
+      "friends": "0",
+      "followers": "0",
+      "teamLogo": "/mediasource/teamLogo2/all/snh48_n2.png",
+      "signature": "",
+      "bgImg": "",
+      "vip": false,
+      "userRole": 3
+    }
+  },
+  {
+    "liveId": "348591680206475264",
+    "coverPath": "/20190620/15610403326487313Y3lkyh.jpg",
+    "title": "咱也不知道这游戏玩到哪了……",
+    "liveType": 1,
+    "status": 2,
+    "ctime": "1561040333081",
+    "userInfo": {
+      "userId": "460005",
+      "nickname": "SNH48-赵佳蕊",
+      "avatar": "/20190620/1561022216608Jbw49Cw427.jpg",
+      "badge": [],
+      "level": 1,
+      "isStar": true,
+      "friends": "0",
+      "followers": "0",
+      "teamLogo": "/mediasource/teamLogo2/all/snh48_n2.png",
+      "signature": "",
+      "bgImg": "/20190417/15554923084801bQ9h18moa.jpg",
+      "vip": false,
+      "userRole": 3
+    }
+  },
+  {
+    "liveId": "348587041549520896",
+    "coverPath": "/20190620/1561039226613Rgk1TZSgPr.jpg",
+    "title": "呦。感觉债还的差不多了 耶",
+    "liveType": 1,
+    "status": 2,
+    "ctime": "1561039226658",
+    "userInfo": {
+      "userId": "459995",
+      "nickname": "GNZ48-赖梓惜",
+      "avatar": "/mediasource/avatar/20181220/15453201878674NK0vNJ9Gl.jpg",
+      "badge": [],
+      "level": 1,
+      "isStar": true,
+      "friends": "0",
+      "followers": "0",
+      "teamLogo": "/mediasource/teamLogo/all/gnz_z_log2.png",
+      "signature": "",
+      "bgImg": "",
+      "vip": false,
+      "userRole": 3
+    }
+  }
+]

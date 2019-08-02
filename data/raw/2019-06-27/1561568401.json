@@ -1,0 +1,117 @@
+[
+  {
+    "liveId": "350795101886025728",
+    "coverPath": "/20190627/1561565669163fU0kEvA9FW.jpg",
+    "title": "187.0不长的直播",
+    "liveType": 1,
+    "status": 2,
+    "ctime": "1561565669303",
+    "userInfo": {
+      "userId": "63562",
+      "nickname": "GNZ48-林嘉佩",
+      "avatar": "/mediasource/avatar/20181012/15392802278986ARyi03706.jpg",
+      "badge": [],
+      "level": 2,
+      "isStar": true,
+      "friends": "0",
+      "followers": "0",
+      "teamLogo": "/mediasource/teamLogo2/all/gnz48_g.png",
+      "signature": "",
+      "bgImg": "",
+      "vip": false,
+      "userRole": 3
+    }
+  },
+  {
+    "liveId": "350789660284096512",
+    "coverPath": "/20190626/1561564371597OV820zt1Zq.jpg",
+    "title": "普通话练习成果，没脸直播",
+    "liveType": 1,
+    "status": 2,
+    "ctime": "1561564371938",
+    "userInfo": {
+      "userId": "407110",
+      "nickname": "BEJ48-刘闲",
+      "avatar": "/20190611/1560251976995jUaUu387mD.jpg",
+      "badge": [],
+      "level": 1,
+      "isStar": true,
+      "friends": "0",
+      "followers": "0",
+      "teamLogo": "/mediasource/teamLogo2/all/bej48_j.png",
+      "signature": "",
+      "bgImg": "",
+      "vip": false,
+      "userRole": 3
+    }
+  },
+  {
+    "liveId": "350800890696634368",
+    "coverPath": "/20190627/1561567048369du2NM9U011.jpg",
+    "title": "是谁~送你来到~~我身边~~~",
+    "liveType": 1,
+    "status": 2,
+    "ctime": "1561567049447",
+    "userInfo": {
+      "userId": "327580",
+      "nickname": "BEJ48-张梦慧",
+      "avatar": "/mediasource/avatar/20180715/153164237119892mctLYtn5.jpg",
+      "badge": [],
+      "level": 1,
+      "isStar": true,
+      "friends": "0",
+      "followers": "0",
+      "teamLogo": "/mediasource/teamLogo2/all/bej48_b.png",
+      "signature": "",
+      "bgImg": "",
+      "vip": false,
+      "userRole": 3
+    }
+  },
+  {
+    "liveId": "350772226533691392",
+    "coverPath": "/20190626/15615602151898KtQNMkp78.jpg",
+    "title": "在吗",
+    "liveType": 1,
+    "status": 2,
+    "ctime": "1561560215318",
+    "userInfo": {
+      "userId": "614727",
+      "nickname": "GNZ48-李姗姗",
+      "avatar": "/mediasource/avatar/20190121/1548009439373OMHLVjx61V.jpg",
+      "badge": [],
+      "level": 1,
+      "isStar": true,
+      "friends": "0",
+      "followers": "0",
+      "teamLogo": "/mediasource/teamLogo2/all/gnz48_g.png",
+      "signature": "",
+      "bgImg": "",
+      "vip": false,
+      "userRole": 3
+    }
+  },
+  {
+    "liveId": "350793227887775744",
+    "coverPath": "/20190627/1561565222286Rx74BBkPi3.jpg",
+    "title": "小张诚邀您一同熬夜",
+    "liveType": 1,
+    "status": 2,
+    "ctime": "1561565222512",
+    "userInfo": {
+      "userId": "63582",
+      "nickname": "SNH48-张怡",
+      "avatar": "/mediasource/avatar/20181025/1540475517669K5z48SpenC.jpg",
+      "badge": [],
+      "level": 1,
+      "isStar": true,
+      "friends": "0",
+      "followers": "0",
+      "teamLogo": "/mediasource/teamLogo2/all/snh48_n2.png",
+      "signature": "",
+      "bgImg": "",
+      "vip": false,
+      "userRole": 3
+    }
+  }
+]

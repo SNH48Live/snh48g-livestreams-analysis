@@ -1,0 +1,71 @@
+[
+  {
+    "liveId": "335510630597201920",
+    "coverPath": "/20190515/1557921566334hE55w9U8FL.jpg",
+    "title": "随缘进",
+    "liveType": 2,
+    "status": 2,
+    "ctime": "1557921567446",
+    "userInfo": {
+      "userId": "327570",
+      "nickname": "GNZ48-孙馨",
+      "avatar": "/mediasource/avatar/20190101/1546276646059ADqmn7K2Lw.jpg",
+      "badge": [],
+      "level": 1,
+      "isStar": true,
+      "friends": "0",
+      "followers": "0",
+      "teamLogo": "/mediasource/teamLogo2/all/gnz48_n3.png",
+      "signature": "",
+      "bgImg": "/20190425/15562049718879Nwi5fdqgt.jpg",
+      "vip": false,
+      "userRole": 3
+    }
+  },
+  {
+    "liveId": "335512996511813632",
+    "coverPath": "/20190515/1557922131265G8K4T7Kb1R.jpg",
+    "title": "为了积分，冲啊！",
+    "liveType": 1,
+    "status": 2,
+    "ctime": "1557922131618",
+    "userInfo": {
+      "userId": "679462",
+      "nickname": "IDFT-李苏洪",
+      "avatar": "/mediasource/avatar/20190402/1554136593549e37MPOGv2o.jpg",
+      "badge": [],
+      "level": 1,
+      "isStar": true,
+      "friends": "0",
+      "followers": "0",
+      "teamLogo": "/mediasource/teamLogo/all/idft_logo_2.png",
+      "signature": "",
+      "bgImg": "",
+      "vip": false,
+      "userRole": 3
+    }
+  },
+  {
+    "liveId": "335515770007916544",
+    "coverPath": "/20190515/1557922791269CAl9Z20JD3.jpg",
+    "title": "🈺️",
+    "liveType": 2,
+    "status": 2,
+    "ctime": "1557922792758",
+    "userInfo": {
+      "userId": "867888",
+      "nickname": "IDFT-曹露丹",
+      "avatar": "/mediasource/avatar/20190411/1554984273142HMm0XCS1Fs.jpg",
+      "badge": [],
+      "level": 1,
+      "isStar": true,
+      "friends": "0",
+      "followers": "0",
+      "teamLogo": "/mediasource/teamLogo/all/idft_logo_2.png",
+      "signature": "",
+      "bgImg": "/20190425/1556194288354ly9UJ2GGo6.jpg",
+      "vip": false,
+      "userRole": 3
+    }
+  }
+]

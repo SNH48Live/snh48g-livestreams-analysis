@@ -1,0 +1,71 @@
+[
+  {
+    "liveId": "332524569709318144",
+    "coverPath": "/20190507/1557209631068D793TK8ILD.jpg",
+    "title": "放假第二天",
+    "liveType": 2,
+    "status": 2,
+    "ctime": "1557209635361",
+    "userInfo": {
+      "userId": "614735",
+      "nickname": "IDFT-田倩兰",
+      "avatar": "/mediasource/avatar/20190405/15544410566123IdGRnH7GC.jpg",
+      "badge": [],
+      "level": 1,
+      "isStar": true,
+      "friends": "0",
+      "followers": "0",
+      "teamLogo": "/mediasource/teamLogo/all/idft_logo_2.png",
+      "signature": "",
+      "bgImg": "",
+      "vip": false,
+      "userRole": 3
+    }
+  },
+  {
+    "liveId": "332530831482228736",
+    "coverPath": "/20190416/1555387399078225ft9UL3r.jpg",
+    "title": "嘤嘤嘤",
+    "liveType": 2,
+    "status": 2,
+    "ctime": "1557211128262",
+    "userInfo": {
+      "userId": "874698",
+      "nickname": "IDFT-鄢羽蝶",
+      "avatar": "/mediasource/avatar/20190410/1554910632819tY6VCI2M8S.jpg",
+      "badge": [],
+      "level": 1,
+      "isStar": true,
+      "friends": "0",
+      "followers": "0",
+      "teamLogo": "/mediasource/teamLogo/all/idft_logo_2.png",
+      "signature": "",
+      "bgImg": "",
+      "vip": false,
+      "userRole": 3
+    }
+  },
+  {
+    "liveId": "332530313431158784",
+    "coverPath": "/20190507/1557211004349zGg0ZdWtRO.jpg",
+    "title": "整理投稿 一起上班啊",
+    "liveType": 1,
+    "status": 2,
+    "ctime": "1557211004750",
+    "userInfo": {
+      "userId": "327567",
+      "nickname": "GNZ48-刘力菲",
+      "avatar": "/mediasource/avatar/20181007/1538844576754Y5omH75F9R.jpg",
+      "badge": [],
+      "level": 1,
+      "isStar": true,
+      "friends": "0",
+      "followers": "0",
+      "teamLogo": "/mediasource/teamLogo2/all/gnz48_n3.png",
+      "signature": "",
+      "bgImg": "/20190417/1555483417644gKvNBg7B29.jpg",
+      "vip": false,
+      "userRole": 3
+    }
+  }
+]

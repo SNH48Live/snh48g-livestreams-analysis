@@ -1,0 +1,94 @@
+[
+  {
+    "liveId": "328927903378903040",
+    "coverPath": "/20190425/1556158933886GNNYd6LqyG.jpg",
+    "title": "一天的电台时间",
+    "liveType": 2,
+    "status": 2,
+    "ctime": "1556352123188",
+    "userInfo": {
+      "userId": "874717",
+      "nickname": "IDFT-武晓迪",
+      "avatar": "/mediasource/avatar/20190320/15530212766396Z27rSj8z0.jpg",
+      "badge": [],
+      "level": 1,
+      "isStar": true,
+      "friends": "0",
+      "followers": "0",
+      "teamLogo": "/mediasource/teamLogo/all/idft_logo_2.png",
+      "signature": "",
+      "bgImg": "/20190417/15554740176236psv46M2iY.jpg",
+      "vip": false,
+      "userRole": 3
+    }
+  },
+  {
+    "liveId": "328931131835355136",
+    "coverPath": "/20190427/15563528924685H8i4aXg4B.jpg",
+    "title": "冲业绩。",
+    "liveType": 1,
+    "status": 2,
+    "ctime": "1556352892946",
+    "userInfo": {
+      "userId": "874508",
+      "nickname": "IDFT-尚官",
+      "avatar": "/mediasource/avatar/20190407/1554629669002MgHL7DDwv3.jpg",
+      "badge": [],
+      "level": 1,
+      "isStar": true,
+      "friends": "0",
+      "followers": "0",
+      "teamLogo": "/mediasource/teamLogo/all/idft_logo_2.png",
+      "signature": "",
+      "bgImg": "/20190416/15553995584983HTG023YQA.jpg",
+      "vip": false,
+      "userRole": 3
+    }
+  },
+  {
+    "liveId": "328886224349368320",
+    "coverPath": "/20190427/15563421846328apJCj7NBw.jpg",
+    "title": "不知道干啥",
+    "liveType": 2,
+    "status": 2,
+    "ctime": "1556342186295",
+    "userInfo": {
+      "userId": "407130",
+      "nickname": "IDFT-张韩紫陌",
+      "avatar": "/mediasource/avatar/20190408/1554702629948jiX42k0iPA.jpg",
+      "badge": [],
+      "level": 1,
+      "isStar": true,
+      "friends": "0",
+      "followers": "0",
+      "teamLogo": "/mediasource/teamLogo/all/idft_logo_2.png",
+      "signature": "",
+      "bgImg": "",
+      "vip": false,
+      "userRole": 3
+    }
+  },
+  {
+    "liveId": "328901710323716096",
+    "coverPath": "/20190427/1556345877386K221sw69nU.jpg",
+    "title": "来，电台。",
+    "liveType": 2,
+    "status": 2,
+    "ctime": "1556345878438",
+    "userInfo": {
+      "userId": "14",
+      "nickname": "SNH48-徐子轩",
+      "avatar": "/mediasource/avatar/20190319/15529970094786aYiiJ12OY.jpg",
+      "badge": [],
+      "level": 1,
+      "isStar": true,
+      "friends": "0",
+      "followers": "0",
+      "teamLogo": "/mediasource/teamLogo2/all/snh48_s2.png",
+      "signature": "",
+      "bgImg": "",
+      "vip": false,
+      "userRole": 3
+    }
+  }
+]

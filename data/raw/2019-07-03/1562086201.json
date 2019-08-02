@@ -1,0 +1,94 @@
+[
+  {
+    "liveId": "352976859679232000",
+    "coverPath": "/20190417/1555501097612kfKpnfPI4U.jpg",
+    "title": "聊会天",
+    "liveType": 1,
+    "status": 2,
+    "ctime": "1562085840878",
+    "userInfo": {
+      "userId": "538697",
+      "nickname": "BEJ48-沈小爱",
+      "avatar": "/mediasource/avatar/20181017/1539711004316O80o9i0R5Q.jpg",
+      "badge": [],
+      "level": 1,
+      "isStar": true,
+      "friends": "0",
+      "followers": "0",
+      "teamLogo": "/mediasource/teamLogo2/all/bej48_b.png",
+      "signature": "",
+      "bgImg": "",
+      "vip": false,
+      "userRole": 3
+    }
+  },
+  {
+    "liveId": "352970749387804672",
+    "coverPath": "/20190703/1562084382795y9Ht5DxUo0.jpg",
+    "title": "正经电台，催眠向",
+    "liveType": 1,
+    "status": 2,
+    "ctime": "1562084383921",
+    "userInfo": {
+      "userId": "327575",
+      "nickname": "GNZ48-郑丹妮",
+      "avatar": "/mediasource/avatar/20190209/1549721765053uy7481V1E8.jpg",
+      "badge": [],
+      "level": 1,
+      "isStar": true,
+      "friends": "0",
+      "followers": "0",
+      "teamLogo": "/mediasource/teamLogo2/all/gnz48_n3.png",
+      "signature": "",
+      "bgImg": "",
+      "vip": false,
+      "userRole": 3
+    }
+  },
+  {
+    "liveId": "352970212802105344",
+    "coverPath": "/20190703/1562084255893y9DippgXCr.jpg",
+    "title": "解除思念",
+    "liveType": 1,
+    "status": 2,
+    "ctime": "1562084256156",
+    "userInfo": {
+      "userId": "327581",
+      "nickname": "BEJ48-青钰雯",
+      "avatar": "/mediasource/avatar/1508308875165CqB71FDr3h.jpg",
+      "badge": [],
+      "level": 1,
+      "isStar": true,
+      "friends": "0",
+      "followers": "0",
+      "teamLogo": "/mediasource/teamLogo2/all/bej48_b.png",
+      "signature": "",
+      "bgImg": "",
+      "vip": false,
+      "userRole": 3
+    }
+  },
+  {
+    "liveId": "352958303474356224",
+    "coverPath": "/20190702/1562081416506Y0zMCp9bhP.jpg",
+    "title": "被迫营业💃🏻",
+    "liveType": 1,
+    "status": 2,
+    "ctime": "1562081416782",
+    "userInfo": {
+      "userId": "63571",
+      "nickname": "BEJ48-田姝丽",
+      "avatar": "/mediasource/avatar/20180711/15312787608885chXYS0VhG.jpg",
+      "badge": [],
+      "level": 1,
+      "isStar": true,
+      "friends": "0",
+      "followers": "0",
+      "teamLogo": "/mediasource/teamLogo2/all/bej48_b.png",
+      "signature": "",
+      "bgImg": "",
+      "vip": false,
+      "userRole": 3
+    }
+  }
+]

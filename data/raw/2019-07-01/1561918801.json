@@ -1,0 +1,48 @@
+[
+  {
+    "liveId": "352266480770682880",
+    "coverPath": "/20190701/156191647309613AJLJJbFN.jpg",
+    "title": "直播",
+    "liveType": 1,
+    "status": 2,
+    "ctime": "1561916473773",
+    "userInfo": {
+      "userId": "530452",
+      "nickname": "GNZ48-朱怡欣",
+      "avatar": "/mediasource/avatar/20190329/1553840220551YNARwA0vpp.jpg",
+      "badge": [],
+      "level": 1,
+      "isStar": true,
+      "friends": "0",
+      "followers": "0",
+      "teamLogo": "/mediasource/teamLogo2/all/gnz48_g.png",
+      "signature": "",
+      "bgImg": "/20190519/1558203299933D129mbHfCj.jpg",
+      "vip": false,
+      "userRole": 3
+    }
+  },
+  {
+    "liveId": "352275331448377344",
+    "coverPath": "/20190701/15619185826653967F4a3N5.jpg",
+    "title": "咦",
+    "liveType": 2,
+    "status": 2,
+    "ctime": "1561918583925",
+    "userInfo": {
+      "userId": "874701",
+      "nickname": "GNZ48-张润",
+      "avatar": "/20190626/1561562174314P87n9mxzes.jpg",
+      "badge": [],
+      "level": 1,
+      "isStar": true,
+      "friends": "0",
+      "followers": "0",
+      "teamLogo": "/mediasource/teamLogo2/all/gnz48_n3.png",
+      "signature": "",
+      "bgImg": "/20190430/1556569792667bgQ7aayD2C.jpg",
+      "vip": false,
+      "userRole": 3
+    }
+  }
+]

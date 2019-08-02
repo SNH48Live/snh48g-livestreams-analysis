@@ -1,0 +1,94 @@
+[
+  {
+    "liveId": "347456693356793856",
+    "coverPath": "/20190617/156076973038979FbY8e3R0.jpg",
+    "title": "👋👋👋",
+    "liveType": 1,
+    "status": 2,
+    "ctime": "1560769730885",
+    "userInfo": {
+      "userId": "679448",
+      "nickname": "SNH48-陈俊羽",
+      "avatar": "/mediasource/avatar/20190226/155111833498635ny9u0RJL.jpg",
+      "badge": [],
+      "level": 1,
+      "isStar": true,
+      "friends": "0",
+      "followers": "0",
+      "teamLogo": "/mediasource/teamLogo2/all/snh48_s2.png",
+      "signature": "",
+      "bgImg": "/20190420/1555775954557Kip4ffmh0K.jpg",
+      "vip": false,
+      "userRole": 3
+    }
+  },
+  {
+    "liveId": "347444353148194816",
+    "coverPath": "/20190508/1557316808391MG8C0iCP5z.jpg",
+    "title": "一家人",
+    "liveType": 1,
+    "status": 2,
+    "ctime": "1560766788783",
+    "userInfo": {
+      "userId": "8",
+      "nickname": "SNH48-孙芮",
+      "avatar": "/mediasource/avatar/20190214/1550123117339PcXGE6BBg4.jpg",
+      "badge": [],
+      "level": 1,
+      "isStar": true,
+      "friends": "0",
+      "followers": "0",
+      "teamLogo": "/mediasource/teamLogo2/all/snh48_s2.png",
+      "signature": "",
+      "bgImg": "/20190419/1555657199301255RGW26zU.jpg",
+      "vip": false,
+      "userRole": 3
+    }
+  },
+  {
+    "liveId": "347458872465494016",
+    "coverPath": "/20190617/1560770250232tw7Q0TKhzz.jpg",
+    "title": "。。。",
+    "liveType": 1,
+    "status": 2,
+    "ctime": "1560770250326",
+    "userInfo": {
+      "userId": "5566",
+      "nickname": "SNH48-许杨玉琢",
+      "avatar": "/mediasource/avatar/20181108/1541666727242ihsamC3Sr4.jpg",
+      "badge": [],
+      "level": 1,
+      "isStar": true,
+      "friends": "0",
+      "followers": "0",
+      "teamLogo": "/mediasource/teamLogo2/all/snh48_h2.png",
+      "signature": "",
+      "bgImg": "/20190417/15554805699157R662Qiv8w.jpg",
+      "vip": false,
+      "userRole": 3
+    }
+  },
+  {
+    "liveId": "347458453714571264",
+    "coverPath": "/20190617/156077014980769wvX679M2.jpg",
+    "title": "营业🈺️",
+    "liveType": 1,
+    "status": 2,
+    "ctime": "1560770150582",
+    "userInfo": {
+      "userId": "2508",
+      "nickname": "SNH48-张昕",
+      "avatar": "/mediasource/avatar/20190115/15475321892217K6V9FHtbL.jpg",
+      "badge": [],
+      "level": 1,
+      "isStar": true,
+      "friends": "0",
+      "followers": "0",
+      "teamLogo": "/mediasource/teamLogo2/all/snh48_h2.png",
+      "signature": "",
+      "bgImg": "",
+      "vip": false,
+      "userRole": 3
+    }
+  }
+]

@@ -1,0 +1,77 @@
+[
+  {
+    "liveId": "361638286497484800",
+    "coverPath": "/20190726/1564150885943URIyOT71DV.jpg",
+    "title": "今天抽到星熊了吗",
+    "liveType": 1,
+    "status": 2,
+    "ctime": "1564150886047",
+    "userInfo": {
+      "userId": "614741",
+      "nickname": "IDFT-曾佳",
+      "avatar": "/20190605/1559719819302iv55422Cs3.jpg",
+      "badge": [],
+      "level": 2,
+      "isStar": true,
+      "friends": "0",
+      "followers": "0",
+      "teamLogo": "/mediasource/teamLogo/all/idft_logo_2.png",
+      "signature": "",
+      "bgImg": "/20190630/1561889543816gYVr17PyRp.jpg",
+      "vip": false,
+      "userRole": 3
+    },
+    "liveMode": 0,
+    "pictureOrientation": 0
+  },
+  {
+    "liveId": "361635397129539584",
+    "coverPath": "/20190722/1563810627953xTK77Wf310.jpg",
+    "title": "💜",
+    "liveType": 2,
+    "status": 2,
+    "ctime": "1564150197176",
+    "userInfo": {
+      "userId": "874698",
+      "nickname": "IDFT-鄢羽蝶",
+      "avatar": "/mediasource/avatar/20190410/1554910632819tY6VCI2M8S.jpg",
+      "badge": [],
+      "level": 2,
+      "isStar": true,
+      "friends": "0",
+      "followers": "0",
+      "teamLogo": "/mediasource/teamLogo/all/idft_logo_2.png",
+      "signature": "",
+      "bgImg": "",
+      "vip": false,
+      "userRole": 3
+    },
+    "liveMode": 0,
+    "pictureOrientation": 0
+  },
+  {
+    "liveId": "361611014629560320",
+    "coverPath": "/20190726/15641443835889o4Tkfztl4.jpg",
+    "title": "微笑燕故事汇",
+    "liveType": 1,
+    "status": 2,
+    "ctime": "1564144383873",
+    "userInfo": {
+      "userId": "707369",
+      "nickname": "IDFT-魏小燕",
+      "avatar": "/mediasource/avatar/20190412/1555062531968beck8pV8lL.jpg",
+      "badge": [],
+      "level": 2,
+      "isStar": true,
+      "friends": "0",
+      "followers": "0",
+      "teamLogo": "/mediasource/teamLogo/all/idft_logo_2.png",
+      "signature": "",
+      "bgImg": "/20190703/1562085598780diAhlfptGO.jpg",
+      "vip": false,
+      "userRole": 3
+    },
+    "liveMode": 0,
+    "pictureOrientation": 0
+  }
+]

@@ -1,0 +1,94 @@
+[
+  {
+    "liveId": "332637274462031872",
+    "coverPath": "",
+    "title": "直一下",
+    "liveType": 1,
+    "status": 2,
+    "ctime": "1557236505869",
+    "userInfo": {
+      "userId": "63567",
+      "nickname": "SNH48-潘瑛琪",
+      "avatar": "/mediasource/avatar/20190410/1554831591250289mD724pb.jpg",
+      "badge": [],
+      "level": 1,
+      "isStar": true,
+      "friends": "0",
+      "followers": "0",
+      "teamLogo": "/mediasource/teamLogo2/all/snh48_x.png",
+      "signature": "",
+      "bgImg": "",
+      "vip": false,
+      "userRole": 3
+    }
+  },
+  {
+    "liveId": "332617976318332928",
+    "coverPath": "/20190507/1557231888455x6l1Kw02Vr.jpg",
+    "title": "hi唱歌",
+    "liveType": 2,
+    "status": 2,
+    "ctime": "1557231904901",
+    "userInfo": {
+      "userId": "607591",
+      "nickname": "GNZ48-吴羽霏",
+      "avatar": "/mediasource/avatar/20180805/1533400850576XkF46Fa3et.jpg",
+      "badge": [],
+      "level": 1,
+      "isStar": true,
+      "friends": "0",
+      "followers": "0",
+      "teamLogo": "/mediasource/teamLogo2/all/gnz48_n3.png",
+      "signature": "",
+      "bgImg": "",
+      "vip": false,
+      "userRole": 3
+    }
+  },
+  {
+    "liveId": "332634508100440064",
+    "coverPath": "/20190507/15572358459842bNqEZ9ogQ.jpg",
+    "title": "随便播播",
+    "liveType": 1,
+    "status": 2,
+    "ctime": "1557235846446",
+    "userInfo": {
+      "userId": "530447",
+      "nickname": "GNZ48-谢艾琳",
+      "avatar": "/mediasource/avatar/20181027/15406329992611VPbuHE7KM.jpg",
+      "badge": [],
+      "level": 1,
+      "isStar": true,
+      "friends": "0",
+      "followers": "0",
+      "teamLogo": "/mediasource/teamLogo2/all/gnz48_n3.png",
+      "signature": "",
+      "bgImg": "",
+      "vip": false,
+      "userRole": 3
+    }
+  },
+  {
+    "liveId": "332636913575727104",
+    "coverPath": "/20190507/1557236418322f92ocYCX82.jpg",
+    "title": "大姑天天见",
+    "liveType": 2,
+    "status": 2,
+    "ctime": "1557236420290",
+    "userInfo": {
+      "userId": "6745",
+      "nickname": "BEJ48-闫明筠",
+      "avatar": "/mediasource/avatar/1508780183516z2r6R9b5G1.jpg",
+      "badge": [],
+      "level": 1,
+      "isStar": true,
+      "friends": "0",
+      "followers": "0",
+      "teamLogo": "/mediasource/teamLogo2/all/bej48_b.png",
+      "signature": "",
+      "bgImg": "",
+      "vip": false,
+      "userRole": 3
+    }
+  }
+]

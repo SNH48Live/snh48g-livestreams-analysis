@@ -1,0 +1,71 @@
+[
+  {
+    "liveId": "351777187098857472",
+    "coverPath": "/20190629/15617998100320Q1m2P9K2A.jpg",
+    "title": "测验一下电台好使没",
+    "liveType": 2,
+    "status": 2,
+    "ctime": "1561799816939",
+    "userInfo": {
+      "userId": "874500",
+      "nickname": "IDFT-冯嘉宝",
+      "avatar": "/mediasource/avatar/20190410/1554836077228l1hB971a2f.jpg",
+      "badge": [],
+      "level": 1,
+      "isStar": true,
+      "friends": "0",
+      "followers": "0",
+      "teamLogo": "/mediasource/teamLogo/all/idft_logo_2.png",
+      "signature": "",
+      "bgImg": "/20190416/155540368953294eN6ekrhj.jpg",
+      "vip": false,
+      "userRole": 3
+    }
+  },
+  {
+    "liveId": "351787175938691072",
+    "coverPath": "/20190629/1561802198111azaOn8t268.jpg",
+    "title": "趁冷餐直播一会儿！",
+    "liveType": 1,
+    "status": 2,
+    "ctime": "1561802198438",
+    "userInfo": {
+      "userId": "6742",
+      "nickname": "SNH48-王晓佳",
+      "avatar": "/mediasource/avatar/20181108/1541613622152rqdd1hWjsf.jpg",
+      "badge": [],
+      "level": 1,
+      "isStar": true,
+      "friends": "0",
+      "followers": "0",
+      "teamLogo": "/mediasource/teamLogo2/all/snh48_x.png",
+      "signature": "",
+      "bgImg": "/20190522/1558533393576H2DJV56Fp1.jpg",
+      "vip": false,
+      "userRole": 3
+    }
+  },
+  {
+    "liveId": "351785897858764800",
+    "coverPath": "/20190629/1561801893246b7XxoN7H7I.jpg",
+    "title": "直播一会儿～",
+    "liveType": 1,
+    "status": 2,
+    "ctime": "1561801893723",
+    "userInfo": {
+      "userId": "407110",
+      "nickname": "BEJ48-刘闲",
+      "avatar": "/20190611/1560251976995jUaUu387mD.jpg",
+      "badge": [],
+      "level": 1,
+      "isStar": true,
+      "friends": "0",
+      "followers": "0",
+      "teamLogo": "/mediasource/teamLogo2/all/bej48_j.png",
+      "signature": "",
+      "bgImg": "",
+      "vip": false,
+      "userRole": 3
+    }
+  }
+]

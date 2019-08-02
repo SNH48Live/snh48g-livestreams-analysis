@@ -1,0 +1,117 @@
+[
+  {
+    "liveId": "327228730266947584",
+    "coverPath": "/20190422/15559470069722Zo2KbplXU.jpg",
+    "title": "聊天天",
+    "liveType": 2,
+    "status": 2,
+    "ctime": "1555947008347",
+    "userInfo": {
+      "userId": "614728",
+      "nickname": "IDFT-雷宇霄",
+      "avatar": "/mediasource/avatar/20190127/1548583798929xb20cd5Qn0.jpg",
+      "badge": [],
+      "level": 1,
+      "isStar": true,
+      "friends": "0",
+      "followers": "0",
+      "teamLogo": "/mediasource/teamLogo/all/idft_logo_2.png",
+      "signature": "",
+      "bgImg": "",
+      "vip": false,
+      "userRole": 3
+    }
+  },
+  {
+    "liveId": "327230259984142336",
+    "coverPath": "/20190422/1555947371328OsKNw5u02O.jpg",
+    "title": "卡不卡",
+    "liveType": 2,
+    "status": 2,
+    "ctime": "1555947373623",
+    "userInfo": {
+      "userId": "867891",
+      "nickname": "GNZ48-方琪",
+      "avatar": "/mediasource/avatar/20190407/1554630900541zKF82vA89r.jpg",
+      "badge": [],
+      "level": 1,
+      "isStar": true,
+      "friends": "0",
+      "followers": "0",
+      "teamLogo": "/mediasource/teamLogo/all/gnz_z_log2.png",
+      "signature": "",
+      "bgImg": "/20190422/1555935911568Dq3tb5R5az.jpg",
+      "vip": false,
+      "userRole": 3
+    }
+  },
+  {
+    "liveId": "327232897106644992",
+    "coverPath": "/20190422/15559480016029H8z9g7k7t.jpg",
+    "title": "看不到消息就来看脸吧👀",
+    "liveType": 1,
+    "status": 2,
+    "ctime": "1555948001938",
+    "userInfo": {
+      "userId": "417321",
+      "nickname": "GNZ48-农燕萍",
+      "avatar": "/mediasource/avatar/20190320/15530499365132cGb73U939.jpg",
+      "badge": [],
+      "level": 1,
+      "isStar": true,
+      "friends": "0",
+      "followers": "0",
+      "teamLogo": "/mediasource/teamLogo/all/gnz_z_log2.png",
+      "signature": "",
+      "bgImg": "",
+      "vip": false,
+      "userRole": 3
+    }
+  },
+  {
+    "liveId": "327232036632596480",
+    "coverPath": "/20190422/1555947796228938gFjKJ94.jpg",
+    "title": "主播要饿死了",
+    "liveType": 1,
+    "status": 2,
+    "ctime": "1555947796788",
+    "userInfo": {
+      "userId": "63562",
+      "nickname": "GNZ48-林嘉佩",
+      "avatar": "/mediasource/avatar/20181012/15392802278986ARyi03706.jpg",
+      "badge": [],
+      "level": 1,
+      "isStar": true,
+      "friends": "0",
+      "followers": "0",
+      "teamLogo": "/mediasource/teamLogo2/all/gnz48_g.png",
+      "signature": "",
+      "bgImg": "",
+      "vip": false,
+      "userRole": 3
+    }
+  },
+  {
+    "liveId": "327221740849401856",
+    "coverPath": "/20190416/1555430092327M1A62mHE9D.jpg",
+    "title": "电一下滋滋滋",
+    "liveType": 2,
+    "status": 2,
+    "ctime": "1555945342108",
+    "userInfo": {
+      "userId": "707365",
+      "nickname": "IDFT-戴紫薇",
+      "avatar": "/mediasource/avatar/20190123/1548242321357p2mYSbnREE.jpg",
+      "badge": [],
+      "level": 1,
+      "isStar": true,
+      "friends": "0",
+      "followers": "0",
+      "teamLogo": "/mediasource/teamLogo/all/idft_logo_2.png",
+      "signature": "",
+      "bgImg": "",
+      "vip": false,
+      "userRole": 3
+    }
+  }
+]

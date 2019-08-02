@@ -1,0 +1,94 @@
+[
+  {
+    "liveId": "346028523919314944",
+    "coverPath": "/20190613/15604292233207va45jj8gb.png",
+    "title": "聊一会儿",
+    "liveType": 1,
+    "status": 2,
+    "ctime": "1560429228588",
+    "userInfo": {
+      "userId": "614742",
+      "nickname": "IDFT-左欣",
+      "avatar": "/mediasource/avatar/20181120/154272276885220WFfOZesM.jpg",
+      "badge": [],
+      "level": 1,
+      "isStar": true,
+      "friends": "0",
+      "followers": "0",
+      "teamLogo": "/mediasource/teamLogo/all/idft_logo_2.png",
+      "signature": "",
+      "bgImg": "",
+      "vip": false,
+      "userRole": 3
+    }
+  },
+  {
+    "liveId": "346009195094282240",
+    "coverPath": "/20190613/15604246198473xvt1a60ps.jpg",
+    "title": "🐷🐷🐷",
+    "liveType": 1,
+    "status": 2,
+    "ctime": "1560424620401",
+    "userInfo": {
+      "userId": "679448",
+      "nickname": "SNH48-陈俊羽",
+      "avatar": "/mediasource/avatar/20190226/155111833498635ny9u0RJL.jpg",
+      "badge": [],
+      "level": 1,
+      "isStar": true,
+      "friends": "0",
+      "followers": "0",
+      "teamLogo": "/mediasource/teamLogo2/all/snh48_s2.png",
+      "signature": "",
+      "bgImg": "/20190420/1555775954557Kip4ffmh0K.jpg",
+      "vip": false,
+      "userRole": 3
+    }
+  },
+  {
+    "liveId": "346032298193129472",
+    "coverPath": "/20190613/1560430128278Ao93qMft6W.jpg",
+    "title": "横空出现 半小时",
+    "liveType": 1,
+    "status": 2,
+    "ctime": "1560430128549",
+    "userInfo": {
+      "userId": "874500",
+      "nickname": "IDFT-冯嘉宝",
+      "avatar": "/mediasource/avatar/20190410/1554836077228l1hB971a2f.jpg",
+      "badge": [],
+      "level": 1,
+      "isStar": true,
+      "friends": "0",
+      "followers": "0",
+      "teamLogo": "/mediasource/teamLogo/all/idft_logo_2.png",
+      "signature": "",
+      "bgImg": "/20190416/155540368953294eN6ekrhj.jpg",
+      "vip": false,
+      "userRole": 3
+    }
+  },
+  {
+    "liveId": "346024271012499456",
+    "coverPath": "/20190613/1560428214578R259rky3n9.jpg",
+    "title": "在线吗",
+    "liveType": 1,
+    "status": 2,
+    "ctime": "1560428214631",
+    "userInfo": {
+      "userId": "45",
+      "nickname": "SNH48-谢妮",
+      "avatar": "/20190603/1559540880630KGVDsy7h3L.jpg",
+      "badge": [],
+      "level": 1,
+      "isStar": true,
+      "friends": "0",
+      "followers": "0",
+      "teamLogo": "/mediasource/teamLogo2/all/snh48_n2.png",
+      "signature": "",
+      "bgImg": "/20190528/15590536501237k6S2688Gk.jpg",
+      "vip": false,
+      "userRole": 3
+    }
+  }
+]

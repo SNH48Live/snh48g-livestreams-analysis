@@ -1,0 +1,71 @@
+[
+  {
+    "liveId": "342818770724392960",
+    "coverPath": "/20190604/15596639635936dT9BQ240r.jpg",
+    "title": "走廊直播一姐",
+    "liveType": 1,
+    "status": 2,
+    "ctime": "1559663963605",
+    "userInfo": {
+      "userId": "608997",
+      "nickname": "IDFT-司珀琳",
+      "avatar": "/mediasource/avatar/20190305/15517988953323Wtua2396i.jpg",
+      "badge": [],
+      "level": 1,
+      "isStar": true,
+      "friends": "0",
+      "followers": "0",
+      "teamLogo": "/mediasource/teamLogo/all/idft_logo_2.png",
+      "signature": "",
+      "bgImg": "",
+      "vip": false,
+      "userRole": 3
+    }
+  },
+  {
+    "liveId": "342798632230916096",
+    "coverPath": "/20190604/1559659161659Gz2kH95Pwe.jpg",
+    "title": "拼乐高！",
+    "liveType": 1,
+    "status": 2,
+    "ctime": "1559659162814",
+    "userInfo": {
+      "userId": "614727",
+      "nickname": "GNZ48-李姗姗",
+      "avatar": "/mediasource/avatar/20190121/1548009439373OMHLVjx61V.jpg",
+      "badge": [],
+      "level": 1,
+      "isStar": true,
+      "friends": "0",
+      "followers": "0",
+      "teamLogo": "/mediasource/teamLogo2/all/gnz48_g.png",
+      "signature": "",
+      "bgImg": "",
+      "vip": false,
+      "userRole": 3
+    }
+  },
+  {
+    "liveId": "342818918384865280",
+    "coverPath": "/20190604/155966399752367cvdX2aTm.jpg",
+    "title": "2019.06.05素颜过二十大寿",
+    "liveType": 1,
+    "status": 2,
+    "ctime": "1559663998810",
+    "userInfo": {
+      "userId": "327564",
+      "nickname": "GNZ48-陈欣妤",
+      "avatar": "/mediasource/avatar/20181031/1540984990227s8GZd9i97q.jpg",
+      "badge": [],
+      "level": 1,
+      "isStar": true,
+      "friends": "0",
+      "followers": "0",
+      "teamLogo": "/mediasource/teamLogo2/all/gnz48_n3.png",
+      "signature": "",
+      "bgImg": "",
+      "vip": false,
+      "userRole": 3
+    }
+  }
+]

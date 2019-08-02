@@ -1,0 +1,52 @@
+[
+  {
+    "liveId": "362670570952527872",
+    "coverPath": "/20190723/1563857133198yJK6Beo4Yu.jpg",
+    "title": "素颜直播的武苗苗！我会唱孤独与诗了！",
+    "liveType": 1,
+    "status": 2,
+    "ctime": "1564397001983",
+    "userInfo": {
+      "userId": "874717",
+      "nickname": "IDFT-武晓迪",
+      "avatar": "/mediasource/avatar/20190320/15530212766396Z27rSj8z0.jpg",
+      "badge": [],
+      "level": 1,
+      "isStar": true,
+      "friends": "0",
+      "followers": "0",
+      "teamLogo": "/mediasource/teamLogo/all/idft_logo_2.png",
+      "signature": "",
+      "bgImg": "/20190724/15639484387974tpU0X46b8.jpg",
+      "vip": false,
+      "userRole": 3
+    },
+    "liveMode": 0,
+    "pictureOrientation": 0
+  },
+  {
+    "liveId": "362646709951336448",
+    "coverPath": "/20190521/1558371227071BBRRc72C4a.jpg",
+    "title": "来聊会儿?",
+    "liveType": 2,
+    "status": 2,
+    "ctime": "1564391313138",
+    "userInfo": {
+      "userId": "874723",
+      "nickname": "IDFT-王梓",
+      "avatar": "/mediasource/avatar/20190302/15515321472148tzHu4K8yo.png",
+      "badge": [],
+      "level": 1,
+      "isStar": true,
+      "friends": "0",
+      "followers": "0",
+      "teamLogo": "/mediasource/teamLogo/all/idft_logo_2.png",
+      "signature": "",
+      "bgImg": "",
+      "vip": false,
+      "userRole": 3
+    },
+    "liveMode": 0,
+    "pictureOrientation": 0
+  }
+]

@@ -1,0 +1,94 @@
+[
+  {
+    "liveId": "349646146682818560",
+    "coverPath": "/20190623/1561291736866I9jO33mAvj.jpg",
+    "title": "•第119场",
+    "liveType": 1,
+    "status": 2,
+    "ctime": "1561291737197",
+    "userInfo": {
+      "userId": "624121",
+      "nickname": "BEJ48-何阳青青",
+      "avatar": "/20190528/155897549093043wJ7vE48Q.jpg",
+      "badge": [],
+      "level": 1,
+      "isStar": true,
+      "friends": "0",
+      "followers": "0",
+      "teamLogo": "/mediasource/teamLogo2/all/bej48_j.png",
+      "signature": "",
+      "bgImg": "",
+      "vip": false,
+      "userRole": 3
+    }
+  },
+  {
+    "liveId": "349641060753674240",
+    "coverPath": "/20190623/1561290523998u2ctWXuCTl.jpg",
+    "title": "👋👋👋",
+    "liveType": 1,
+    "status": 2,
+    "ctime": "1561290524630",
+    "userInfo": {
+      "userId": "679448",
+      "nickname": "SNH48-陈俊羽",
+      "avatar": "/mediasource/avatar/20190226/155111833498635ny9u0RJL.jpg",
+      "badge": [],
+      "level": 1,
+      "isStar": true,
+      "friends": "0",
+      "followers": "0",
+      "teamLogo": "/mediasource/teamLogo2/all/snh48_s2.png",
+      "signature": "",
+      "bgImg": "/20190420/1555775954557Kip4ffmh0K.jpg",
+      "vip": false,
+      "userRole": 3
+    }
+  },
+  {
+    "liveId": "349657157364158464",
+    "coverPath": "/20190623/1561294361910tQYD6R9Ywg.jpg",
+    "title": "路演1.0",
+    "liveType": 1,
+    "status": 2,
+    "ctime": "1561294362630",
+    "userInfo": {
+      "userId": "417311",
+      "nickname": "GNZ48-陈桂君",
+      "avatar": "/20190621/15611325009191AE2NQ1Z3L.jpg",
+      "badge": [],
+      "level": 1,
+      "isStar": true,
+      "friends": "0",
+      "followers": "0",
+      "teamLogo": "/mediasource/teamLogo/all/gnz_z_log2.png",
+      "signature": "",
+      "bgImg": "",
+      "vip": false,
+      "userRole": 3
+    }
+  },
+  {
+    "liveId": "349658864387166208",
+    "coverPath": "/20190623/15612947686521jqK8h9g4k.jpg",
+    "title": "十分钟～",
+    "liveType": 1,
+    "status": 2,
+    "ctime": "1561294769301",
+    "userInfo": {
+      "userId": "327597",
+      "nickname": "BEJ48-苏杉杉",
+      "avatar": "/mediasource/avatar/20180829/1535545582428vP45t8wGVs.jpg",
+      "badge": [],
+      "level": 1,
+      "isStar": true,
+      "friends": "0",
+      "followers": "0",
+      "teamLogo": "/mediasource/teamLogo2/all/bej48_e.png",
+      "signature": "",
+      "bgImg": "",
+      "vip": false,
+      "userRole": 3
+    }
+  }
+]

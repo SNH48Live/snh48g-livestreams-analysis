@@ -1,0 +1,48 @@
+[
+  {
+    "liveId": "348899276368973824",
+    "coverPath": "/20190621/15611136689428uWU45lK0j.jpg",
+    "title": "不和大家唠嗑不得行",
+    "liveType": 1,
+    "status": 2,
+    "ctime": "1561113669721",
+    "userInfo": {
+      "userId": "614728",
+      "nickname": "IDFT-雷宇霄",
+      "avatar": "/mediasource/avatar/20190127/1548583798929xb20cd5Qn0.jpg",
+      "badge": [],
+      "level": 1,
+      "isStar": true,
+      "friends": "0",
+      "followers": "0",
+      "teamLogo": "/mediasource/teamLogo/all/idft_logo_2.png",
+      "signature": "",
+      "bgImg": "",
+      "vip": false,
+      "userRole": 3
+    }
+  },
+  {
+    "liveId": "348911435660464128",
+    "coverPath": "/20190621/1561116567996Wv3641SohE.jpg",
+    "title": "🌈",
+    "liveType": 1,
+    "status": 2,
+    "ctime": "1561116568466",
+    "userInfo": {
+      "userId": "6431",
+      "nickname": "SNH48-陈琳",
+      "avatar": "/mediasource/avatar/1518856096740p5MR8Iak8P.jpg",
+      "badge": [],
+      "level": 1,
+      "isStar": true,
+      "friends": "0",
+      "followers": "0",
+      "teamLogo": "/mediasource/teamLogo2/all/snh48_x.png",
+      "signature": "",
+      "bgImg": "",
+      "vip": false,
+      "userRole": 3
+    }
+  }
+]

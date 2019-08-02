@@ -1,0 +1,48 @@
+[
+  {
+    "liveId": "343454004633473024",
+    "coverPath": "/20190606/1559815415184u29XgjVbnZ.jpg",
+    "title": "小楠上线(◍ ´꒳` ◍)🎺",
+    "liveType": 1,
+    "status": 2,
+    "ctime": "1559815415571",
+    "userInfo": {
+      "userId": "5562",
+      "nickname": "SNH48-林楠",
+      "avatar": "/mediasource/avatar/20190309/1552142963609VUvstAiG5i.jpg",
+      "badge": [],
+      "level": 1,
+      "isStar": true,
+      "friends": "0",
+      "followers": "0",
+      "teamLogo": "/mediasource/teamLogo2/all/snh48_h2.png",
+      "signature": "",
+      "bgImg": "",
+      "vip": false,
+      "userRole": 3
+    }
+  },
+  {
+    "liveId": "343461358334709760",
+    "coverPath": "/20190606/1559817168292fAaA758UO9.jpg",
+    "title": ".",
+    "liveType": 1,
+    "status": 2,
+    "ctime": "1559817168811",
+    "userInfo": {
+      "userId": "49005",
+      "nickname": "SNH48-沈梦瑶",
+      "avatar": "/mediasource/avatar/20190302/155146332801927FZq9873v.jpg",
+      "badge": [],
+      "level": 1,
+      "isStar": true,
+      "friends": "0",
+      "followers": "0",
+      "teamLogo": "/mediasource/teamLogo2/all/snh48_h2.png",
+      "signature": "",
+      "bgImg": "",
+      "vip": false,
+      "userRole": 3
+    }
+  }
+]

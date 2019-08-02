@@ -1,0 +1,77 @@
+[
+  {
+    "liveId": "363700812425007104",
+    "coverPath": "/20190801/1564642629871su8aE8mM91.jpg",
+    "title": "吃饭时间",
+    "liveType": 1,
+    "status": 2,
+    "ctime": "1564642630810",
+    "userInfo": {
+      "userId": "607523",
+      "nickname": "GNZ48-林芝",
+      "avatar": "/mediasource/avatar/20190411/1554993925200TjS97JMUcn.jpg",
+      "badge": [],
+      "level": 2,
+      "isStar": true,
+      "friends": "0",
+      "followers": "0",
+      "teamLogo": "/mediasource/teamLogo2/all/gnz48_g.png",
+      "signature": "",
+      "bgImg": "/20190417/1555430555922f6DimtXe6H.jpg",
+      "vip": false,
+      "userRole": 3
+    },
+    "liveMode": 0,
+    "pictureOrientation": 0
+  },
+  {
+    "liveId": "363696769749291008",
+    "coverPath": "/20190801/1564641666690nL73W569Uk.jpg",
+    "title": "用来增进感情的直播",
+    "liveType": 1,
+    "status": 2,
+    "ctime": "1564641667000",
+    "userInfo": {
+      "userId": "530431",
+      "nickname": "GNZ48-陈佳莹",
+      "avatar": "/20190721/1563668893930fsJ2Ps4v9u.jpg",
+      "badge": [],
+      "level": 1,
+      "isStar": true,
+      "friends": "0",
+      "followers": "0",
+      "teamLogo": "/mediasource/teamLogo2/all/gnz48_g.png",
+      "signature": "",
+      "bgImg": "",
+      "vip": false,
+      "userRole": 3
+    },
+    "liveMode": 0,
+    "pictureOrientation": 0
+  },
+  {
+    "liveId": "363693744817246208",
+    "coverPath": "/20190801/1564640945102K3zl3RZ35a.jpg",
+    "title": "203.0吃饭了 饿死我",
+    "liveType": 1,
+    "status": 2,
+    "ctime": "1564640945808",
+    "userInfo": {
+      "userId": "63562",
+      "nickname": "GNZ48-林嘉佩",
+      "avatar": "/mediasource/avatar/20181012/15392802278986ARyi03706.jpg",
+      "badge": [],
+      "level": 2,
+      "isStar": true,
+      "friends": "0",
+      "followers": "0",
+      "teamLogo": "/mediasource/teamLogo2/all/gnz48_g.png",
+      "signature": "",
+      "bgImg": "/20190727/15641695211808Y3wp0Kg9j.jpg",
+      "vip": false,
+      "userRole": 3
+    },
+    "liveMode": 0,
+    "pictureOrientation": 0
+  }
+]

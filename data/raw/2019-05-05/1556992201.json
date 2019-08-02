@@ -1,0 +1,71 @@
+[
+  {
+    "liveId": "331597415588892672",
+    "coverPath": "/20190425/155620749203590TD68vgc2.jpg",
+    "title": "直播啦！",
+    "liveType": 1,
+    "status": 2,
+    "ctime": "1556988584026",
+    "userInfo": {
+      "userId": "677398",
+      "nickname": "SNH48-李玉倩",
+      "avatar": "/mediasource/avatar/20180609/1528474175451cOokW9vNU7.jpg",
+      "badge": [],
+      "level": 1,
+      "isStar": true,
+      "friends": "0",
+      "followers": "0",
+      "teamLogo": "/mediasource/teamLogo2/all/snh48_h2.png",
+      "signature": "",
+      "bgImg": "",
+      "vip": false,
+      "userRole": 3
+    }
+  },
+  {
+    "liveId": "331584040804880384",
+    "coverPath": "/20190504/1556985394953k816oR3R3y.jpg",
+    "title": "166.0煮面",
+    "liveType": 1,
+    "status": 2,
+    "ctime": "1556985395860",
+    "userInfo": {
+      "userId": "63562",
+      "nickname": "GNZ48-林嘉佩",
+      "avatar": "/mediasource/avatar/20181012/15392802278986ARyi03706.jpg",
+      "badge": [],
+      "level": 1,
+      "isStar": true,
+      "friends": "0",
+      "followers": "0",
+      "teamLogo": "/mediasource/teamLogo2/all/gnz48_g.png",
+      "signature": "",
+      "bgImg": "",
+      "vip": false,
+      "userRole": 3
+    }
+  },
+  {
+    "liveId": "331601756836139008",
+    "coverPath": "/20190505/1556989618838A7QqID3Jxh.jpg",
+    "title": "好梦轮回",
+    "liveType": 1,
+    "status": 2,
+    "ctime": "1556989619692",
+    "userInfo": {
+      "userId": "2470",
+      "nickname": "SNH48-徐晗",
+      "avatar": "/mediasource/avatar/20180618/1529258994765bJgM918mQB.jpg",
+      "badge": [],
+      "level": 1,
+      "isStar": true,
+      "friends": "0",
+      "followers": "0",
+      "teamLogo": "/mediasource/teamLogo2/all/snh48_h2.png",
+      "signature": "",
+      "bgImg": "",
+      "vip": false,
+      "userRole": 3
+    }
+  }
+]

@@ -1,0 +1,94 @@
+[
+  {
+    "liveId": "344547054587809792",
+    "coverPath": "/20190609/1560076018441eG35042Br8.jpg",
+    "title": "拼乐高～（只有乐高没有脸）",
+    "liveType": 1,
+    "status": 2,
+    "ctime": "1560076018973",
+    "userInfo": {
+      "userId": "327560",
+      "nickname": "GNZ48-张琼予",
+      "avatar": "/mediasource/avatar/20190207/1549547210113SkxdD9fY19.jpg",
+      "badge": [],
+      "level": 1,
+      "isStar": true,
+      "friends": "0",
+      "followers": "0",
+      "teamLogo": "/mediasource/teamLogo2/all/gnz48_g.png",
+      "signature": "",
+      "bgImg": "/20190601/1559342656311MJ242KWjXA.jpg",
+      "vip": false,
+      "userRole": 3
+    }
+  },
+  {
+    "liveId": "344557052655112192",
+    "coverPath": "/20190609/1560078402247Nv6b6y5RyC.jpg",
+    "title": "快问快答时间",
+    "liveType": 1,
+    "status": 2,
+    "ctime": "1560078402581",
+    "userInfo": {
+      "userId": "327564",
+      "nickname": "GNZ48-陈欣妤",
+      "avatar": "/mediasource/avatar/20181031/1540984990227s8GZd9i97q.jpg",
+      "badge": [],
+      "level": 1,
+      "isStar": true,
+      "friends": "0",
+      "followers": "0",
+      "teamLogo": "/mediasource/teamLogo2/all/gnz48_n3.png",
+      "signature": "",
+      "bgImg": "",
+      "vip": false,
+      "userRole": 3
+    }
+  },
+  {
+    "liveId": "344555430826807296",
+    "coverPath": "/20190609/15600780154027jyEqzzTs8.jpg",
+    "title": "哇～",
+    "liveType": 1,
+    "status": 2,
+    "ctime": "1560078015913",
+    "userInfo": {
+      "userId": "327577",
+      "nickname": "GNZ48-左婧媛",
+      "avatar": "/mediasource/avatar/20190322/1553266626348lHGUhfOs02.jpg",
+      "badge": [],
+      "level": 1,
+      "isStar": true,
+      "friends": "0",
+      "followers": "0",
+      "teamLogo": "/mediasource/teamLogo2/all/gnz48_n3.png",
+      "signature": "",
+      "bgImg": "",
+      "vip": false,
+      "userRole": 3
+    }
+  },
+  {
+    "liveId": "344557291369730048",
+    "coverPath": "/20190504/15569855701268P98MsU26x.jpg",
+    "title": "进来",
+    "liveType": 1,
+    "status": 2,
+    "ctime": "1560078459827",
+    "userInfo": {
+      "userId": "63558",
+      "nickname": "SNH48-洪珮雲",
+      "avatar": "/mediasource/avatar/1509551046109l79Z0FIAD2.jpg",
+      "badge": [],
+      "level": 1,
+      "isStar": true,
+      "friends": "0",
+      "followers": "0",
+      "teamLogo": "/mediasource/teamLogo2/all/snh48_h2.png",
+      "signature": "",
+      "bgImg": "",
+      "vip": false,
+      "userRole": 3
+    }
+  }
+]

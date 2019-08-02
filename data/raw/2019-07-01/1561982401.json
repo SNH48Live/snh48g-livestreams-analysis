@@ -1,0 +1,48 @@
+[
+  {
+    "liveId": "352536089117659136",
+    "coverPath": "/20190701/1561980752903Tict6xdSK8.jpg",
+    "title": "今天主题是什么呢",
+    "liveType": 1,
+    "status": 2,
+    "ctime": "1561980753449",
+    "userInfo": {
+      "userId": "18",
+      "nickname": "SNH48-徐晨辰",
+      "avatar": "/mediasource/avatar/20190209/1549651868260kNNAF2ognA.jpg",
+      "badge": [],
+      "level": 2,
+      "isStar": true,
+      "friends": "0",
+      "followers": "0",
+      "teamLogo": "/mediasource/teamLogo2/all/snh48_s2.png",
+      "signature": "",
+      "bgImg": "",
+      "vip": false,
+      "userRole": 3
+    }
+  },
+  {
+    "liveId": "352542731162947584",
+    "coverPath": "/20190701/1561982336004i5Y5tta9XN.jpg",
+    "title": "日常瞎唠",
+    "liveType": 1,
+    "status": 2,
+    "ctime": "1561982337036",
+    "userInfo": {
+      "userId": "11",
+      "nickname": "SNH48-温晶婕",
+      "avatar": "/mediasource/avatar/20181022/15402114005179J2yYY5Zt8.jpg",
+      "badge": [],
+      "level": 1,
+      "isStar": true,
+      "friends": "0",
+      "followers": "0",
+      "teamLogo": "/mediasource/teamLogo2/all/snh48_s2.png",
+      "signature": "",
+      "bgImg": "",
+      "vip": false,
+      "userRole": 3
+    }
+  }
+]

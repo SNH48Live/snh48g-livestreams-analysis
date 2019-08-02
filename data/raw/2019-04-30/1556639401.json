@@ -1,0 +1,117 @@
+[
+  {
+    "liveId": "330125811201675264",
+    "coverPath": "/20190430/1556637726215gyD2Pj0kZZ.jpg",
+    "title": "睡过头了……",
+    "liveType": 1,
+    "status": 2,
+    "ctime": "1556637726830",
+    "userInfo": {
+      "userId": "407104",
+      "nickname": "BEJ48-葛司琪",
+      "avatar": "/mediasource/avatar/20180809/1533816085151L3OoB4t2xZ.jpg",
+      "badge": [],
+      "level": 1,
+      "isStar": true,
+      "friends": "0",
+      "followers": "0",
+      "teamLogo": "/mediasource/teamLogo2/all/bej48_j.png",
+      "signature": "",
+      "bgImg": "",
+      "vip": false,
+      "userRole": 3
+    }
+  },
+  {
+    "liveId": "330120246656307200",
+    "coverPath": "/20190430/15566363991121m808GpHT2.jpg",
+    "title": "嗯哼",
+    "liveType": 2,
+    "status": 2,
+    "ctime": "1556636400140",
+    "userInfo": {
+      "userId": "67",
+      "nickname": "SNH48-袁丹妮",
+      "avatar": "/mediasource/avatar/20181201/1543645775196SKO5Mutlvg.jpg",
+      "badge": [],
+      "level": 1,
+      "isStar": true,
+      "friends": "0",
+      "followers": "0",
+      "teamLogo": "/mediasource/teamLogo2/all/snh48_s2.png",
+      "signature": "",
+      "bgImg": "",
+      "vip": false,
+      "userRole": 3
+    }
+  },
+  {
+    "liveId": "330110460573323264",
+    "coverPath": "/20190430/1556634066352LZdIfPj4uc.jpg",
+    "title": "小楠上线🎺",
+    "liveType": 1,
+    "status": 2,
+    "ctime": "1556634066955",
+    "userInfo": {
+      "userId": "5562",
+      "nickname": "SNH48-林楠",
+      "avatar": "/mediasource/avatar/20190309/1552142963609VUvstAiG5i.jpg",
+      "badge": [],
+      "level": 1,
+      "isStar": true,
+      "friends": "0",
+      "followers": "0",
+      "teamLogo": "/mediasource/teamLogo2/all/snh48_h2.png",
+      "signature": "",
+      "bgImg": "",
+      "vip": false,
+      "userRole": 3
+    }
+  },
+  {
+    "liveId": "330052132707045376",
+    "coverPath": "/20190430/1556620158744Tooyyed8EM.jpg",
+    "title": "收拾家",
+    "liveType": 2,
+    "status": 2,
+    "ctime": "1556620160216",
+    "userInfo": {
+      "userId": "528339",
+      "nickname": "IDFT-乔钰珂",
+      "avatar": "/mediasource/avatar/20190122/1548092084975bIKM2g6S8B.jpg",
+      "badge": [],
+      "level": 1,
+      "isStar": true,
+      "friends": "0",
+      "followers": "0",
+      "teamLogo": "/mediasource/teamLogo/all/idft_logo_2.png",
+      "signature": "",
+      "bgImg": "",
+      "vip": false,
+      "userRole": 3
+    }
+  },
+  {
+    "liveId": "330105288652558336",
+    "coverPath": "/20190430/1556632833001Bu1xS0tnQ6.jpg",
+    "title": "Hi",
+    "liveType": 1,
+    "status": 2,
+    "ctime": "1556632833394",
+    "userInfo": {
+      "userId": "327587",
+      "nickname": "BEJ48-冯思佳",
+      "avatar": "/mediasource/avatar/20180420/1524158237082F67tg21k3I.jpg",
+      "badge": [],
+      "level": 1,
+      "isStar": true,
+      "friends": "0",
+      "followers": "0",
+      "teamLogo": "/mediasource/teamLogo2/all/bej48_e.png",
+      "signature": "",
+      "bgImg": "/20190416/1555430011580O9sDA7w1gQ.jpg",
+      "vip": false,
+      "userRole": 3
+    }
+  }
+]

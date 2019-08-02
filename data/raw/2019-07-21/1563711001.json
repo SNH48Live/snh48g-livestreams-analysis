@@ -1,0 +1,102 @@
+[
+  {
+    "liveId": "359789855206346752",
+    "coverPath": "/20190721/1563710184954Kd3ml8J770.jpg",
+    "title": "来啦",
+    "liveType": 1,
+    "status": 2,
+    "ctime": "1563710185676",
+    "userInfo": {
+      "userId": "417311",
+      "nickname": "GNZ48-陈桂君",
+      "avatar": "/20190711/1562819633088Q0tn58VHkR.jpg",
+      "badge": [],
+      "level": 1,
+      "isStar": true,
+      "friends": "0",
+      "followers": "0",
+      "teamLogo": "/mediasource/teamLogo/all/gnz_z_log2.png",
+      "signature": "",
+      "bgImg": "",
+      "vip": false,
+      "userRole": 3
+    },
+    "liveMode": 0,
+    "pictureOrientation": 0
+  },
+  {
+    "liveId": "359791539873714176",
+    "coverPath": "/20190721/15637105871913XuDQ3GZOP.jpg",
+    "title": "咋整",
+    "liveType": 1,
+    "status": 2,
+    "ctime": "1563710587431",
+    "userInfo": {
+      "userId": "63560",
+      "nickname": "SNH48-姜杉",
+      "avatar": "/mediasource/avatar/1520055363968VS1S7kP9d5.jpg",
+      "badge": [],
+      "level": 1,
+      "isStar": true,
+      "friends": "0",
+      "followers": "0",
+      "teamLogo": "/mediasource/teamLogo2/all/snh48_h2.png",
+      "signature": "",
+      "bgImg": "",
+      "vip": false,
+      "userRole": 3
+    },
+    "liveMode": 0,
+    "pictureOrientation": 0
+  },
+  {
+    "liveId": "359783289723883520",
+    "coverPath": "/20190721/1563708620267sk2Q1TiUU9.jpg",
+    "title": "回来咯",
+    "liveType": 1,
+    "status": 2,
+    "ctime": "1563708620367",
+    "userInfo": {
+      "userId": "459999",
+      "nickname": "BEJ48-韩家乐",
+      "avatar": "/mediasource/avatar/20190103/1546447223080708qPty07v.jpg",
+      "badge": [],
+      "level": 1,
+      "isStar": true,
+      "friends": "0",
+      "followers": "0",
+      "teamLogo": "/mediasource/teamLogo2/all/bej48_j.png",
+      "signature": "",
+      "bgImg": "",
+      "vip": false,
+      "userRole": 3
+    },
+    "liveMode": 0,
+    "pictureOrientation": 0
+  },
+  {
+    "liveId": "359790578883170304",
+    "coverPath": "/20190721/1563710357825z807qFt39p.jpg",
+    "title": "好久 不见呀ಥ_ಥ",
+    "liveType": 1,
+    "status": 2,
+    "ctime": "1563710358590",
+    "userInfo": {
+      "userId": "867888",
+      "nickname": "IDFT-曹露丹",
+      "avatar": "/20190606/1559832105703QR705di85V.jpg",
+      "badge": [],
+      "level": 1,
+      "isStar": true,
+      "friends": "0",
+      "followers": "0",
+      "teamLogo": "/mediasource/teamLogo/all/idft_logo_2.png",
+      "signature": "",
+      "bgImg": "/20190425/1556194288354ly9UJ2GGo6.jpg",
+      "vip": false,
+      "userRole": 3
+    },
+    "liveMode": 0,
+    "pictureOrientation": 0
+  }
+]

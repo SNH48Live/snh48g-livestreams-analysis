@@ -1,0 +1,71 @@
+[
+  {
+    "liveId": "327843504646328320",
+    "coverPath": "/20190424/1556093581986foWUvR6DSz.jpg",
+    "title": "啊",
+    "liveType": 1,
+    "status": 2,
+    "ctime": "1556093582545",
+    "userInfo": {
+      "userId": "19",
+      "nickname": "SNH48-孔肖吟",
+      "avatar": "/mediasource/avatar/20181101/1541073277380161Ks2dd3A.jpg",
+      "badge": [],
+      "level": 1,
+      "isStar": true,
+      "friends": "0",
+      "followers": "0",
+      "teamLogo": "/mediasource/teamLogo2/all/snh48_s2.png",
+      "signature": "",
+      "bgImg": "",
+      "vip": false,
+      "userRole": 3
+    }
+  },
+  {
+    "liveId": "327844043354345472",
+    "coverPath": "/20190420/15557599118965Yv1oj5g75.jpg",
+    "title": "唠嗑",
+    "liveType": 1,
+    "status": 2,
+    "ctime": "1556093710982",
+    "userInfo": {
+      "userId": "8",
+      "nickname": "SNH48-孙芮",
+      "avatar": "/mediasource/avatar/20190214/1550123117339PcXGE6BBg4.jpg",
+      "badge": [],
+      "level": 1,
+      "isStar": true,
+      "friends": "0",
+      "followers": "0",
+      "teamLogo": "/mediasource/teamLogo2/all/snh48_s2.png",
+      "signature": "",
+      "bgImg": "/20190419/1555657199301255RGW26zU.jpg",
+      "vip": false,
+      "userRole": 3
+    }
+  },
+  {
+    "liveId": "327854684643332096",
+    "coverPath": "/20190424/155609621802824c9BoBLA0.jpg",
+    "title": "只求不卡不糊",
+    "liveType": 1,
+    "status": 2,
+    "ctime": "1556096248064",
+    "userInfo": {
+      "userId": "36",
+      "nickname": "SNH48-钱蓓婷",
+      "avatar": "/mediasource/avatar/15191826878632L1BWx8088.jpg",
+      "badge": [],
+      "level": 1,
+      "isStar": true,
+      "friends": "0",
+      "followers": "0",
+      "teamLogo": "/mediasource/teamLogo2/all/snh48_s2.png",
+      "signature": "",
+      "bgImg": "",
+      "vip": false,
+      "userRole": 3
+    }
+  }
+]

@@ -1,0 +1,102 @@
+[
+  {
+    "liveId": "357614995914952704",
+    "coverPath": "/20190626/15615607168715gr37qgaAb.jpg",
+    "title": "。",
+    "liveType": 1,
+    "status": 2,
+    "ctime": "1563191659191",
+    "userInfo": {
+      "userId": "63573",
+      "nickname": "BEJ48-熊素君",
+      "avatar": "/mediasource/avatar/20180608/1528436744438dC7138UwNE.jpg",
+      "badge": [],
+      "level": 1,
+      "isStar": true,
+      "friends": "0",
+      "followers": "0",
+      "teamLogo": "/mediasource/teamLogo2/all/bej48_b.png",
+      "signature": "",
+      "bgImg": "",
+      "vip": false,
+      "userRole": 3
+    },
+    "liveMode": 0,
+    "pictureOrientation": 0
+  },
+  {
+    "liveId": "357617293470797824",
+    "coverPath": "/20190715/1563192205455V47JN5vaoL.jpg",
+    "title": "作画和营业",
+    "liveType": 1,
+    "status": 2,
+    "ctime": "1563192206694",
+    "userInfo": {
+      "userId": "679462",
+      "nickname": "IDFT-李苏洪",
+      "avatar": "/20190607/1559869428179JqoL4NSWWP.jpg",
+      "badge": [],
+      "level": 2,
+      "isStar": true,
+      "friends": "0",
+      "followers": "0",
+      "teamLogo": "/mediasource/teamLogo/all/idft_logo_2.png",
+      "signature": "",
+      "bgImg": "/20190517/1558028103609jr0FjKGhIq.jpg",
+      "vip": false,
+      "userRole": 3
+    },
+    "liveMode": 0,
+    "pictureOrientation": 0
+  },
+  {
+    "liveId": "357617113019256832",
+    "coverPath": "/20190715/1563192163296NuxcR7197p.jpg",
+    "title": "心愿树下你们和我",
+    "liveType": 1,
+    "status": 2,
+    "ctime": "1563192163563",
+    "userInfo": {
+      "userId": "327567",
+      "nickname": "GNZ48-刘力菲",
+      "avatar": "/20190701/1561990415620Up91ZTWFUl.jpg",
+      "badge": [],
+      "level": 1,
+      "isStar": true,
+      "friends": "0",
+      "followers": "0",
+      "teamLogo": "/mediasource/teamLogo2/all/gnz48_n3.png",
+      "signature": "",
+      "bgImg": "/20190417/1555483417644gKvNBg7B29.jpg",
+      "vip": false,
+      "userRole": 3
+    },
+    "liveMode": 0,
+    "pictureOrientation": 0
+  },
+  {
+    "liveId": "357613733844684800",
+    "coverPath": "/20190715/1563191357628zb46EGQqWp.jpg",
+    "title": "挑战24小时",
+    "liveType": 1,
+    "status": 2,
+    "ctime": "1563191357918",
+    "userInfo": {
+      "userId": "607523",
+      "nickname": "GNZ48-林芝",
+      "avatar": "/mediasource/avatar/20190411/1554993925200TjS97JMUcn.jpg",
+      "badge": [],
+      "level": 1,
+      "isStar": true,
+      "friends": "0",
+      "followers": "0",
+      "teamLogo": "/mediasource/teamLogo2/all/gnz48_g.png",
+      "signature": "",
+      "bgImg": "/20190417/1555430555922f6DimtXe6H.jpg",
+      "vip": false,
+      "userRole": 3
+    },
+    "liveMode": 0,
+    "pictureOrientation": 0
+  }
+]

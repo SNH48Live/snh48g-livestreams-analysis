@@ -1,0 +1,71 @@
+[
+  {
+    "liveId": "343535279549517824",
+    "coverPath": "/20190606/1559834792532rLi402zv6Y.jpg",
+    "title": "随意",
+    "liveType": 1,
+    "status": 2,
+    "ctime": "1559834792807",
+    "userInfo": {
+      "userId": "17",
+      "nickname": "SNH48-蒋芸",
+      "avatar": "/mediasource/avatar/20190213/1550058466166oXFQtv1x6U.jpg",
+      "badge": [],
+      "level": 1,
+      "isStar": true,
+      "friends": "0",
+      "followers": "0",
+      "teamLogo": "/mediasource/teamLogo2/all/snh48_s2.png",
+      "signature": "",
+      "bgImg": "",
+      "vip": false,
+      "userRole": 3
+    }
+  },
+  {
+    "liveId": "343540361154334720",
+    "coverPath": "/20190606/1559836004205E74862363g.jpg",
+    "title": "一个直播",
+    "liveType": 1,
+    "status": 2,
+    "ctime": "1559836004344",
+    "userInfo": {
+      "userId": "530390",
+      "nickname": "SNH48-王睿琦",
+      "avatar": "/20190520/1558323111452s3Z90fwuk7.jpg",
+      "badge": [],
+      "level": 1,
+      "isStar": true,
+      "friends": "0",
+      "followers": "0",
+      "teamLogo": "/mediasource/teamLogo2/all/snh48_x.png",
+      "signature": "",
+      "bgImg": "",
+      "vip": false,
+      "userRole": 3
+    }
+  },
+  {
+    "liveId": "343550074306760704",
+    "coverPath": "/20190607/1559838319489r0I12Ff9rg.jpg",
+    "title": "不抛弃不放弃啊一下下",
+    "liveType": 1,
+    "status": 2,
+    "ctime": "1559838320113",
+    "userInfo": {
+      "userId": "707369",
+      "nickname": "IDFT-魏小燕",
+      "avatar": "/mediasource/avatar/20190412/1555062531968beck8pV8lL.jpg",
+      "badge": [],
+      "level": 1,
+      "isStar": true,
+      "friends": "0",
+      "followers": "0",
+      "teamLogo": "/mediasource/teamLogo/all/idft_logo_2.png",
+      "signature": "",
+      "bgImg": "",
+      "vip": false,
+      "userRole": 3
+    }
+  }
+]

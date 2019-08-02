@@ -1,0 +1,48 @@
+[
+  {
+    "liveId": "329302178195640320",
+    "coverPath": "/20190428/1556441355680t7TQ3pUXvg.jpg",
+    "title": "Hi",
+    "liveType": 2,
+    "status": 2,
+    "ctime": "1556441357420",
+    "userInfo": {
+      "userId": "327587",
+      "nickname": "BEJ48-冯思佳",
+      "avatar": "/mediasource/avatar/20180420/1524158237082F67tg21k3I.jpg",
+      "badge": [],
+      "level": 1,
+      "isStar": true,
+      "friends": "0",
+      "followers": "0",
+      "teamLogo": "/mediasource/teamLogo2/all/bej48_e.png",
+      "signature": "",
+      "bgImg": "/20190416/1555430011580O9sDA7w1gQ.jpg",
+      "vip": false,
+      "userRole": 3
+    }
+  },
+  {
+    "liveId": "329305319737724928",
+    "coverPath": "/20190428/1556442105652FvEe8y2vCo.jpg",
+    "title": "电台外务",
+    "liveType": 1,
+    "status": 2,
+    "ctime": "1556442106259",
+    "userInfo": {
+      "userId": "614761",
+      "nickname": "IDFT-吴学雨",
+      "avatar": "/mediasource/avatar/20181122/1542902208134s17q0189qF.jpg",
+      "badge": [],
+      "level": 1,
+      "isStar": true,
+      "friends": "0",
+      "followers": "0",
+      "teamLogo": "/mediasource/teamLogo/all/idft_logo_2.png",
+      "signature": "",
+      "bgImg": "",
+      "vip": false,
+      "userRole": 3
+    }
+  }
+]

@@ -1,0 +1,163 @@
+[
+  {
+    "liveId": "335938256621080576",
+    "coverPath": "/20190517/1558023518774PvG5A1qQlA.jpg",
+    "title": "我是Shelly～",
+    "liveType": 2,
+    "status": 2,
+    "ctime": "1558023521809",
+    "userInfo": {
+      "userId": "63573",
+      "nickname": "BEJ48-熊素君",
+      "avatar": "/mediasource/avatar/20180608/1528436744438dC7138UwNE.jpg",
+      "badge": [],
+      "level": 1,
+      "isStar": true,
+      "friends": "0",
+      "followers": "0",
+      "teamLogo": "/mediasource/teamLogo2/all/bej48_b.png",
+      "signature": "",
+      "bgImg": "",
+      "vip": false,
+      "userRole": 3
+    }
+  },
+  {
+    "liveId": "335915179447226368",
+    "coverPath": "/20190516/1558018019199dBHrXZJpQP.jpg",
+    "title": "🎂",
+    "liveType": 1,
+    "status": 2,
+    "ctime": "1558018019258",
+    "userInfo": {
+      "userId": "407135",
+      "nickname": "BEJ48-杨一帆",
+      "avatar": "/mediasource/avatar/15201528482924X7Qx0J91Z.jpg",
+      "badge": [],
+      "level": 1,
+      "isStar": true,
+      "friends": "0",
+      "followers": "0",
+      "teamLogo": "/mediasource/teamLogo2/all/bej48_e.png",
+      "signature": "",
+      "bgImg": "",
+      "vip": false,
+      "userRole": 3
+    }
+  },
+  {
+    "liveId": "335924373059604480",
+    "coverPath": "/20190425/155620749203590TD68vgc2.jpg",
+    "title": "直播啦！",
+    "liveType": 1,
+    "status": 2,
+    "ctime": "1558020211710",
+    "userInfo": {
+      "userId": "677398",
+      "nickname": "SNH48-李玉倩",
+      "avatar": "/mediasource/avatar/20180609/1528474175451cOokW9vNU7.jpg",
+      "badge": [],
+      "level": 1,
+      "isStar": true,
+      "friends": "0",
+      "followers": "0",
+      "teamLogo": "/mediasource/teamLogo2/all/snh48_h2.png",
+      "signature": "",
+      "bgImg": "",
+      "vip": false,
+      "userRole": 3
+    }
+  },
+  {
+    "liveId": "335930814432612352",
+    "coverPath": "/20190516/15580217461551y8tJ33691.jpg",
+    "title": "来唠嗑",
+    "liveType": 2,
+    "status": 2,
+    "ctime": "1558021747453",
+    "userInfo": {
+      "userId": "6744",
+      "nickname": "SNH48-杨冰怡",
+      "avatar": "/mediasource/avatar/20190128/1548630747508Wp90xGFtVT.jpg",
+      "badge": [],
+      "level": 1,
+      "isStar": true,
+      "friends": "0",
+      "followers": "0",
+      "teamLogo": "/mediasource/teamLogo2/all/snh48_x.png",
+      "signature": "",
+      "bgImg": "",
+      "vip": false,
+      "userRole": 3
+    }
+  },
+  {
+    "liveId": "335928790819344384",
+    "coverPath": "/20190516/1558021264180V2819yGt2S.jpg",
+    "title": "姐来了",
+    "liveType": 1,
+    "status": 2,
+    "ctime": "1558021264985",
+    "userInfo": {
+      "userId": "5566",
+      "nickname": "SNH48-许杨玉琢",
+      "avatar": "/mediasource/avatar/20181108/1541666727242ihsamC3Sr4.jpg",
+      "badge": [],
+      "level": 1,
+      "isStar": true,
+      "friends": "0",
+      "followers": "0",
+      "teamLogo": "/mediasource/teamLogo2/all/snh48_h2.png",
+      "signature": "",
+      "bgImg": "/20190417/15554805699157R662Qiv8w.jpg",
+      "vip": false,
+      "userRole": 3
+    }
+  },
+  {
+    "liveId": "335925196325982208",
+    "coverPath": "/20190516/1558020407084iO2Y8WG5sn.jpg",
+    "title": "刘弋菡的直播间",
+    "liveType": 1,
+    "status": 2,
+    "ctime": "1558020407433",
+    "userInfo": {
+      "userId": "614750",
+      "nickname": "IDFT-邓倩",
+      "avatar": "/mediasource/avatar/20190308/15520470290468wGTxISN33.jpg",
+      "badge": [],
+      "level": 1,
+      "isStar": true,
+      "friends": "0",
+      "followers": "0",
+      "teamLogo": "/mediasource/teamLogo/all/idft_logo_2.png",
+      "signature": "",
+      "bgImg": "",
+      "vip": false,
+      "userRole": 3
+    }
+  },
+  {
+    "liveId": "335835456297832448",
+    "coverPath": "/20190416/15553511814747mGr16pOH7.jpg",
+    "title": "玛利亚舞台妆容教学",
+    "liveType": 1,
+    "status": 2,
+    "ctime": "1557999012060",
+    "userInfo": {
+      "userId": "407104",
+      "nickname": "BEJ48-葛司琪",
+      "avatar": "/mediasource/avatar/20180809/1533816085151L3OoB4t2xZ.jpg",
+      "badge": [],
+      "level": 1,
+      "isStar": true,
+      "friends": "0",
+      "followers": "0",
+      "teamLogo": "/mediasource/teamLogo2/all/bej48_j.png",
+      "signature": "",
+      "bgImg": "",
+      "vip": false,
+      "userRole": 3
+    }
+  }
+]

@@ -1,0 +1,48 @@
+[
+  {
+    "liveId": "335827220182142976",
+    "coverPath": "/20190516/1557997047710YM8jHxb6Gu.jpg",
+    "title": "Test",
+    "liveType": 1,
+    "status": 2,
+    "ctime": "1557997048659",
+    "userInfo": {
+      "userId": "6742",
+      "nickname": "SNH48-王晓佳",
+      "avatar": "/mediasource/avatar/20181108/1541613622152rqdd1hWjsf.jpg",
+      "badge": [],
+      "level": 1,
+      "isStar": true,
+      "friends": "0",
+      "followers": "0",
+      "teamLogo": "/mediasource/teamLogo2/all/snh48_x.png",
+      "signature": "",
+      "bgImg": "",
+      "vip": false,
+      "userRole": 3
+    }
+  },
+  {
+    "liveId": "335814854715445248",
+    "coverPath": "/20190516/1557994098534eq2YZ9TZN6.jpg",
+    "title": "午安！",
+    "liveType": 2,
+    "status": 2,
+    "ctime": "1557994100334",
+    "userInfo": {
+      "userId": "407130",
+      "nickname": "IDFT-张韩紫陌",
+      "avatar": "/mediasource/avatar/20190408/1554702629948jiX42k0iPA.jpg",
+      "badge": [],
+      "level": 1,
+      "isStar": true,
+      "friends": "0",
+      "followers": "0",
+      "teamLogo": "/mediasource/teamLogo/all/idft_logo_2.png",
+      "signature": "",
+      "bgImg": "",
+      "vip": false,
+      "userRole": 3
+    }
+  }
+]

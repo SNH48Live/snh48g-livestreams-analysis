@@ -1,0 +1,48 @@
+[
+  {
+    "liveId": "335827905506250752",
+    "coverPath": "/20190516/15579972081859HF04UMPDB.jpg",
+    "title": "在超市～悄悄的唱唱歌，",
+    "liveType": 2,
+    "status": 2,
+    "ctime": "1557997212053",
+    "userInfo": {
+      "userId": "459989",
+      "nickname": "SNH48-王诗蒙",
+      "avatar": "/mediasource/avatar/20190329/1553796331584bPmgvVPgC0.jpg",
+      "badge": [],
+      "level": 1,
+      "isStar": true,
+      "friends": "0",
+      "followers": "0",
+      "teamLogo": "/mediasource/teamLogo2/all/snh48_n2.png",
+      "signature": "",
+      "bgImg": "",
+      "vip": false,
+      "userRole": 3
+    }
+  },
+  {
+    "liveId": "335835456297832448",
+    "coverPath": "/20190416/15553511814747mGr16pOH7.jpg",
+    "title": "玛利亚舞台妆容教学",
+    "liveType": 1,
+    "status": 2,
+    "ctime": "1557999012060",
+    "userInfo": {
+      "userId": "407104",
+      "nickname": "BEJ48-葛司琪",
+      "avatar": "/mediasource/avatar/20180809/1533816085151L3OoB4t2xZ.jpg",
+      "badge": [],
+      "level": 1,
+      "isStar": true,
+      "friends": "0",
+      "followers": "0",
+      "teamLogo": "/mediasource/teamLogo2/all/bej48_j.png",
+      "signature": "",
+      "bgImg": "",
+      "vip": false,
+      "userRole": 3
+    }
+  }
+]

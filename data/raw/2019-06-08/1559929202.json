@@ -1,0 +1,94 @@
+[
+  {
+    "liveId": "343904920725688320",
+    "coverPath": "/20190607/15599229216032tcbOfS7R1.jpg",
+    "title": "吃饭",
+    "liveType": 1,
+    "status": 2,
+    "ctime": "1559922921949",
+    "userInfo": {
+      "userId": "614739",
+      "nickname": "IDFT-王梦竹",
+      "avatar": "/20190604/15596256055607R84E8S1AT.jpg",
+      "badge": [],
+      "level": 1,
+      "isStar": true,
+      "friends": "0",
+      "followers": "0",
+      "teamLogo": "/mediasource/teamLogo/all/idft_logo_2.png",
+      "signature": "",
+      "bgImg": "",
+      "vip": false,
+      "userRole": 3
+    }
+  },
+  {
+    "liveId": "343920312273670144",
+    "coverPath": "/20190608/1559926591104oKx3NyUUZj.jpg",
+    "title": "虽然我好累可我今天长得还可以 随缘开个没有营养的播",
+    "liveType": 1,
+    "status": 2,
+    "ctime": "1559926591704",
+    "userInfo": {
+      "userId": "614727",
+      "nickname": "GNZ48-李姗姗",
+      "avatar": "/mediasource/avatar/20190121/1548009439373OMHLVjx61V.jpg",
+      "badge": [],
+      "level": 1,
+      "isStar": true,
+      "friends": "0",
+      "followers": "0",
+      "teamLogo": "/mediasource/teamLogo2/all/gnz48_g.png",
+      "signature": "",
+      "bgImg": "",
+      "vip": false,
+      "userRole": 3
+    }
+  },
+  {
+    "liveId": "343906133718405120",
+    "coverPath": "/20190608/1559923210948lImeQHmC2T.jpg",
+    "title": "冲浪🏄‍♀️",
+    "liveType": 1,
+    "status": 2,
+    "ctime": "1559923211745",
+    "userInfo": {
+      "userId": "711735",
+      "nickname": "BEJ48-曲美霖",
+      "avatar": "/mediasource/avatar/20190220/1550643122590xo68HjPx7R.jpg",
+      "badge": [],
+      "level": 1,
+      "isStar": true,
+      "friends": "0",
+      "followers": "0",
+      "teamLogo": "/mediasource/teamLogo2/all/bej48_b.png",
+      "signature": "",
+      "bgImg": "/20190606/1559802839601tp9RGH9qcp.jpg",
+      "vip": false,
+      "userRole": 3
+    }
+  },
+  {
+    "liveId": "343914515032510464",
+    "coverPath": "/20190608/15599252092627ou0210lbL.jpg",
+    "title": "(´｡• ᵕ •｡`) ♡",
+    "liveType": 1,
+    "status": 2,
+    "ctime": "1559925209375",
+    "userInfo": {
+      "userId": "530452",
+      "nickname": "GNZ48-朱怡欣",
+      "avatar": "/mediasource/avatar/20190329/1553840220551YNARwA0vpp.jpg",
+      "badge": [],
+      "level": 1,
+      "isStar": true,
+      "friends": "0",
+      "followers": "0",
+      "teamLogo": "/mediasource/teamLogo2/all/gnz48_g.png",
+      "signature": "",
+      "bgImg": "/20190519/1558203299933D129mbHfCj.jpg",
+      "vip": false,
+      "userRole": 3
+    }
+  }
+]

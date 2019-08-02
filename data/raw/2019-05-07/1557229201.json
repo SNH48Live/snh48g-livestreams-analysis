@@ -1,0 +1,71 @@
+[
+  {
+    "liveId": "332601030579392512",
+    "coverPath": "/20190507/1557227863872L86JhVtMKQ.jpg",
+    "title": "解除思念",
+    "liveType": 2,
+    "status": 2,
+    "ctime": "1557227865118",
+    "userInfo": {
+      "userId": "327581",
+      "nickname": "BEJ48-青钰雯",
+      "avatar": "/mediasource/avatar/1508308875165CqB71FDr3h.jpg",
+      "badge": [],
+      "level": 1,
+      "isStar": true,
+      "friends": "0",
+      "followers": "0",
+      "teamLogo": "/mediasource/teamLogo2/all/bej48_b.png",
+      "signature": "",
+      "bgImg": "",
+      "vip": false,
+      "userRole": 3
+    }
+  },
+  {
+    "liveId": "332604477307424768",
+    "coverPath": "/20190507/15572286847938ME288a9pp.jpg",
+    "title": "好久不见",
+    "liveType": 2,
+    "status": 2,
+    "ctime": "1557228686882",
+    "userInfo": {
+      "userId": "874508",
+      "nickname": "IDFT-尚官",
+      "avatar": "/mediasource/avatar/20190407/1554629669002MgHL7DDwv3.jpg",
+      "badge": [],
+      "level": 1,
+      "isStar": true,
+      "friends": "0",
+      "followers": "0",
+      "teamLogo": "/mediasource/teamLogo/all/idft_logo_2.png",
+      "signature": "",
+      "bgImg": "/20190416/15553995584983HTG023YQA.jpg",
+      "vip": false,
+      "userRole": 3
+    }
+  },
+  {
+    "liveId": "332596472348217344",
+    "coverPath": "/20190507/1557226775509xc4258cwL9.jpg",
+    "title": "165.0唱一会儿",
+    "liveType": 2,
+    "status": 2,
+    "ctime": "1557226778031",
+    "userInfo": {
+      "userId": "63562",
+      "nickname": "GNZ48-林嘉佩",
+      "avatar": "/mediasource/avatar/20181012/15392802278986ARyi03706.jpg",
+      "badge": [],
+      "level": 1,
+      "isStar": true,
+      "friends": "0",
+      "followers": "0",
+      "teamLogo": "/mediasource/teamLogo2/all/gnz48_g.png",
+      "signature": "",
+      "bgImg": "",
+      "vip": false,
+      "userRole": 3
+    }
+  }
+]

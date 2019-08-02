@@ -1,0 +1,102 @@
+[
+  {
+    "liveId": "358706032796307456",
+    "coverPath": "/20190508/1557316808391MG8C0iCP5z.jpg",
+    "title": "是我啊",
+    "liveType": 1,
+    "status": 2,
+    "ctime": "1563451782653",
+    "userInfo": {
+      "userId": "8",
+      "nickname": "SNH48-孙芮",
+      "avatar": "/mediasource/avatar/20190214/1550123117339PcXGE6BBg4.jpg",
+      "badge": [],
+      "level": 2,
+      "isStar": true,
+      "friends": "0",
+      "followers": "0",
+      "teamLogo": "/mediasource/teamLogo2/all/snh48_s2.png",
+      "signature": "",
+      "bgImg": "/20190419/1555657199301255RGW26zU.jpg",
+      "vip": false,
+      "userRole": 3
+    },
+    "liveMode": 0,
+    "pictureOrientation": 0
+  },
+  {
+    "liveId": "358699799838265344",
+    "coverPath": "/20190718/15634502960965655j9R2Fs.jpg",
+    "title": "横屏试试看",
+    "liveType": 1,
+    "status": 2,
+    "ctime": "1563450296235",
+    "userInfo": {
+      "userId": "530390",
+      "nickname": "SNH48-王睿琦",
+      "avatar": "/20190615/1560595294145uw54b8VLxR.jpg",
+      "badge": [],
+      "level": 1,
+      "isStar": true,
+      "friends": "0",
+      "followers": "0",
+      "teamLogo": "/mediasource/teamLogo2/all/snh48_x.png",
+      "signature": "",
+      "bgImg": "",
+      "vip": false,
+      "userRole": 3
+    },
+    "liveMode": 0,
+    "pictureOrientation": 0
+  },
+  {
+    "liveId": "358703600381005824",
+    "coverPath": "/20190718/1563451202198iIu00gz9cs.jpg",
+    "title": "星愿树【有润跟霏】一起来看中泰的诱惑",
+    "liveType": 1,
+    "status": 2,
+    "ctime": "1563451202445",
+    "userInfo": {
+      "userId": "327569",
+      "nickname": "GNZ48-卢静",
+      "avatar": "/20190628/15616607674307R9607YPlx.jpg",
+      "badge": [],
+      "level": 1,
+      "isStar": true,
+      "friends": "0",
+      "followers": "0",
+      "teamLogo": "/mediasource/teamLogo2/all/gnz48_n3.png",
+      "signature": "",
+      "bgImg": "",
+      "vip": false,
+      "userRole": 3
+    },
+    "liveMode": 0,
+    "pictureOrientation": 0
+  },
+  {
+    "liveId": "358709332681756672",
+    "coverPath": "/20190718/1563452565058o3A0T6eJwJ.jpg",
+    "title": "喏",
+    "liveType": 2,
+    "status": 2,
+    "ctime": "1563452569117",
+    "userInfo": {
+      "userId": "327577",
+      "nickname": "GNZ48-左婧媛",
+      "avatar": "/20190621/1561056227633Vs2F32NC9Z.jpg",
+      "badge": [],
+      "level": 1,
+      "isStar": true,
+      "friends": "0",
+      "followers": "0",
+      "teamLogo": "/mediasource/teamLogo2/all/gnz48_n3.png",
+      "signature": "",
+      "bgImg": "",
+      "vip": false,
+      "userRole": 3
+    },
+    "liveMode": 0,
+    "pictureOrientation": 0
+  }
+]

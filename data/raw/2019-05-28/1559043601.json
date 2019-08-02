@@ -1,0 +1,71 @@
+[
+  {
+    "liveId": "340206617332879360",
+    "coverPath": "/20190528/15590411747179C70NFmx4K.jpg",
+    "title": "Sing",
+    "liveType": 2,
+    "status": 2,
+    "ctime": "1559041177985",
+    "userInfo": {
+      "userId": "327576",
+      "nickname": "GNZ48-左嘉欣",
+      "avatar": "/mediasource/avatar/20190217/1550340810312V5BO1f4942.jpg",
+      "badge": [],
+      "level": 1,
+      "isStar": true,
+      "friends": "0",
+      "followers": "0",
+      "teamLogo": "/mediasource/teamLogo2/all/gnz48_n3.png",
+      "signature": "",
+      "bgImg": "",
+      "vip": false,
+      "userRole": 3
+    }
+  },
+  {
+    "liveId": "340214876190085120",
+    "coverPath": "/20190528/15590431464427076R3rX39.jpg",
+    "title": "吃粽子",
+    "liveType": 1,
+    "status": 2,
+    "ctime": "1559043147369",
+    "userInfo": {
+      "userId": "459999",
+      "nickname": "BEJ48-韩家乐",
+      "avatar": "/mediasource/avatar/20190103/1546447223080708qPty07v.jpg",
+      "badge": [],
+      "level": 1,
+      "isStar": true,
+      "friends": "0",
+      "followers": "0",
+      "teamLogo": "/mediasource/teamLogo2/all/bej48_j.png",
+      "signature": "",
+      "bgImg": "",
+      "vip": false,
+      "userRole": 3
+    }
+  },
+  {
+    "liveId": "340214311544492032",
+    "coverPath": "/20190528/1559043010856iaix47PTHh.jpg",
+    "title": "小游戏！",
+    "liveType": 2,
+    "status": 2,
+    "ctime": "1559043012491",
+    "userInfo": {
+      "userId": "677397",
+      "nickname": "SNH48-李星羽",
+      "avatar": "/mediasource/avatar/20190407/1554636108440Gu7Inz0qOi.jpg",
+      "badge": [],
+      "level": 1,
+      "isStar": true,
+      "friends": "0",
+      "followers": "0",
+      "teamLogo": "/mediasource/teamLogo2/all/snh48_x.png",
+      "signature": "",
+      "bgImg": "",
+      "vip": false,
+      "userRole": 3
+    }
+  }
+]

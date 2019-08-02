@@ -1,0 +1,140 @@
+[
+  {
+    "liveId": "347841317010477056",
+    "coverPath": "/20190618/15608614314136v356FifOG.jpg",
+    "title": "我是Shelly～",
+    "liveType": 1,
+    "status": 2,
+    "ctime": "1560861432554",
+    "userInfo": {
+      "userId": "63573",
+      "nickname": "BEJ48-熊素君",
+      "avatar": "/mediasource/avatar/20180608/1528436744438dC7138UwNE.jpg",
+      "badge": [],
+      "level": 1,
+      "isStar": true,
+      "friends": "0",
+      "followers": "0",
+      "teamLogo": "/mediasource/teamLogo2/all/bej48_b.png",
+      "signature": "",
+      "bgImg": "",
+      "vip": false,
+      "userRole": 3
+    }
+  },
+  {
+    "liveId": "347846577779183616",
+    "coverPath": "/20190618/1560862686218yxe3Fa5hNG.jpg",
+    "title": "晚上好",
+    "liveType": 1,
+    "status": 2,
+    "ctime": "1560862686503",
+    "userInfo": {
+      "userId": "679466",
+      "nickname": "BEJ48-王雨兰",
+      "avatar": "/mediasource/avatar/20181206/1544099544164SW04Goj844.jpg",
+      "badge": [],
+      "level": 1,
+      "isStar": true,
+      "friends": "0",
+      "followers": "0",
+      "teamLogo": "/mediasource/teamLogo2/all/bej48_e.png",
+      "signature": "",
+      "bgImg": "",
+      "vip": false,
+      "userRole": 3
+    }
+  },
+  {
+    "liveId": "347838108250476544",
+    "coverPath": "/20190607/1559917455433W453b6KOFJ.jpg",
+    "title": "十分钟",
+    "liveType": 1,
+    "status": 2,
+    "ctime": "1560860667232",
+    "userInfo": {
+      "userId": "327597",
+      "nickname": "BEJ48-苏杉杉",
+      "avatar": "/mediasource/avatar/20180829/1535545582428vP45t8wGVs.jpg",
+      "badge": [],
+      "level": 1,
+      "isStar": true,
+      "friends": "0",
+      "followers": "0",
+      "teamLogo": "/mediasource/teamLogo2/all/bej48_e.png",
+      "signature": "",
+      "bgImg": "",
+      "vip": false,
+      "userRole": 3
+    }
+  },
+  {
+    "liveId": "347846108570783744",
+    "coverPath": "/20190417/1555501097612kfKpnfPI4U.jpg",
+    "title": "聊会天",
+    "liveType": 1,
+    "status": 2,
+    "ctime": "1560862574637",
+    "userInfo": {
+      "userId": "538697",
+      "nickname": "BEJ48-沈小爱",
+      "avatar": "/mediasource/avatar/20181017/1539711004316O80o9i0R5Q.jpg",
+      "badge": [],
+      "level": 1,
+      "isStar": true,
+      "friends": "0",
+      "followers": "0",
+      "teamLogo": "/mediasource/teamLogo2/all/bej48_b.png",
+      "signature": "",
+      "bgImg": "",
+      "vip": false,
+      "userRole": 3
+    }
+  },
+  {
+    "liveId": "347841522111942656",
+    "coverPath": "/20190618/156086148095547doCJWo81.jpg",
+    "title": "今天很自觉",
+    "liveType": 1,
+    "status": 2,
+    "ctime": "1560861481040",
+    "userInfo": {
+      "userId": "327577",
+      "nickname": "GNZ48-左婧媛",
+      "avatar": "/mediasource/avatar/20190322/1553266626348lHGUhfOs02.jpg",
+      "badge": [],
+      "level": 1,
+      "isStar": true,
+      "friends": "0",
+      "followers": "0",
+      "teamLogo": "/mediasource/teamLogo2/all/gnz48_n3.png",
+      "signature": "",
+      "bgImg": "",
+      "vip": false,
+      "userRole": 3
+    }
+  },
+  {
+    "liveId": "347833777488990208",
+    "coverPath": "/20190618/15608596344236c93pLO25E.jpg",
+    "title": "来吧！",
+    "liveType": 1,
+    "status": 2,
+    "ctime": "1560859634604",
+    "userInfo": {
+      "userId": "327572",
+      "nickname": "GNZ48-冼燊楠",
+      "avatar": "/mediasource/avatar/20180428/1524928948434dj5lWG6d5W.jpg",
+      "badge": [],
+      "level": 1,
+      "isStar": true,
+      "friends": "0",
+      "followers": "0",
+      "teamLogo": "/mediasource/teamLogo2/all/gnz48_n3.png",
+      "signature": "",
+      "bgImg": "",
+      "vip": false,
+      "userRole": 3
+    }
+  }
+]

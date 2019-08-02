@@ -1,0 +1,140 @@
+[
+  {
+    "liveId": "348201085898133504",
+    "coverPath": "/20190619/15609472075951yHr86q4Vo.jpg",
+    "title": "黑屏了",
+    "liveType": 1,
+    "status": 2,
+    "ctime": "1560947207845",
+    "userInfo": {
+      "userId": "677404",
+      "nickname": "SNH48-周诗雨",
+      "avatar": "/20190605/1559721434750limxgLlGzq.jpg",
+      "badge": [],
+      "level": 1,
+      "isStar": true,
+      "friends": "0",
+      "followers": "0",
+      "teamLogo": "/mediasource/teamLogo2/all/snh48_n2.png",
+      "signature": "",
+      "bgImg": "",
+      "vip": false,
+      "userRole": 3
+    }
+  },
+  {
+    "liveId": "348192081193013248",
+    "coverPath": "/20190619/1560945060519i8Y8ylT2AG.jpg",
+    "title": "解除思念",
+    "liveType": 1,
+    "status": 2,
+    "ctime": "1560945060887",
+    "userInfo": {
+      "userId": "327581",
+      "nickname": "BEJ48-青钰雯",
+      "avatar": "/mediasource/avatar/1508308875165CqB71FDr3h.jpg",
+      "badge": [],
+      "level": 1,
+      "isStar": true,
+      "friends": "0",
+      "followers": "0",
+      "teamLogo": "/mediasource/teamLogo2/all/bej48_b.png",
+      "signature": "",
+      "bgImg": "",
+      "vip": false,
+      "userRole": 3
+    }
+  },
+  {
+    "liveId": "348191288305979392",
+    "coverPath": "/20190619/1560944871609Kg8FWM657k.jpg",
+    "title": "欧美妆容大挑战！慎入！",
+    "liveType": 1,
+    "status": 2,
+    "ctime": "1560944871850",
+    "userInfo": {
+      "userId": "11",
+      "nickname": "SNH48-温晶婕",
+      "avatar": "/mediasource/avatar/20181022/15402114005179J2yYY5Zt8.jpg",
+      "badge": [],
+      "level": 1,
+      "isStar": true,
+      "friends": "0",
+      "followers": "0",
+      "teamLogo": "/mediasource/teamLogo2/all/snh48_s2.png",
+      "signature": "",
+      "bgImg": "",
+      "vip": false,
+      "userRole": 3
+    }
+  },
+  {
+    "liveId": "348194045565931520",
+    "coverPath": "/20190619/1560945528791GLrKCyENh1.jpg",
+    "title": "我是Shelly～",
+    "liveType": 1,
+    "status": 2,
+    "ctime": "1560945529595",
+    "userInfo": {
+      "userId": "63573",
+      "nickname": "BEJ48-熊素君",
+      "avatar": "/mediasource/avatar/20180608/1528436744438dC7138UwNE.jpg",
+      "badge": [],
+      "level": 1,
+      "isStar": true,
+      "friends": "0",
+      "followers": "0",
+      "teamLogo": "/mediasource/teamLogo2/all/bej48_b.png",
+      "signature": "",
+      "bgImg": "",
+      "vip": false,
+      "userRole": 3
+    }
+  },
+  {
+    "liveId": "348201377913966592",
+    "coverPath": "/20190521/15584539751913E156H21u2.jpg",
+    "title": "(灬ºωº灬)",
+    "liveType": 2,
+    "status": 2,
+    "ctime": "1560947277467",
+    "userInfo": {
+      "userId": "407101",
+      "nickname": "BEJ48-陈雅钰",
+      "avatar": "/mediasource/avatar/20180608/15284236842127d0f40wTba.jpg",
+      "badge": [],
+      "level": 1,
+      "isStar": true,
+      "friends": "0",
+      "followers": "0",
+      "teamLogo": "/mediasource/teamLogo2/all/bej48_j.png",
+      "signature": "",
+      "bgImg": "",
+      "vip": false,
+      "userRole": 3
+    }
+  },
+  {
+    "liveId": "348195108671000576",
+    "coverPath": "/20190619/1560945782163x7Mu9707b3.jpg",
+    "title": ".",
+    "liveType": 1,
+    "status": 2,
+    "ctime": "1560945782780",
+    "userInfo": {
+      "userId": "49005",
+      "nickname": "SNH48-沈梦瑶",
+      "avatar": "/mediasource/avatar/20190302/155146332801927FZq9873v.jpg",
+      "badge": [],
+      "level": 1,
+      "isStar": true,
+      "friends": "0",
+      "followers": "0",
+      "teamLogo": "/mediasource/teamLogo2/all/snh48_h2.png",
+      "signature": "",
+      "bgImg": "",
+      "vip": false,
+      "userRole": 3
+    }
+  }
+]

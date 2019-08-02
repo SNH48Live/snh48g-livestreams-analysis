@@ -1,0 +1,105 @@
+[
+  {
+    "liveId": "361869252696543232",
+    "coverPath": "/20190727/1564205952435slqg1gOAx2.jpg",
+    "title": "你们能找到我吗？ 魔鬼返图",
+    "liveType": 1,
+    "status": 2,
+    "ctime": "1564205953012",
+    "userInfo": {
+      "userId": "459995",
+      "nickname": "GNZ48-赖梓惜",
+      "avatar": "/mediasource/avatar/20181220/15453201878674NK0vNJ9Gl.jpg",
+      "badge": [],
+      "level": 1,
+      "isStar": true,
+      "friends": "0",
+      "followers": "0",
+      "teamLogo": "/mediasource/teamLogo/all/gnz_z_log2.png",
+      "signature": "",
+      "bgImg": "",
+      "vip": false,
+      "userRole": 3
+    },
+    "liveMode": 0,
+    "pictureOrientation": 0
+  },
+  {
+    "liveId": "361864889685053440",
+    "coverPath": "/20190727/1564204911808RAjHzH1JFn.jpg",
+    "title": "袋你玩总选",
+    "liveType": 1,
+    "status": 2,
+    "ctime": "1564204912824",
+    "userInfo": {
+      "userId": "63",
+      "nickname": "袋王",
+      "avatar": "/mediasource/avatar/20180816/1534398200953949Hs98BEy.jpg",
+      "badge": [
+        "/mediasource/badge/small/ddjj_1_s.png",
+        "/mediasource/badge/small/shz_1_s.png"
+      ],
+      "level": 3,
+      "isStar": false,
+      "friends": "0",
+      "followers": "0",
+      "teamLogo": "",
+      "signature": "",
+      "bgImg": "",
+      "vip": false,
+      "userRole": 999
+    },
+    "liveMode": 0,
+    "pictureOrientation": 0
+  },
+  {
+    "liveId": "361868849854615552",
+    "coverPath": "/20190727/1564200489841RivRdI6iX3.jpg",
+    "title": "康康桂呢",
+    "liveType": 1,
+    "status": 2,
+    "ctime": "1564205857002",
+    "userInfo": {
+      "userId": "417311",
+      "nickname": "GNZ48-陈桂君",
+      "avatar": "/20190711/1562819633088Q0tn58VHkR.jpg",
+      "badge": [],
+      "level": 2,
+      "isStar": true,
+      "friends": "0",
+      "followers": "0",
+      "teamLogo": "/mediasource/teamLogo/all/gnz_z_log2.png",
+      "signature": "",
+      "bgImg": "",
+      "vip": false,
+      "userRole": 3
+    },
+    "liveMode": 0,
+    "pictureOrientation": 0
+  },
+  {
+    "liveId": "361838979195932672",
+    "coverPath": "/20190727/15641987343335Y5e4XdZ83.jpg",
+    "title": "hello",
+    "liveType": 1,
+    "status": 2,
+    "ctime": "1564198734692",
+    "userInfo": {
+      "userId": "327563",
+      "nickname": "GNZ48-陈楠茜",
+      "avatar": "/20190726/1564133007024eY28U43ZAT.jpg",
+      "badge": [],
+      "level": 1,
+      "isStar": true,
+      "friends": "0",
+      "followers": "0",
+      "teamLogo": "/mediasource/teamLogo2/all/gnz48_n3.png",
+      "signature": "",
+      "bgImg": "",
+      "vip": false,
+      "userRole": 3
+    },
+    "liveMode": 0,
+    "pictureOrientation": 0
+  }
+]

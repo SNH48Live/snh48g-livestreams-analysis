@@ -1,0 +1,94 @@
+[
+  {
+    "liveId": "331530664515801088",
+    "coverPath": "/20190504/155697266916720wrJlfmQl.jpg",
+    "title": "！",
+    "liveType": 1,
+    "status": 2,
+    "ctime": "1556972669961",
+    "userInfo": {
+      "userId": "609002",
+      "nickname": "BEJ48-赵天杨",
+      "avatar": "/mediasource/avatar/20190308/1551995787450W9Njd26877.jpg",
+      "badge": [],
+      "level": 1,
+      "isStar": true,
+      "friends": "0",
+      "followers": "0",
+      "teamLogo": "/mediasource/teamLogo2/all/bej48_b.png",
+      "signature": "",
+      "bgImg": "",
+      "vip": false,
+      "userRole": 3
+    }
+  },
+  {
+    "liveId": "331533975432269824",
+    "coverPath": "/20190504/1556973458728p4S22RkaG3.jpg",
+    "title": "肥来啦",
+    "liveType": 1,
+    "status": 2,
+    "ctime": "1556973459346",
+    "userInfo": {
+      "userId": "530392",
+      "nickname": "BEJ48-张羽涵",
+      "avatar": "/mediasource/avatar/20181008/1538995322677x4XyNKiR14.jpg",
+      "badge": [],
+      "level": 1,
+      "isStar": true,
+      "friends": "0",
+      "followers": "0",
+      "teamLogo": "/mediasource/teamLogo2/all/bej48_b.png",
+      "signature": "",
+      "bgImg": "",
+      "vip": false,
+      "userRole": 3
+    }
+  },
+  {
+    "liveId": "331532244367511552",
+    "coverPath": "/20190504/15569730458005tP73xsV53.jpg",
+    "title": "聊天",
+    "liveType": 1,
+    "status": 2,
+    "ctime": "1556973046627",
+    "userInfo": {
+      "userId": "63554",
+      "nickname": "BEJ48-段艺璇",
+      "avatar": "/mediasource/avatar/20190226/1551176339365r4BVxn60hs.jpg",
+      "badge": [],
+      "level": 1,
+      "isStar": true,
+      "friends": "0",
+      "followers": "0",
+      "teamLogo": "/mediasource/teamLogo2/all/bej48_b.png",
+      "signature": "",
+      "bgImg": "",
+      "vip": false,
+      "userRole": 3
+    }
+  },
+  {
+    "liveId": "331515514937217024",
+    "coverPath": "/20190504/15569690565663IZ8QE8rXH.jpg",
+    "title": "Hi",
+    "liveType": 2,
+    "status": 2,
+    "ctime": "1556969058020",
+    "userInfo": {
+      "userId": "327587",
+      "nickname": "BEJ48-冯思佳",
+      "avatar": "/mediasource/avatar/20180420/1524158237082F67tg21k3I.jpg",
+      "badge": [],
+      "level": 1,
+      "isStar": true,
+      "friends": "0",
+      "followers": "0",
+      "teamLogo": "/mediasource/teamLogo2/all/bej48_e.png",
+      "signature": "",
+      "bgImg": "/20190416/1555430011580O9sDA7w1gQ.jpg",
+      "vip": false,
+      "userRole": 3
+    }
+  }
+]

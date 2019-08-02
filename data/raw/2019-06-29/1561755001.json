@@ -1,0 +1,48 @@
+[
+  {
+    "liveId": "351535752500023296",
+    "coverPath": "/20190629/1561742254120tDOgCKWnTQ.jpg",
+    "title": "跳完剩下的87遍青春闪电",
+    "liveType": 1,
+    "status": 2,
+    "ctime": "1561742254614",
+    "userInfo": {
+      "userId": "614756",
+      "nickname": "SNH48-林舒晴",
+      "avatar": "/20190607/1559840600033vb2P7aSx96.jpg",
+      "badge": [],
+      "level": 1,
+      "isStar": true,
+      "friends": "0",
+      "followers": "0",
+      "teamLogo": "/mediasource/teamLogo2/all/snh48_h2.png",
+      "signature": "",
+      "bgImg": "",
+      "vip": false,
+      "userRole": 3
+    }
+  },
+  {
+    "liveId": "351587932506492928",
+    "coverPath": "/20190629/1561754690166c8ERPcbT06.jpg",
+    "title": "怎么就是睡不着呢！！！！！",
+    "liveType": 2,
+    "status": 2,
+    "ctime": "1561754695297",
+    "userInfo": {
+      "userId": "530390",
+      "nickname": "SNH48-王睿琦",
+      "avatar": "/20190615/1560595294145uw54b8VLxR.jpg",
+      "badge": [],
+      "level": 1,
+      "isStar": true,
+      "friends": "0",
+      "followers": "0",
+      "teamLogo": "/mediasource/teamLogo2/all/snh48_x.png",
+      "signature": "",
+      "bgImg": "",
+      "vip": false,
+      "userRole": 3
+    }
+  }
+]

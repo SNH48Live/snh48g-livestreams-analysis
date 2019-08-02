@@ -1,0 +1,94 @@
+[
+  {
+    "liveId": "341005579140796416",
+    "coverPath": "",
+    "title": "🐷🐷🐷",
+    "liveType": 1,
+    "status": 2,
+    "ctime": "1559231665644",
+    "userInfo": {
+      "userId": "679448",
+      "nickname": "SNH48-陈俊羽",
+      "avatar": "/mediasource/avatar/20190226/155111833498635ny9u0RJL.jpg",
+      "badge": [],
+      "level": 1,
+      "isStar": true,
+      "friends": "0",
+      "followers": "0",
+      "teamLogo": "/mediasource/teamLogo2/all/snh48_s2.png",
+      "signature": "",
+      "bgImg": "/20190420/1555775954557Kip4ffmh0K.jpg",
+      "vip": false,
+      "userRole": 3
+    }
+  },
+  {
+    "liveId": "341010340216901632",
+    "coverPath": "/20190531/1559232800155jdwlddKzFc.jpg",
+    "title": "营业🈺️",
+    "liveType": 1,
+    "status": 2,
+    "ctime": "1559232800773",
+    "userInfo": {
+      "userId": "2508",
+      "nickname": "SNH48-张昕",
+      "avatar": "/mediasource/avatar/20190115/15475321892217K6V9FHtbL.jpg",
+      "badge": [],
+      "level": 1,
+      "isStar": true,
+      "friends": "0",
+      "followers": "0",
+      "teamLogo": "/mediasource/teamLogo2/all/snh48_h2.png",
+      "signature": "",
+      "bgImg": "",
+      "vip": false,
+      "userRole": 3
+    }
+  },
+  {
+    "liveId": "341005791586488320",
+    "coverPath": "/20190530/15592317148464NbzCGnVnM.jpg",
+    "title": "我是Shelly～",
+    "liveType": 2,
+    "status": 2,
+    "ctime": "1559231716294",
+    "userInfo": {
+      "userId": "63573",
+      "nickname": "BEJ48-熊素君",
+      "avatar": "/mediasource/avatar/20180608/1528436744438dC7138UwNE.jpg",
+      "badge": [],
+      "level": 1,
+      "isStar": true,
+      "friends": "0",
+      "followers": "0",
+      "teamLogo": "/mediasource/teamLogo2/all/bej48_b.png",
+      "signature": "",
+      "bgImg": "",
+      "vip": false,
+      "userRole": 3
+    }
+  },
+  {
+    "liveId": "341012622220267520",
+    "coverPath": "/20190531/1559233342850G3286Qs2zo.jpg",
+    "title": "随便聊聊",
+    "liveType": 2,
+    "status": 2,
+    "ctime": "1559233344236",
+    "userInfo": {
+      "userId": "652650",
+      "nickname": "BEJ48-杨鑫",
+      "avatar": "/mediasource/avatar/20190408/155470403898675mtiA9PXJ.jpg",
+      "badge": [],
+      "level": 1,
+      "isStar": true,
+      "friends": "0",
+      "followers": "0",
+      "teamLogo": "/mediasource/teamLogo2/all/bej48_b.png",
+      "signature": "",
+      "bgImg": "",
+      "vip": false,
+      "userRole": 3
+    }
+  }
+]

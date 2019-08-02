@@ -1,0 +1,48 @@
+[
+  {
+    "liveId": "327560456365215744",
+    "coverPath": "/20190423/1556026097851HoBpq6N0s9.jpg",
+    "title": "五毛钱的天",
+    "liveType": 1,
+    "status": 2,
+    "ctime": "1556026098576",
+    "userInfo": {
+      "userId": "867892",
+      "nickname": "SNH48-郭爽",
+      "avatar": "/mediasource/avatar/20190402/1554202021273A36CLf5u1W.jpg",
+      "badge": [],
+      "level": 1,
+      "isStar": true,
+      "friends": "0",
+      "followers": "0",
+      "teamLogo": "/mediasource/teamLogo2/all/snh48_h2.png",
+      "signature": "",
+      "bgImg": "/20190415/1555328012671mwDhP64Sl1.jpg",
+      "vip": false,
+      "userRole": 3
+    }
+  },
+  {
+    "liveId": "327557667668955136",
+    "coverPath": "",
+    "title": "直播",
+    "liveType": 1,
+    "status": 2,
+    "ctime": "1556025433374",
+    "userInfo": {
+      "userId": "6747",
+      "nickname": "SNH48-张丹三",
+      "avatar": "/mediasource/avatar/20180703/1530627634119fAmNL4rPBH.jpg",
+      "badge": [],
+      "level": 1,
+      "isStar": true,
+      "friends": "0",
+      "followers": "0",
+      "teamLogo": "/mediasource/teamLogo2/all/snh48_x.png",
+      "signature": "",
+      "bgImg": "",
+      "vip": false,
+      "userRole": 3
+    }
+  }
+]

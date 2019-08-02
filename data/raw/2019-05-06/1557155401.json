@@ -1,0 +1,71 @@
+[
+  {
+    "liveId": "332279358135537664",
+    "coverPath": "/20190416/1555387399078225ft9UL3r.jpg",
+    "title": "在线聊天！",
+    "liveType": 1,
+    "status": 2,
+    "ctime": "1557151171950",
+    "userInfo": {
+      "userId": "874698",
+      "nickname": "IDFT-鄢羽蝶",
+      "avatar": "/mediasource/avatar/20190410/1554910632819tY6VCI2M8S.jpg",
+      "badge": [],
+      "level": 1,
+      "isStar": true,
+      "friends": "0",
+      "followers": "0",
+      "teamLogo": "/mediasource/teamLogo/all/idft_logo_2.png",
+      "signature": "",
+      "bgImg": "",
+      "vip": false,
+      "userRole": 3
+    }
+  },
+  {
+    "liveId": "332285678783893504",
+    "coverPath": "/20190506/1557152675901jIcUKruRDd.jpg",
+    "title": "我是Shelly～",
+    "liveType": 2,
+    "status": 2,
+    "ctime": "1557152679390",
+    "userInfo": {
+      "userId": "63573",
+      "nickname": "BEJ48-熊素君",
+      "avatar": "/mediasource/avatar/20180608/1528436744438dC7138UwNE.jpg",
+      "badge": [],
+      "level": 1,
+      "isStar": true,
+      "friends": "0",
+      "followers": "0",
+      "teamLogo": "/mediasource/teamLogo2/all/bej48_b.png",
+      "signature": "",
+      "bgImg": "",
+      "vip": false,
+      "userRole": 3
+    }
+  },
+  {
+    "liveId": "332296781047861248",
+    "coverPath": "/20190506/15571553256420c6h9vVlZ8.jpg",
+    "title": "啊？",
+    "liveType": 1,
+    "status": 2,
+    "ctime": "1557155326376",
+    "userInfo": {
+      "userId": "594003",
+      "nickname": "SNH48-王奕",
+      "avatar": "/mediasource/avatar/20190328/1553709485312Qb1g03r938.jpg",
+      "badge": [],
+      "level": 1,
+      "isStar": true,
+      "friends": "0",
+      "followers": "0",
+      "teamLogo": "/mediasource/teamLogo2/all/snh48_h2.png",
+      "signature": "",
+      "bgImg": "",
+      "vip": false,
+      "userRole": 3
+    }
+  }
+]

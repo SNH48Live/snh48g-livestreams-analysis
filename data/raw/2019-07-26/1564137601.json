@@ -1,0 +1,102 @@
+[
+  {
+    "liveId": "361567781115465728",
+    "coverPath": "/20190726/1564134075953qX1X6asq0h.jpg",
+    "title": "来了",
+    "liveType": 1,
+    "status": 2,
+    "ctime": "1564134076621",
+    "userInfo": {
+      "userId": "327571",
+      "nickname": "GNZ48-唐莉佳",
+      "avatar": "/mediasource/avatar/20190130/154883183192989139ZJ472.jpg",
+      "badge": [],
+      "level": 1,
+      "isStar": true,
+      "friends": "0",
+      "followers": "0",
+      "teamLogo": "/mediasource/teamLogo2/all/gnz48_n3.png",
+      "signature": "",
+      "bgImg": "",
+      "vip": false,
+      "userRole": 3
+    },
+    "liveMode": 0,
+    "pictureOrientation": 0
+  },
+  {
+    "liveId": "361582032269938688",
+    "coverPath": "/20190726/1564137473339p71IwAMX8t.jpg",
+    "title": "十分钟～",
+    "liveType": 1,
+    "status": 2,
+    "ctime": "1564137474361",
+    "userInfo": {
+      "userId": "327597",
+      "nickname": "BEJ48-苏杉杉",
+      "avatar": "/mediasource/avatar/20180829/1535545582428vP45t8wGVs.jpg",
+      "badge": [],
+      "level": 1,
+      "isStar": true,
+      "friends": "0",
+      "followers": "0",
+      "teamLogo": "/mediasource/teamLogo2/all/bej48_e.png",
+      "signature": "",
+      "bgImg": "",
+      "vip": false,
+      "userRole": 3
+    },
+    "liveMode": 0,
+    "pictureOrientation": 0
+  },
+  {
+    "liveId": "361570704935424000",
+    "coverPath": "/20190726/15641347730367yh9HokHB3.jpg",
+    "title": "太无聊了",
+    "liveType": 1,
+    "status": 2,
+    "ctime": "1564134773715",
+    "userInfo": {
+      "userId": "707372",
+      "nickname": "GNZ48-徐慧玲",
+      "avatar": "/mediasource/avatar/20181115/1542274695427Rttf165ChH.jpg",
+      "badge": [],
+      "level": 1,
+      "isStar": true,
+      "friends": "0",
+      "followers": "0",
+      "teamLogo": "/mediasource/teamLogo2/all/gnz48_g.png",
+      "signature": "",
+      "bgImg": "",
+      "vip": false,
+      "userRole": 3
+    },
+    "liveMode": 0,
+    "pictureOrientation": 0
+  },
+  {
+    "liveId": "361578004077154304",
+    "coverPath": "/20190726/15641365131404o9TADh84M.jpg",
+    "title": "跟奶盖分手",
+    "liveType": 1,
+    "status": 2,
+    "ctime": "1564136513965",
+    "userInfo": {
+      "userId": "327575",
+      "nickname": "GNZ48-郑丹妮",
+      "avatar": "/mediasource/avatar/20190209/1549721765053uy7481V1E8.jpg",
+      "badge": [],
+      "level": 1,
+      "isStar": true,
+      "friends": "0",
+      "followers": "0",
+      "teamLogo": "/mediasource/teamLogo2/all/gnz48_n3.png",
+      "signature": "",
+      "bgImg": "",
+      "vip": false,
+      "userRole": 3
+    },
+    "liveMode": 0,
+    "pictureOrientation": 0
+  }
+]

@@ -1,0 +1,117 @@
+[
+  {
+    "liveId": "335567038688595968",
+    "coverPath": "/20190515/1557935015822372611xaqg.jpg",
+    "title": "假剧透，真直播",
+    "liveType": 1,
+    "status": 2,
+    "ctime": "1557935016558",
+    "userInfo": {
+      "userId": "677397",
+      "nickname": "SNH48-李星羽",
+      "avatar": "/mediasource/avatar/20190407/1554636108440Gu7Inz0qOi.jpg",
+      "badge": [],
+      "level": 1,
+      "isStar": true,
+      "friends": "0",
+      "followers": "0",
+      "teamLogo": "/mediasource/teamLogo2/all/snh48_x.png",
+      "signature": "",
+      "bgImg": "",
+      "vip": false,
+      "userRole": 3
+    }
+  },
+  {
+    "liveId": "335578441684160512",
+    "coverPath": "/20190516/1557937732977633987ElD6.jpg",
+    "title": "✌🏻我来了",
+    "liveType": 2,
+    "status": 2,
+    "ctime": "1557937734793",
+    "userInfo": {
+      "userId": "707372",
+      "nickname": "GNZ48-徐慧玲",
+      "avatar": "/mediasource/avatar/20181115/1542274695427Rttf165ChH.jpg",
+      "badge": [],
+      "level": 1,
+      "isStar": true,
+      "friends": "0",
+      "followers": "0",
+      "teamLogo": "/mediasource/teamLogo2/all/gnz48_g.png",
+      "signature": "",
+      "bgImg": "",
+      "vip": false,
+      "userRole": 3
+    }
+  },
+  {
+    "liveId": "335568050245668864",
+    "coverPath": "/20190515/1557935255439F3yqaGbCjq.jpg",
+    "title": "一会儿。",
+    "liveType": 2,
+    "status": 2,
+    "ctime": "1557935257732",
+    "userInfo": {
+      "userId": "538697",
+      "nickname": "BEJ48-沈小爱",
+      "avatar": "/mediasource/avatar/20181017/1539711004316O80o9i0R5Q.jpg",
+      "badge": [],
+      "level": 1,
+      "isStar": true,
+      "friends": "0",
+      "followers": "0",
+      "teamLogo": "/mediasource/teamLogo2/all/bej48_b.png",
+      "signature": "",
+      "bgImg": "",
+      "vip": false,
+      "userRole": 3
+    }
+  },
+  {
+    "liveId": "335568111511867392",
+    "coverPath": "/20190515/1557935264658TJUjk0q25s.jpg",
+    "title": "晚上好",
+    "liveType": 2,
+    "status": 2,
+    "ctime": "1557935271759",
+    "userInfo": {
+      "userId": "707371",
+      "nickname": "GNZ48-徐楚雯",
+      "avatar": "/mediasource/avatar/20180815/15343440862043x44290f7E.jpg",
+      "badge": [],
+      "level": 1,
+      "isStar": true,
+      "friends": "0",
+      "followers": "0",
+      "teamLogo": "/mediasource/teamLogo2/all/gnz48_g.png",
+      "signature": "",
+      "bgImg": "/20190416/1555422577449TrJP33rlL3.jpg",
+      "vip": false,
+      "userRole": 3
+    }
+  },
+  {
+    "liveId": "335571874234568704",
+    "coverPath": "/20190516/1557936167017V2BcsqAJfy.jpg",
+    "title": "只要人人都献出一点爱，世界将变成美好的明天",
+    "liveType": 2,
+    "status": 2,
+    "ctime": "1557936169008",
+    "userInfo": {
+      "userId": "530450",
+      "nickname": "GNZ48-张秋怡",
+      "avatar": "/mediasource/avatar/20181101/154107922012736pQ9XNf5Q.jpg",
+      "badge": [],
+      "level": 1,
+      "isStar": true,
+      "friends": "0",
+      "followers": "0",
+      "teamLogo": "/mediasource/teamLogo/all/gnz_z_log2.png",
+      "signature": "",
+      "bgImg": "",
+      "vip": false,
+      "userRole": 3
+    }
+  }
+]

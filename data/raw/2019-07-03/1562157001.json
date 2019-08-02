@@ -1,0 +1,94 @@
+[
+  {
+    "liveId": "353261854947872768",
+    "coverPath": "/20190703/1562153788865tE8K77XEs6.jpg",
+    "title": "我来了～",
+    "liveType": 1,
+    "status": 2,
+    "ctime": "1562153789507",
+    "userInfo": {
+      "userId": "874508",
+      "nickname": "IDFT-尚官",
+      "avatar": "/mediasource/avatar/20190407/1554629669002MgHL7DDwv3.jpg",
+      "badge": [],
+      "level": 1,
+      "isStar": true,
+      "friends": "0",
+      "followers": "0",
+      "teamLogo": "/mediasource/teamLogo/all/idft_logo_2.png",
+      "signature": "",
+      "bgImg": "/20190416/15553995584983HTG023YQA.jpg",
+      "vip": false,
+      "userRole": 3
+    }
+  },
+  {
+    "liveId": "353274531401240576",
+    "coverPath": "/20190703/1562156810931148kQ1OK7N.jpg",
+    "title": "瞎聊",
+    "liveType": 2,
+    "status": 2,
+    "ctime": "1562156811515",
+    "userInfo": {
+      "userId": "460005",
+      "nickname": "SNH48-赵佳蕊",
+      "avatar": "/20190620/1561022216608Jbw49Cw427.jpg",
+      "badge": [],
+      "level": 1,
+      "isStar": true,
+      "friends": "0",
+      "followers": "0",
+      "teamLogo": "/mediasource/teamLogo2/all/snh48_n2.png",
+      "signature": "",
+      "bgImg": "/20190417/15554923084801bQ9h18moa.jpg",
+      "vip": false,
+      "userRole": 3
+    }
+  },
+  {
+    "liveId": "353267080589283328",
+    "coverPath": "/20190703/1562155034127Pau6bBO59q.jpg",
+    "title": "🎄心愿树下的你和我",
+    "liveType": 1,
+    "status": 2,
+    "ctime": "1562155035397",
+    "userInfo": {
+      "userId": "417321",
+      "nickname": "GNZ48-农燕萍",
+      "avatar": "/mediasource/avatar/20190320/15530499365132cGb73U939.jpg",
+      "badge": [],
+      "level": 1,
+      "isStar": true,
+      "friends": "0",
+      "followers": "0",
+      "teamLogo": "/mediasource/teamLogo/all/gnz_z_log2.png",
+      "signature": "",
+      "bgImg": "",
+      "vip": false,
+      "userRole": 3
+    }
+  },
+  {
+    "liveId": "353271032068247552",
+    "coverPath": "/20190703/1562155975664hlq4583khO.jpg",
+    "title": "挣分挣分！！！",
+    "liveType": 2,
+    "status": 2,
+    "ctime": "1562155977111",
+    "userInfo": {
+      "userId": "679462",
+      "nickname": "IDFT-李苏洪",
+      "avatar": "/20190607/1559869428179JqoL4NSWWP.jpg",
+      "badge": [],
+      "level": 2,
+      "isStar": true,
+      "friends": "0",
+      "followers": "0",
+      "teamLogo": "/mediasource/teamLogo/all/idft_logo_2.png",
+      "signature": "",
+      "bgImg": "/20190517/1558028103609jr0FjKGhIq.jpg",
+      "vip": false,
+      "userRole": 3
+    }
+  }
+]

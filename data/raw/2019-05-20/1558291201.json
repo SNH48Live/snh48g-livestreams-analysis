@@ -1,0 +1,71 @@
+[
+  {
+    "liveId": "337034375816089600",
+    "coverPath": "/20190520/15582848563499kbp1hvO15.jpg",
+    "title": "略",
+    "liveType": 1,
+    "status": 2,
+    "ctime": "1558284856990",
+    "userInfo": {
+      "userId": "63554",
+      "nickname": "BEJ48-段艺璇",
+      "avatar": "/mediasource/avatar/20190226/1551176339365r4BVxn60hs.jpg",
+      "badge": [],
+      "level": 1,
+      "isStar": true,
+      "friends": "0",
+      "followers": "0",
+      "teamLogo": "/mediasource/teamLogo2/all/bej48_b.png",
+      "signature": "",
+      "bgImg": "",
+      "vip": false,
+      "userRole": 3
+    }
+  },
+  {
+    "liveId": "337028863477223424",
+    "coverPath": "/20190520/1558283542032JYjuVvarVc.jpg",
+    "title": "开启夜宵模式😋",
+    "liveType": 1,
+    "status": 2,
+    "ctime": "1558283542292",
+    "userInfo": {
+      "userId": "607511",
+      "nickname": "GNZ48-邓惠恩",
+      "avatar": "/mediasource/avatar/20180804/1533387238713CbLTgA8Tm8.jpg",
+      "badge": [],
+      "level": 1,
+      "isStar": true,
+      "friends": "0",
+      "followers": "0",
+      "teamLogo": "/mediasource/teamLogo/all/gnz_z_log2.png",
+      "signature": "",
+      "bgImg": "/20190417/1555467915530Kem6b10H0U.jpg",
+      "vip": false,
+      "userRole": 3
+    }
+  },
+  {
+    "liveId": "337049758958686208",
+    "coverPath": "/20190520/155828852411074ha5akQ2X.jpg",
+    "title": "冲浪🏄‍♀️",
+    "liveType": 1,
+    "status": 2,
+    "ctime": "1558288524617",
+    "userInfo": {
+      "userId": "711735",
+      "nickname": "BEJ48-曲美霖",
+      "avatar": "/mediasource/avatar/20190220/1550643122590xo68HjPx7R.jpg",
+      "badge": [],
+      "level": 1,
+      "isStar": true,
+      "friends": "0",
+      "followers": "0",
+      "teamLogo": "/mediasource/teamLogo2/all/bej48_b.png",
+      "signature": "",
+      "bgImg": "",
+      "vip": false,
+      "userRole": 3
+    }
+  }
+]

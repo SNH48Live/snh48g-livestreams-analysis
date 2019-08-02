@@ -1,0 +1,48 @@
+[
+  {
+    "liveId": "335465910147813376",
+    "coverPath": "/20190515/1557910905010uaw0XW28X5.jpg",
+    "title": "第二季“瑶瑶来了”的第一期。肚子饿了吗",
+    "liveType": 1,
+    "status": 2,
+    "ctime": "1557910905634",
+    "userInfo": {
+      "userId": "49005",
+      "nickname": "SNH48-沈梦瑶",
+      "avatar": "/mediasource/avatar/20190302/155146332801927FZq9873v.jpg",
+      "badge": [],
+      "level": 1,
+      "isStar": true,
+      "friends": "0",
+      "followers": "0",
+      "teamLogo": "/mediasource/teamLogo2/all/snh48_h2.png",
+      "signature": "",
+      "bgImg": "",
+      "vip": false,
+      "userRole": 3
+    }
+  },
+  {
+    "liveId": "335471061541654528",
+    "coverPath": "/20190515/155791213329476rHpQmuxR.jpg",
+    "title": "嘿",
+    "liveType": 1,
+    "status": 2,
+    "ctime": "1557912133823",
+    "userInfo": {
+      "userId": "39",
+      "nickname": "SNH48-吴哲晗",
+      "avatar": "/mediasource/avatar/20190124/1548327409737qi2IxvgK29.jpg",
+      "badge": [],
+      "level": 1,
+      "isStar": true,
+      "friends": "0",
+      "followers": "0",
+      "teamLogo": "/mediasource/teamLogo2/all/snh48_s2.png",
+      "signature": "",
+      "bgImg": "",
+      "vip": false,
+      "userRole": 3
+    }
+  }
+]

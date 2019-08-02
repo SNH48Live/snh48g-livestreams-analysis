@@ -1,0 +1,102 @@
+[
+  {
+    "liveId": "354022083843133440",
+    "coverPath": "/20190705/15623350414909Xglndot3v.jpg",
+    "title": "我来了～",
+    "liveType": 1,
+    "status": 2,
+    "ctime": "1562335041717",
+    "userInfo": {
+      "userId": "874508",
+      "nickname": "IDFT-尚官",
+      "avatar": "/20190705/15623285664780C88m2lAD3.jpg",
+      "badge": [],
+      "level": 1,
+      "isStar": true,
+      "friends": "0",
+      "followers": "0",
+      "teamLogo": "/mediasource/teamLogo/all/idft_logo_2.png",
+      "signature": "",
+      "bgImg": "/20190416/15553995584983HTG023YQA.jpg",
+      "vip": false,
+      "userRole": 3
+    },
+    "liveMode": 0,
+    "pictureOrientation": 0
+  },
+  {
+    "liveId": "354042145887031296",
+    "coverPath": "/20190705/1562339823489uV9l3iKH48.jpg",
+    "title": "7.3 七月的颜色",
+    "liveType": 2,
+    "status": 2,
+    "ctime": "1562339824959",
+    "userInfo": {
+      "userId": "327566",
+      "nickname": "GNZ48-洪静雯",
+      "avatar": "/20190623/1561287415983wF15Etjuu4.jpg",
+      "badge": [],
+      "level": 1,
+      "isStar": true,
+      "friends": "0",
+      "followers": "0",
+      "teamLogo": "/mediasource/teamLogo2/all/gnz48_n3.png",
+      "signature": "",
+      "bgImg": "/20190513/155772206575992UXct6pWt.jpg",
+      "vip": false,
+      "userRole": 3
+    },
+    "liveMode": 0,
+    "pictureOrientation": 0
+  },
+  {
+    "liveId": "354037739787456512",
+    "coverPath": "/20190705/15623387743009wMK3DnvV2.jpg",
+    "title": "直播的第三天！",
+    "liveType": 1,
+    "status": 2,
+    "ctime": "1562338774475",
+    "userInfo": {
+      "userId": "417329",
+      "nickname": "GNZ48-王秭歆",
+      "avatar": "/mediasource/avatar/20190317/1552817409822ZL2Zr4Kd8v.jpg",
+      "badge": [],
+      "level": 1,
+      "isStar": true,
+      "friends": "0",
+      "followers": "0",
+      "teamLogo": "/mediasource/teamLogo/all/gnz_z_log2.png",
+      "signature": "",
+      "bgImg": "/20190416/155536048343916jb5QRiXV.jpg",
+      "vip": false,
+      "userRole": 3
+    },
+    "liveMode": 0,
+    "pictureOrientation": 0
+  },
+  {
+    "liveId": "354040988674363392",
+    "coverPath": "/20190705/1562339548459tgxuWQbbSC.jpg",
+    "title": "嘎嘎嘎",
+    "liveType": 1,
+    "status": 2,
+    "ctime": "1562339549062",
+    "userInfo": {
+      "userId": "327575",
+      "nickname": "GNZ48-郑丹妮",
+      "avatar": "/mediasource/avatar/20190209/1549721765053uy7481V1E8.jpg",
+      "badge": [],
+      "level": 1,
+      "isStar": true,
+      "friends": "0",
+      "followers": "0",
+      "teamLogo": "/mediasource/teamLogo2/all/gnz48_n3.png",
+      "signature": "",
+      "bgImg": "",
+      "vip": false,
+      "userRole": 3
+    },
+    "liveMode": 0,
+    "pictureOrientation": 0
+  }
+]

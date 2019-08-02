@@ -1,0 +1,48 @@
+[
+  {
+    "liveId": "327461713238364160",
+    "coverPath": "/20190423/1556002555510Fwg0DaPe9g.jpg",
+    "title": "Hi",
+    "liveType": 1,
+    "status": 2,
+    "ctime": "1556002556276",
+    "userInfo": {
+      "userId": "327587",
+      "nickname": "BEJ48-冯思佳",
+      "avatar": "/mediasource/avatar/20180420/1524158237082F67tg21k3I.jpg",
+      "badge": [],
+      "level": 1,
+      "isStar": true,
+      "friends": "0",
+      "followers": "0",
+      "teamLogo": "/mediasource/teamLogo2/all/bej48_e.png",
+      "signature": "",
+      "bgImg": "/20190416/1555430011580O9sDA7w1gQ.jpg",
+      "vip": false,
+      "userRole": 3
+    }
+  },
+  {
+    "liveId": "327461137784049664",
+    "coverPath": "/20190423/1556002418717bh4J15Xs3o.jpg",
+    "title": "|｡･･)っ♡",
+    "liveType": 1,
+    "status": 2,
+    "ctime": "1556002419180",
+    "userInfo": {
+      "userId": "35",
+      "nickname": "SNH48-莫寒",
+      "avatar": "/mediasource/avatar/1518105052569rDJYmaNkqP.jpg",
+      "badge": [],
+      "level": 1,
+      "isStar": true,
+      "friends": "0",
+      "followers": "0",
+      "teamLogo": "/mediasource/teamLogo2/all/snh48_s2.png",
+      "signature": "",
+      "bgImg": "",
+      "vip": false,
+      "userRole": 3
+    }
+  }
+]

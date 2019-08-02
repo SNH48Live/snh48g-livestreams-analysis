@@ -1,0 +1,48 @@
+[
+  {
+    "liveId": "330512575837835264",
+    "coverPath": "/20190502/1556729938018d00AFRGAhK.jpg",
+    "title": "啵啵",
+    "liveType": 1,
+    "status": 2,
+    "ctime": "1556729938706",
+    "userInfo": {
+      "userId": "63576",
+      "nickname": "GNZ48-阳青颖",
+      "avatar": "/mediasource/avatar/20180803/1533267979128J4V9yg1UE7.jpg",
+      "badge": [],
+      "level": 1,
+      "isStar": true,
+      "friends": "0",
+      "followers": "0",
+      "teamLogo": "/mediasource/teamLogo2/all/gnz48_g.png",
+      "signature": "",
+      "bgImg": "",
+      "vip": false,
+      "userRole": 3
+    }
+  },
+  {
+    "liveId": "330500246328905728",
+    "coverPath": "/20190502/1556726998459wYtU9hQymE.jpg",
+    "title": "164.0要饿死了",
+    "liveType": 1,
+    "status": 2,
+    "ctime": "1556726999121",
+    "userInfo": {
+      "userId": "63562",
+      "nickname": "GNZ48-林嘉佩",
+      "avatar": "/mediasource/avatar/20181012/15392802278986ARyi03706.jpg",
+      "badge": [],
+      "level": 1,
+      "isStar": true,
+      "friends": "0",
+      "followers": "0",
+      "teamLogo": "/mediasource/teamLogo2/all/gnz48_g.png",
+      "signature": "",
+      "bgImg": "",
+      "vip": false,
+      "userRole": 3
+    }
+  }
+]

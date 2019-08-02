@@ -1,0 +1,117 @@
+[
+  {
+    "liveId": "346396709541974016",
+    "coverPath": "/20190614/15605170105140148KQgE8r.jpg",
+    "title": "电台～",
+    "liveType": 1,
+    "status": 2,
+    "ctime": "1560517011294",
+    "userInfo": {
+      "userId": "867891",
+      "nickname": "GNZ48-方琪",
+      "avatar": "/mediasource/avatar/20190407/1554630900541zKF82vA89r.jpg",
+      "badge": [],
+      "level": 1,
+      "isStar": true,
+      "friends": "0",
+      "followers": "0",
+      "teamLogo": "/mediasource/teamLogo/all/gnz_z_log2.png",
+      "signature": "",
+      "bgImg": "/20190611/1560228887931la4w95ored.jpg",
+      "vip": false,
+      "userRole": 3
+    }
+  },
+  {
+    "liveId": "346379311841611776",
+    "coverPath": "/20190614/156051286271418cthd95Mk.jpg",
+    "title": "你知道羊毛毡吗",
+    "liveType": 1,
+    "status": 2,
+    "ctime": "1560512863092",
+    "userInfo": {
+      "userId": "327569",
+      "nickname": "GNZ48-卢静",
+      "avatar": "/mediasource/avatar/20181203/1543838223093Yj9mrz47V4.jpg",
+      "badge": [],
+      "level": 1,
+      "isStar": true,
+      "friends": "0",
+      "followers": "0",
+      "teamLogo": "/mediasource/teamLogo2/all/gnz48_n3.png",
+      "signature": "",
+      "bgImg": "",
+      "vip": false,
+      "userRole": 3
+    }
+  },
+  {
+    "liveId": "346377283132264448",
+    "coverPath": "/20190614/1560512378968xZHu1Y3skR.jpg",
+    "title": "速来！",
+    "liveType": 1,
+    "status": 2,
+    "ctime": "1560512379315",
+    "userInfo": {
+      "userId": "458335",
+      "nickname": "IDFT-李慧",
+      "avatar": "/mediasource/avatar/20180826/1535246668998G04P3qHPSi.jpg",
+      "badge": [],
+      "level": 1,
+      "isStar": true,
+      "friends": "0",
+      "followers": "0",
+      "teamLogo": "/mediasource/teamLogo/all/idft_logo_2.png",
+      "signature": "",
+      "bgImg": "/20190416/15554076685914Li2dwzO2Y.jpg",
+      "vip": false,
+      "userRole": 3
+    }
+  },
+  {
+    "liveId": "346396154396479488",
+    "coverPath": "/20190614/1560516878415FXWo9Q6hl9.jpg",
+    "title": "不露脸直播👀",
+    "liveType": 1,
+    "status": 2,
+    "ctime": "1560516878508",
+    "userInfo": {
+      "userId": "707369",
+      "nickname": "IDFT-魏小燕",
+      "avatar": "/mediasource/avatar/20190412/1555062531968beck8pV8lL.jpg",
+      "badge": [],
+      "level": 1,
+      "isStar": true,
+      "friends": "0",
+      "followers": "0",
+      "teamLogo": "/mediasource/teamLogo/all/idft_logo_2.png",
+      "signature": "",
+      "bgImg": "",
+      "vip": false,
+      "userRole": 3
+    }
+  },
+  {
+    "liveId": "346390876997357568",
+    "coverPath": "/20190614/15605156202045zPm3z96a9.jpg",
+    "title": "黑魔仙变身",
+    "liveType": 1,
+    "status": 2,
+    "ctime": "1560515620409",
+    "userInfo": {
+      "userId": "460005",
+      "nickname": "SNH48-赵佳蕊",
+      "avatar": "/20190528/15590073178564dtsD270ak.jpg",
+      "badge": [],
+      "level": 1,
+      "isStar": true,
+      "friends": "0",
+      "followers": "0",
+      "teamLogo": "/mediasource/teamLogo2/all/snh48_n2.png",
+      "signature": "",
+      "bgImg": "/20190417/15554923084801bQ9h18moa.jpg",
+      "vip": false,
+      "userRole": 3
+    }
+  }
+]

@@ -1,0 +1,163 @@
+[
+  {
+    "liveId": "332992648524402688",
+    "coverPath": "/20190508/15573212334557l784rz69Z.jpg",
+    "title": "一个很无聊的直播",
+    "liveType": 1,
+    "status": 2,
+    "ctime": "1557321234111",
+    "userInfo": {
+      "userId": "25",
+      "nickname": "SNH48-万丽娜",
+      "avatar": "/mediasource/avatar/20190101/1546318027966ewk3Hg1vOq.jpg",
+      "badge": [],
+      "level": 1,
+      "isStar": true,
+      "friends": "0",
+      "followers": "0",
+      "teamLogo": "/mediasource/teamLogo2/all/snh48_h2.png",
+      "signature": "",
+      "bgImg": "/20190415/155532570543960fe41DN68.jpg",
+      "vip": false,
+      "userRole": 3
+    }
+  },
+  {
+    "liveId": "332996366556794880",
+    "coverPath": "/20190508/155732204637682LX36oFYA.jpg",
+    "title": "来聊天",
+    "liveType": 2,
+    "status": 2,
+    "ctime": "1557322120226",
+    "userInfo": {
+      "userId": "607515",
+      "nickname": "GNZ48-黄楚茵",
+      "avatar": "/mediasource/avatar/20190309/1552145566401t68ol5eHYC.jpg",
+      "badge": [],
+      "level": 1,
+      "isStar": true,
+      "friends": "0",
+      "followers": "0",
+      "teamLogo": "/mediasource/teamLogo2/all/gnz48_g.png",
+      "signature": "",
+      "bgImg": "",
+      "vip": false,
+      "userRole": 3
+    }
+  },
+  {
+    "liveId": "332992348543586304",
+    "coverPath": "/20190508/15573211607365LUij1J5fs.jpg",
+    "title": "嘻",
+    "liveType": 2,
+    "status": 2,
+    "ctime": "1557321162268",
+    "userInfo": {
+      "userId": "530440",
+      "nickname": "IDFT-赖俊亦",
+      "avatar": "/mediasource/avatar/20190213/1550061722081Z9c031902p.jpg",
+      "badge": [],
+      "level": 1,
+      "isStar": true,
+      "friends": "0",
+      "followers": "0",
+      "teamLogo": "/mediasource/teamLogo/all/idft_logo_2.png",
+      "signature": "",
+      "bgImg": "",
+      "vip": false,
+      "userRole": 3
+    }
+  },
+  {
+    "liveId": "332974922904965120",
+    "coverPath": "/20190425/1556202055427ge3w10yBYY.jpg",
+    "title": "hi",
+    "liveType": 1,
+    "status": 2,
+    "ctime": "1557317007994",
+    "userInfo": {
+      "userId": "36",
+      "nickname": "SNH48-钱蓓婷",
+      "avatar": "/mediasource/avatar/15191826878632L1BWx8088.jpg",
+      "badge": [],
+      "level": 1,
+      "isStar": true,
+      "friends": "0",
+      "followers": "0",
+      "teamLogo": "/mediasource/teamLogo2/all/snh48_s2.png",
+      "signature": "",
+      "bgImg": "",
+      "vip": false,
+      "userRole": 3
+    }
+  },
+  {
+    "liveId": "333004734948249600",
+    "coverPath": "/20190425/1556158933886GNNYd6LqyG.jpg",
+    "title": "我武苗苗又回来了",
+    "liveType": 1,
+    "status": 2,
+    "ctime": "1557324115384",
+    "userInfo": {
+      "userId": "874717",
+      "nickname": "IDFT-武晓迪",
+      "avatar": "/mediasource/avatar/20190320/15530212766396Z27rSj8z0.jpg",
+      "badge": [],
+      "level": 1,
+      "isStar": true,
+      "friends": "0",
+      "followers": "0",
+      "teamLogo": "/mediasource/teamLogo/all/idft_logo_2.png",
+      "signature": "",
+      "bgImg": "/20190417/15554740176236psv46M2iY.jpg",
+      "vip": false,
+      "userRole": 3
+    }
+  },
+  {
+    "liveId": "332974249832419328",
+    "coverPath": "/20190508/1557316808391MG8C0iCP5z.jpg",
+    "title": "一家人",
+    "liveType": 1,
+    "status": 2,
+    "ctime": "1557316847521",
+    "userInfo": {
+      "userId": "8",
+      "nickname": "SNH48-孙芮",
+      "avatar": "/mediasource/avatar/20190214/1550123117339PcXGE6BBg4.jpg",
+      "badge": [],
+      "level": 1,
+      "isStar": true,
+      "friends": "0",
+      "followers": "0",
+      "teamLogo": "/mediasource/teamLogo2/all/snh48_s2.png",
+      "signature": "",
+      "bgImg": "/20190419/1555657199301255RGW26zU.jpg",
+      "vip": false,
+      "userRole": 3
+    }
+  },
+  {
+    "liveId": "333011122185375744",
+    "coverPath": "/20190508/1557325636473YRV359v1a2.jpg",
+    "title": "☀",
+    "liveType": 2,
+    "status": 2,
+    "ctime": "1557325638575",
+    "userInfo": {
+      "userId": "623828",
+      "nickname": "BEJ48-李娜",
+      "avatar": "/mediasource/avatar/20181106/1541483012746C6yccGv9eO.jpg",
+      "badge": [],
+      "level": 1,
+      "isStar": true,
+      "friends": "0",
+      "followers": "0",
+      "teamLogo": "/mediasource/teamLogo2/all/bej48_e.png",
+      "signature": "",
+      "bgImg": "",
+      "vip": false,
+      "userRole": 3
+    }
+  }
+]

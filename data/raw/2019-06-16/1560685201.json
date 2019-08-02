@@ -1,0 +1,117 @@
+[
+  {
+    "liveId": "347101309425225728",
+    "coverPath": "/20190616/1560685000417BfNGJZfm9U.jpg",
+    "title": "🌈",
+    "liveType": 1,
+    "status": 2,
+    "ctime": "1560685000997",
+    "userInfo": {
+      "userId": "6431",
+      "nickname": "SNH48-陈琳",
+      "avatar": "/mediasource/avatar/1518856096740p5MR8Iak8P.jpg",
+      "badge": [],
+      "level": 1,
+      "isStar": true,
+      "friends": "0",
+      "followers": "0",
+      "teamLogo": "/mediasource/teamLogo2/all/snh48_x.png",
+      "signature": "",
+      "bgImg": "",
+      "vip": false,
+      "userRole": 3
+    }
+  },
+  {
+    "liveId": "347099138151485440",
+    "coverPath": "/20190616/1560684482734E365ot9Stp.jpg",
+    "title": "hi",
+    "liveType": 1,
+    "status": 2,
+    "ctime": "1560684483070",
+    "userInfo": {
+      "userId": "327596",
+      "nickname": "BEJ48-马玉灵",
+      "avatar": "/mediasource/avatar/1519889151363Zo95j99D0p.jpg",
+      "badge": [],
+      "level": 1,
+      "isStar": true,
+      "friends": "0",
+      "followers": "0",
+      "teamLogo": "/mediasource/teamLogo2/all/bej48_e.png",
+      "signature": "",
+      "bgImg": "",
+      "vip": false,
+      "userRole": 3
+    }
+  },
+  {
+    "liveId": "347100574654468096",
+    "coverPath": "/20190616/15606848250508942r0Q2EG.jpg",
+    "title": "talk",
+    "liveType": 1,
+    "status": 2,
+    "ctime": "1560684825555",
+    "userInfo": {
+      "userId": "614761",
+      "nickname": "IDFT-吴学雨",
+      "avatar": "/20190607/1559838127855vhcFSu86jM.jpg",
+      "badge": [],
+      "level": 1,
+      "isStar": true,
+      "friends": "0",
+      "followers": "0",
+      "teamLogo": "/mediasource/teamLogo/all/idft_logo_2.png",
+      "signature": "",
+      "bgImg": "",
+      "vip": false,
+      "userRole": 3
+    }
+  },
+  {
+    "liveId": "347102014710026240",
+    "coverPath": "/20190616/1560685168153s4sD4LHDS0.jpg",
+    "title": "营业中🈺️",
+    "liveType": 1,
+    "status": 2,
+    "ctime": "1560685168887",
+    "userInfo": {
+      "userId": "831078",
+      "nickname": "BEJ48-任蔓琳",
+      "avatar": "/mediasource/avatar/20180623/1529724291919uuA03GwbP0.jpg",
+      "badge": [],
+      "level": 1,
+      "isStar": true,
+      "friends": "0",
+      "followers": "0",
+      "teamLogo": "/mediasource/teamLogo2/all/bej48_e.png",
+      "signature": "",
+      "bgImg": "",
+      "vip": false,
+      "userRole": 3
+    }
+  },
+  {
+    "liveId": "347091988012404736",
+    "coverPath": "/20190616/15606827781822M6RgkQ3pc.jpg",
+    "title": "一会儿！",
+    "liveType": 1,
+    "status": 2,
+    "ctime": "1560682778362",
+    "userInfo": {
+      "userId": "480675",
+      "nickname": "BEJ48-张爱静",
+      "avatar": "/mediasource/avatar/20190325/15534511502797Ump5adHEq.jpg",
+      "badge": [],
+      "level": 1,
+      "isStar": true,
+      "friends": "0",
+      "followers": "0",
+      "teamLogo": "/mediasource/teamLogo2/all/bej48_e.png",
+      "signature": "",
+      "bgImg": "",
+      "vip": false,
+      "userRole": 3
+    }
+  }
+]

@@ -1,0 +1,117 @@
+[
+  {
+    "liveId": "353324721285959680",
+    "coverPath": "/20190703/1562168777288kVE6W82756.jpg",
+    "title": "十分钟",
+    "liveType": 1,
+    "status": 2,
+    "ctime": "1562168777423",
+    "userInfo": {
+      "userId": "594003",
+      "nickname": "SNH48-王奕",
+      "avatar": "/20190604/1559655423178vO77GnCOT3.jpg",
+      "badge": [],
+      "level": 1,
+      "isStar": true,
+      "friends": "0",
+      "followers": "0",
+      "teamLogo": "/mediasource/teamLogo2/all/snh48_h2.png",
+      "signature": "",
+      "bgImg": "/20190510/1557420330610OhOwvau72W.jpg",
+      "vip": false,
+      "userRole": 3
+    }
+  },
+  {
+    "liveId": "353325463384166400",
+    "coverPath": "/20190703/15621689541873B8Vb7vD1Q.jpg",
+    "title": ".",
+    "liveType": 1,
+    "status": 2,
+    "ctime": "1562168954351",
+    "userInfo": {
+      "userId": "49005",
+      "nickname": "SNH48-沈梦瑶",
+      "avatar": "/mediasource/avatar/20190302/155146332801927FZq9873v.jpg",
+      "badge": [],
+      "level": 1,
+      "isStar": true,
+      "friends": "0",
+      "followers": "0",
+      "teamLogo": "/mediasource/teamLogo2/all/snh48_h2.png",
+      "signature": "",
+      "bgImg": "",
+      "vip": false,
+      "userRole": 3
+    }
+  },
+  {
+    "liveId": "353338759122325504",
+    "coverPath": "/20190510/1557501948950dCv15671H4.jpg",
+    "title": "来了来了",
+    "liveType": 1,
+    "status": 2,
+    "ctime": "1562172124253",
+    "userInfo": {
+      "userId": "874717",
+      "nickname": "IDFT-武晓迪",
+      "avatar": "/mediasource/avatar/20190320/15530212766396Z27rSj8z0.jpg",
+      "badge": [],
+      "level": 1,
+      "isStar": true,
+      "friends": "0",
+      "followers": "0",
+      "teamLogo": "/mediasource/teamLogo/all/idft_logo_2.png",
+      "signature": "",
+      "bgImg": "/20190616/156067241738706U5Ic44Sm.jpg",
+      "vip": false,
+      "userRole": 3
+    }
+  },
+  {
+    "liveId": "353329528100950016",
+    "coverPath": "/20190704/15621699232961o1XzMP0Hf.jpg",
+    "title": "hi",
+    "liveType": 1,
+    "status": 2,
+    "ctime": "1562169924044",
+    "userInfo": {
+      "userId": "327596",
+      "nickname": "BEJ48-马玉灵",
+      "avatar": "/mediasource/avatar/1519889151363Zo95j99D0p.jpg",
+      "badge": [],
+      "level": 1,
+      "isStar": true,
+      "friends": "0",
+      "followers": "0",
+      "teamLogo": "/mediasource/teamLogo2/all/bej48_e.png",
+      "signature": "",
+      "bgImg": "",
+      "vip": false,
+      "userRole": 3
+    }
+  },
+  {
+    "liveId": "353333099353673728",
+    "coverPath": "/20190704/1562170711864sVPsJ31i6d.jpg",
+    "title": "过了这村就没这店了哈哈哈",
+    "liveType": 1,
+    "status": 2,
+    "ctime": "1562170775497",
+    "userInfo": {
+      "userId": "6737",
+      "nickname": "SNH48-邵雪聪",
+      "avatar": "/mediasource/avatar/20181104/1541303114625N43A8yl4ur.jpg",
+      "badge": [],
+      "level": 1,
+      "isStar": true,
+      "friends": "0",
+      "followers": "0",
+      "teamLogo": "/mediasource/teamLogo2/all/snh48_s2.png",
+      "signature": "",
+      "bgImg": "",
+      "vip": false,
+      "userRole": 3
+    }
+  }
+]

@@ -1,0 +1,55 @@
+[
+  {
+    "liveId": "361829129032372224",
+    "coverPath": "/20190727/1564196385950g3uW9uo2gA.jpg",
+    "title": "袋你玩总选",
+    "liveType": 1,
+    "status": 2,
+    "ctime": "1564196386266",
+    "userInfo": {
+      "userId": "63",
+      "nickname": "袋王",
+      "avatar": "/mediasource/avatar/20180816/1534398200953949Hs98BEy.jpg",
+      "badge": [
+        "/mediasource/badge/small/ddjj_1_s.png",
+        "/mediasource/badge/small/shz_1_s.png"
+      ],
+      "level": 3,
+      "isStar": false,
+      "friends": "0",
+      "followers": "0",
+      "teamLogo": "",
+      "signature": "",
+      "bgImg": "",
+      "vip": false,
+      "userRole": 999
+    },
+    "liveMode": 0,
+    "pictureOrientation": 0
+  },
+  {
+    "liveId": "361815041623527424",
+    "coverPath": "/20190727/15641930274789Au1pcCB9p.jpg",
+    "title": "。。。",
+    "liveType": 1,
+    "status": 2,
+    "ctime": "1564193027619",
+    "userInfo": {
+      "userId": "5566",
+      "nickname": "SNH48-许杨玉琢",
+      "avatar": "/20190707/1562483854640Wy19VP5P9P.jpg",
+      "badge": [],
+      "level": 1,
+      "isStar": true,
+      "friends": "0",
+      "followers": "0",
+      "teamLogo": "/mediasource/teamLogo2/all/snh48_h2.png",
+      "signature": "",
+      "bgImg": "/20190417/15554805699157R662Qiv8w.jpg",
+      "vip": false,
+      "userRole": 3
+    },
+    "liveMode": 0,
+    "pictureOrientation": 0
+  }
+]

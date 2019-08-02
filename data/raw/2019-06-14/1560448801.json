@@ -1,0 +1,71 @@
+[
+  {
+    "liveId": "346100293896572928",
+    "coverPath": "/20190614/15604463398655xS25573X6.jpg",
+    "title": "这是一个电台～",
+    "liveType": 1,
+    "status": 2,
+    "ctime": "1560446340285",
+    "userInfo": {
+      "userId": "530392",
+      "nickname": "BEJ48-张羽涵",
+      "avatar": "/mediasource/avatar/20181008/1538995322677x4XyNKiR14.jpg",
+      "badge": [],
+      "level": 1,
+      "isStar": true,
+      "friends": "0",
+      "followers": "0",
+      "teamLogo": "/mediasource/teamLogo2/all/bej48_b.png",
+      "signature": "",
+      "bgImg": "",
+      "vip": false,
+      "userRole": 3
+    }
+  },
+  {
+    "liveId": "346100840955449344",
+    "coverPath": "/20190614/1560446470119ia2iuZ5Shu.jpg",
+    "title": "唠点啥",
+    "liveType": 1,
+    "status": 2,
+    "ctime": "1560446470713",
+    "userInfo": {
+      "userId": "407110",
+      "nickname": "BEJ48-刘闲",
+      "avatar": "/20190611/1560251976995jUaUu387mD.jpg",
+      "badge": [],
+      "level": 1,
+      "isStar": true,
+      "friends": "0",
+      "followers": "0",
+      "teamLogo": "/mediasource/teamLogo2/all/bej48_j.png",
+      "signature": "",
+      "bgImg": "",
+      "vip": false,
+      "userRole": 3
+    }
+  },
+  {
+    "liveId": "346098776430940160",
+    "coverPath": "/20190614/1560445977946owF7r5M7TM.jpg",
+    "title": "一会儿",
+    "liveType": 1,
+    "status": 2,
+    "ctime": "1560445978506",
+    "userInfo": {
+      "userId": "327567",
+      "nickname": "GNZ48-刘力菲",
+      "avatar": "/20190528/1558976579113a3M039Tskr.jpg",
+      "badge": [],
+      "level": 1,
+      "isStar": true,
+      "friends": "0",
+      "followers": "0",
+      "teamLogo": "/mediasource/teamLogo2/all/gnz48_n3.png",
+      "signature": "",
+      "bgImg": "/20190417/1555483417644gKvNBg7B29.jpg",
+      "vip": false,
+      "userRole": 3
+    }
+  }
+]

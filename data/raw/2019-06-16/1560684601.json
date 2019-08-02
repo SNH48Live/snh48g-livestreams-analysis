@@ -1,0 +1,71 @@
+[
+  {
+    "liveId": "347096059666567168",
+    "coverPath": "/20190616/15606837487521G795gKs23.jpg",
+    "title": "只有帅哥美女才能听的电台",
+    "liveType": 1,
+    "status": 2,
+    "ctime": "1560683749110",
+    "userInfo": {
+      "userId": "623828",
+      "nickname": "BEJ48-李娜",
+      "avatar": "/mediasource/avatar/20181106/1541483012746C6yccGv9eO.jpg",
+      "badge": [],
+      "level": 1,
+      "isStar": true,
+      "friends": "0",
+      "followers": "0",
+      "teamLogo": "/mediasource/teamLogo2/all/bej48_e.png",
+      "signature": "",
+      "bgImg": "",
+      "vip": false,
+      "userRole": 3
+    }
+  },
+  {
+    "liveId": "347099138151485440",
+    "coverPath": "/20190616/1560684482734E365ot9Stp.jpg",
+    "title": "hi",
+    "liveType": 1,
+    "status": 2,
+    "ctime": "1560684483070",
+    "userInfo": {
+      "userId": "327596",
+      "nickname": "BEJ48-马玉灵",
+      "avatar": "/mediasource/avatar/1519889151363Zo95j99D0p.jpg",
+      "badge": [],
+      "level": 1,
+      "isStar": true,
+      "friends": "0",
+      "followers": "0",
+      "teamLogo": "/mediasource/teamLogo2/all/bej48_e.png",
+      "signature": "",
+      "bgImg": "",
+      "vip": false,
+      "userRole": 3
+    }
+  },
+  {
+    "liveId": "347091988012404736",
+    "coverPath": "/20190616/15606827781822M6RgkQ3pc.jpg",
+    "title": "一会儿！",
+    "liveType": 1,
+    "status": 2,
+    "ctime": "1560682778362",
+    "userInfo": {
+      "userId": "480675",
+      "nickname": "BEJ48-张爱静",
+      "avatar": "/mediasource/avatar/20190325/15534511502797Ump5adHEq.jpg",
+      "badge": [],
+      "level": 1,
+      "isStar": true,
+      "friends": "0",
+      "followers": "0",
+      "teamLogo": "/mediasource/teamLogo2/all/bej48_e.png",
+      "signature": "",
+      "bgImg": "",
+      "vip": false,
+      "userRole": 3
+    }
+  }
+]

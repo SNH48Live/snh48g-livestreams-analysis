@@ -1,0 +1,94 @@
+[
+  {
+    "liveId": "337395196941373440",
+    "coverPath": "/20190521/15583708811072SfAsUk8Ry.jpg",
+    "title": "521",
+    "liveType": 2,
+    "status": 2,
+    "ctime": "1558370883450",
+    "userInfo": {
+      "userId": "711732",
+      "nickname": "BEJ48-彭嘉敏",
+      "avatar": "/mediasource/avatar/20190314/15525719869123Rit6KaB45.jpg",
+      "badge": [],
+      "level": 1,
+      "isStar": true,
+      "friends": "0",
+      "followers": "0",
+      "teamLogo": "/mediasource/teamLogo2/all/bej48_e.png",
+      "signature": "",
+      "bgImg": "",
+      "vip": false,
+      "userRole": 3
+    }
+  },
+  {
+    "liveId": "337369851248840704",
+    "coverPath": "/20190520/1558364839776bnGDQ48JgT.jpg",
+    "title": "随便播播",
+    "liveType": 1,
+    "status": 2,
+    "ctime": "1558364840566",
+    "userInfo": {
+      "userId": "530447",
+      "nickname": "GNZ48-谢艾琳",
+      "avatar": "/mediasource/avatar/20181027/15406329992611VPbuHE7KM.jpg",
+      "badge": [],
+      "level": 1,
+      "isStar": true,
+      "friends": "0",
+      "followers": "0",
+      "teamLogo": "/mediasource/teamLogo2/all/gnz48_n3.png",
+      "signature": "",
+      "bgImg": "",
+      "vip": false,
+      "userRole": 3
+    }
+  },
+  {
+    "liveId": "337398172456128512",
+    "coverPath": "/20190521/1558371590649uVpjmZoKX5.jpg",
+    "title": "电电电电电电电电",
+    "liveType": 2,
+    "status": 2,
+    "ctime": "1558371592868",
+    "userInfo": {
+      "userId": "63576",
+      "nickname": "GNZ48-阳青颖",
+      "avatar": "/mediasource/avatar/20180803/1533267979128J4V9yg1UE7.jpg",
+      "badge": [],
+      "level": 1,
+      "isStar": true,
+      "friends": "0",
+      "followers": "0",
+      "teamLogo": "/mediasource/teamLogo2/all/gnz48_g.png",
+      "signature": "",
+      "bgImg": "",
+      "vip": false,
+      "userRole": 3
+    }
+  },
+  {
+    "liveId": "337396724712411136",
+    "coverPath": "/20190521/1558371227071BBRRc72C4a.jpg",
+    "title": "滴滴滴～",
+    "liveType": 2,
+    "status": 2,
+    "ctime": "1558371247699",
+    "userInfo": {
+      "userId": "874723",
+      "nickname": "IDFT-王梓",
+      "avatar": "/mediasource/avatar/20190302/15515321472148tzHu4K8yo.png",
+      "badge": [],
+      "level": 1,
+      "isStar": true,
+      "friends": "0",
+      "followers": "0",
+      "teamLogo": "/mediasource/teamLogo/all/idft_logo_2.png",
+      "signature": "",
+      "bgImg": "",
+      "vip": false,
+      "userRole": 3
+    }
+  }
+]

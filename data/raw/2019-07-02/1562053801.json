@@ -1,0 +1,48 @@
+[
+  {
+    "liveId": "352834245642489856",
+    "coverPath": "/20190702/15620518376816gG9BVS07b.jpg",
+    "title": "夏天的风",
+    "liveType": 2,
+    "status": 2,
+    "ctime": "1562051839415",
+    "userInfo": {
+      "userId": "874701",
+      "nickname": "GNZ48-张润",
+      "avatar": "/20190701/1561984281938pu7F0I5Ydg.jpg",
+      "badge": [],
+      "level": 1,
+      "isStar": true,
+      "friends": "0",
+      "followers": "0",
+      "teamLogo": "/mediasource/teamLogo2/all/gnz48_n3.png",
+      "signature": "",
+      "bgImg": "/20190430/1556569792667bgQ7aayD2C.jpg",
+      "vip": false,
+      "userRole": 3
+    }
+  },
+  {
+    "liveId": "352828140447141888",
+    "coverPath": "/20190702/1562050383322e3YZoU8zFG.jpg",
+    "title": "突突突",
+    "liveType": 1,
+    "status": 2,
+    "ctime": "1562050383838",
+    "userInfo": {
+      "userId": "459999",
+      "nickname": "BEJ48-韩家乐",
+      "avatar": "/mediasource/avatar/20190103/1546447223080708qPty07v.jpg",
+      "badge": [],
+      "level": 1,
+      "isStar": true,
+      "friends": "0",
+      "followers": "0",
+      "teamLogo": "/mediasource/teamLogo2/all/bej48_j.png",
+      "signature": "",
+      "bgImg": "",
+      "vip": false,
+      "userRole": 3
+    }
+  }
+]

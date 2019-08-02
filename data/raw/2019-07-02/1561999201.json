@@ -1,0 +1,71 @@
+[
+  {
+    "liveId": "352607227030081536",
+    "coverPath": "/20190702/1561997711758gTFvs1kqPN.jpg",
+    "title": "☀",
+    "liveType": 2,
+    "status": 2,
+    "ctime": "1561997713605",
+    "userInfo": {
+      "userId": "623828",
+      "nickname": "BEJ48-李娜",
+      "avatar": "/mediasource/avatar/20181106/1541483012746C6yccGv9eO.jpg",
+      "badge": [],
+      "level": 1,
+      "isStar": true,
+      "friends": "0",
+      "followers": "0",
+      "teamLogo": "/mediasource/teamLogo2/all/bej48_e.png",
+      "signature": "",
+      "bgImg": "",
+      "vip": false,
+      "userRole": 3
+    }
+  },
+  {
+    "liveId": "352613206169817088",
+    "coverPath": "/20190510/1557501948950dCv15671H4.jpg",
+    "title": "对于啊呸的吐槽",
+    "liveType": 1,
+    "status": 2,
+    "ctime": "1561999139587",
+    "userInfo": {
+      "userId": "874717",
+      "nickname": "IDFT-武晓迪",
+      "avatar": "/mediasource/avatar/20190320/15530212766396Z27rSj8z0.jpg",
+      "badge": [],
+      "level": 1,
+      "isStar": true,
+      "friends": "0",
+      "followers": "0",
+      "teamLogo": "/mediasource/teamLogo/all/idft_logo_2.png",
+      "signature": "",
+      "bgImg": "/20190616/156067241738706U5Ic44Sm.jpg",
+      "vip": false,
+      "userRole": 3
+    }
+  },
+  {
+    "liveId": "352601046861549568",
+    "coverPath": "/20190701/1561996240043b8r0Tn11Sw.jpg",
+    "title": "🌛",
+    "liveType": 1,
+    "status": 2,
+    "ctime": "1561996240155",
+    "userInfo": {
+      "userId": "407135",
+      "nickname": "BEJ48-杨一帆",
+      "avatar": "/20190610/15601072394565gU0J69rPI.jpg",
+      "badge": [],
+      "level": 1,
+      "isStar": true,
+      "friends": "0",
+      "followers": "0",
+      "teamLogo": "/mediasource/teamLogo2/all/bej48_e.png",
+      "signature": "",
+      "bgImg": "",
+      "vip": false,
+      "userRole": 3
+    }
+  }
+]

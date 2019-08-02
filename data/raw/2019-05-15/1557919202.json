@@ -1,0 +1,48 @@
+[
+  {
+    "liveId": "335499000450715648",
+    "coverPath": "/20190515/155791879344899U2quf8G5.jpg",
+    "title": "随缘进",
+    "liveType": 2,
+    "status": 2,
+    "ctime": "1557918794644",
+    "userInfo": {
+      "userId": "327570",
+      "nickname": "GNZ48-孙馨",
+      "avatar": "/mediasource/avatar/20190101/1546276646059ADqmn7K2Lw.jpg",
+      "badge": [],
+      "level": 1,
+      "isStar": true,
+      "friends": "0",
+      "followers": "0",
+      "teamLogo": "/mediasource/teamLogo2/all/gnz48_n3.png",
+      "signature": "",
+      "bgImg": "/20190425/15562049718879Nwi5fdqgt.jpg",
+      "vip": false,
+      "userRole": 3
+    }
+  },
+  {
+    "liveId": "335497862779310080",
+    "coverPath": "/20190416/1555387399078225ft9UL3r.jpg",
+    "title": "进来看奇葩造型",
+    "liveType": 1,
+    "status": 2,
+    "ctime": "1557918523406",
+    "userInfo": {
+      "userId": "874698",
+      "nickname": "IDFT-鄢羽蝶",
+      "avatar": "/mediasource/avatar/20190410/1554910632819tY6VCI2M8S.jpg",
+      "badge": [],
+      "level": 1,
+      "isStar": true,
+      "friends": "0",
+      "followers": "0",
+      "teamLogo": "/mediasource/teamLogo/all/idft_logo_2.png",
+      "signature": "",
+      "bgImg": "",
+      "vip": false,
+      "userRole": 3
+    }
+  }
+]

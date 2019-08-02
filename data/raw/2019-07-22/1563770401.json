@@ -1,0 +1,52 @@
+[
+  {
+    "liveId": "360040971793928192",
+    "coverPath": "/20190722/1563770056071EJiP3V9717.jpg",
+    "title": "上海到达🌟",
+    "liveType": 1,
+    "status": 2,
+    "ctime": "1563770056457",
+    "userInfo": {
+      "userId": "327558",
+      "nickname": "GNZ48-罗寒月",
+      "avatar": "/20190708/156260157966180cD4dzVet.jpg",
+      "badge": [],
+      "level": 1,
+      "isStar": true,
+      "friends": "0",
+      "followers": "0",
+      "teamLogo": "/mediasource/teamLogo2/all/gnz48_g.png",
+      "signature": "",
+      "bgImg": "",
+      "vip": false,
+      "userRole": 3
+    },
+    "liveMode": 0,
+    "pictureOrientation": 0
+  },
+  {
+    "liveId": "360037119111794688",
+    "coverPath": "/20190722/1563769137484Yo2bo5ZWyz.jpg",
+    "title": "活跃气氛",
+    "liveType": 1,
+    "status": 2,
+    "ctime": "1563769137916",
+    "userInfo": {
+      "userId": "63548",
+      "nickname": "GNZ48-陈珂",
+      "avatar": "/mediasource/avatar/1507968025370Aya7o6Ut6k.jpg",
+      "badge": [],
+      "level": 2,
+      "isStar": true,
+      "friends": "0",
+      "followers": "0",
+      "teamLogo": "/mediasource/teamLogo2/all/gnz48_g.png",
+      "signature": "",
+      "bgImg": "",
+      "vip": false,
+      "userRole": 3
+    },
+    "liveMode": 0,
+    "pictureOrientation": 0
+  }
+]

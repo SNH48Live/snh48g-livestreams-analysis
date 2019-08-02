@@ -1,0 +1,48 @@
+[
+  {
+    "liveId": "335120773462953984",
+    "coverPath": "/20190514/1557828617146fmkXfLn28z.jpg",
+    "title": "Hi",
+    "liveType": 2,
+    "status": 2,
+    "ctime": "1557828618635",
+    "userInfo": {
+      "userId": "327587",
+      "nickname": "BEJ48-冯思佳",
+      "avatar": "/mediasource/avatar/20180420/1524158237082F67tg21k3I.jpg",
+      "badge": [],
+      "level": 1,
+      "isStar": true,
+      "friends": "0",
+      "followers": "0",
+      "teamLogo": "/mediasource/teamLogo2/all/bej48_e.png",
+      "signature": "",
+      "bgImg": "/20190416/1555430011580O9sDA7w1gQ.jpg",
+      "vip": false,
+      "userRole": 3
+    }
+  },
+  {
+    "liveId": "335129038624198656",
+    "coverPath": "/20190514/15578305883742Za1Av4hyV.jpg",
+    "title": "ｏ",
+    "liveType": 1,
+    "status": 2,
+    "ctime": "1557830588980",
+    "userInfo": {
+      "userId": "614761",
+      "nickname": "IDFT-吴学雨",
+      "avatar": "/mediasource/avatar/20181122/1542902208134s17q0189qF.jpg",
+      "badge": [],
+      "level": 1,
+      "isStar": true,
+      "friends": "0",
+      "followers": "0",
+      "teamLogo": "/mediasource/teamLogo/all/idft_logo_2.png",
+      "signature": "",
+      "bgImg": "",
+      "vip": false,
+      "userRole": 3
+    }
+  }
+]

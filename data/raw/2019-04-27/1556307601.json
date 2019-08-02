@@ -1,0 +1,71 @@
+[
+  {
+    "liveId": "328740134572593152",
+    "coverPath": "/20190427/1556307354230h8VqlHGhZI.jpg",
+    "title": "听歌睡觉💤",
+    "liveType": 2,
+    "status": 2,
+    "ctime": "1556307355778",
+    "userInfo": {
+      "userId": "528339",
+      "nickname": "IDFT-乔钰珂",
+      "avatar": "/mediasource/avatar/20190122/1548092084975bIKM2g6S8B.jpg",
+      "badge": [],
+      "level": 1,
+      "isStar": true,
+      "friends": "0",
+      "followers": "0",
+      "teamLogo": "/mediasource/teamLogo/all/idft_logo_2.png",
+      "signature": "",
+      "bgImg": "",
+      "vip": false,
+      "userRole": 3
+    }
+  },
+  {
+    "liveId": "328687088509456384",
+    "coverPath": "/20190427/155629469549883ogB3Y0pI.jpg",
+    "title": "晚安",
+    "liveType": 2,
+    "status": 2,
+    "ctime": "1556294708172",
+    "userInfo": {
+      "userId": "528336",
+      "nickname": "IDFT-兰昊",
+      "avatar": "/mediasource/avatar/20190322/15532451519661Si87o37wR.jpg",
+      "badge": [],
+      "level": 1,
+      "isStar": true,
+      "friends": "0",
+      "followers": "0",
+      "teamLogo": "/mediasource/teamLogo/all/idft_logo_2.png",
+      "signature": "",
+      "bgImg": "",
+      "vip": false,
+      "userRole": 3
+    }
+  },
+  {
+    "liveId": "328679990153252864",
+    "coverPath": "/20190426/1556293014314a183Zi8G6H.jpg",
+    "title": "晚安派大星",
+    "liveType": 2,
+    "status": 2,
+    "ctime": "1556293016230",
+    "userInfo": {
+      "userId": "407130",
+      "nickname": "IDFT-张韩紫陌",
+      "avatar": "/mediasource/avatar/20190408/1554702629948jiX42k0iPA.jpg",
+      "badge": [],
+      "level": 1,
+      "isStar": true,
+      "friends": "0",
+      "followers": "0",
+      "teamLogo": "/mediasource/teamLogo/all/idft_logo_2.png",
+      "signature": "",
+      "bgImg": "",
+      "vip": false,
+      "userRole": 3
+    }
+  }
+]

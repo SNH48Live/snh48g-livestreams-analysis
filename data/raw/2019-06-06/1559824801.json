@@ -1,0 +1,94 @@
+[
+  {
+    "liveId": "343491869421670400",
+    "coverPath": "/20190606/1559824442579fj12Y7b1p5.jpg",
+    "title": "电台卡顿拍小猪",
+    "liveType": 1,
+    "status": 2,
+    "ctime": "1559824443026",
+    "userInfo": {
+      "userId": "327572",
+      "nickname": "GNZ48-冼燊楠",
+      "avatar": "/mediasource/avatar/20180428/1524928948434dj5lWG6d5W.jpg",
+      "badge": [],
+      "level": 1,
+      "isStar": true,
+      "friends": "0",
+      "followers": "0",
+      "teamLogo": "/mediasource/teamLogo2/all/gnz48_n3.png",
+      "signature": "",
+      "bgImg": "",
+      "vip": false,
+      "userRole": 3
+    }
+  },
+  {
+    "liveId": "343492654293389312",
+    "coverPath": "/20190606/15598246287108guAvG7arF.jpg",
+    "title": "一会儿",
+    "liveType": 1,
+    "status": 2,
+    "ctime": "1559824630568",
+    "userInfo": {
+      "userId": "327568",
+      "nickname": "GNZ48-刘倩倩",
+      "avatar": "/mediasource/avatar/20190214/15501163598931eB1n5Uz9s.jpg",
+      "badge": [],
+      "level": 1,
+      "isStar": true,
+      "friends": "0",
+      "followers": "0",
+      "teamLogo": "/mediasource/teamLogo2/all/gnz48_n3.png",
+      "signature": "",
+      "bgImg": "",
+      "vip": false,
+      "userRole": 3
+    }
+  },
+  {
+    "liveId": "343487466551709696",
+    "coverPath": "/20190606/1559823392813zzKUxX8b65.jpg",
+    "title": "❤️",
+    "liveType": 1,
+    "status": 2,
+    "ctime": "1559823393426",
+    "userInfo": {
+      "userId": "614733",
+      "nickname": "IDFT-谯玉珍",
+      "avatar": "/mediasource/avatar/20190103/15464532723824f0iz25kY7.jpg",
+      "badge": [],
+      "level": 1,
+      "isStar": true,
+      "friends": "0",
+      "followers": "0",
+      "teamLogo": "/mediasource/teamLogo/all/idft_logo_2.png",
+      "signature": "",
+      "bgImg": "",
+      "vip": false,
+      "userRole": 3
+    }
+  },
+  {
+    "liveId": "343491664634777600",
+    "coverPath": "/20190606/15598243939169FYY0WUc84.jpg",
+    "title": "哈喽🧚🏻‍♀️",
+    "liveType": 1,
+    "status": 2,
+    "ctime": "1559824394615",
+    "userInfo": {
+      "userId": "722780",
+      "nickname": "GNZ48-梁娇",
+      "avatar": "/mediasource/avatar/20190402/15541964296320seCBM1d15.jpg",
+      "badge": [],
+      "level": 1,
+      "isStar": true,
+      "friends": "0",
+      "followers": "0",
+      "teamLogo": "/mediasource/teamLogo2/all/gnz48_g.png",
+      "signature": "",
+      "bgImg": "/20190415/1555325214526qtHRKeDcFy.jpg",
+      "vip": false,
+      "userRole": 3
+    }
+  }
+]

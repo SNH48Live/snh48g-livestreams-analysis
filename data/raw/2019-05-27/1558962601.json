@@ -1,0 +1,94 @@
+[
+  {
+    "liveId": "339874345379500032",
+    "coverPath": "/20190527/155896195762364rwg7Zn5F.jpg",
+    "title": "深夜一起碎碎念",
+    "liveType": 2,
+    "status": 2,
+    "ctime": "1558961958182",
+    "userInfo": {
+      "userId": "18",
+      "nickname": "SNH48-徐晨辰",
+      "avatar": "/mediasource/avatar/20190209/1549651868260kNNAF2ognA.jpg",
+      "badge": [],
+      "level": 1,
+      "isStar": true,
+      "friends": "0",
+      "followers": "0",
+      "teamLogo": "/mediasource/teamLogo2/all/snh48_s2.png",
+      "signature": "",
+      "bgImg": "",
+      "vip": false,
+      "userRole": 3
+    }
+  },
+  {
+    "liveId": "339876762963742720",
+    "coverPath": "/20190527/1558962534145krLpp1hhSo.jpg",
+    "title": "啊",
+    "liveType": 2,
+    "status": 2,
+    "ctime": "1558962534574",
+    "userInfo": {
+      "userId": "67",
+      "nickname": "SNH48-袁丹妮",
+      "avatar": "/mediasource/avatar/20181201/1543645775196SKO5Mutlvg.jpg",
+      "badge": [],
+      "level": 1,
+      "isStar": true,
+      "friends": "0",
+      "followers": "0",
+      "teamLogo": "/mediasource/teamLogo2/all/snh48_s2.png",
+      "signature": "",
+      "bgImg": "",
+      "vip": false,
+      "userRole": 3
+    }
+  },
+  {
+    "liveId": "339875061619822592",
+    "coverPath": "/20190527/1558962128469Ug89iParc0.jpg",
+    "title": "电台直播  非主流的说一声爪控进",
+    "liveType": 1,
+    "status": 2,
+    "ctime": "1558962129264",
+    "userInfo": {
+      "userId": "614755",
+      "nickname": "IDFT-黄琬璎",
+      "avatar": "/mediasource/avatar/20180523/1527059771019m3K3oYK40t.jpg",
+      "badge": [],
+      "level": 1,
+      "isStar": true,
+      "friends": "0",
+      "followers": "0",
+      "teamLogo": "/mediasource/teamLogo/all/idft_logo_2.png",
+      "signature": "",
+      "bgImg": "",
+      "vip": false,
+      "userRole": 3
+    }
+  },
+  {
+    "liveId": "339865479275155456",
+    "coverPath": "/20190527/1558959842147ZWJUC9V64j.jpg",
+    "title": "🧐",
+    "liveType": 2,
+    "status": 2,
+    "ctime": "1558959844362",
+    "userInfo": {
+      "userId": "614735",
+      "nickname": "IDFT-田倩兰",
+      "avatar": "/mediasource/avatar/20190405/15544410566123IdGRnH7GC.jpg",
+      "badge": [],
+      "level": 1,
+      "isStar": true,
+      "friends": "0",
+      "followers": "0",
+      "teamLogo": "/mediasource/teamLogo/all/idft_logo_2.png",
+      "signature": "",
+      "bgImg": "",
+      "vip": false,
+      "userRole": 3
+    }
+  }
+]

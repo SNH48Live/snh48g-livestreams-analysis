@@ -1,0 +1,52 @@
+[
+  {
+    "liveId": "354304685346983936",
+    "coverPath": "/20190706/1562402384078XYYmR7cstK.jpg",
+    "title": "😐",
+    "liveType": 2,
+    "status": 2,
+    "ctime": "1562402419451",
+    "userInfo": {
+      "userId": "874698",
+      "nickname": "IDFT-鄢羽蝶",
+      "avatar": "/mediasource/avatar/20190410/1554910632819tY6VCI2M8S.jpg",
+      "badge": [],
+      "level": 1,
+      "isStar": true,
+      "friends": "0",
+      "followers": "0",
+      "teamLogo": "/mediasource/teamLogo/all/idft_logo_2.png",
+      "signature": "",
+      "bgImg": "",
+      "vip": false,
+      "userRole": 3
+    },
+    "liveMode": 0,
+    "pictureOrientation": 0
+  },
+  {
+    "liveId": "354288246162526208",
+    "coverPath": "/20190503/15568815899791323I0Jf8h.jpg",
+    "title": "5分钟？？？",
+    "liveType": 1,
+    "status": 2,
+    "ctime": "1562398500242",
+    "userInfo": {
+      "userId": "528335",
+      "nickname": "BEJ48-金锣赛",
+      "avatar": "/mediasource/avatar/20190115/1547529366737u28MiF2ecq.jpg",
+      "badge": [],
+      "level": 1,
+      "isStar": true,
+      "friends": "0",
+      "followers": "0",
+      "teamLogo": "/mediasource/teamLogo2/all/bej48_j.png",
+      "signature": "",
+      "bgImg": "",
+      "vip": false,
+      "userRole": 3
+    },
+    "liveMode": 0,
+    "pictureOrientation": 0
+  }
+]

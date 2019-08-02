@@ -1,0 +1,48 @@
+[
+  {
+    "liveId": "338338334841311232",
+    "coverPath": "/20190523/155859574423119ITg86J9f.jpg",
+    "title": "下午好啊",
+    "liveType": 1,
+    "status": 2,
+    "ctime": "1558595744929",
+    "userInfo": {
+      "userId": "327591",
+      "nickname": "BEJ48-李梓",
+      "avatar": "/mediasource/avatar/20180617/1529172122894zh6k61ung7.jpg",
+      "badge": [],
+      "level": 1,
+      "isStar": true,
+      "friends": "0",
+      "followers": "0",
+      "teamLogo": "/mediasource/teamLogo2/all/bej48_e.png",
+      "signature": "",
+      "bgImg": "",
+      "vip": false,
+      "userRole": 3
+    }
+  },
+  {
+    "liveId": "338322750678306816",
+    "coverPath": "/20190523/1558591924838qT4v0ah00A.jpg",
+    "title": "换个手机试试水",
+    "liveType": 1,
+    "status": 2,
+    "ctime": "1558592029430",
+    "userInfo": {
+      "userId": "825969",
+      "nickname": "BEJ48-程宇璐",
+      "avatar": "/mediasource/avatar/20190221/1550680931459g30hieHLZh.jpg",
+      "badge": [],
+      "level": 1,
+      "isStar": true,
+      "friends": "0",
+      "followers": "0",
+      "teamLogo": "/mediasource/teamLogo2/all/bej48_e.png",
+      "signature": "",
+      "bgImg": "",
+      "vip": false,
+      "userRole": 3
+    }
+  }
+]

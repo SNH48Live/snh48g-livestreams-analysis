@@ -1,0 +1,163 @@
+[
+  {
+    "liveId": "346408008409747456",
+    "coverPath": "/20190614/1560519704634H63vqXoF7k.jpg",
+    "title": "🈺️我来辽",
+    "liveType": 1,
+    "status": 2,
+    "ctime": "1560519704811",
+    "userInfo": {
+      "userId": "6735",
+      "nickname": "SNH48-李钊",
+      "avatar": "/mediasource/avatar/20190219/1550551388502TdnaadZ651.jpg",
+      "badge": [],
+      "level": 1,
+      "isStar": true,
+      "friends": "0",
+      "followers": "0",
+      "teamLogo": "/mediasource/teamLogo2/all/snh48_x.png",
+      "signature": "",
+      "bgImg": "",
+      "vip": false,
+      "userRole": 3
+    }
+  },
+  {
+    "liveId": "346400376798121984",
+    "coverPath": "/20190614/1560517884973rE61uXP6vb.jpg",
+    "title": "不抛弃不放弃",
+    "liveType": 1,
+    "status": 2,
+    "ctime": "1560517885192",
+    "userInfo": {
+      "userId": "707369",
+      "nickname": "IDFT-魏小燕",
+      "avatar": "/mediasource/avatar/20190412/1555062531968beck8pV8lL.jpg",
+      "badge": [],
+      "level": 1,
+      "isStar": true,
+      "friends": "0",
+      "followers": "0",
+      "teamLogo": "/mediasource/teamLogo/all/idft_logo_2.png",
+      "signature": "",
+      "bgImg": "",
+      "vip": false,
+      "userRole": 3
+    }
+  },
+  {
+    "liveId": "346422076080197632",
+    "coverPath": "/20190614/1560523057558bwtm6N1T7n.jpg",
+    "title": "我来了",
+    "liveType": 2,
+    "status": 2,
+    "ctime": "1560523058768",
+    "userInfo": {
+      "userId": "399672",
+      "nickname": "SNH48-祁静",
+      "avatar": "/mediasource/avatar/1511023921292J5Q9uJxXzs.jpg",
+      "badge": [],
+      "level": 1,
+      "isStar": true,
+      "friends": "0",
+      "followers": "0",
+      "teamLogo": "/mediasource/teamLogo2/all/snh48_x.png",
+      "signature": "",
+      "bgImg": "/20190504/1556934806162tXoDeQ6UFw.jpg",
+      "vip": false,
+      "userRole": 3
+    }
+  },
+  {
+    "liveId": "346412467772788736",
+    "coverPath": "/20190601/1559363181481WH1bd0bWj1.jpg",
+    "title": "今日份的蝶儿",
+    "liveType": 1,
+    "status": 2,
+    "ctime": "1560520767994",
+    "userInfo": {
+      "userId": "874698",
+      "nickname": "IDFT-鄢羽蝶",
+      "avatar": "/mediasource/avatar/20190410/1554910632819tY6VCI2M8S.jpg",
+      "badge": [],
+      "level": 1,
+      "isStar": true,
+      "friends": "0",
+      "followers": "0",
+      "teamLogo": "/mediasource/teamLogo/all/idft_logo_2.png",
+      "signature": "",
+      "bgImg": "",
+      "vip": false,
+      "userRole": 3
+    }
+  },
+  {
+    "liveId": "346418483646238720",
+    "coverPath": "/20190614/1560522202007MI2DK8grA0.jpg",
+    "title": "不露脸",
+    "liveType": 1,
+    "status": 2,
+    "ctime": "1560522202275",
+    "userInfo": {
+      "userId": "6742",
+      "nickname": "SNH48-王晓佳",
+      "avatar": "/mediasource/avatar/20181108/1541613622152rqdd1hWjsf.jpg",
+      "badge": [],
+      "level": 1,
+      "isStar": true,
+      "friends": "0",
+      "followers": "0",
+      "teamLogo": "/mediasource/teamLogo2/all/snh48_x.png",
+      "signature": "",
+      "bgImg": "/20190522/1558533393576H2DJV56Fp1.jpg",
+      "vip": false,
+      "userRole": 3
+    }
+  },
+  {
+    "liveId": "346418921355415552",
+    "coverPath": "/20190614/1560522306286KrLe3xdvZ4.jpg",
+    "title": "6.14 星期五啦",
+    "liveType": 1,
+    "status": 2,
+    "ctime": "1560522306631",
+    "userInfo": {
+      "userId": "327566",
+      "nickname": "GNZ48-洪静雯",
+      "avatar": "/mediasource/avatar/20190327/155367844806561E6f3WFN0.jpg",
+      "badge": [],
+      "level": 1,
+      "isStar": true,
+      "friends": "0",
+      "followers": "0",
+      "teamLogo": "/mediasource/teamLogo2/all/gnz48_n3.png",
+      "signature": "",
+      "bgImg": "/20190513/155772206575992UXct6pWt.jpg",
+      "vip": false,
+      "userRole": 3
+    }
+  },
+  {
+    "liveId": "346407841052823552",
+    "coverPath": "/20190614/1560519664454zMcwRQNOw1.jpg",
+    "title": "快乐唠嗑一小会",
+    "liveType": 1,
+    "status": 2,
+    "ctime": "1560519664910",
+    "userInfo": {
+      "userId": "614728",
+      "nickname": "IDFT-雷宇霄",
+      "avatar": "/mediasource/avatar/20190127/1548583798929xb20cd5Qn0.jpg",
+      "badge": [],
+      "level": 1,
+      "isStar": true,
+      "friends": "0",
+      "followers": "0",
+      "teamLogo": "/mediasource/teamLogo/all/idft_logo_2.png",
+      "signature": "",
+      "bgImg": "",
+      "vip": false,
+      "userRole": 3
+    }
+  }
+]

@@ -1,0 +1,94 @@
+[
+  {
+    "liveId": "335880329294057472",
+    "coverPath": "/20190516/1558009709102z4p462069z.jpg",
+    "title": "嘿～就是你！进来！",
+    "liveType": 2,
+    "status": 2,
+    "ctime": "1558009710858",
+    "userInfo": {
+      "userId": "327570",
+      "nickname": "GNZ48-孙馨",
+      "avatar": "/mediasource/avatar/20190101/1546276646059ADqmn7K2Lw.jpg",
+      "badge": [],
+      "level": 1,
+      "isStar": true,
+      "friends": "0",
+      "followers": "0",
+      "teamLogo": "/mediasource/teamLogo2/all/gnz48_n3.png",
+      "signature": "",
+      "bgImg": "/20190425/15562049718879Nwi5fdqgt.jpg",
+      "vip": false,
+      "userRole": 3
+    }
+  },
+  {
+    "liveId": "335887397312860160",
+    "coverPath": "/20190516/1558011393411cbARa9176K.jpg",
+    "title": "唱歌给你听",
+    "liveType": 2,
+    "status": 2,
+    "ctime": "1558011395692",
+    "userInfo": {
+      "userId": "459995",
+      "nickname": "GNZ48-赖梓惜",
+      "avatar": "/mediasource/avatar/20181220/15453201878674NK0vNJ9Gl.jpg",
+      "badge": [],
+      "level": 1,
+      "isStar": true,
+      "friends": "0",
+      "followers": "0",
+      "teamLogo": "/mediasource/teamLogo/all/gnz_z_log2.png",
+      "signature": "",
+      "bgImg": "",
+      "vip": false,
+      "userRole": 3
+    }
+  },
+  {
+    "liveId": "335874914632142848",
+    "coverPath": "/20190516/1558008418632PUWZ2bZryU.jpg",
+    "title": "今天聊点什么",
+    "liveType": 2,
+    "status": 2,
+    "ctime": "1558008419621",
+    "userInfo": {
+      "userId": "6743",
+      "nickname": "SNH48-谢天依",
+      "avatar": "/mediasource/avatar/20190306/1551878249336n35zDvS4to.jpg",
+      "badge": [],
+      "level": 1,
+      "isStar": true,
+      "friends": "0",
+      "followers": "0",
+      "teamLogo": "/mediasource/teamLogo2/all/snh48_x.png",
+      "signature": "",
+      "bgImg": "",
+      "vip": false,
+      "userRole": 3
+    }
+  },
+  {
+    "liveId": "335835456297832448",
+    "coverPath": "/20190416/15553511814747mGr16pOH7.jpg",
+    "title": "玛利亚舞台妆容教学",
+    "liveType": 1,
+    "status": 2,
+    "ctime": "1557999012060",
+    "userInfo": {
+      "userId": "407104",
+      "nickname": "BEJ48-葛司琪",
+      "avatar": "/mediasource/avatar/20180809/1533816085151L3OoB4t2xZ.jpg",
+      "badge": [],
+      "level": 1,
+      "isStar": true,
+      "friends": "0",
+      "followers": "0",
+      "teamLogo": "/mediasource/teamLogo2/all/bej48_j.png",
+      "signature": "",
+      "bgImg": "",
+      "vip": false,
+      "userRole": 3
+    }
+  }
+]

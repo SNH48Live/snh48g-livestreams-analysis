@@ -1,0 +1,48 @@
+[
+  {
+    "liveId": "343375350108852224",
+    "coverPath": "/20190601/1559363181481WH1bd0bWj1.jpg",
+    "title": "进来看看？",
+    "liveType": 1,
+    "status": 2,
+    "ctime": "1559796663071",
+    "userInfo": {
+      "userId": "874698",
+      "nickname": "IDFT-鄢羽蝶",
+      "avatar": "/mediasource/avatar/20190410/1554910632819tY6VCI2M8S.jpg",
+      "badge": [],
+      "level": 1,
+      "isStar": true,
+      "friends": "0",
+      "followers": "0",
+      "teamLogo": "/mediasource/teamLogo/all/idft_logo_2.png",
+      "signature": "",
+      "bgImg": "",
+      "vip": false,
+      "userRole": 3
+    }
+  },
+  {
+    "liveId": "343381522668916736",
+    "coverPath": "/20190606/1559798133965C92Ej77s5u.jpg",
+    "title": "是个黑屏直播了",
+    "liveType": 1,
+    "status": 2,
+    "ctime": "1559798134714",
+    "userInfo": {
+      "userId": "530392",
+      "nickname": "BEJ48-张羽涵",
+      "avatar": "/mediasource/avatar/20181008/1538995322677x4XyNKiR14.jpg",
+      "badge": [],
+      "level": 1,
+      "isStar": true,
+      "friends": "0",
+      "followers": "0",
+      "teamLogo": "/mediasource/teamLogo2/all/bej48_b.png",
+      "signature": "",
+      "bgImg": "",
+      "vip": false,
+      "userRole": 3
+    }
+  }
+]

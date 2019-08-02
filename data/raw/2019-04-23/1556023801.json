@@ -1,0 +1,71 @@
+[
+  {
+    "liveId": "327545172862504960",
+    "coverPath": "/20190416/1555387399078225ft9UL3r.jpg",
+    "title": "瞎聊",
+    "liveType": 2,
+    "status": 2,
+    "ctime": "1556022454704",
+    "userInfo": {
+      "userId": "874698",
+      "nickname": "IDFT-鄢羽蝶",
+      "avatar": "/mediasource/avatar/20190410/1554910632819tY6VCI2M8S.jpg",
+      "badge": [],
+      "level": 1,
+      "isStar": true,
+      "friends": "0",
+      "followers": "0",
+      "teamLogo": "/mediasource/teamLogo/all/idft_logo_2.png",
+      "signature": "",
+      "bgImg": "",
+      "vip": false,
+      "userRole": 3
+    }
+  },
+  {
+    "liveId": "327548707754807296",
+    "coverPath": "/20190423/1556023223988UG8W4RT2m1.jpg",
+    "title": "在吗~",
+    "liveType": 2,
+    "status": 2,
+    "ctime": "1556023297186",
+    "userInfo": {
+      "userId": "874505",
+      "nickname": "IDFT-刘宇晴",
+      "avatar": "/mediasource/avatar/20190227/1551275776874HFh1XiOA3W.jpg",
+      "badge": [],
+      "level": 1,
+      "isStar": true,
+      "friends": "0",
+      "followers": "0",
+      "teamLogo": "/mediasource/teamLogo/all/idft_logo_2.png",
+      "signature": "",
+      "bgImg": "/20190415/1555336133714yq6rI1nDYf.jpg",
+      "vip": false,
+      "userRole": 3
+    }
+  },
+  {
+    "liveId": "327548952781852672",
+    "coverPath": "/20190423/1556023353538dd11y3926u.jpg",
+    "title": "上学日记031（网速测试）",
+    "liveType": 2,
+    "status": 2,
+    "ctime": "1556023355605",
+    "userInfo": {
+      "userId": "327574",
+      "nickname": "GNZ48-熊心瑶",
+      "avatar": "/mediasource/avatar/20190228/155135996408281CB6TA2xf.jpg",
+      "badge": [],
+      "level": 1,
+      "isStar": true,
+      "friends": "0",
+      "followers": "0",
+      "teamLogo": "/mediasource/teamLogo2/all/gnz48_n3.png",
+      "signature": "",
+      "bgImg": "",
+      "vip": false,
+      "userRole": 3
+    }
+  }
+]

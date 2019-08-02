@@ -1,0 +1,48 @@
+[
+  {
+    "liveId": "346634197409796096",
+    "coverPath": "/20190615/156057363160689k6L1uNTu.jpg",
+    "title": "十五分钟",
+    "liveType": 1,
+    "status": 2,
+    "ctime": "1560573632352",
+    "userInfo": {
+      "userId": "538697",
+      "nickname": "BEJ48-沈小爱",
+      "avatar": "/mediasource/avatar/20181017/1539711004316O80o9i0R5Q.jpg",
+      "badge": [],
+      "level": 1,
+      "isStar": true,
+      "friends": "0",
+      "followers": "0",
+      "teamLogo": "/mediasource/teamLogo2/all/bej48_b.png",
+      "signature": "",
+      "bgImg": "",
+      "vip": false,
+      "userRole": 3
+    }
+  },
+  {
+    "liveId": "346632770813759488",
+    "coverPath": "/20190615/1560573291790vpOHLxwnwy.jpg",
+    "title": "..",
+    "liveType": 1,
+    "status": 2,
+    "ctime": "1560573292229",
+    "userInfo": {
+      "userId": "63554",
+      "nickname": "BEJ48-段艺璇",
+      "avatar": "/mediasource/avatar/20190226/1551176339365r4BVxn60hs.jpg",
+      "badge": [],
+      "level": 1,
+      "isStar": true,
+      "friends": "0",
+      "followers": "0",
+      "teamLogo": "/mediasource/teamLogo2/all/bej48_b.png",
+      "signature": "",
+      "bgImg": "",
+      "vip": false,
+      "userRole": 3
+    }
+  }
+]

@@ -1,0 +1,102 @@
+[
+  {
+    "liveId": "363688150572011520",
+    "coverPath": "/20190801/15646396114242IscB4p3L8.jpg",
+    "title": "没有小伙伴儿10分钟",
+    "liveType": 1,
+    "status": 2,
+    "ctime": "1564639612050",
+    "userInfo": {
+      "userId": "327601",
+      "nickname": "BEJ48-陈倩楠",
+      "avatar": "/mediasource/avatar/20190210/1549802281304XSUvOT4b7q.jpg",
+      "badge": [],
+      "level": 1,
+      "isStar": true,
+      "friends": "0",
+      "followers": "0",
+      "teamLogo": "/mediasource/teamLogo2/all/bej48_e.png",
+      "signature": "",
+      "bgImg": "",
+      "vip": false,
+      "userRole": 3
+    },
+    "liveMode": 0,
+    "pictureOrientation": 0
+  },
+  {
+    "liveId": "363695732363694080",
+    "coverPath": "/20190801/15646414167661QpJRgEiX6.jpg",
+    "title": "用来增进感情的直播",
+    "liveType": 1,
+    "status": 2,
+    "ctime": "1564641419647",
+    "userInfo": {
+      "userId": "530431",
+      "nickname": "GNZ48-陈佳莹",
+      "avatar": "/20190721/1563668893930fsJ2Ps4v9u.jpg",
+      "badge": [],
+      "level": 1,
+      "isStar": true,
+      "friends": "0",
+      "followers": "0",
+      "teamLogo": "/mediasource/teamLogo2/all/gnz48_g.png",
+      "signature": "",
+      "bgImg": "",
+      "vip": false,
+      "userRole": 3
+    },
+    "liveMode": 0,
+    "pictureOrientation": 0
+  },
+  {
+    "liveId": "363693520656863232",
+    "coverPath": "/20190801/15646408916727y42Wly0XE.jpg",
+    "title": "吃饭时间",
+    "liveType": 1,
+    "status": 2,
+    "ctime": "1564640892344",
+    "userInfo": {
+      "userId": "607523",
+      "nickname": "GNZ48-林芝",
+      "avatar": "/mediasource/avatar/20190411/1554993925200TjS97JMUcn.jpg",
+      "badge": [],
+      "level": 2,
+      "isStar": true,
+      "friends": "0",
+      "followers": "0",
+      "teamLogo": "/mediasource/teamLogo2/all/gnz48_g.png",
+      "signature": "",
+      "bgImg": "/20190417/1555430555922f6DimtXe6H.jpg",
+      "vip": false,
+      "userRole": 3
+    },
+    "liveMode": 0,
+    "pictureOrientation": 0
+  },
+  {
+    "liveId": "363693744817246208",
+    "coverPath": "/20190801/1564640945102K3zl3RZ35a.jpg",
+    "title": "203.0吃饭了 饿死我",
+    "liveType": 1,
+    "status": 2,
+    "ctime": "1564640945808",
+    "userInfo": {
+      "userId": "63562",
+      "nickname": "GNZ48-林嘉佩",
+      "avatar": "/mediasource/avatar/20181012/15392802278986ARyi03706.jpg",
+      "badge": [],
+      "level": 2,
+      "isStar": true,
+      "friends": "0",
+      "followers": "0",
+      "teamLogo": "/mediasource/teamLogo2/all/gnz48_g.png",
+      "signature": "",
+      "bgImg": "/20190727/15641695211808Y3wp0Kg9j.jpg",
+      "vip": false,
+      "userRole": 3
+    },
+    "liveMode": 0,
+    "pictureOrientation": 0
+  }
+]

@@ -1,0 +1,77 @@
+[
+  {
+    "liveId": "360582284989763584",
+    "coverPath": "/mediasource/avatar/20190201/1549010069756CoeL0kaw99.jpg",
+    "title": "来找你们啦",
+    "liveType": 1,
+    "status": 2,
+    "ctime": "1563899115415",
+    "userInfo": {
+      "userId": "63559",
+      "nickname": "BEJ48-胡晓慧",
+      "avatar": "/mediasource/avatar/20190201/1549010069756CoeL0kaw99.jpg",
+      "badge": [],
+      "level": 1,
+      "isStar": true,
+      "friends": "0",
+      "followers": "0",
+      "teamLogo": "/mediasource/teamLogo2/all/bej48_b.png",
+      "signature": "",
+      "bgImg": "",
+      "vip": false,
+      "userRole": 3
+    },
+    "liveMode": 0,
+    "pictureOrientation": 0
+  },
+  {
+    "liveId": "360584947550720000",
+    "coverPath": "/mediasource/avatar/20190209/1549721765053uy7481V1E8.jpg",
+    "title": "和爸比（电台）",
+    "liveType": 1,
+    "status": 2,
+    "ctime": "1563899750386",
+    "userInfo": {
+      "userId": "327575",
+      "nickname": "GNZ48-郑丹妮",
+      "avatar": "/mediasource/avatar/20190209/1549721765053uy7481V1E8.jpg",
+      "badge": [],
+      "level": 1,
+      "isStar": true,
+      "friends": "0",
+      "followers": "0",
+      "teamLogo": "/mediasource/teamLogo2/all/gnz48_n3.png",
+      "signature": "",
+      "bgImg": "",
+      "vip": false,
+      "userRole": 3
+    },
+    "liveMode": 0,
+    "pictureOrientation": 0
+  },
+  {
+    "liveId": "360585843575689216",
+    "coverPath": "/mediasource/avatar/20190117/1547700110400lR1uWbpPJl.jpg",
+    "title": "晚上好呀～",
+    "liveType": 1,
+    "status": 2,
+    "ctime": "1563899964014",
+    "userInfo": {
+      "userId": "327563",
+      "nickname": "GNZ48-陈楠茜",
+      "avatar": "/mediasource/avatar/20190117/1547700110400lR1uWbpPJl.jpg",
+      "badge": [],
+      "level": 1,
+      "isStar": true,
+      "friends": "0",
+      "followers": "0",
+      "teamLogo": "/mediasource/teamLogo2/all/gnz48_n3.png",
+      "signature": "",
+      "bgImg": "",
+      "vip": false,
+      "userRole": 3
+    },
+    "liveMode": 0,
+    "pictureOrientation": 0
+  }
+]

@@ -1,0 +1,117 @@
+[
+  {
+    "liveId": "332961685434077184",
+    "coverPath": "/20190508/1557313851356L10sqMrf6X.jpg",
+    "title": "直一下",
+    "liveType": 1,
+    "status": 2,
+    "ctime": "1557313851936",
+    "userInfo": {
+      "userId": "63567",
+      "nickname": "SNH48-潘瑛琪",
+      "avatar": "/mediasource/avatar/20190410/1554831591250289mD724pb.jpg",
+      "badge": [],
+      "level": 1,
+      "isStar": true,
+      "friends": "0",
+      "followers": "0",
+      "teamLogo": "/mediasource/teamLogo2/all/snh48_x.png",
+      "signature": "",
+      "bgImg": "",
+      "vip": false,
+      "userRole": 3
+    }
+  },
+  {
+    "liveId": "332964013545426944",
+    "coverPath": "/20190508/1557314406359NUeY945NCH.jpg",
+    "title": "我是Shelly～",
+    "liveType": 1,
+    "status": 2,
+    "ctime": "1557314407001",
+    "userInfo": {
+      "userId": "63573",
+      "nickname": "BEJ48-熊素君",
+      "avatar": "/mediasource/avatar/20180608/1528436744438dC7138UwNE.jpg",
+      "badge": [],
+      "level": 1,
+      "isStar": true,
+      "friends": "0",
+      "followers": "0",
+      "teamLogo": "/mediasource/teamLogo2/all/bej48_b.png",
+      "signature": "",
+      "bgImg": "",
+      "vip": false,
+      "userRole": 3
+    }
+  },
+  {
+    "liveId": "332965409934086144",
+    "coverPath": "/20190508/1557314738948Kh5X2H81v1.jpg",
+    "title": "电台配饭",
+    "liveType": 2,
+    "status": 2,
+    "ctime": "1557314739926",
+    "userInfo": {
+      "userId": "38",
+      "nickname": "SNH48-戴萌",
+      "avatar": "/mediasource/avatar/20190309/1552145645187m56Yb8XlXV.jpg",
+      "badge": [],
+      "level": 1,
+      "isStar": true,
+      "friends": "0",
+      "followers": "0",
+      "teamLogo": "/mediasource/teamLogo2/all/snh48_s2.png",
+      "signature": "",
+      "bgImg": "/20190416/1555353346846Y8gdi4f5lU.jpg",
+      "vip": false,
+      "userRole": 3
+    }
+  },
+  {
+    "liveId": "332959808856330240",
+    "coverPath": "/20190508/1557313404052FN12h97RHa.jpg",
+    "title": "在家嗨一嗨",
+    "liveType": 1,
+    "status": 2,
+    "ctime": "1557313404286",
+    "userInfo": {
+      "userId": "18",
+      "nickname": "SNH48-徐晨辰",
+      "avatar": "/mediasource/avatar/20190209/1549651868260kNNAF2ognA.jpg",
+      "badge": [],
+      "level": 1,
+      "isStar": true,
+      "friends": "0",
+      "followers": "0",
+      "teamLogo": "/mediasource/teamLogo2/all/snh48_s2.png",
+      "signature": "",
+      "bgImg": "",
+      "vip": false,
+      "userRole": 3
+    }
+  },
+  {
+    "liveId": "332950919914000384",
+    "coverPath": "/20190508/1557311279704jX4VLc4uba.jpg",
+    "title": "要恰饭的嘛",
+    "liveType": 2,
+    "status": 2,
+    "ctime": "1557311284944",
+    "userInfo": {
+      "userId": "614735",
+      "nickname": "IDFT-田倩兰",
+      "avatar": "/mediasource/avatar/20190405/15544410566123IdGRnH7GC.jpg",
+      "badge": [],
+      "level": 1,
+      "isStar": true,
+      "friends": "0",
+      "followers": "0",
+      "teamLogo": "/mediasource/teamLogo/all/idft_logo_2.png",
+      "signature": "",
+      "bgImg": "",
+      "vip": false,
+      "userRole": 3
+    }
+  }
+]

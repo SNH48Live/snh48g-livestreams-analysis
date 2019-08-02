@@ -1,0 +1,94 @@
+[
+  {
+    "liveId": "342085683992399872",
+    "coverPath": "/20190602/1559489181526S6t2mC31Rn.jpg",
+    "title": "今日份的美貌",
+    "liveType": 1,
+    "status": 2,
+    "ctime": "1559489182146",
+    "userInfo": {
+      "userId": "417311",
+      "nickname": "GNZ48-陈桂君",
+      "avatar": "/20190528/1558977010328F1urpdquS5.jpg",
+      "badge": [],
+      "level": 1,
+      "isStar": true,
+      "friends": "0",
+      "followers": "0",
+      "teamLogo": "/mediasource/teamLogo/all/gnz_z_log2.png",
+      "signature": "",
+      "bgImg": "",
+      "vip": false,
+      "userRole": 3
+    }
+  },
+  {
+    "liveId": "342087516307656704",
+    "coverPath": "/20190602/15594896183804raWp3o9J8.jpg",
+    "title": "嗨",
+    "liveType": 1,
+    "status": 2,
+    "ctime": "1559489619149",
+    "userInfo": {
+      "userId": "417325",
+      "nickname": "GNZ48-王炯义",
+      "avatar": "/20190602/1559475641381XevLHa2STv.jpg",
+      "badge": [],
+      "level": 1,
+      "isStar": true,
+      "friends": "0",
+      "followers": "0",
+      "teamLogo": "/mediasource/teamLogo/all/gnz_z_log2.png",
+      "signature": "",
+      "bgImg": "",
+      "vip": false,
+      "userRole": 3
+    }
+  },
+  {
+    "liveId": "342081807885078528",
+    "coverPath": "/20190602/1559488257589X9CGbj4Ce7.jpg",
+    "title": "h",
+    "liveType": 1,
+    "status": 2,
+    "ctime": "1559488258170",
+    "userInfo": {
+      "userId": "327571",
+      "nickname": "GNZ48-唐莉佳",
+      "avatar": "/mediasource/avatar/20190130/154883183192989139ZJ472.jpg",
+      "badge": [],
+      "level": 1,
+      "isStar": true,
+      "friends": "0",
+      "followers": "0",
+      "teamLogo": "/mediasource/teamLogo2/all/gnz48_n3.png",
+      "signature": "",
+      "bgImg": "",
+      "vip": false,
+      "userRole": 3
+    }
+  },
+  {
+    "liveId": "342086894657277952",
+    "coverPath": "/20190602/1559489470603M44LUzC5Ui.jpg",
+    "title": "睡不着",
+    "liveType": 1,
+    "status": 2,
+    "ctime": "1559489471352",
+    "userInfo": {
+      "userId": "327560",
+      "nickname": "GNZ48-张琼予",
+      "avatar": "/mediasource/avatar/20190207/1549547210113SkxdD9fY19.jpg",
+      "badge": [],
+      "level": 1,
+      "isStar": true,
+      "friends": "0",
+      "followers": "0",
+      "teamLogo": "/mediasource/teamLogo2/all/gnz48_g.png",
+      "signature": "",
+      "bgImg": "/20190601/1559342656311MJ242KWjXA.jpg",
+      "vip": false,
+      "userRole": 3
+    }
+  }
+]

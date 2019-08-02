@@ -1,0 +1,48 @@
+[
+  {
+    "liveId": "336676264227966976",
+    "coverPath": "/20190519/155819947362283c7KLt5Wj.jpg",
+    "title": "ｏ",
+    "liveType": 2,
+    "status": 2,
+    "ctime": "1558199476527",
+    "userInfo": {
+      "userId": "614761",
+      "nickname": "IDFT-吴学雨",
+      "avatar": "/mediasource/avatar/20181122/1542902208134s17q0189qF.jpg",
+      "badge": [],
+      "level": 1,
+      "isStar": true,
+      "friends": "0",
+      "followers": "0",
+      "teamLogo": "/mediasource/teamLogo/all/idft_logo_2.png",
+      "signature": "",
+      "bgImg": "",
+      "vip": false,
+      "userRole": 3
+    }
+  },
+  {
+    "liveId": "336682219510501376",
+    "coverPath": "/20190519/1558200895750vf8v989e5n.jpg",
+    "title": "太晚了就开个电台叭",
+    "liveType": 1,
+    "status": 2,
+    "ctime": "1558200896385",
+    "userInfo": {
+      "userId": "407127",
+      "nickname": "BEJ48-张怀瑾",
+      "avatar": "/mediasource/avatar/20190225/15510919776647NV0Ed9TNi.jpg",
+      "badge": [],
+      "level": 1,
+      "isStar": true,
+      "friends": "0",
+      "followers": "0",
+      "teamLogo": "/mediasource/teamLogo2/all/bej48_j.png",
+      "signature": "",
+      "bgImg": "",
+      "vip": false,
+      "userRole": 3
+    }
+  }
+]

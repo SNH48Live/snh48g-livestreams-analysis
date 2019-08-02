@@ -1,0 +1,94 @@
+[
+  {
+    "liveId": "337961566661840896",
+    "coverPath": "/20190522/1558505913646sMVnWeE597.jpg",
+    "title": "解除思念",
+    "liveType": 1,
+    "status": 2,
+    "ctime": "1558505916514",
+    "userInfo": {
+      "userId": "327581",
+      "nickname": "BEJ48-青钰雯",
+      "avatar": "/mediasource/avatar/1508308875165CqB71FDr3h.jpg",
+      "badge": [],
+      "level": 1,
+      "isStar": true,
+      "friends": "0",
+      "followers": "0",
+      "teamLogo": "/mediasource/teamLogo2/all/bej48_b.png",
+      "signature": "",
+      "bgImg": "",
+      "vip": false,
+      "userRole": 3
+    }
+  },
+  {
+    "liveId": "337961729421807616",
+    "coverPath": "/20190505/15570456460119V20R0Q6g7.jpg",
+    "title": "皇后镇👑day2",
+    "liveType": 1,
+    "status": 2,
+    "ctime": "1558505955319",
+    "userInfo": {
+      "userId": "38",
+      "nickname": "SNH48-戴萌",
+      "avatar": "/mediasource/avatar/20190309/1552145645187m56Yb8XlXV.jpg",
+      "badge": [],
+      "level": 1,
+      "isStar": true,
+      "friends": "0",
+      "followers": "0",
+      "teamLogo": "/mediasource/teamLogo2/all/snh48_s2.png",
+      "signature": "",
+      "bgImg": "/20190416/1555353346846Y8gdi4f5lU.jpg",
+      "vip": false,
+      "userRole": 3
+    }
+  },
+  {
+    "liveId": "337969708426661888",
+    "coverPath": "/20190522/1558507856044Rs7tQUF3O6.jpg",
+    "title": "我在火炉旁唱着歌～",
+    "liveType": 1,
+    "status": 2,
+    "ctime": "1558507857661",
+    "userInfo": {
+      "userId": "459989",
+      "nickname": "SNH48-王诗蒙",
+      "avatar": "/mediasource/avatar/20190329/1553796331584bPmgvVPgC0.jpg",
+      "badge": [],
+      "level": 1,
+      "isStar": true,
+      "friends": "0",
+      "followers": "0",
+      "teamLogo": "/mediasource/teamLogo2/all/snh48_n2.png",
+      "signature": "",
+      "bgImg": "",
+      "vip": false,
+      "userRole": 3
+    }
+  },
+  {
+    "liveId": "337959462937366528",
+    "coverPath": "/20190522/15585054135153pjylvCVXy.jpg",
+    "title": "嘿",
+    "liveType": 1,
+    "status": 2,
+    "ctime": "1558505414947",
+    "userInfo": {
+      "userId": "39",
+      "nickname": "SNH48-吴哲晗",
+      "avatar": "/mediasource/avatar/20190124/1548327409737qi2IxvgK29.jpg",
+      "badge": [],
+      "level": 1,
+      "isStar": true,
+      "friends": "0",
+      "followers": "0",
+      "teamLogo": "/mediasource/teamLogo2/all/snh48_s2.png",
+      "signature": "",
+      "bgImg": "",
+      "vip": false,
+      "userRole": 3
+    }
+  }
+]

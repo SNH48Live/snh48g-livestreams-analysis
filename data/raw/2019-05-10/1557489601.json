@@ -1,0 +1,117 @@
+[
+  {
+    "liveId": "333683715905228800",
+    "coverPath": "/20190510/1557485975636p3ae92me2D.jpg",
+    "title": "看n队首演🌚",
+    "liveType": 1,
+    "status": 2,
+    "ctime": "1557485997092",
+    "userInfo": {
+      "userId": "869171",
+      "nickname": "SNH48-鲁静萍",
+      "avatar": "/mediasource/avatar/20190318/1552866278341xY7EeICIOf.jpg",
+      "badge": [],
+      "level": 1,
+      "isStar": true,
+      "friends": "0",
+      "followers": "0",
+      "teamLogo": "/mediasource/teamLogo2/all/snh48_x.png",
+      "signature": "",
+      "bgImg": "",
+      "vip": false,
+      "userRole": 3
+    }
+  },
+  {
+    "liveId": "333692072930119680",
+    "coverPath": "/20190510/1557487988968s78RcldWdh.jpg",
+    "title": "来啦",
+    "liveType": 1,
+    "status": 2,
+    "ctime": "1557487989884",
+    "userInfo": {
+      "userId": "707369",
+      "nickname": "IDFT-魏小燕",
+      "avatar": "/mediasource/avatar/20190412/1555062531968beck8pV8lL.jpg",
+      "badge": [],
+      "level": 1,
+      "isStar": true,
+      "friends": "0",
+      "followers": "0",
+      "teamLogo": "/mediasource/teamLogo/all/idft_logo_2.png",
+      "signature": "",
+      "bgImg": "",
+      "vip": false,
+      "userRole": 3
+    }
+  },
+  {
+    "liveId": "333684404349898752",
+    "coverPath": "/20190510/15574861583955ahkk04506.jpg",
+    "title": "Hi",
+    "liveType": 2,
+    "status": 2,
+    "ctime": "1557486161315",
+    "userInfo": {
+      "userId": "327587",
+      "nickname": "BEJ48-冯思佳",
+      "avatar": "/mediasource/avatar/20180420/1524158237082F67tg21k3I.jpg",
+      "badge": [],
+      "level": 1,
+      "isStar": true,
+      "friends": "0",
+      "followers": "0",
+      "teamLogo": "/mediasource/teamLogo2/all/bej48_e.png",
+      "signature": "",
+      "bgImg": "/20190416/1555430011580O9sDA7w1gQ.jpg",
+      "vip": false,
+      "userRole": 3
+    }
+  },
+  {
+    "liveId": "333692491953672192",
+    "coverPath": "/20190510/1557488089110Q1O3xdGwc1.jpg",
+    "title": "叮咚～我就在这里",
+    "liveType": 1,
+    "status": 2,
+    "ctime": "1557488089787",
+    "userInfo": {
+      "userId": "614739",
+      "nickname": "IDFT-王梦竹",
+      "avatar": "/mediasource/avatar/20190323/1553278247276oS8o2lE4kV.jpg",
+      "badge": [],
+      "level": 1,
+      "isStar": true,
+      "friends": "0",
+      "followers": "0",
+      "teamLogo": "/mediasource/teamLogo/all/idft_logo_2.png",
+      "signature": "",
+      "bgImg": "",
+      "vip": false,
+      "userRole": 3
+    }
+  },
+  {
+    "liveId": "333697023689428992",
+    "coverPath": "/20190510/1557489168919BiEeHhC09D.jpg",
+    "title": "一小时工作。🈺️",
+    "liveType": 2,
+    "status": 2,
+    "ctime": "1557489169967",
+    "userInfo": {
+      "userId": "6747",
+      "nickname": "IDFT-张丹三",
+      "avatar": "/mediasource/avatar/20180703/1530627634119fAmNL4rPBH.jpg",
+      "badge": [],
+      "level": 1,
+      "isStar": true,
+      "friends": "0",
+      "followers": "0",
+      "teamLogo": "/mediasource/teamLogo/all/idft_logo_2.png",
+      "signature": "",
+      "bgImg": "",
+      "vip": false,
+      "userRole": 3
+    }
+  }
+]

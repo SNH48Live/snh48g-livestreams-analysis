@@ -1,0 +1,117 @@
+[
+  {
+    "liveId": "351504593296625664",
+    "coverPath": "/20190628/1561734824990roxcBxXum6.jpg",
+    "title": ".",
+    "liveType": 1,
+    "status": 2,
+    "ctime": "1561734825277",
+    "userInfo": {
+      "userId": "49005",
+      "nickname": "SNH48-沈梦瑶",
+      "avatar": "/mediasource/avatar/20190302/155146332801927FZq9873v.jpg",
+      "badge": [],
+      "level": 1,
+      "isStar": true,
+      "friends": "0",
+      "followers": "0",
+      "teamLogo": "/mediasource/teamLogo2/all/snh48_h2.png",
+      "signature": "",
+      "bgImg": "",
+      "vip": false,
+      "userRole": 3
+    }
+  },
+  {
+    "liveId": "351504848205451264",
+    "coverPath": "/20190628/1561734885500C791x5wHU2.jpg",
+    "title": "五毛钱的天",
+    "liveType": 1,
+    "status": 2,
+    "ctime": "1561734886051",
+    "userInfo": {
+      "userId": "867892",
+      "nickname": "SNH48-郭爽",
+      "avatar": "/20190606/155980121040330jQV5JVzB.jpg",
+      "badge": [],
+      "level": 1,
+      "isStar": true,
+      "friends": "0",
+      "followers": "0",
+      "teamLogo": "/mediasource/teamLogo2/all/snh48_h2.png",
+      "signature": "",
+      "bgImg": "/20190606/1559764564094Qru8k1nmjq.jpg",
+      "vip": false,
+      "userRole": 3
+    }
+  },
+  {
+    "liveId": "351495943417040896",
+    "coverPath": "/20190628/1561732762819siK20J0Wh2.jpg",
+    "title": "营业🈺️",
+    "liveType": 1,
+    "status": 2,
+    "ctime": "1561732763389",
+    "userInfo": {
+      "userId": "2508",
+      "nickname": "SNH48-张昕",
+      "avatar": "/mediasource/avatar/20190115/15475321892217K6V9FHtbL.jpg",
+      "badge": [],
+      "level": 2,
+      "isStar": true,
+      "friends": "0",
+      "followers": "0",
+      "teamLogo": "/mediasource/teamLogo2/all/snh48_h2.png",
+      "signature": "",
+      "bgImg": "",
+      "vip": false,
+      "userRole": 3
+    }
+  },
+  {
+    "liveId": "351480475134267392",
+    "coverPath": "/20190628/1561729073299x9n1CFD145.jpg",
+    "title": "电台",
+    "liveType": 2,
+    "status": 2,
+    "ctime": "1561729075122",
+    "userInfo": {
+      "userId": "327587",
+      "nickname": "BEJ48-冯思佳",
+      "avatar": "/mediasource/avatar/20180420/1524158237082F67tg21k3I.jpg",
+      "badge": [],
+      "level": 1,
+      "isStar": true,
+      "friends": "0",
+      "followers": "0",
+      "teamLogo": "/mediasource/teamLogo2/all/bej48_e.png",
+      "signature": "",
+      "bgImg": "/20190416/1555430011580O9sDA7w1gQ.jpg",
+      "vip": false,
+      "userRole": 3
+    }
+  },
+  {
+    "liveId": "351480809932001280",
+    "coverPath": "/20190628/1561729133640r8A761y6F9.jpg",
+    "title": "电电台✨",
+    "liveType": 2,
+    "status": 2,
+    "ctime": "1561729155285",
+    "userInfo": {
+      "userId": "458335",
+      "nickname": "IDFT-李慧",
+      "avatar": "/mediasource/avatar/20180826/1535246668998G04P3qHPSi.jpg",
+      "badge": [],
+      "level": 2,
+      "isStar": true,
+      "friends": "0",
+      "followers": "0",
+      "teamLogo": "/mediasource/teamLogo/all/idft_logo_2.png",
+      "signature": "",
+      "bgImg": "/20190416/15554076685914Li2dwzO2Y.jpg",
+      "vip": false,
+      "userRole": 3
+    }
+  }
+]

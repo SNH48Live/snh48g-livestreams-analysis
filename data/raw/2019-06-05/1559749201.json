@@ -1,0 +1,71 @@
+[
+  {
+    "liveId": "343173786282823680",
+    "coverPath": "/20190605/1559748605845eNY6N17b11.jpg",
+    "title": "一起看综艺“意想不到的假期”槽点不吐不快",
+    "liveType": 1,
+    "status": 2,
+    "ctime": "1559748606501",
+    "userInfo": {
+      "userId": "327580",
+      "nickname": "BEJ48-张梦慧",
+      "avatar": "/mediasource/avatar/20180715/153164237119892mctLYtn5.jpg",
+      "badge": [],
+      "level": 1,
+      "isStar": true,
+      "friends": "0",
+      "followers": "0",
+      "teamLogo": "/mediasource/teamLogo2/all/bej48_b.png",
+      "signature": "",
+      "bgImg": "",
+      "vip": false,
+      "userRole": 3
+    }
+  },
+  {
+    "liveId": "343159276700504064",
+    "coverPath": "/20190605/1559745143118uauNr88a3x.jpg",
+    "title": "⭐️",
+    "liveType": 1,
+    "status": 2,
+    "ctime": "1559745146627",
+    "userInfo": {
+      "userId": "458335",
+      "nickname": "IDFT-李慧",
+      "avatar": "/mediasource/avatar/20180826/1535246668998G04P3qHPSi.jpg",
+      "badge": [],
+      "level": 1,
+      "isStar": true,
+      "friends": "0",
+      "followers": "0",
+      "teamLogo": "/mediasource/teamLogo/all/idft_logo_2.png",
+      "signature": "",
+      "bgImg": "/20190416/15554076685914Li2dwzO2Y.jpg",
+      "vip": false,
+      "userRole": 3
+    }
+  },
+  {
+    "liveId": "343155811228127232",
+    "coverPath": "/20190605/1559744319893V246J21bFe.jpg",
+    "title": "一个拆盲盒➕或许抽奖（也可能不是这个直播）",
+    "liveType": 1,
+    "status": 2,
+    "ctime": "1559744320406",
+    "userInfo": {
+      "userId": "614728",
+      "nickname": "IDFT-雷宇霄",
+      "avatar": "/mediasource/avatar/20190127/1548583798929xb20cd5Qn0.jpg",
+      "badge": [],
+      "level": 1,
+      "isStar": true,
+      "friends": "0",
+      "followers": "0",
+      "teamLogo": "/mediasource/teamLogo/all/idft_logo_2.png",
+      "signature": "",
+      "bgImg": "",
+      "vip": false,
+      "userRole": 3
+    }
+  }
+]

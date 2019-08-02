@@ -1,0 +1,48 @@
+[
+  {
+    "liveId": "333030101201260544",
+    "coverPath": "/20190425/155620749203590TD68vgc2.jpg",
+    "title": "直播啦！",
+    "liveType": 1,
+    "status": 2,
+    "ctime": "1557330163526",
+    "userInfo": {
+      "userId": "677398",
+      "nickname": "SNH48-李玉倩",
+      "avatar": "/mediasource/avatar/20180609/1528474175451cOokW9vNU7.jpg",
+      "badge": [],
+      "level": 1,
+      "isStar": true,
+      "friends": "0",
+      "followers": "0",
+      "teamLogo": "/mediasource/teamLogo2/all/snh48_h2.png",
+      "signature": "",
+      "bgImg": "",
+      "vip": false,
+      "userRole": 3
+    }
+  },
+  {
+    "liveId": "333026778918227968",
+    "coverPath": "/20190508/1557329369369U276hNA0NK.jpg",
+    "title": "晚上好！",
+    "liveType": 2,
+    "status": 2,
+    "ctime": "1557329371018",
+    "userInfo": {
+      "userId": "63548",
+      "nickname": "GNZ48-陈珂",
+      "avatar": "/mediasource/avatar/1507968025370Aya7o6Ut6k.jpg",
+      "badge": [],
+      "level": 1,
+      "isStar": true,
+      "friends": "0",
+      "followers": "0",
+      "teamLogo": "/mediasource/teamLogo2/all/gnz48_g.png",
+      "signature": "",
+      "bgImg": "",
+      "vip": false,
+      "userRole": 3
+    }
+  }
+]

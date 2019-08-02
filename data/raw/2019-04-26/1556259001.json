@@ -1,0 +1,48 @@
+[
+  {
+    "liveId": "328537248467062784",
+    "coverPath": "/20190417/1555501097612kfKpnfPI4U.jpg",
+    "title": "一起吃饭",
+    "liveType": 1,
+    "status": 2,
+    "ctime": "1556258983960",
+    "userInfo": {
+      "userId": "538697",
+      "nickname": "BEJ48-沈小爱",
+      "avatar": "/mediasource/avatar/20181017/1539711004316O80o9i0R5Q.jpg",
+      "badge": [],
+      "level": 1,
+      "isStar": true,
+      "friends": "0",
+      "followers": "0",
+      "teamLogo": "/mediasource/teamLogo2/all/bej48_b.png",
+      "signature": "",
+      "bgImg": "",
+      "vip": false,
+      "userRole": 3
+    }
+  },
+  {
+    "liveId": "328524945059287040",
+    "coverPath": "/20190425/1556158933886GNNYd6LqyG.jpg",
+    "title": "早安电台",
+    "liveType": 2,
+    "status": 2,
+    "ctime": "1556256050586",
+    "userInfo": {
+      "userId": "874717",
+      "nickname": "IDFT-武晓迪",
+      "avatar": "/mediasource/avatar/20190320/15530212766396Z27rSj8z0.jpg",
+      "badge": [],
+      "level": 1,
+      "isStar": true,
+      "friends": "0",
+      "followers": "0",
+      "teamLogo": "/mediasource/teamLogo/all/idft_logo_2.png",
+      "signature": "",
+      "bgImg": "/20190417/15554740176236psv46M2iY.jpg",
+      "vip": false,
+      "userRole": 3
+    }
+  }
+]

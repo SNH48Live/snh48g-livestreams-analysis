@@ -1,0 +1,71 @@
+[
+  {
+    "liveId": "338807917725421568",
+    "coverPath": "/20190524/1558707700963a4Nt6tOl90.jpg",
+    "title": "Hi",
+    "liveType": 2,
+    "status": 2,
+    "ctime": "1558707702332",
+    "userInfo": {
+      "userId": "327587",
+      "nickname": "BEJ48-冯思佳",
+      "avatar": "/mediasource/avatar/20180420/1524158237082F67tg21k3I.jpg",
+      "badge": [],
+      "level": 1,
+      "isStar": true,
+      "friends": "0",
+      "followers": "0",
+      "teamLogo": "/mediasource/teamLogo2/all/bej48_e.png",
+      "signature": "",
+      "bgImg": "/20190416/1555430011580O9sDA7w1gQ.jpg",
+      "vip": false,
+      "userRole": 3
+    }
+  },
+  {
+    "liveId": "338850186872557568",
+    "coverPath": "/20190525/1558717779372K9uX43Cp26.jpg",
+    "title": "重庆等外卖",
+    "liveType": 1,
+    "status": 2,
+    "ctime": "1558717780073",
+    "userInfo": {
+      "userId": "5574",
+      "nickname": "SNH48-张雨鑫",
+      "avatar": "/mediasource/avatar/20190307/1551941313755d3NX3zI1yc.jpg",
+      "badge": [],
+      "level": 1,
+      "isStar": true,
+      "friends": "0",
+      "followers": "0",
+      "teamLogo": "/mediasource/teamLogo2/all/snh48_n2.png",
+      "signature": "",
+      "bgImg": "",
+      "vip": false,
+      "userRole": 3
+    }
+  },
+  {
+    "liveId": "338852799252860928",
+    "coverPath": "/20190525/1558718401928va0qQV2tpO.jpg",
+    "title": "五分钟",
+    "liveType": 1,
+    "status": 2,
+    "ctime": "1558718402908",
+    "userInfo": {
+      "userId": "407127",
+      "nickname": "BEJ48-张怀瑾",
+      "avatar": "/mediasource/avatar/20190225/15510919776647NV0Ed9TNi.jpg",
+      "badge": [],
+      "level": 1,
+      "isStar": true,
+      "friends": "0",
+      "followers": "0",
+      "teamLogo": "/mediasource/teamLogo2/all/bej48_j.png",
+      "signature": "",
+      "bgImg": "",
+      "vip": false,
+      "userRole": 3
+    }
+  }
+]

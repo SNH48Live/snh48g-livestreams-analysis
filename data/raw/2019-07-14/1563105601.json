@@ -1,0 +1,77 @@
+[
+  {
+    "liveId": "357241159876939776",
+    "coverPath": "/20190714/1563102528876I2iB0AA0iZ.jpg",
+    "title": "✌️",
+    "liveType": 1,
+    "status": 2,
+    "ctime": "1563102529491",
+    "userInfo": {
+      "userId": "327579",
+      "nickname": "BEJ48-刘姝贤",
+      "avatar": "/mediasource/avatar/20181215/15448894004888maF1vqWwv.jpg",
+      "badge": [],
+      "level": 1,
+      "isStar": true,
+      "friends": "0",
+      "followers": "0",
+      "teamLogo": "/mediasource/teamLogo2/all/bej48_b.png",
+      "signature": "",
+      "bgImg": "",
+      "vip": false,
+      "userRole": 3
+    },
+    "liveMode": 0,
+    "pictureOrientation": 0
+  },
+  {
+    "liveId": "357253212184317952",
+    "coverPath": "/20190714/1563105402237aI5E06Q3XX.jpg",
+    "title": "闪灵的姐妹——闪退",
+    "liveType": 1,
+    "status": 2,
+    "ctime": "1563105402954",
+    "userInfo": {
+      "userId": "614741",
+      "nickname": "IDFT-曾佳",
+      "avatar": "/20190605/1559719819302iv55422Cs3.jpg",
+      "badge": [],
+      "level": 1,
+      "isStar": true,
+      "friends": "0",
+      "followers": "0",
+      "teamLogo": "/mediasource/teamLogo/all/idft_logo_2.png",
+      "signature": "",
+      "bgImg": "/20190630/1561889543816gYVr17PyRp.jpg",
+      "vip": false,
+      "userRole": 3
+    },
+    "liveMode": 0,
+    "pictureOrientation": 0
+  },
+  {
+    "liveId": "357253146073698304",
+    "coverPath": "/20190714/1563105386788XqHW0426UP.jpg",
+    "title": "。。",
+    "liveType": 1,
+    "status": 2,
+    "ctime": "1563105387466",
+    "userInfo": {
+      "userId": "874508",
+      "nickname": "IDFT-尚官",
+      "avatar": "/20190705/15623285664780C88m2lAD3.jpg",
+      "badge": [],
+      "level": 1,
+      "isStar": true,
+      "friends": "0",
+      "followers": "0",
+      "teamLogo": "/mediasource/teamLogo/all/idft_logo_2.png",
+      "signature": "",
+      "bgImg": "/20190707/1562438806353MU40Okq354.jpg",
+      "vip": false,
+      "userRole": 3
+    },
+    "liveMode": 0,
+    "pictureOrientation": 0
+  }
+]

@@ -1,0 +1,48 @@
+[
+  {
+    "liveId": "328537248467062784",
+    "coverPath": "/20190417/1555501097612kfKpnfPI4U.jpg",
+    "title": "一起吃饭",
+    "liveType": 1,
+    "status": 2,
+    "ctime": "1556258983960",
+    "userInfo": {
+      "userId": "538697",
+      "nickname": "BEJ48-沈小爱",
+      "avatar": "/mediasource/avatar/20181017/1539711004316O80o9i0R5Q.jpg",
+      "badge": [],
+      "level": 1,
+      "isStar": true,
+      "friends": "0",
+      "followers": "0",
+      "teamLogo": "/mediasource/teamLogo2/all/bej48_b.png",
+      "signature": "",
+      "bgImg": "",
+      "vip": false,
+      "userRole": 3
+    }
+  },
+  {
+    "liveId": "328540107787014144",
+    "coverPath": "/20190426/1556259664979zK5EyH9Lhy.jpg",
+    "title": "冲浪🏄‍♀️",
+    "liveType": 1,
+    "status": 2,
+    "ctime": "1556259665676",
+    "userInfo": {
+      "userId": "711735",
+      "nickname": "BEJ48-曲美霖",
+      "avatar": "/mediasource/avatar/20190220/1550643122590xo68HjPx7R.jpg",
+      "badge": [],
+      "level": 1,
+      "isStar": true,
+      "friends": "0",
+      "followers": "0",
+      "teamLogo": "/mediasource/teamLogo2/all/bej48_b.png",
+      "signature": "",
+      "bgImg": "",
+      "vip": false,
+      "userRole": 3
+    }
+  }
+]

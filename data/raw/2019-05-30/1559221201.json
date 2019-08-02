@@ -1,0 +1,140 @@
+[
+  {
+    "liveId": "340955103619780608",
+    "coverPath": "/20190530/1559219630953k6j5J5sIjy.jpg",
+    "title": "喔～",
+    "liveType": 1,
+    "status": 2,
+    "ctime": "1559219631041",
+    "userInfo": {
+      "userId": "45",
+      "nickname": "SNH48-谢妮",
+      "avatar": "/mediasource/avatar/20190126/1548516241171cvrzCj6MLH.jpg",
+      "badge": [],
+      "level": 1,
+      "isStar": true,
+      "friends": "0",
+      "followers": "0",
+      "teamLogo": "/mediasource/teamLogo2/all/snh48_n2.png",
+      "signature": "",
+      "bgImg": "/20190528/15590536501237k6S2688Gk.jpg",
+      "vip": false,
+      "userRole": 3
+    }
+  },
+  {
+    "liveId": "340957913421778944",
+    "coverPath": "/20190530/1559220298960Ov50IPHmG8.jpg",
+    "title": "开心就要略略略略",
+    "liveType": 2,
+    "status": 2,
+    "ctime": "1559220300835",
+    "userInfo": {
+      "userId": "459995",
+      "nickname": "GNZ48-赖梓惜",
+      "avatar": "/mediasource/avatar/20181220/15453201878674NK0vNJ9Gl.jpg",
+      "badge": [],
+      "level": 1,
+      "isStar": true,
+      "friends": "0",
+      "followers": "0",
+      "teamLogo": "/mediasource/teamLogo/all/gnz_z_log2.png",
+      "signature": "",
+      "bgImg": "",
+      "vip": false,
+      "userRole": 3
+    }
+  },
+  {
+    "liveId": "340951543851061248",
+    "coverPath": "/20190530/15592187819495e8724qgHh.jpg",
+    "title": "✨快乐小李✨",
+    "liveType": 1,
+    "status": 2,
+    "ctime": "1559218782336",
+    "userInfo": {
+      "userId": "677397",
+      "nickname": "SNH48-李星羽",
+      "avatar": "/mediasource/avatar/20190407/1554636108440Gu7Inz0qOi.jpg",
+      "badge": [],
+      "level": 1,
+      "isStar": true,
+      "friends": "0",
+      "followers": "0",
+      "teamLogo": "/mediasource/teamLogo2/all/snh48_x.png",
+      "signature": "",
+      "bgImg": "",
+      "vip": false,
+      "userRole": 3
+    }
+  },
+  {
+    "liveId": "340959694449086464",
+    "coverPath": "/20190530/1559220725132jNNMjNk60T.jpg",
+    "title": "稍纵即逝！聊一会呢～",
+    "liveType": 1,
+    "status": 2,
+    "ctime": "1559220725459",
+    "userInfo": {
+      "userId": "417329",
+      "nickname": "GNZ48-王秭歆",
+      "avatar": "/mediasource/avatar/20190317/1552817409822ZL2Zr4Kd8v.jpg",
+      "badge": [],
+      "level": 1,
+      "isStar": true,
+      "friends": "0",
+      "followers": "0",
+      "teamLogo": "/mediasource/teamLogo/all/gnz_z_log2.png",
+      "signature": "",
+      "bgImg": "/20190416/155536048343916jb5QRiXV.jpg",
+      "vip": false,
+      "userRole": 3
+    }
+  },
+  {
+    "liveId": "340943746488930304",
+    "coverPath": "/20190530/155921692278131rYFJ5c3i.jpg",
+    "title": "不会动的小赖",
+    "liveType": 1,
+    "status": 2,
+    "ctime": "1559216923591",
+    "userInfo": {
+      "userId": "530440",
+      "nickname": "IDFT-赖俊亦",
+      "avatar": "/mediasource/avatar/20190213/1550061722081Z9c031902p.jpg",
+      "badge": [],
+      "level": 1,
+      "isStar": true,
+      "friends": "0",
+      "followers": "0",
+      "teamLogo": "/mediasource/teamLogo/all/idft_logo_2.png",
+      "signature": "",
+      "bgImg": "",
+      "vip": false,
+      "userRole": 3
+    }
+  },
+  {
+    "liveId": "340957745687367680",
+    "coverPath": "/20190530/1559220258188Ae19nwj8j1.jpg",
+    "title": "637069584嗷！！",
+    "liveType": 2,
+    "status": 2,
+    "ctime": "1559220260844",
+    "userInfo": {
+      "userId": "530450",
+      "nickname": "GNZ48-张秋怡",
+      "avatar": "/20190529/1559119131710zFzWh6zE40.jpg",
+      "badge": [],
+      "level": 1,
+      "isStar": true,
+      "friends": "0",
+      "followers": "0",
+      "teamLogo": "/mediasource/teamLogo/all/gnz_z_log2.png",
+      "signature": "",
+      "bgImg": "",
+      "vip": false,
+      "userRole": 3
+    }
+  }
+]

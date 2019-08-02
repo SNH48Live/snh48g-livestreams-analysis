@@ -1,0 +1,71 @@
+[
+  {
+    "liveId": "338286375367151616",
+    "coverPath": "/20190523/1558583354617492K7VWIQL.jpg",
+    "title": "新西兰  皇后镇  高空跳伞",
+    "liveType": 1,
+    "status": 2,
+    "ctime": "1558583356943",
+    "userInfo": {
+      "userId": "38",
+      "nickname": "SNH48-戴萌",
+      "avatar": "/mediasource/avatar/20190309/1552145645187m56Yb8XlXV.jpg",
+      "badge": [],
+      "level": 1,
+      "isStar": true,
+      "friends": "0",
+      "followers": "0",
+      "teamLogo": "/mediasource/teamLogo2/all/snh48_s2.png",
+      "signature": "",
+      "bgImg": "/20190416/1555353346846Y8gdi4f5lU.jpg",
+      "vip": false,
+      "userRole": 3
+    }
+  },
+  {
+    "liveId": "338287690235318272",
+    "coverPath": "/20190523/1558583667401x3tI52noXr.jpg",
+    "title": "跳伞了……(　ﾟдﾟ)",
+    "liveType": 1,
+    "status": 2,
+    "ctime": "1558583670432",
+    "userInfo": {
+      "userId": "459989",
+      "nickname": "SNH48-王诗蒙",
+      "avatar": "/mediasource/avatar/20190329/1553796331584bPmgvVPgC0.jpg",
+      "badge": [],
+      "level": 1,
+      "isStar": true,
+      "friends": "0",
+      "followers": "0",
+      "teamLogo": "/mediasource/teamLogo2/all/snh48_n2.png",
+      "signature": "",
+      "bgImg": "",
+      "vip": false,
+      "userRole": 3
+    }
+  },
+  {
+    "liveId": "338287628323196928",
+    "coverPath": "/20190523/1558583652179dDaF26pX7c.jpg",
+    "title": "跳伞结束",
+    "liveType": 1,
+    "status": 2,
+    "ctime": "1558583655671",
+    "userInfo": {
+      "userId": "21",
+      "nickname": "SNH48-许佳琪",
+      "avatar": "/mediasource/avatar/20180925/1537887254128GPTbD94euQ.jpg",
+      "badge": [],
+      "level": 1,
+      "isStar": true,
+      "friends": "0",
+      "followers": "0",
+      "teamLogo": "/mediasource/teamLogo2/all/snh48_s2.png",
+      "signature": "",
+      "bgImg": "",
+      "vip": false,
+      "userRole": 3
+    }
+  }
+]

@@ -1,0 +1,71 @@
+[
+  {
+    "liveId": "328157702114840576",
+    "coverPath": "/20190425/1556168491151b706V0QTmQ.jpg",
+    "title": "：p",
+    "liveType": 2,
+    "status": 2,
+    "ctime": "1556168493057",
+    "userInfo": {
+      "userId": "874701",
+      "nickname": "GNZ48-张润",
+      "avatar": "/mediasource/avatar/20190412/1555048396980M5opi002l2.jpg",
+      "badge": [],
+      "level": 1,
+      "isStar": true,
+      "friends": "0",
+      "followers": "0",
+      "teamLogo": "/mediasource/teamLogo2/all/gnz48_n3.png",
+      "signature": "",
+      "bgImg": "/20190416/1555393591732yCyy8TT2k6.jpg",
+      "vip": false,
+      "userRole": 3
+    }
+  },
+  {
+    "liveId": "328125021985509376",
+    "coverPath": "/20190425/1556160699126uSYtTV75BI.jpg",
+    "title": "凑",
+    "liveType": 2,
+    "status": 2,
+    "ctime": "1556160701510",
+    "userInfo": {
+      "userId": "407130",
+      "nickname": "IDFT-张韩紫陌",
+      "avatar": "/mediasource/avatar/20190408/1554702629948jiX42k0iPA.jpg",
+      "badge": [],
+      "level": 1,
+      "isStar": true,
+      "friends": "0",
+      "followers": "0",
+      "teamLogo": "/mediasource/teamLogo/all/idft_logo_2.png",
+      "signature": "",
+      "bgImg": "",
+      "vip": false,
+      "userRole": 3
+    }
+  },
+  {
+    "liveId": "328163898020401152",
+    "coverPath": "/20190416/1555387399078225ft9UL3r.jpg",
+    "title": "在线双马尾化妆聊天",
+    "liveType": 1,
+    "status": 2,
+    "ctime": "1556169970262",
+    "userInfo": {
+      "userId": "874698",
+      "nickname": "IDFT-鄢羽蝶",
+      "avatar": "/mediasource/avatar/20190410/1554910632819tY6VCI2M8S.jpg",
+      "badge": [],
+      "level": 1,
+      "isStar": true,
+      "friends": "0",
+      "followers": "0",
+      "teamLogo": "/mediasource/teamLogo/all/idft_logo_2.png",
+      "signature": "",
+      "bgImg": "",
+      "vip": false,
+      "userRole": 3
+    }
+  }
+]

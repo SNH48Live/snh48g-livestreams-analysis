@@ -1,0 +1,48 @@
+[
+  {
+    "liveId": "351787175938691072",
+    "coverPath": "/20190629/1561802198111azaOn8t268.jpg",
+    "title": "趁冷餐直播一会儿！",
+    "liveType": 1,
+    "status": 2,
+    "ctime": "1561802198438",
+    "userInfo": {
+      "userId": "6742",
+      "nickname": "SNH48-王晓佳",
+      "avatar": "/mediasource/avatar/20181108/1541613622152rqdd1hWjsf.jpg",
+      "badge": [],
+      "level": 1,
+      "isStar": true,
+      "friends": "0",
+      "followers": "0",
+      "teamLogo": "/mediasource/teamLogo2/all/snh48_x.png",
+      "signature": "",
+      "bgImg": "/20190522/1558533393576H2DJV56Fp1.jpg",
+      "vip": false,
+      "userRole": 3
+    }
+  },
+  {
+    "liveId": "351788825105469440",
+    "coverPath": "/20190629/1561802590943xHhQFxA4sB.jpg",
+    "title": "放弃寻找化妆包的小姗",
+    "liveType": 1,
+    "status": 2,
+    "ctime": "1561802591626",
+    "userInfo": {
+      "userId": "407121",
+      "nickname": "BEJ48-孙语姗",
+      "avatar": "/mediasource/avatar/20181223/1545517248915e6t9P18LB4.jpg",
+      "badge": [],
+      "level": 1,
+      "isStar": true,
+      "friends": "0",
+      "followers": "0",
+      "teamLogo": "/mediasource/teamLogo2/all/bej48_j.png",
+      "signature": "",
+      "bgImg": "/20190417/1555434404779Q95gqm3n99.jpg",
+      "vip": false,
+      "userRole": 3
+    }
+  }
+]

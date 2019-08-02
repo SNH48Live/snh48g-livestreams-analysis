@@ -1,0 +1,140 @@
+[
+  {
+    "liveId": "340223243822370816",
+    "coverPath": "/20190528/1559045141359794jDXJI1B.jpg",
+    "title": "咋整",
+    "liveType": 1,
+    "status": 2,
+    "ctime": "1559045142089",
+    "userInfo": {
+      "userId": "63560",
+      "nickname": "SNH48-姜杉",
+      "avatar": "/mediasource/avatar/1520055363968VS1S7kP9d5.jpg",
+      "badge": [],
+      "level": 1,
+      "isStar": true,
+      "friends": "0",
+      "followers": "0",
+      "teamLogo": "/mediasource/teamLogo2/all/snh48_h2.png",
+      "signature": "",
+      "bgImg": "",
+      "vip": false,
+      "userRole": 3
+    }
+  },
+  {
+    "liveId": "340218619254083584",
+    "coverPath": "/20190528/1559044039213eV2ofq6Que.jpg",
+    "title": "小游戏！",
+    "liveType": 1,
+    "status": 2,
+    "ctime": "1559044039518",
+    "userInfo": {
+      "userId": "677397",
+      "nickname": "SNH48-李星羽",
+      "avatar": "/mediasource/avatar/20190407/1554636108440Gu7Inz0qOi.jpg",
+      "badge": [],
+      "level": 1,
+      "isStar": true,
+      "friends": "0",
+      "followers": "0",
+      "teamLogo": "/mediasource/teamLogo2/all/snh48_x.png",
+      "signature": "",
+      "bgImg": "",
+      "vip": false,
+      "userRole": 3
+    }
+  },
+  {
+    "liveId": "340221282729398272",
+    "coverPath": "/20190528/1559044668430e1V1W4Gl72.jpg",
+    "title": "实习第13天/初愈/拔草day",
+    "liveType": 2,
+    "status": 2,
+    "ctime": "1559044674807",
+    "userInfo": {
+      "userId": "327574",
+      "nickname": "GNZ48-熊心瑶",
+      "avatar": "/mediasource/avatar/20190228/155135996408281CB6TA2xf.jpg",
+      "badge": [],
+      "level": 1,
+      "isStar": true,
+      "friends": "0",
+      "followers": "0",
+      "teamLogo": "/mediasource/teamLogo2/all/gnz48_n3.png",
+      "signature": "",
+      "bgImg": "",
+      "vip": false,
+      "userRole": 3
+    }
+  },
+  {
+    "liveId": "340214876190085120",
+    "coverPath": "/20190528/15590431464427076R3rX39.jpg",
+    "title": "吃粽子",
+    "liveType": 1,
+    "status": 2,
+    "ctime": "1559043147369",
+    "userInfo": {
+      "userId": "459999",
+      "nickname": "BEJ48-韩家乐",
+      "avatar": "/mediasource/avatar/20190103/1546447223080708qPty07v.jpg",
+      "badge": [],
+      "level": 1,
+      "isStar": true,
+      "friends": "0",
+      "followers": "0",
+      "teamLogo": "/mediasource/teamLogo2/all/bej48_j.png",
+      "signature": "",
+      "bgImg": "",
+      "vip": false,
+      "userRole": 3
+    }
+  },
+  {
+    "liveId": "340219461852008448",
+    "coverPath": "/20190416/1555387399078225ft9UL3r.jpg",
+    "title": "欢迎光临",
+    "liveType": 1,
+    "status": 2,
+    "ctime": "1559044240407",
+    "userInfo": {
+      "userId": "874698",
+      "nickname": "IDFT-鄢羽蝶",
+      "avatar": "/mediasource/avatar/20190410/1554910632819tY6VCI2M8S.jpg",
+      "badge": [],
+      "level": 1,
+      "isStar": true,
+      "friends": "0",
+      "followers": "0",
+      "teamLogo": "/mediasource/teamLogo/all/idft_logo_2.png",
+      "signature": "",
+      "bgImg": "",
+      "vip": false,
+      "userRole": 3
+    }
+  },
+  {
+    "liveId": "340218478438715392",
+    "coverPath": "/20190528/155904400537856I4or0n0W.jpg",
+    "title": "不会动的小赖",
+    "liveType": 1,
+    "status": 2,
+    "ctime": "1559044006212",
+    "userInfo": {
+      "userId": "530440",
+      "nickname": "IDFT-赖俊亦",
+      "avatar": "/mediasource/avatar/20190213/1550061722081Z9c031902p.jpg",
+      "badge": [],
+      "level": 1,
+      "isStar": true,
+      "friends": "0",
+      "followers": "0",
+      "teamLogo": "/mediasource/teamLogo/all/idft_logo_2.png",
+      "signature": "",
+      "bgImg": "",
+      "vip": false,
+      "userRole": 3
+    }
+  }
+]

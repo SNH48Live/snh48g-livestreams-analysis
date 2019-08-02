@@ -1,0 +1,48 @@
+[
+  {
+    "liveId": "334732942861209600",
+    "coverPath": "/20190513/1557736151774dS2zHB9cee.jpg",
+    "title": "我来啦✨5.0",
+    "liveType": 1,
+    "status": 2,
+    "ctime": "1557736152478",
+    "userInfo": {
+      "userId": "327558",
+      "nickname": "GNZ48-罗寒月",
+      "avatar": "/mediasource/avatar/1507606221549au6dMAy7FQ.jpg",
+      "badge": [],
+      "level": 1,
+      "isStar": true,
+      "friends": "0",
+      "followers": "0",
+      "teamLogo": "/mediasource/teamLogo2/all/gnz48_g.png",
+      "signature": "",
+      "bgImg": "",
+      "vip": false,
+      "userRole": 3
+    }
+  },
+  {
+    "liveId": "334733275691814912",
+    "coverPath": "/20190513/1557736231292baz73vC7lI.jpg",
+    "title": "到啦",
+    "liveType": 1,
+    "status": 2,
+    "ctime": "1557736231968",
+    "userInfo": {
+      "userId": "624121",
+      "nickname": "BEJ48-何阳青青",
+      "avatar": "/mediasource/avatar/20190324/15533729548492472z0t6IU.jpg",
+      "badge": [],
+      "level": 1,
+      "isStar": true,
+      "friends": "0",
+      "followers": "0",
+      "teamLogo": "/mediasource/teamLogo2/all/bej48_j.png",
+      "signature": "",
+      "bgImg": "",
+      "vip": false,
+      "userRole": 3
+    }
+  }
+]

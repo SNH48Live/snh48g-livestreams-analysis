@@ -1,0 +1,140 @@
+[
+  {
+    "liveId": "329693834375925760",
+    "coverPath": "/20190429/1556534734828644hL4245f.jpg",
+    "title": "🌧",
+    "liveType": 1,
+    "status": 2,
+    "ctime": "1556534735530",
+    "userInfo": {
+      "userId": "677400",
+      "nickname": "SNH48-王欣颜甜甜",
+      "avatar": "/mediasource/avatar/20190315/155264118180918Uo7H7Ffv.jpg",
+      "badge": [],
+      "level": 1,
+      "isStar": true,
+      "friends": "0",
+      "followers": "0",
+      "teamLogo": "/mediasource/teamLogo2/all/snh48_h2.png",
+      "signature": "",
+      "bgImg": "",
+      "vip": false,
+      "userRole": 3
+    }
+  },
+  {
+    "liveId": "329716831946084352",
+    "coverPath": "/20190417/1555516453727WEJ5ZDpI5D.png",
+    "title": "直播营业",
+    "liveType": 1,
+    "status": 2,
+    "ctime": "1556540218577",
+    "userInfo": {
+      "userId": "63582",
+      "nickname": "SNH48-张怡",
+      "avatar": "/mediasource/avatar/20181025/1540475517669K5z48SpenC.jpg",
+      "badge": [],
+      "level": 1,
+      "isStar": true,
+      "friends": "0",
+      "followers": "0",
+      "teamLogo": "/mediasource/teamLogo2/all/snh48_n2.png",
+      "signature": "",
+      "bgImg": "",
+      "vip": false,
+      "userRole": 3
+    }
+  },
+  {
+    "liveId": "329696930405617664",
+    "coverPath": "/20190429/15565354718137w3k3uy98m.jpg",
+    "title": "Hi",
+    "liveType": 2,
+    "status": 2,
+    "ctime": "1556535473680",
+    "userInfo": {
+      "userId": "327587",
+      "nickname": "BEJ48-冯思佳",
+      "avatar": "/mediasource/avatar/20180420/1524158237082F67tg21k3I.jpg",
+      "badge": [],
+      "level": 1,
+      "isStar": true,
+      "friends": "0",
+      "followers": "0",
+      "teamLogo": "/mediasource/teamLogo2/all/bej48_e.png",
+      "signature": "",
+      "bgImg": "/20190416/1555430011580O9sDA7w1gQ.jpg",
+      "vip": false,
+      "userRole": 3
+    }
+  },
+  {
+    "liveId": "329714573661507584",
+    "coverPath": "/20190429/15565396770125iKIIGbsjz.jpg",
+    "title": "我在打游戏～",
+    "liveType": 2,
+    "status": 2,
+    "ctime": "1556539680160",
+    "userInfo": {
+      "userId": "874505",
+      "nickname": "IDFT-刘宇晴",
+      "avatar": "/mediasource/avatar/20190227/1551275776874HFh1XiOA3W.jpg",
+      "badge": [],
+      "level": 1,
+      "isStar": true,
+      "friends": "0",
+      "followers": "0",
+      "teamLogo": "/mediasource/teamLogo/all/idft_logo_2.png",
+      "signature": "",
+      "bgImg": "/20190415/1555336133714yq6rI1nDYf.jpg",
+      "vip": false,
+      "userRole": 3
+    }
+  },
+  {
+    "liveId": "329707900473511936",
+    "coverPath": "/20190418/1555600921386Ft1q24tdQ8.jpg",
+    "title": "hi",
+    "liveType": 1,
+    "status": 2,
+    "ctime": "1556538089148",
+    "userInfo": {
+      "userId": "607591",
+      "nickname": "GNZ48-吴羽霏",
+      "avatar": "/mediasource/avatar/20180805/1533400850576XkF46Fa3et.jpg",
+      "badge": [],
+      "level": 1,
+      "isStar": true,
+      "friends": "0",
+      "followers": "0",
+      "teamLogo": "/mediasource/teamLogo2/all/gnz48_n3.png",
+      "signature": "",
+      "bgImg": "",
+      "vip": false,
+      "userRole": 3
+    }
+  },
+  {
+    "liveId": "329714528300109824",
+    "coverPath": "/20190429/1556539592811lC6ewdE7U0.jpg",
+    "title": "……我该怎么形容今天得心情",
+    "liveType": 2,
+    "status": 2,
+    "ctime": "1556539668964",
+    "userInfo": {
+      "userId": "867899",
+      "nickname": "IDFT-赵思雨",
+      "avatar": "/mediasource/avatar/20190410/15548267308528NpRGaX4rv.jpg",
+      "badge": [],
+      "level": 1,
+      "isStar": true,
+      "friends": "0",
+      "followers": "0",
+      "teamLogo": "/mediasource/teamLogo/all/idft_logo_2.png",
+      "signature": "",
+      "bgImg": "",
+      "vip": false,
+      "userRole": 3
+    }
+  }
+]

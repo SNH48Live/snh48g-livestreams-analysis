@@ -1,0 +1,94 @@
+[
+  {
+    "liveId": "346048769468207104",
+    "coverPath": "/20190613/1560434054845rOB4EjrE0B.jpg",
+    "title": "一会儿",
+    "liveType": 1,
+    "status": 2,
+    "ctime": "1560434055565",
+    "userInfo": {
+      "userId": "327571",
+      "nickname": "GNZ48-唐莉佳",
+      "avatar": "/mediasource/avatar/20190130/154883183192989139ZJ472.jpg",
+      "badge": [],
+      "level": 1,
+      "isStar": true,
+      "friends": "0",
+      "followers": "0",
+      "teamLogo": "/mediasource/teamLogo2/all/gnz48_n3.png",
+      "signature": "",
+      "bgImg": "",
+      "vip": false,
+      "userRole": 3
+    }
+  },
+  {
+    "liveId": "346047853650317312",
+    "coverPath": "/20190613/1560433836482y2R4nV7jkX.jpg",
+    "title": "晚上好吖～",
+    "liveType": 1,
+    "status": 2,
+    "ctime": "1560433837219",
+    "userInfo": {
+      "userId": "607523",
+      "nickname": "GNZ48-林芝",
+      "avatar": "/mediasource/avatar/20190411/1554993925200TjS97JMUcn.jpg",
+      "badge": [],
+      "level": 1,
+      "isStar": true,
+      "friends": "0",
+      "followers": "0",
+      "teamLogo": "/mediasource/teamLogo2/all/gnz48_g.png",
+      "signature": "",
+      "bgImg": "/20190417/1555430555922f6DimtXe6H.jpg",
+      "vip": false,
+      "userRole": 3
+    }
+  },
+  {
+    "liveId": "346042227972968448",
+    "coverPath": "/20190613/1560432495269hJ7P8Q8WFW.jpg",
+    "title": "今天很自觉",
+    "liveType": 1,
+    "status": 2,
+    "ctime": "1560432496302",
+    "userInfo": {
+      "userId": "327577",
+      "nickname": "GNZ48-左婧媛",
+      "avatar": "/mediasource/avatar/20190322/1553266626348lHGUhfOs02.jpg",
+      "badge": [],
+      "level": 1,
+      "isStar": true,
+      "friends": "0",
+      "followers": "0",
+      "teamLogo": "/mediasource/teamLogo2/all/gnz48_n3.png",
+      "signature": "",
+      "bgImg": "",
+      "vip": false,
+      "userRole": 3
+    }
+  },
+  {
+    "liveId": "346040037539647488",
+    "coverPath": "/20190601/1559363181481WH1bd0bWj1.jpg",
+    "title": "尬聊选手大眼瞪小眼",
+    "liveType": 1,
+    "status": 2,
+    "ctime": "1560431973608",
+    "userInfo": {
+      "userId": "874698",
+      "nickname": "IDFT-鄢羽蝶",
+      "avatar": "/mediasource/avatar/20190410/1554910632819tY6VCI2M8S.jpg",
+      "badge": [],
+      "level": 1,
+      "isStar": true,
+      "friends": "0",
+      "followers": "0",
+      "teamLogo": "/mediasource/teamLogo/all/idft_logo_2.png",
+      "signature": "",
+      "bgImg": "",
+      "vip": false,
+      "userRole": 3
+    }
+  }
+]

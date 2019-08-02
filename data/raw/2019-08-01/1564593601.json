@@ -1,0 +1,77 @@
+[
+  {
+    "liveId": "363486202916835328",
+    "coverPath": "/20190801/1564591460491uNQwod9rd5.jpg",
+    "title": "晚上好呀",
+    "liveType": 2,
+    "status": 2,
+    "ctime": "1564591463381",
+    "userInfo": {
+      "userId": "407121",
+      "nickname": "BEJ48-孙语姗",
+      "avatar": "/mediasource/avatar/20181223/1545517248915e6t9P18LB4.jpg",
+      "badge": [],
+      "level": 2,
+      "isStar": true,
+      "friends": "0",
+      "followers": "0",
+      "teamLogo": "/mediasource/teamLogo2/all/bej48_j.png",
+      "signature": "",
+      "bgImg": "/20190417/1555434404779Q95gqm3n99.jpg",
+      "vip": false,
+      "userRole": 3
+    },
+    "liveMode": 0,
+    "pictureOrientation": 0
+  },
+  {
+    "liveId": "363465614093520896",
+    "coverPath": "/20190731/15645865373093e56H254Jb.jpg",
+    "title": "晚安电台💫",
+    "liveType": 2,
+    "status": 2,
+    "ctime": "1564586554697",
+    "userInfo": {
+      "userId": "458335",
+      "nickname": "IDFT-李慧",
+      "avatar": "/mediasource/avatar/20180826/1535246668998G04P3qHPSi.jpg",
+      "badge": [],
+      "level": 2,
+      "isStar": true,
+      "friends": "0",
+      "followers": "0",
+      "teamLogo": "/mediasource/teamLogo/all/idft_logo_2.png",
+      "signature": "",
+      "bgImg": "/20190416/15554076685914Li2dwzO2Y.jpg",
+      "vip": false,
+      "userRole": 3
+    },
+    "liveMode": 0,
+    "pictureOrientation": 0
+  },
+  {
+    "liveId": "363493963750772736",
+    "coverPath": "/20190723/1563857133198yJK6Beo4Yu.jpg",
+    "title": "过十万积分了！！七月是奇迹的一月！谢谢大家！",
+    "liveType": 1,
+    "status": 2,
+    "ctime": "1564593314340",
+    "userInfo": {
+      "userId": "874717",
+      "nickname": "IDFT-武晓迪",
+      "avatar": "/mediasource/avatar/20190320/15530212766396Z27rSj8z0.jpg",
+      "badge": [],
+      "level": 1,
+      "isStar": true,
+      "friends": "0",
+      "followers": "0",
+      "teamLogo": "/mediasource/teamLogo/all/idft_logo_2.png",
+      "signature": "",
+      "bgImg": "/20190724/15639484387974tpU0X46b8.jpg",
+      "vip": false,
+      "userRole": 3
+    },
+    "liveMode": 0,
+    "pictureOrientation": 0
+  }
+]

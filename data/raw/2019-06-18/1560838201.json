@@ -1,0 +1,48 @@
+[
+  {
+    "liveId": "347734045185871872",
+    "coverPath": "/20190618/1560835856288gT704p9LKI.jpg",
+    "title": "突然",
+    "liveType": 1,
+    "status": 2,
+    "ctime": "1560835856937",
+    "userInfo": {
+      "userId": "610042",
+      "nickname": "BEJ48-唐霖",
+      "avatar": "/mediasource/avatar/20181120/1542722104622NOQnn6r6tT.jpg",
+      "badge": [],
+      "level": 1,
+      "isStar": true,
+      "friends": "0",
+      "followers": "0",
+      "teamLogo": "/mediasource/teamLogo2/all/bej48_j.png",
+      "signature": "",
+      "bgImg": "",
+      "vip": false,
+      "userRole": 3
+    }
+  },
+  {
+    "liveId": "347738359761539072",
+    "coverPath": "/20190618/1560836885183Ko9Vrt213L.jpg",
+    "title": "jiang'jiang～",
+    "liveType": 1,
+    "status": 2,
+    "ctime": "1560836885601",
+    "userInfo": {
+      "userId": "624121",
+      "nickname": "BEJ48-何阳青青",
+      "avatar": "/20190528/155897549093043wJ7vE48Q.jpg",
+      "badge": [],
+      "level": 1,
+      "isStar": true,
+      "friends": "0",
+      "followers": "0",
+      "teamLogo": "/mediasource/teamLogo2/all/bej48_j.png",
+      "signature": "",
+      "bgImg": "",
+      "vip": false,
+      "userRole": 3
+    }
+  }
+]

@@ -1,0 +1,71 @@
+[
+  {
+    "liveId": "339502011061702656",
+    "coverPath": "/20190526/15588731863774Gyq557lNz.jpg",
+    "title": "赌球（不是 开玩笑的别骂我）",
+    "liveType": 1,
+    "status": 2,
+    "ctime": "1558873187078",
+    "userInfo": {
+      "userId": "607521",
+      "nickname": "GNZ48-罗可嘉",
+      "avatar": "/mediasource/avatar/20190203/1549160918067HhtlQK6Kk5.jpg",
+      "badge": [],
+      "level": 1,
+      "isStar": true,
+      "friends": "0",
+      "followers": "0",
+      "teamLogo": "/mediasource/teamLogo2/all/gnz48_g.png",
+      "signature": "",
+      "bgImg": "/20190521/15584206154219t0i274i70.jpg",
+      "vip": false,
+      "userRole": 3
+    }
+  },
+  {
+    "liveId": "339498041895358464",
+    "coverPath": "/20190526/155887224031069p59EXVSt.jpg",
+    "title": "我来了",
+    "liveType": 1,
+    "status": 2,
+    "ctime": "1558872240477",
+    "userInfo": {
+      "userId": "5566",
+      "nickname": "SNH48-许杨玉琢",
+      "avatar": "/mediasource/avatar/20181108/1541666727242ihsamC3Sr4.jpg",
+      "badge": [],
+      "level": 1,
+      "isStar": true,
+      "friends": "0",
+      "followers": "0",
+      "teamLogo": "/mediasource/teamLogo2/all/snh48_h2.png",
+      "signature": "",
+      "bgImg": "/20190417/15554805699157R662Qiv8w.jpg",
+      "vip": false,
+      "userRole": 3
+    }
+  },
+  {
+    "liveId": "339497598100246528",
+    "coverPath": "/20190526/1558872134100842aruSZQU.jpg",
+    "title": "欢迎来到知心C姐栏目",
+    "liveType": 1,
+    "status": 2,
+    "ctime": "1558872134670",
+    "userInfo": {
+      "userId": "18",
+      "nickname": "SNH48-徐晨辰",
+      "avatar": "/mediasource/avatar/20190209/1549651868260kNNAF2ognA.jpg",
+      "badge": [],
+      "level": 1,
+      "isStar": true,
+      "friends": "0",
+      "followers": "0",
+      "teamLogo": "/mediasource/teamLogo2/all/snh48_s2.png",
+      "signature": "",
+      "bgImg": "",
+      "vip": false,
+      "userRole": 3
+    }
+  }
+]

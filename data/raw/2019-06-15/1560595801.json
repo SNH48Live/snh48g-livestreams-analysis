@@ -1,0 +1,71 @@
+[
+  {
+    "liveId": "346711146266169344",
+    "coverPath": "/20190615/1560591978207elq48xq18b.jpg",
+    "title": "、",
+    "liveType": 1,
+    "status": 2,
+    "ctime": "1560591978851",
+    "userInfo": {
+      "userId": "19",
+      "nickname": "SNH48-孔肖吟",
+      "avatar": "/mediasource/avatar/20181101/1541073277380161Ks2dd3A.jpg",
+      "badge": [],
+      "level": 1,
+      "isStar": true,
+      "friends": "0",
+      "followers": "0",
+      "teamLogo": "/mediasource/teamLogo2/all/snh48_s2.png",
+      "signature": "",
+      "bgImg": "",
+      "vip": false,
+      "userRole": 3
+    }
+  },
+  {
+    "liveId": "346718353917546496",
+    "coverPath": "/20190615/1560593696816p79020ca6o.jpg",
+    "title": "啊",
+    "liveType": 1,
+    "status": 2,
+    "ctime": "1560593697082",
+    "userInfo": {
+      "userId": "327587",
+      "nickname": "BEJ48-冯思佳",
+      "avatar": "/mediasource/avatar/20180420/1524158237082F67tg21k3I.jpg",
+      "badge": [],
+      "level": 1,
+      "isStar": true,
+      "friends": "0",
+      "followers": "0",
+      "teamLogo": "/mediasource/teamLogo2/all/bej48_e.png",
+      "signature": "",
+      "bgImg": "/20190416/1555430011580O9sDA7w1gQ.jpg",
+      "vip": false,
+      "userRole": 3
+    }
+  },
+  {
+    "liveId": "346725213395554304",
+    "coverPath": "/20190615/1560595332154SZ9z80aDCS.jpg",
+    "title": "直播播！！！！！！！",
+    "liveType": 1,
+    "status": 2,
+    "ctime": "1560595332407",
+    "userInfo": {
+      "userId": "677397",
+      "nickname": "SNH48-李星羽",
+      "avatar": "/mediasource/avatar/20190407/1554636108440Gu7Inz0qOi.jpg",
+      "badge": [],
+      "level": 1,
+      "isStar": true,
+      "friends": "0",
+      "followers": "0",
+      "teamLogo": "/mediasource/teamLogo2/all/snh48_x.png",
+      "signature": "",
+      "bgImg": "",
+      "vip": false,
+      "userRole": 3
+    }
+  }
+]

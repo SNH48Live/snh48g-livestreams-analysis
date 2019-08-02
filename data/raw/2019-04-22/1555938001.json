@@ -1,0 +1,94 @@
+[
+  {
+    "liveId": "327180295878807552",
+    "coverPath": "/20190422/1555935460486q03Dn8V61o.jpg",
+    "title": "|｡･･)っ♡",
+    "liveType": 1,
+    "status": 2,
+    "ctime": "1555935461252",
+    "userInfo": {
+      "userId": "35",
+      "nickname": "SNH48-莫寒",
+      "avatar": "/mediasource/avatar/1518105052569rDJYmaNkqP.jpg",
+      "badge": [],
+      "level": 1,
+      "isStar": true,
+      "friends": "0",
+      "followers": "0",
+      "teamLogo": "/mediasource/teamLogo2/all/snh48_s2.png",
+      "signature": "",
+      "bgImg": "",
+      "vip": false,
+      "userRole": 3
+    }
+  },
+  {
+    "liveId": "327157609194655744",
+    "coverPath": "/20190422/1555930050991NfMZfPaeW8.jpg",
+    "title": "来，电台。",
+    "liveType": 2,
+    "status": 2,
+    "ctime": "1555930052325",
+    "userInfo": {
+      "userId": "14",
+      "nickname": "SNH48-徐子轩",
+      "avatar": "/mediasource/avatar/20190319/15529970094786aYiiJ12OY.jpg",
+      "badge": [],
+      "level": 1,
+      "isStar": true,
+      "friends": "0",
+      "followers": "0",
+      "teamLogo": "/mediasource/teamLogo2/all/snh48_s2.png",
+      "signature": "",
+      "bgImg": "",
+      "vip": false,
+      "userRole": 3
+    }
+  },
+  {
+    "liveId": "327177084136656896",
+    "coverPath": "/20190422/1555934694778KEM7hKI4Rk.jpg",
+    "title": "Hi! 进来聊天吧! ",
+    "liveType": 2,
+    "status": 2,
+    "ctime": "1555934695513",
+    "userInfo": {
+      "userId": "459991",
+      "nickname": "SNH48-卢天惠",
+      "avatar": "/mediasource/avatar/20190314/1552571914321kmtuuB7pna.jpg",
+      "badge": [],
+      "level": 1,
+      "isStar": true,
+      "friends": "0",
+      "followers": "0",
+      "teamLogo": "/mediasource/teamLogo2/all/snh48_n2.png",
+      "signature": "",
+      "bgImg": "",
+      "vip": false,
+      "userRole": 3
+    }
+  },
+  {
+    "liveId": "327183782742134784",
+    "coverPath": "/20190416/1555387399078225ft9UL3r.jpg",
+    "title": "点击进入我的心",
+    "liveType": 2,
+    "status": 2,
+    "ctime": "1555936292182",
+    "userInfo": {
+      "userId": "874698",
+      "nickname": "IDFT-鄢羽蝶",
+      "avatar": "/mediasource/avatar/20190410/1554910632819tY6VCI2M8S.jpg",
+      "badge": [],
+      "level": 1,
+      "isStar": true,
+      "friends": "0",
+      "followers": "0",
+      "teamLogo": "/mediasource/teamLogo/all/idft_logo_2.png",
+      "signature": "",
+      "bgImg": "",
+      "vip": false,
+      "userRole": 3
+    }
+  }
+]

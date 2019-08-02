@@ -1,0 +1,94 @@
+[
+  {
+    "liveId": "352264043557097472",
+    "coverPath": "/20190701/1561915892243Ba5bsR81kB.jpg",
+    "title": "189.0就一会儿",
+    "liveType": 1,
+    "status": 2,
+    "ctime": "1561915892705",
+    "userInfo": {
+      "userId": "63562",
+      "nickname": "GNZ48-林嘉佩",
+      "avatar": "/mediasource/avatar/20181012/15392802278986ARyi03706.jpg",
+      "badge": [],
+      "level": 2,
+      "isStar": true,
+      "friends": "0",
+      "followers": "0",
+      "teamLogo": "/mediasource/teamLogo2/all/gnz48_g.png",
+      "signature": "",
+      "bgImg": "",
+      "vip": false,
+      "userRole": 3
+    }
+  },
+  {
+    "liveId": "352254036132302848",
+    "coverPath": "/20190701/15619135058012SP9EGhGaf.jpg",
+    "title": "一千零一夜 真的无家可归了",
+    "liveType": 1,
+    "status": 2,
+    "ctime": "1561913506776",
+    "userInfo": {
+      "userId": "407104",
+      "nickname": "BEJ48-葛司琪",
+      "avatar": "/mediasource/avatar/20180809/1533816085151L3OoB4t2xZ.jpg",
+      "badge": [],
+      "level": 1,
+      "isStar": true,
+      "friends": "0",
+      "followers": "0",
+      "teamLogo": "/mediasource/teamLogo2/all/bej48_j.png",
+      "signature": "",
+      "bgImg": "",
+      "vip": false,
+      "userRole": 3
+    }
+  },
+  {
+    "liveId": "352252083339857920",
+    "coverPath": "/20190701/1561913040463nZAyKavD18.jpg",
+    "title": "嗨姐妹",
+    "liveType": 1,
+    "status": 2,
+    "ctime": "1561913041194",
+    "userInfo": {
+      "userId": "63567",
+      "nickname": "SNH48-潘瑛琪",
+      "avatar": "/mediasource/avatar/20190410/1554831591250289mD724pb.jpg",
+      "badge": [],
+      "level": 2,
+      "isStar": true,
+      "friends": "0",
+      "followers": "0",
+      "teamLogo": "/mediasource/teamLogo2/all/snh48_x.png",
+      "signature": "",
+      "bgImg": "",
+      "vip": false,
+      "userRole": 3
+    }
+  },
+  {
+    "liveId": "352254338562592768",
+    "coverPath": "/20190701/1561913578225h35MmTwqMI.jpg",
+    "title": "say hi？",
+    "liveType": 1,
+    "status": 2,
+    "ctime": "1561913578249",
+    "userInfo": {
+      "userId": "530431",
+      "nickname": "GNZ48-陈佳莹",
+      "avatar": "/mediasource/avatar/20190326/1553553177124W55DRcsvl2.jpg",
+      "badge": [],
+      "level": 1,
+      "isStar": true,
+      "friends": "0",
+      "followers": "0",
+      "teamLogo": "/mediasource/teamLogo2/all/gnz48_g.png",
+      "signature": "",
+      "bgImg": "",
+      "vip": false,
+      "userRole": 3
+    }
+  }
+]

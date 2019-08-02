@@ -1,0 +1,77 @@
+[
+  {
+    "liveId": "359052767624237056",
+    "coverPath": "/20190719/15635344493175RYmy3Z500.jpg",
+    "title": "来啦",
+    "liveType": 1,
+    "status": 2,
+    "ctime": "1563534450437",
+    "userInfo": {
+      "userId": "63566",
+      "nickname": "SNH48-刘增艳",
+      "avatar": "/mediasource/avatar/20180917/1537188220154V8Z4lj944m.jpg",
+      "badge": [],
+      "level": 1,
+      "isStar": true,
+      "friends": "0",
+      "followers": "0",
+      "teamLogo": "/mediasource/teamLogo2/all/snh48_s2.png",
+      "signature": "",
+      "bgImg": "",
+      "vip": false,
+      "userRole": 3
+    },
+    "liveMode": 0,
+    "pictureOrientation": 0
+  },
+  {
+    "liveId": "359062217080770560",
+    "coverPath": "/20190719/1563536700350is6n1dLiQu.jpg",
+    "title": "十分钟",
+    "liveType": 2,
+    "status": 2,
+    "ctime": "1563536703239",
+    "userInfo": {
+      "userId": "874500",
+      "nickname": "IDFT-冯嘉宝",
+      "avatar": "/mediasource/avatar/20190410/1554836077228l1hB971a2f.jpg",
+      "badge": [],
+      "level": 1,
+      "isStar": true,
+      "friends": "0",
+      "followers": "0",
+      "teamLogo": "/mediasource/teamLogo/all/idft_logo_2.png",
+      "signature": "",
+      "bgImg": "/20190416/155540368953294eN6ekrhj.jpg",
+      "vip": false,
+      "userRole": 3
+    },
+    "liveMode": 0,
+    "pictureOrientation": 0
+  },
+  {
+    "liveId": "359053564663631872",
+    "coverPath": "/20190425/1556202055427ge3w10yBYY.jpg",
+    "title": "hi",
+    "liveType": 1,
+    "status": 2,
+    "ctime": "1563534640464",
+    "userInfo": {
+      "userId": "36",
+      "nickname": "SNH48-钱蓓婷",
+      "avatar": "/mediasource/avatar/15191826878632L1BWx8088.jpg",
+      "badge": [],
+      "level": 1,
+      "isStar": true,
+      "friends": "0",
+      "followers": "0",
+      "teamLogo": "/mediasource/teamLogo2/all/snh48_s2.png",
+      "signature": "",
+      "bgImg": "",
+      "vip": false,
+      "userRole": 3
+    },
+    "liveMode": 0,
+    "pictureOrientation": 0
+  }
+]

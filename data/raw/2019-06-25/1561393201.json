@@ -1,0 +1,71 @@
+[
+  {
+    "liveId": "350051212304650240",
+    "coverPath": "/20190624/1561388311689n8bwtES26i.jpg",
+    "title": "随便聊聊637069584～",
+    "liveType": 1,
+    "status": 2,
+    "ctime": "1561388312256",
+    "userInfo": {
+      "userId": "530450",
+      "nickname": "GNZ48-张秋怡",
+      "avatar": "/20190529/1559119131710zFzWh6zE40.jpg",
+      "badge": [],
+      "level": 1,
+      "isStar": true,
+      "friends": "0",
+      "followers": "0",
+      "teamLogo": "/mediasource/teamLogo/all/gnz_z_log2.png",
+      "signature": "",
+      "bgImg": "",
+      "vip": false,
+      "userRole": 3
+    }
+  },
+  {
+    "liveId": "350061425028042752",
+    "coverPath": "/20190624/15613907469262md70HzDnQ.jpg",
+    "title": "大家晚上好",
+    "liveType": 1,
+    "status": 2,
+    "ctime": "1561390746984",
+    "userInfo": {
+      "userId": "63577",
+      "nickname": "GNZ48-曾艾佳",
+      "avatar": "/20190624/15613830988280ps34SI2dL.jpg",
+      "badge": [],
+      "level": 1,
+      "isStar": true,
+      "friends": "0",
+      "followers": "0",
+      "teamLogo": "/mediasource/teamLogo2/all/gnz48_g.png",
+      "signature": "",
+      "bgImg": "/20190603/1559492095825e5WJbMWftt.jpg",
+      "vip": false,
+      "userRole": 3
+    }
+  },
+  {
+    "liveId": "350071675332399104",
+    "coverPath": "/20190625/1561393190846eazehy4H0K.jpg",
+    "title": "晚安点歌台",
+    "liveType": 1,
+    "status": 2,
+    "ctime": "1561393190968",
+    "userInfo": {
+      "userId": "614734",
+      "nickname": "SNH48-冉蔚",
+      "avatar": "/mediasource/avatar/20190406/1554559929498QRCY1tUJ09.jpg",
+      "badge": [],
+      "level": 1,
+      "isStar": true,
+      "friends": "0",
+      "followers": "0",
+      "teamLogo": "/mediasource/teamLogo2/all/snh48_x.png",
+      "signature": "",
+      "bgImg": "",
+      "vip": false,
+      "userRole": 3
+    }
+  }
+]

@@ -1,0 +1,48 @@
+[
+  {
+    "liveId": "347172828339834880",
+    "coverPath": "/20190617/1560702051761s5zd9bMej0.jpg",
+    "title": "嘿～就是你！come on ",
+    "liveType": 1,
+    "status": 2,
+    "ctime": "1560702051812",
+    "userInfo": {
+      "userId": "327570",
+      "nickname": "GNZ48-孙馨",
+      "avatar": "/mediasource/avatar/20190101/1546276646059ADqmn7K2Lw.jpg",
+      "badge": [],
+      "level": 1,
+      "isStar": true,
+      "friends": "0",
+      "followers": "0",
+      "teamLogo": "/mediasource/teamLogo2/all/gnz48_n3.png",
+      "signature": "",
+      "bgImg": "/20190425/15562049718879Nwi5fdqgt.jpg",
+      "vip": false,
+      "userRole": 3
+    }
+  },
+  {
+    "liveId": "347170865812410368",
+    "coverPath": "/20190617/15607015839891Vdy94nXp8.jpg",
+    "title": "两眼一摸黑",
+    "liveType": 1,
+    "status": 2,
+    "ctime": "1560701584090",
+    "userInfo": {
+      "userId": "711735",
+      "nickname": "BEJ48-曲美霖",
+      "avatar": "/mediasource/avatar/20190220/1550643122590xo68HjPx7R.jpg",
+      "badge": [],
+      "level": 1,
+      "isStar": true,
+      "friends": "0",
+      "followers": "0",
+      "teamLogo": "/mediasource/teamLogo2/all/bej48_b.png",
+      "signature": "",
+      "bgImg": "/20190606/1559802839601tp9RGH9qcp.jpg",
+      "vip": false,
+      "userRole": 3
+    }
+  }
+]

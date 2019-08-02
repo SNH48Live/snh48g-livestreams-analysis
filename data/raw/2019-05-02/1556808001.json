@@ -1,0 +1,71 @@
+[
+  {
+    "liveId": "330834747559055360",
+    "coverPath": "/20190502/1556806747495M3S8ef9So3.jpg",
+    "title": "练歌中，随缘听…",
+    "liveType": 2,
+    "status": 2,
+    "ctime": "1556806749923",
+    "userInfo": {
+      "userId": "417331",
+      "nickname": "GNZ48-杨媛媛",
+      "avatar": "/mediasource/avatar/20190124/1548313840900sSL5Tb52b7.jpg",
+      "badge": [],
+      "level": 1,
+      "isStar": true,
+      "friends": "0",
+      "followers": "0",
+      "teamLogo": "/mediasource/teamLogo/all/gnz_z_log2.png",
+      "signature": "",
+      "bgImg": "/20190417/15554339261524k4e2gqV82.jpg",
+      "vip": false,
+      "userRole": 3
+    }
+  },
+  {
+    "liveId": "330830288829353984",
+    "coverPath": "/20190502/1556805686444TGc8S5WoOn.jpg",
+    "title": "886",
+    "liveType": 1,
+    "status": 2,
+    "ctime": "1556805687385",
+    "userInfo": {
+      "userId": "677400",
+      "nickname": "SNH48-王欣颜甜甜",
+      "avatar": "/mediasource/avatar/20190315/155264118180918Uo7H7Ffv.jpg",
+      "badge": [],
+      "level": 1,
+      "isStar": true,
+      "friends": "0",
+      "followers": "0",
+      "teamLogo": "/mediasource/teamLogo2/all/snh48_h2.png",
+      "signature": "",
+      "bgImg": "",
+      "vip": false,
+      "userRole": 3
+    }
+  },
+  {
+    "liveId": "330828265908146176",
+    "coverPath": "/20190502/1556805195064LSI5Csv0VH.jpg",
+    "title": "等~",
+    "liveType": 1,
+    "status": 2,
+    "ctime": "1556805205083",
+    "userInfo": {
+      "userId": "825969",
+      "nickname": "BEJ48-程宇璐",
+      "avatar": "/mediasource/avatar/20190221/1550680931459g30hieHLZh.jpg",
+      "badge": [],
+      "level": 1,
+      "isStar": true,
+      "friends": "0",
+      "followers": "0",
+      "teamLogo": "/mediasource/teamLogo2/all/bej48_e.png",
+      "signature": "",
+      "bgImg": "",
+      "vip": false,
+      "userRole": 3
+    }
+  }
+]

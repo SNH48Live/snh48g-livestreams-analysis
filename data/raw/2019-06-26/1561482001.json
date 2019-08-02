@@ -1,0 +1,48 @@
+[
+  {
+    "liveId": "350425048384606208",
+    "coverPath": "/20190625/1561477441422So1w7Qe8f4.jpg",
+    "title": "晚上好",
+    "liveType": 1,
+    "status": 2,
+    "ctime": "1561477442117",
+    "userInfo": {
+      "userId": "614739",
+      "nickname": "IDFT-王梦竹",
+      "avatar": "/20190604/15596256055607R84E8S1AT.jpg",
+      "badge": [],
+      "level": 1,
+      "isStar": true,
+      "friends": "0",
+      "followers": "0",
+      "teamLogo": "/mediasource/teamLogo/all/idft_logo_2.png",
+      "signature": "",
+      "bgImg": "",
+      "vip": false,
+      "userRole": 3
+    }
+  },
+  {
+    "liveId": "350425863438536704",
+    "coverPath": "/20190625/1561477635914XvHS775cg2.jpg",
+    "title": "十分钟呀",
+    "liveType": 1,
+    "status": 2,
+    "ctime": "1561477636015",
+    "userInfo": {
+      "userId": "327578",
+      "nickname": "BEJ48-林溪荷",
+      "avatar": "/mediasource/avatar/20190222/1550838797875R9t4yq64NL.jpg",
+      "badge": [],
+      "level": 1,
+      "isStar": true,
+      "friends": "0",
+      "followers": "0",
+      "teamLogo": "/mediasource/teamLogo2/all/bej48_b.png",
+      "signature": "",
+      "bgImg": "/20190419/1555605488038552AuRrgK1.jpg",
+      "vip": false,
+      "userRole": 3
+    }
+  }
+]

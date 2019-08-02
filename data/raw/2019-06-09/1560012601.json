@@ -1,0 +1,140 @@
+[
+  {
+    "liveId": "344266444845682688",
+    "coverPath": "/20190608/1560009115497AyDhQ9ZVA2.jpg",
+    "title": "端午节快乐👯",
+    "liveType": 1,
+    "status": 2,
+    "ctime": "1560009116612",
+    "userInfo": {
+      "userId": "458335",
+      "nickname": "IDFT-李慧",
+      "avatar": "/mediasource/avatar/20180826/1535246668998G04P3qHPSi.jpg",
+      "badge": [],
+      "level": 1,
+      "isStar": true,
+      "friends": "0",
+      "followers": "0",
+      "teamLogo": "/mediasource/teamLogo/all/idft_logo_2.png",
+      "signature": "",
+      "bgImg": "/20190416/15554076685914Li2dwzO2Y.jpg",
+      "vip": false,
+      "userRole": 3
+    }
+  },
+  {
+    "liveId": "344264472608444416",
+    "coverPath": "/20190608/156000864562471LT8H7g7f.jpg",
+    "title": "首演快乐～",
+    "liveType": 1,
+    "status": 2,
+    "ctime": "1560008645811",
+    "userInfo": {
+      "userId": "460004",
+      "nickname": "IDFT-杨允涵",
+      "avatar": "/mediasource/avatar/20181027/1540649704887L38FXNji6v.jpg",
+      "badge": [],
+      "level": 1,
+      "isStar": true,
+      "friends": "0",
+      "followers": "0",
+      "teamLogo": "/mediasource/teamLogo/all/idft_logo_2.png",
+      "signature": "",
+      "bgImg": "",
+      "vip": false,
+      "userRole": 3
+    }
+  },
+  {
+    "liveId": "344273753080664064",
+    "coverPath": "/20190609/15600108582489c68v1B1zR.jpg",
+    "title": "一会会～",
+    "liveType": 1,
+    "status": 2,
+    "ctime": "1560010859031",
+    "userInfo": {
+      "userId": "530392",
+      "nickname": "BEJ48-张羽涵",
+      "avatar": "/mediasource/avatar/20181008/1538995322677x4XyNKiR14.jpg",
+      "badge": [],
+      "level": 1,
+      "isStar": true,
+      "friends": "0",
+      "followers": "0",
+      "teamLogo": "/mediasource/teamLogo2/all/bej48_b.png",
+      "signature": "",
+      "bgImg": "",
+      "vip": false,
+      "userRole": 3
+    }
+  },
+  {
+    "liveId": "344277259632054272",
+    "coverPath": "/20190609/15600116941166pPe4D0z1j.jpg",
+    "title": "姐妹👭战斗（开玩笑哈哈哈哈哈",
+    "liveType": 1,
+    "status": 2,
+    "ctime": "1560011694429",
+    "userInfo": {
+      "userId": "722780",
+      "nickname": "GNZ48-梁娇",
+      "avatar": "/mediasource/avatar/20190402/15541964296320seCBM1d15.jpg",
+      "badge": [],
+      "level": 1,
+      "isStar": true,
+      "friends": "0",
+      "followers": "0",
+      "teamLogo": "/mediasource/teamLogo2/all/gnz48_g.png",
+      "signature": "",
+      "bgImg": "/20190415/1555325214526qtHRKeDcFy.jpg",
+      "vip": false,
+      "userRole": 3
+    }
+  },
+  {
+    "liveId": "344277343614603264",
+    "coverPath": "/20190609/1560011714221T7Q6sWRW8U.jpg",
+    "title": "早～",
+    "liveType": 1,
+    "status": 2,
+    "ctime": "1560011714452",
+    "userInfo": {
+      "userId": "607511",
+      "nickname": "GNZ48-邓惠恩",
+      "avatar": "/mediasource/avatar/20180804/1533387238713CbLTgA8Tm8.jpg",
+      "badge": [],
+      "level": 1,
+      "isStar": true,
+      "friends": "0",
+      "followers": "0",
+      "teamLogo": "/mediasource/teamLogo/all/gnz_z_log2.png",
+      "signature": "",
+      "bgImg": "/20190417/1555467915530Kem6b10H0U.jpg",
+      "vip": false,
+      "userRole": 3
+    }
+  },
+  {
+    "liveId": "344274112532516864",
+    "coverPath": "/20190609/1560010944003ldhN58R6iy.jpg",
+    "title": "好久没有弹唱的我来唱歌啦！",
+    "liveType": 1,
+    "status": 2,
+    "ctime": "1560010944114",
+    "userInfo": {
+      "userId": "459995",
+      "nickname": "GNZ48-赖梓惜",
+      "avatar": "/mediasource/avatar/20181220/15453201878674NK0vNJ9Gl.jpg",
+      "badge": [],
+      "level": 1,
+      "isStar": true,
+      "friends": "0",
+      "followers": "0",
+      "teamLogo": "/mediasource/teamLogo/all/gnz_z_log2.png",
+      "signature": "",
+      "bgImg": "",
+      "vip": false,
+      "userRole": 3
+    }
+  }
+]

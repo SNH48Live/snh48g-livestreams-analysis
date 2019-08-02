@@ -1,0 +1,94 @@
+[
+  {
+    "liveId": "335202833535930368",
+    "coverPath": "/20190514/1557848180772endZ0g4NuT.jpg",
+    "title": "晚上好！",
+    "liveType": 2,
+    "status": 2,
+    "ctime": "1557848182713",
+    "userInfo": {
+      "userId": "63548",
+      "nickname": "GNZ48-陈珂",
+      "avatar": "/mediasource/avatar/1507968025370Aya7o6Ut6k.jpg",
+      "badge": [],
+      "level": 1,
+      "isStar": true,
+      "friends": "0",
+      "followers": "0",
+      "teamLogo": "/mediasource/teamLogo2/all/gnz48_g.png",
+      "signature": "",
+      "bgImg": "",
+      "vip": false,
+      "userRole": 3
+    }
+  },
+  {
+    "liveId": "335202089290240000",
+    "coverPath": "/20190514/1557848003756JsyUH3SFgZ.jpg",
+    "title": "大姑好不容易见",
+    "liveType": 2,
+    "status": 2,
+    "ctime": "1557848005840",
+    "userInfo": {
+      "userId": "6745",
+      "nickname": "BEJ48-闫明筠",
+      "avatar": "/mediasource/avatar/1508780183516z2r6R9b5G1.jpg",
+      "badge": [],
+      "level": 1,
+      "isStar": true,
+      "friends": "0",
+      "followers": "0",
+      "teamLogo": "/mediasource/teamLogo2/all/bej48_b.png",
+      "signature": "",
+      "bgImg": "",
+      "vip": false,
+      "userRole": 3
+    }
+  },
+  {
+    "liveId": "335198038553071616",
+    "coverPath": "/20190514/1557847039418x56e5i55JG.jpg",
+    "title": "比卡比卡比卡啾～",
+    "liveType": 1,
+    "status": 2,
+    "ctime": "1557847039665",
+    "userInfo": {
+      "userId": "677403",
+      "nickname": "SNH48-张茜",
+      "avatar": "/mediasource/avatar/20180721/1532103118479zIen7aXIHX.jpg",
+      "badge": [],
+      "level": 1,
+      "isStar": true,
+      "friends": "0",
+      "followers": "0",
+      "teamLogo": "/mediasource/teamLogo2/all/snh48_n2.png",
+      "signature": "",
+      "bgImg": "",
+      "vip": false,
+      "userRole": 3
+    }
+  },
+  {
+    "liveId": "335174170459312128",
+    "coverPath": "/20190514/15578413486881ykFLam583.jpg",
+    "title": "开开心心的最后一次聊天",
+    "liveType": 1,
+    "status": 2,
+    "ctime": "1557841349472",
+    "userInfo": {
+      "userId": "530381",
+      "nickname": "BEJ48-臧聪",
+      "avatar": "/mediasource/avatar/20181112/15419975169906zv6G119Jw.jpg",
+      "badge": [],
+      "level": 1,
+      "isStar": true,
+      "friends": "0",
+      "followers": "0",
+      "teamLogo": "/mediasource/teamLogo2/all/bej48_e.png",
+      "signature": "",
+      "bgImg": "",
+      "vip": false,
+      "userRole": 3
+    }
+  }
+]

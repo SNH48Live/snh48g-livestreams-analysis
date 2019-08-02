@@ -1,0 +1,48 @@
+[
+  {
+    "liveId": "341028717094309888",
+    "coverPath": "/20190531/1559237181623tNuJhAHNj5.jpg",
+    "title": "。。。",
+    "liveType": 1,
+    "status": 2,
+    "ctime": "1559237182161",
+    "userInfo": {
+      "userId": "5566",
+      "nickname": "SNH48-许杨玉琢",
+      "avatar": "/mediasource/avatar/20181108/1541666727242ihsamC3Sr4.jpg",
+      "badge": [],
+      "level": 1,
+      "isStar": true,
+      "friends": "0",
+      "followers": "0",
+      "teamLogo": "/mediasource/teamLogo2/all/snh48_h2.png",
+      "signature": "",
+      "bgImg": "/20190417/15554805699157R662Qiv8w.jpg",
+      "vip": false,
+      "userRole": 3
+    }
+  },
+  {
+    "liveId": "341029365898612736",
+    "coverPath": "/20190531/1559237336308Eo30YxKmUp.jpg",
+    "title": "176.0半小时",
+    "liveType": 1,
+    "status": 2,
+    "ctime": "1559237336824",
+    "userInfo": {
+      "userId": "63562",
+      "nickname": "GNZ48-林嘉佩",
+      "avatar": "/mediasource/avatar/20181012/15392802278986ARyi03706.jpg",
+      "badge": [],
+      "level": 2,
+      "isStar": true,
+      "friends": "0",
+      "followers": "0",
+      "teamLogo": "/mediasource/teamLogo2/all/gnz48_g.png",
+      "signature": "",
+      "bgImg": "",
+      "vip": false,
+      "userRole": 3
+    }
+  }
+]

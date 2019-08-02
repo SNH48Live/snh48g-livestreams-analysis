@@ -1,0 +1,27 @@
+[
+  {
+    "liveId": "361141249578438656",
+    "coverPath": "/mediasource/avatar/327682.jpg",
+    "title": "玩乐小组～",
+    "liveType": 1,
+    "status": 2,
+    "ctime": "1564032383578",
+    "userInfo": {
+      "userId": "327682",
+      "nickname": "BEJ48",
+      "avatar": "/mediasource/avatar/327682.jpg",
+      "badge": [],
+      "level": 1,
+      "isStar": false,
+      "friends": "0",
+      "followers": "0",
+      "teamLogo": "",
+      "signature": "",
+      "bgImg": "",
+      "vip": false,
+      "userRole": 999
+    },
+    "liveMode": 0,
+    "pictureOrientation": 0
+  }
+]

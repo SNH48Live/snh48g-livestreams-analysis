@@ -1,0 +1,117 @@
+[
+  {
+    "liveId": "341727833721999360",
+    "coverPath": "/20190601/1559403863652d5UVOw39Rw.jpg",
+    "title": "冲浪🏄‍♀️",
+    "liveType": 1,
+    "status": 2,
+    "ctime": "1559403864555",
+    "userInfo": {
+      "userId": "711735",
+      "nickname": "BEJ48-曲美霖",
+      "avatar": "/mediasource/avatar/20190220/1550643122590xo68HjPx7R.jpg",
+      "badge": [],
+      "level": 1,
+      "isStar": true,
+      "friends": "0",
+      "followers": "0",
+      "teamLogo": "/mediasource/teamLogo2/all/bej48_b.png",
+      "signature": "",
+      "bgImg": "",
+      "vip": false,
+      "userRole": 3
+    }
+  },
+  {
+    "liveId": "341753826939572224",
+    "coverPath": "/20190602/15594100613897CY14Y69PH.jpg",
+    "title": "88",
+    "liveType": 1,
+    "status": 2,
+    "ctime": "1559410061797",
+    "userInfo": {
+      "userId": "874701",
+      "nickname": "GNZ48-张润",
+      "avatar": "/20190529/1559135206177kN3uawSlK2.jpg",
+      "badge": [],
+      "level": 1,
+      "isStar": true,
+      "friends": "0",
+      "followers": "0",
+      "teamLogo": "/mediasource/teamLogo2/all/gnz48_n3.png",
+      "signature": "",
+      "bgImg": "/20190430/1556569792667bgQ7aayD2C.jpg",
+      "vip": false,
+      "userRole": 3
+    }
+  },
+  {
+    "liveId": "341748684643176448",
+    "coverPath": "/20190602/1559408835221s2181h8zE9.jpg",
+    "title": "回来啦",
+    "liveType": 1,
+    "status": 2,
+    "ctime": "1559408835796",
+    "userInfo": {
+      "userId": "327563",
+      "nickname": "GNZ48-陈楠茜",
+      "avatar": "/mediasource/avatar/20190117/1547700110400lR1uWbpPJl.jpg",
+      "badge": [],
+      "level": 1,
+      "isStar": true,
+      "friends": "0",
+      "followers": "0",
+      "teamLogo": "/mediasource/teamLogo2/all/gnz48_n3.png",
+      "signature": "",
+      "bgImg": "",
+      "vip": false,
+      "userRole": 3
+    }
+  },
+  {
+    "liveId": "341742659412234240",
+    "coverPath": "/20190602/1559407398551rTZ4X84HKo.jpg",
+    "title": "🍃",
+    "liveType": 1,
+    "status": 2,
+    "ctime": "1559407398647",
+    "userInfo": {
+      "userId": "874696",
+      "nickname": "GNZ48-叶舒淇",
+      "avatar": "/20190529/1559125370465e4c5qMEYR1.jpg",
+      "badge": [],
+      "level": 1,
+      "isStar": true,
+      "friends": "0",
+      "followers": "0",
+      "teamLogo": "/mediasource/teamLogo2/all/gnz48_g.png",
+      "signature": "",
+      "bgImg": "/20190513/1557683282696A6BmwL4ckJ.jpg",
+      "vip": false,
+      "userRole": 3
+    }
+  },
+  {
+    "liveId": "341741223471288320",
+    "coverPath": "/20190602/1559407056057BLc32I1f4G.jpg",
+    "title": "178.0你的林嘉佩直播了",
+    "liveType": 1,
+    "status": 2,
+    "ctime": "1559407056298",
+    "userInfo": {
+      "userId": "63562",
+      "nickname": "GNZ48-林嘉佩",
+      "avatar": "/mediasource/avatar/20181012/15392802278986ARyi03706.jpg",
+      "badge": [],
+      "level": 2,
+      "isStar": true,
+      "friends": "0",
+      "followers": "0",
+      "teamLogo": "/mediasource/teamLogo2/all/gnz48_g.png",
+      "signature": "",
+      "bgImg": "",
+      "vip": false,
+      "userRole": 3
+    }
+  }
+]

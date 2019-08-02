@@ -1,0 +1,71 @@
+[
+  {
+    "liveId": "350005520324431872",
+    "coverPath": "/20190624/15613773918073UqyrC44dM.jpg",
+    "title": "随随便便～",
+    "liveType": 1,
+    "status": 2,
+    "ctime": "1561377418558",
+    "userInfo": {
+      "userId": "825969",
+      "nickname": "BEJ48-程宇璐",
+      "avatar": "/mediasource/avatar/20190221/1550680931459g30hieHLZh.jpg",
+      "badge": [],
+      "level": 1,
+      "isStar": true,
+      "friends": "0",
+      "followers": "0",
+      "teamLogo": "/mediasource/teamLogo2/all/bej48_e.png",
+      "signature": "",
+      "bgImg": "",
+      "vip": false,
+      "userRole": 3
+    }
+  },
+  {
+    "liveId": "350007284457082880",
+    "coverPath": "/20190624/1561377838874ju5aTJ18IE.jpg",
+    "title": "这是电台（给你们听听🌈💨",
+    "liveType": 1,
+    "status": 2,
+    "ctime": "1561377839155",
+    "userInfo": {
+      "userId": "460005",
+      "nickname": "SNH48-赵佳蕊",
+      "avatar": "/20190620/1561022216608Jbw49Cw427.jpg",
+      "badge": [],
+      "level": 1,
+      "isStar": true,
+      "friends": "0",
+      "followers": "0",
+      "teamLogo": "/mediasource/teamLogo2/all/snh48_n2.png",
+      "signature": "",
+      "bgImg": "/20190417/15554923084801bQ9h18moa.jpg",
+      "vip": false,
+      "userRole": 3
+    }
+  },
+  {
+    "liveId": "350014206463774720",
+    "coverPath": "/20190624/15613794891187KjDv7SxY3.jpg",
+    "title": "。。。",
+    "liveType": 1,
+    "status": 2,
+    "ctime": "1561379489473",
+    "userInfo": {
+      "userId": "5566",
+      "nickname": "SNH48-许杨玉琢",
+      "avatar": "/mediasource/avatar/20181108/1541666727242ihsamC3Sr4.jpg",
+      "badge": [],
+      "level": 1,
+      "isStar": true,
+      "friends": "0",
+      "followers": "0",
+      "teamLogo": "/mediasource/teamLogo2/all/snh48_h2.png",
+      "signature": "",
+      "bgImg": "/20190417/15554805699157R662Qiv8w.jpg",
+      "vip": false,
+      "userRole": 3
+    }
+  }
+]

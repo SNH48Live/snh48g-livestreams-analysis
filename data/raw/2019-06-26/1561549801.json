@@ -1,0 +1,48 @@
+[
+  {
+    "liveId": "350725503924899840",
+    "coverPath": "/20190626/1561549074528TH04tXH9rF.jpg",
+    "title": "突然直播",
+    "liveType": 1,
+    "status": 2,
+    "ctime": "1561549076038",
+    "userInfo": {
+      "userId": "874500",
+      "nickname": "IDFT-冯嘉宝",
+      "avatar": "/mediasource/avatar/20190410/1554836077228l1hB971a2f.jpg",
+      "badge": [],
+      "level": 1,
+      "isStar": true,
+      "friends": "0",
+      "followers": "0",
+      "teamLogo": "/mediasource/teamLogo/all/idft_logo_2.png",
+      "signature": "",
+      "bgImg": "/20190416/155540368953294eN6ekrhj.jpg",
+      "vip": false,
+      "userRole": 3
+    }
+  },
+  {
+    "liveId": "350728499668783104",
+    "coverPath": "/20190626/15615497864217249qEzb7H.jpg",
+    "title": "限时聊天走过路过不要错过",
+    "liveType": 2,
+    "status": 2,
+    "ctime": "1561549790271",
+    "userInfo": {
+      "userId": "614733",
+      "nickname": "IDFT-谯玉珍",
+      "avatar": "/mediasource/avatar/20190103/15464532723824f0iz25kY7.jpg",
+      "badge": [],
+      "level": 1,
+      "isStar": true,
+      "friends": "0",
+      "followers": "0",
+      "teamLogo": "/mediasource/teamLogo/all/idft_logo_2.png",
+      "signature": "",
+      "bgImg": "",
+      "vip": false,
+      "userRole": 3
+    }
+  }
+]

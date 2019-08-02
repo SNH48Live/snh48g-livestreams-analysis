@@ -1,0 +1,140 @@
+[
+  {
+    "liveId": "340568302946160640",
+    "coverPath": "/20190529/1559127393253GXpAJRW71X.jpg",
+    "title": "一会",
+    "liveType": 1,
+    "status": 2,
+    "ctime": "1559127410639",
+    "userInfo": {
+      "userId": "6739",
+      "nickname": "SNH48-孙歆文",
+      "avatar": "/mediasource/avatar/20181222/15454567664790Ez1U04TAZ.jpg",
+      "badge": [],
+      "level": 1,
+      "isStar": true,
+      "friends": "0",
+      "followers": "0",
+      "teamLogo": "/mediasource/teamLogo2/all/snh48_x.png",
+      "signature": "",
+      "bgImg": "",
+      "vip": false,
+      "userRole": 3
+    }
+  },
+  {
+    "liveId": "340569227844718592",
+    "coverPath": "/20190529/1559127628395yObQIfKkai.jpg",
+    "title": "催眠",
+    "liveType": 2,
+    "status": 2,
+    "ctime": "1559127631151",
+    "userInfo": {
+      "userId": "5574",
+      "nickname": "SNH48-张雨鑫",
+      "avatar": "/mediasource/avatar/20190307/1551941313755d3NX3zI1yc.jpg",
+      "badge": [],
+      "level": 1,
+      "isStar": true,
+      "friends": "0",
+      "followers": "0",
+      "teamLogo": "/mediasource/teamLogo2/all/snh48_n2.png",
+      "signature": "",
+      "bgImg": "",
+      "vip": false,
+      "userRole": 3
+    }
+  },
+  {
+    "liveId": "340567505286008832",
+    "coverPath": "/20190529/1559127219923r6971lJgXS.jpg",
+    "title": "广州南站第一黑",
+    "liveType": 1,
+    "status": 2,
+    "ctime": "1559127220699",
+    "userInfo": {
+      "userId": "327564",
+      "nickname": "GNZ48-陈欣妤",
+      "avatar": "/mediasource/avatar/20181031/1540984990227s8GZd9i97q.jpg",
+      "badge": [],
+      "level": 1,
+      "isStar": true,
+      "friends": "0",
+      "followers": "0",
+      "teamLogo": "/mediasource/teamLogo2/all/gnz48_n3.png",
+      "signature": "",
+      "bgImg": "",
+      "vip": false,
+      "userRole": 3
+    }
+  },
+  {
+    "liveId": "340569584264089600",
+    "coverPath": "/20190529/1559127715883VN4evl70LT.jpg",
+    "title": "营业啦",
+    "liveType": 1,
+    "status": 2,
+    "ctime": "1559127716127",
+    "userInfo": {
+      "userId": "63582",
+      "nickname": "SNH48-张怡",
+      "avatar": "/mediasource/avatar/20181025/1540475517669K5z48SpenC.jpg",
+      "badge": [],
+      "level": 1,
+      "isStar": true,
+      "friends": "0",
+      "followers": "0",
+      "teamLogo": "/mediasource/teamLogo2/all/snh48_n2.png",
+      "signature": "",
+      "bgImg": "",
+      "vip": false,
+      "userRole": 3
+    }
+  },
+  {
+    "liveId": "340575619200651264",
+    "coverPath": "/20190529/1559129151723L5L15b7Epk.jpg",
+    "title": "喵",
+    "liveType": 2,
+    "status": 2,
+    "ctime": "1559129155206",
+    "userInfo": {
+      "userId": "677404",
+      "nickname": "SNH48-周诗雨",
+      "avatar": "/mediasource/avatar/20190308/15520328406081gtx18Dtip.jpg",
+      "badge": [],
+      "level": 1,
+      "isStar": true,
+      "friends": "0",
+      "followers": "0",
+      "teamLogo": "/mediasource/teamLogo2/all/snh48_n2.png",
+      "signature": "",
+      "bgImg": "",
+      "vip": false,
+      "userRole": 3
+    }
+  },
+  {
+    "liveId": "340564512671076352",
+    "coverPath": "/20190529/1559126503817bHgF0EI499.jpg",
+    "title": "电一下",
+    "liveType": 2,
+    "status": 2,
+    "ctime": "1559126506978",
+    "userInfo": {
+      "userId": "614735",
+      "nickname": "IDFT-田倩兰",
+      "avatar": "/mediasource/avatar/20190405/15544410566123IdGRnH7GC.jpg",
+      "badge": [],
+      "level": 1,
+      "isStar": true,
+      "friends": "0",
+      "followers": "0",
+      "teamLogo": "/mediasource/teamLogo/all/idft_logo_2.png",
+      "signature": "",
+      "bgImg": "",
+      "vip": false,
+      "userRole": 3
+    }
+  }
+]

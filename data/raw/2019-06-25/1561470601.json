@@ -1,0 +1,163 @@
+[
+  {
+    "liveId": "350387687902744576",
+    "coverPath": "/20190625/1561468533967SmLp7YO7lT.jpg",
+    "title": "步行",
+    "liveType": 1,
+    "status": 2,
+    "ctime": "1561468534684",
+    "userInfo": {
+      "userId": "407104",
+      "nickname": "BEJ48-葛司琪",
+      "avatar": "/mediasource/avatar/20180809/1533816085151L3OoB4t2xZ.jpg",
+      "badge": [],
+      "level": 1,
+      "isStar": true,
+      "friends": "0",
+      "followers": "0",
+      "teamLogo": "/mediasource/teamLogo2/all/bej48_j.png",
+      "signature": "",
+      "bgImg": "",
+      "vip": false,
+      "userRole": 3
+    }
+  },
+  {
+    "liveId": "350391697795780608",
+    "coverPath": "/20190625/15614694899697vf0nTydxA.jpg",
+    "title": ".",
+    "liveType": 1,
+    "status": 2,
+    "ctime": "1561469490717",
+    "userInfo": {
+      "userId": "49005",
+      "nickname": "SNH48-沈梦瑶",
+      "avatar": "/mediasource/avatar/20190302/155146332801927FZq9873v.jpg",
+      "badge": [],
+      "level": 1,
+      "isStar": true,
+      "friends": "0",
+      "followers": "0",
+      "teamLogo": "/mediasource/teamLogo2/all/snh48_h2.png",
+      "signature": "",
+      "bgImg": "",
+      "vip": false,
+      "userRole": 3
+    }
+  },
+  {
+    "liveId": "350395761468182528",
+    "coverPath": "/20190625/1561470458778s1XCg3sq3J.jpg",
+    "title": "来来来",
+    "liveType": 1,
+    "status": 2,
+    "ctime": "1561470459572",
+    "userInfo": {
+      "userId": "874508",
+      "nickname": "IDFT-尚官",
+      "avatar": "/mediasource/avatar/20190407/1554629669002MgHL7DDwv3.jpg",
+      "badge": [],
+      "level": 1,
+      "isStar": true,
+      "friends": "0",
+      "followers": "0",
+      "teamLogo": "/mediasource/teamLogo/all/idft_logo_2.png",
+      "signature": "",
+      "bgImg": "/20190416/15553995584983HTG023YQA.jpg",
+      "vip": false,
+      "userRole": 3
+    }
+  },
+  {
+    "liveId": "350394091275358208",
+    "coverPath": "/20190625/15614700604358J55zZFUr2.jpg",
+    "title": "路播～",
+    "liveType": 1,
+    "status": 2,
+    "ctime": "1561470060891",
+    "userInfo": {
+      "userId": "417321",
+      "nickname": "GNZ48-农燕萍",
+      "avatar": "/mediasource/avatar/20190320/15530499365132cGb73U939.jpg",
+      "badge": [],
+      "level": 1,
+      "isStar": true,
+      "friends": "0",
+      "followers": "0",
+      "teamLogo": "/mediasource/teamLogo/all/gnz_z_log2.png",
+      "signature": "",
+      "bgImg": "",
+      "vip": false,
+      "userRole": 3
+    }
+  },
+  {
+    "liveId": "350391544103899136",
+    "coverPath": "/20190625/1561469453331YeFu4T8A1q.jpg",
+    "title": "毕业撒花",
+    "liveType": 1,
+    "status": 2,
+    "ctime": "1561469453738",
+    "userInfo": {
+      "userId": "608997",
+      "nickname": "IDFT-司珀琳",
+      "avatar": "/mediasource/avatar/20190305/15517988953323Wtua2396i.jpg",
+      "badge": [],
+      "level": 1,
+      "isStar": true,
+      "friends": "0",
+      "followers": "0",
+      "teamLogo": "/mediasource/teamLogo/all/idft_logo_2.png",
+      "signature": "",
+      "bgImg": "",
+      "vip": false,
+      "userRole": 3
+    }
+  },
+  {
+    "liveId": "350381006963675136",
+    "coverPath": "/20190614/1560526678750su4y30TUo6.jpg",
+    "title": "听歌",
+    "liveType": 1,
+    "status": 2,
+    "ctime": "1561466941824",
+    "userInfo": {
+      "userId": "17",
+      "nickname": "SNH48-蒋芸",
+      "avatar": "/20190607/1559884761072XtL3F10H49.jpg",
+      "badge": [],
+      "level": 1,
+      "isStar": true,
+      "friends": "0",
+      "followers": "0",
+      "teamLogo": "/mediasource/teamLogo2/all/snh48_s2.png",
+      "signature": "",
+      "bgImg": "",
+      "vip": false,
+      "userRole": 3
+    }
+  },
+  {
+    "liveId": "350382263031894016",
+    "coverPath": "/20190625/1561467240448WpTaCqd4MV.jpg",
+    "title": "电台hou",
+    "liveType": 1,
+    "status": 2,
+    "ctime": "1561467241294",
+    "userInfo": {
+      "userId": "867891",
+      "nickname": "GNZ48-方琪",
+      "avatar": "/mediasource/avatar/20190407/1554630900541zKF82vA89r.jpg",
+      "badge": [],
+      "level": 1,
+      "isStar": true,
+      "friends": "0",
+      "followers": "0",
+      "teamLogo": "/mediasource/teamLogo/all/gnz_z_log2.png",
+      "signature": "",
+      "bgImg": "/20190611/1560228887931la4w95ored.jpg",
+      "vip": false,
+      "userRole": 3
+    }
+  }
+]

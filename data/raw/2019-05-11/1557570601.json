@@ -1,0 +1,71 @@
+[
+  {
+    "liveId": "334035309372968960",
+    "coverPath": "/20190511/1557569823338oxnF54c0Nv.jpg",
+    "title": "每日访谈",
+    "liveType": 1,
+    "status": 2,
+    "ctime": "1557569823829",
+    "userInfo": {
+      "userId": "399669",
+      "nickname": "SNH48-袁一琦",
+      "avatar": "/mediasource/avatar/20190125/1548423600986Dp788G721x.jpg",
+      "badge": [],
+      "level": 1,
+      "isStar": true,
+      "friends": "0",
+      "followers": "0",
+      "teamLogo": "/mediasource/teamLogo2/all/snh48_h2.png",
+      "signature": "",
+      "bgImg": "",
+      "vip": false,
+      "userRole": 3
+    }
+  },
+  {
+    "liveId": "334037800114262016",
+    "coverPath": "/20190511/1557570417203Bfy3b5W16e.jpg",
+    "title": "啊",
+    "liveType": 1,
+    "status": 2,
+    "ctime": "1557570417669",
+    "userInfo": {
+      "userId": "67",
+      "nickname": "SNH48-袁丹妮",
+      "avatar": "/mediasource/avatar/20181201/1543645775196SKO5Mutlvg.jpg",
+      "badge": [],
+      "level": 1,
+      "isStar": true,
+      "friends": "0",
+      "followers": "0",
+      "teamLogo": "/mediasource/teamLogo2/all/snh48_s2.png",
+      "signature": "",
+      "bgImg": "",
+      "vip": false,
+      "userRole": 3
+    }
+  },
+  {
+    "liveId": "334018833253470208",
+    "coverPath": "/20190511/1557565894094CFW313RIOJ.jpg",
+    "title": "Hi",
+    "liveType": 2,
+    "status": 2,
+    "ctime": "1557565895617",
+    "userInfo": {
+      "userId": "327587",
+      "nickname": "BEJ48-冯思佳",
+      "avatar": "/mediasource/avatar/20180420/1524158237082F67tg21k3I.jpg",
+      "badge": [],
+      "level": 1,
+      "isStar": true,
+      "friends": "0",
+      "followers": "0",
+      "teamLogo": "/mediasource/teamLogo2/all/bej48_e.png",
+      "signature": "",
+      "bgImg": "/20190416/1555430011580O9sDA7w1gQ.jpg",
+      "vip": false,
+      "userRole": 3
+    }
+  }
+]

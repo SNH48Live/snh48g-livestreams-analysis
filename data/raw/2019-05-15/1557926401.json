@@ -1,0 +1,140 @@
+[
+  {
+    "liveId": "335529888521719808",
+    "coverPath": "/20190515/155792615707162zKrnRyip.jpg",
+    "title": "聊聊天呢",
+    "liveType": 2,
+    "status": 2,
+    "ctime": "1557926158825",
+    "userInfo": {
+      "userId": "614739",
+      "nickname": "IDFT-王梦竹",
+      "avatar": "/mediasource/avatar/20190323/1553278247276oS8o2lE4kV.jpg",
+      "badge": [],
+      "level": 1,
+      "isStar": true,
+      "friends": "0",
+      "followers": "0",
+      "teamLogo": "/mediasource/teamLogo/all/idft_logo_2.png",
+      "signature": "",
+      "bgImg": "",
+      "vip": false,
+      "userRole": 3
+    }
+  },
+  {
+    "liveId": "335521524337152000",
+    "coverPath": "/20190515/1557924162806OOky6y7VL3.jpg",
+    "title": "来啦",
+    "liveType": 2,
+    "status": 2,
+    "ctime": "1557924164677",
+    "userInfo": {
+      "userId": "707369",
+      "nickname": "IDFT-魏小燕",
+      "avatar": "/mediasource/avatar/20190412/1555062531968beck8pV8lL.jpg",
+      "badge": [],
+      "level": 1,
+      "isStar": true,
+      "friends": "0",
+      "followers": "0",
+      "teamLogo": "/mediasource/teamLogo/all/idft_logo_2.png",
+      "signature": "",
+      "bgImg": "",
+      "vip": false,
+      "userRole": 3
+    }
+  },
+  {
+    "liveId": "335528106156429312",
+    "coverPath": "/20190515/15579257322765W7MW65w2F.jpg",
+    "title": "最爱滴菜",
+    "liveType": 2,
+    "status": 2,
+    "ctime": "1557925734318",
+    "userInfo": {
+      "userId": "614728",
+      "nickname": "IDFT-雷宇霄",
+      "avatar": "/mediasource/avatar/20190127/1548583798929xb20cd5Qn0.jpg",
+      "badge": [],
+      "level": 1,
+      "isStar": true,
+      "friends": "0",
+      "followers": "0",
+      "teamLogo": "/mediasource/teamLogo/all/idft_logo_2.png",
+      "signature": "",
+      "bgImg": "",
+      "vip": false,
+      "userRole": 3
+    }
+  },
+  {
+    "liveId": "335526174142566401",
+    "coverPath": "/20190515/155792526696224s3biQaEz.jpg",
+    "title": "🤨",
+    "liveType": 2,
+    "status": 2,
+    "ctime": "1557925273261",
+    "userInfo": {
+      "userId": "614735",
+      "nickname": "IDFT-田倩兰",
+      "avatar": "/mediasource/avatar/20190405/15544410566123IdGRnH7GC.jpg",
+      "badge": [],
+      "level": 1,
+      "isStar": true,
+      "friends": "0",
+      "followers": "0",
+      "teamLogo": "/mediasource/teamLogo/all/idft_logo_2.png",
+      "signature": "",
+      "bgImg": "",
+      "vip": false,
+      "userRole": 3
+    }
+  },
+  {
+    "liveId": "335512996511813632",
+    "coverPath": "/20190515/1557922131265G8K4T7Kb1R.jpg",
+    "title": "为了积分，冲啊！",
+    "liveType": 1,
+    "status": 2,
+    "ctime": "1557922131618",
+    "userInfo": {
+      "userId": "679462",
+      "nickname": "IDFT-李苏洪",
+      "avatar": "/mediasource/avatar/20190402/1554136593549e37MPOGv2o.jpg",
+      "badge": [],
+      "level": 1,
+      "isStar": true,
+      "friends": "0",
+      "followers": "0",
+      "teamLogo": "/mediasource/teamLogo/all/idft_logo_2.png",
+      "signature": "",
+      "bgImg": "",
+      "vip": false,
+      "userRole": 3
+    }
+  },
+  {
+    "liveId": "335528580909699072",
+    "coverPath": "/20190515/15579258438935U1m3HxW2X.jpg",
+    "title": "黄八斤的茶话会",
+    "liveType": 2,
+    "status": 2,
+    "ctime": "1557925847070",
+    "userInfo": {
+      "userId": "614755",
+      "nickname": "IDFT-黄琬璎",
+      "avatar": "/mediasource/avatar/20180523/1527059771019m3K3oYK40t.jpg",
+      "badge": [],
+      "level": 1,
+      "isStar": true,
+      "friends": "0",
+      "followers": "0",
+      "teamLogo": "/mediasource/teamLogo/all/idft_logo_2.png",
+      "signature": "",
+      "bgImg": "",
+      "vip": false,
+      "userRole": 3
+    }
+  }
+]

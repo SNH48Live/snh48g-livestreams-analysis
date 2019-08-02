@@ -1,0 +1,71 @@
+[
+  {
+    "liveId": "332254270493364224",
+    "coverPath": "/20190506/15571451889631POF4E45JC.jpg",
+    "title": "🏖立夏 快 乐!",
+    "liveType": 2,
+    "status": 2,
+    "ctime": "1557145191071",
+    "userInfo": {
+      "userId": "327602",
+      "nickname": "BEJ48-刘胜男",
+      "avatar": "/mediasource/avatar/20180912/1536738767599RNswodwA3R.jpg",
+      "badge": [],
+      "level": 1,
+      "isStar": true,
+      "friends": "0",
+      "followers": "0",
+      "teamLogo": "/mediasource/teamLogo2/all/bej48_e.png",
+      "signature": "",
+      "bgImg": "",
+      "vip": false,
+      "userRole": 3
+    }
+  },
+  {
+    "liveId": "332222296940679168",
+    "coverPath": "/20190506/1557137566990tx261q3tIY.jpg",
+    "title": "Hi",
+    "liveType": 1,
+    "status": 2,
+    "ctime": "1557137567982",
+    "userInfo": {
+      "userId": "327587",
+      "nickname": "BEJ48-冯思佳",
+      "avatar": "/mediasource/avatar/20180420/1524158237082F67tg21k3I.jpg",
+      "badge": [],
+      "level": 1,
+      "isStar": true,
+      "friends": "0",
+      "followers": "0",
+      "teamLogo": "/mediasource/teamLogo2/all/bej48_e.png",
+      "signature": "",
+      "bgImg": "/20190416/1555430011580O9sDA7w1gQ.jpg",
+      "vip": false,
+      "userRole": 3
+    }
+  },
+  {
+    "liveId": "332244998241980416",
+    "coverPath": "/20190506/1557142977517EJ7Unwp8y3.jpg",
+    "title": "电台",
+    "liveType": 2,
+    "status": 2,
+    "ctime": "1557142980393",
+    "userInfo": {
+      "userId": "624121",
+      "nickname": "BEJ48-何阳青青",
+      "avatar": "/mediasource/avatar/20190324/15533729548492472z0t6IU.jpg",
+      "badge": [],
+      "level": 1,
+      "isStar": true,
+      "friends": "0",
+      "followers": "0",
+      "teamLogo": "/mediasource/teamLogo2/all/bej48_j.png",
+      "signature": "",
+      "bgImg": "",
+      "vip": false,
+      "userRole": 3
+    }
+  }
+]

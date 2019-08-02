@@ -1,0 +1,71 @@
+[
+  {
+    "liveId": "349362273839288320",
+    "coverPath": "/20190623/15612240564476z15DWc78r.jpg",
+    "title": "ʕ •ᴥ•ʔ",
+    "liveType": 1,
+    "status": 2,
+    "ctime": "1561224056902",
+    "userInfo": {
+      "userId": "722781",
+      "nickname": "GNZ48-梁乔",
+      "avatar": "/mediasource/avatar/20190313/15524707904383kE9lzan0f.jpg",
+      "badge": [],
+      "level": 1,
+      "isStar": true,
+      "friends": "0",
+      "followers": "0",
+      "teamLogo": "/mediasource/teamLogo/all/gnz_z_log2.png",
+      "signature": "",
+      "bgImg": "",
+      "vip": false,
+      "userRole": 3
+    }
+  },
+  {
+    "liveId": "349366863326416896",
+    "coverPath": "/20190623/1561224015368P23jY6opR9.jpg",
+    "title": "吃个饭🤖🤖",
+    "liveType": 1,
+    "status": 2,
+    "ctime": "1561225151114",
+    "userInfo": {
+      "userId": "327578",
+      "nickname": "BEJ48-林溪荷",
+      "avatar": "/mediasource/avatar/20190222/1550838797875R9t4yq64NL.jpg",
+      "badge": [],
+      "level": 1,
+      "isStar": true,
+      "friends": "0",
+      "followers": "0",
+      "teamLogo": "/mediasource/teamLogo2/all/bej48_b.png",
+      "signature": "",
+      "bgImg": "/20190419/1555605488038552AuRrgK1.jpg",
+      "vip": false,
+      "userRole": 3
+    }
+  },
+  {
+    "liveId": "349359002542215168",
+    "coverPath": "/20190623/1561223276463qFq5xV62YM.jpg",
+    "title": "耶耶耶",
+    "liveType": 1,
+    "status": 2,
+    "ctime": "1561223276977",
+    "userInfo": {
+      "userId": "609002",
+      "nickname": "BEJ48-赵天杨",
+      "avatar": "/mediasource/avatar/20190308/1551995787450W9Njd26877.jpg",
+      "badge": [],
+      "level": 1,
+      "isStar": true,
+      "friends": "0",
+      "followers": "0",
+      "teamLogo": "/mediasource/teamLogo2/all/bej48_b.png",
+      "signature": "",
+      "bgImg": "",
+      "vip": false,
+      "userRole": 3
+    }
+  }
+]

@@ -1,0 +1,48 @@
+[
+  {
+    "liveId": "352629885104885760",
+    "coverPath": "/20190702/1562003115712j7KLXeWesW.jpg",
+    "title": "咦",
+    "liveType": 1,
+    "status": 2,
+    "ctime": "1562003116126",
+    "userInfo": {
+      "userId": "874701",
+      "nickname": "GNZ48-张润",
+      "avatar": "/20190701/1561984281938pu7F0I5Ydg.jpg",
+      "badge": [],
+      "level": 1,
+      "isStar": true,
+      "friends": "0",
+      "followers": "0",
+      "teamLogo": "/mediasource/teamLogo2/all/gnz48_n3.png",
+      "signature": "",
+      "bgImg": "/20190430/1556569792667bgQ7aayD2C.jpg",
+      "vip": false,
+      "userRole": 3
+    }
+  },
+  {
+    "liveId": "352613206169817088",
+    "coverPath": "/20190510/1557501948950dCv15671H4.jpg",
+    "title": "对于啊呸的吐槽",
+    "liveType": 1,
+    "status": 2,
+    "ctime": "1561999139587",
+    "userInfo": {
+      "userId": "874717",
+      "nickname": "IDFT-武晓迪",
+      "avatar": "/mediasource/avatar/20190320/15530212766396Z27rSj8z0.jpg",
+      "badge": [],
+      "level": 1,
+      "isStar": true,
+      "friends": "0",
+      "followers": "0",
+      "teamLogo": "/mediasource/teamLogo/all/idft_logo_2.png",
+      "signature": "",
+      "bgImg": "/20190616/156067241738706U5Ic44Sm.jpg",
+      "vip": false,
+      "userRole": 3
+    }
+  }
+]

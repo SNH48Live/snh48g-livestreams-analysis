@@ -1,0 +1,71 @@
+[
+  {
+    "liveId": "336930997459030016",
+    "coverPath": "/20190519/1558260208935Mz0F064vz3.jpg",
+    "title": "好不容易画了个妆…",
+    "liveType": 1,
+    "status": 2,
+    "ctime": "1558260209670",
+    "userInfo": {
+      "userId": "37",
+      "nickname": "SNH48-陈思",
+      "avatar": "/mediasource/avatar/20190130/154886136559836VcAR8YIF.jpg",
+      "badge": [],
+      "level": 1,
+      "isStar": true,
+      "friends": "0",
+      "followers": "0",
+      "teamLogo": "/mediasource/teamLogo2/all/snh48_s2.png",
+      "signature": "",
+      "bgImg": "",
+      "vip": false,
+      "userRole": 3
+    }
+  },
+  {
+    "liveId": "336937007791804416",
+    "coverPath": "/20190519/1558261641491YoqjQplG9b.jpg",
+    "title": "试试",
+    "liveType": 1,
+    "status": 2,
+    "ctime": "1558261642645",
+    "userInfo": {
+      "userId": "607513",
+      "nickname": "GNZ48-符冰冰",
+      "avatar": "http://www.gnz48.com/images/member/zp_30075.jpg?ram=1523268262040",
+      "badge": [],
+      "level": 1,
+      "isStar": true,
+      "friends": "0",
+      "followers": "0",
+      "teamLogo": "/mediasource/teamLogo2/all/gnz48_g.png",
+      "signature": "",
+      "bgImg": "",
+      "vip": false,
+      "userRole": 3
+    }
+  },
+  {
+    "liveId": "336925282434617344",
+    "coverPath": "/20190519/1558258841170PANEac9b6j.jpg",
+    "title": "emmmmmmm",
+    "liveType": 1,
+    "status": 2,
+    "ctime": "1558258847101",
+    "userInfo": {
+      "userId": "594005",
+      "nickname": "IDFT-熊沁娴",
+      "avatar": "/mediasource/avatar/151351509536646GDn0Hp83.jpg",
+      "badge": [],
+      "level": 1,
+      "isStar": true,
+      "friends": "0",
+      "followers": "0",
+      "teamLogo": "/mediasource/teamLogo/all/idft_logo_2.png",
+      "signature": "",
+      "bgImg": "",
+      "vip": false,
+      "userRole": 3
+    }
+  }
+]

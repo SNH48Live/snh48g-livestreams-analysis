@@ -1,0 +1,48 @@
+[
+  {
+    "liveId": "333318305989070848",
+    "coverPath": "/20190509/1557398876082J9yxxRr59I.jpg",
+    "title": "晚上好 🌆",
+    "liveType": 1,
+    "status": 2,
+    "ctime": "1557398876673",
+    "userInfo": {
+      "userId": "874693",
+      "nickname": "GNZ48-邓熳慧",
+      "avatar": "/mediasource/avatar/20190324/15533999659348IEM46dcJj.jpg",
+      "badge": [],
+      "level": 1,
+      "isStar": true,
+      "friends": "0",
+      "followers": "0",
+      "teamLogo": "/mediasource/teamLogo2/all/gnz48_n3.png",
+      "signature": "",
+      "bgImg": "",
+      "vip": false,
+      "userRole": 3
+    }
+  },
+  {
+    "liveId": "333310751389061120",
+    "coverPath": "/20190509/15573970744899vw5z0Xja7.jpg",
+    "title": "十分钟！",
+    "liveType": 2,
+    "status": 2,
+    "ctime": "1557397075745",
+    "userInfo": {
+      "userId": "652650",
+      "nickname": "BEJ48-杨鑫",
+      "avatar": "/mediasource/avatar/20190408/155470403898675mtiA9PXJ.jpg",
+      "badge": [],
+      "level": 1,
+      "isStar": true,
+      "friends": "0",
+      "followers": "0",
+      "teamLogo": "/mediasource/teamLogo2/all/bej48_b.png",
+      "signature": "",
+      "bgImg": "",
+      "vip": false,
+      "userRole": 3
+    }
+  }
+]

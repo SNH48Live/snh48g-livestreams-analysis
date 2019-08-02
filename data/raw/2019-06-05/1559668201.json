@@ -1,0 +1,71 @@
+[
+  {
+    "liveId": "342798632230916096",
+    "coverPath": "/20190604/1559659161659Gz2kH95Pwe.jpg",
+    "title": "拼乐高！",
+    "liveType": 1,
+    "status": 2,
+    "ctime": "1559659162814",
+    "userInfo": {
+      "userId": "614727",
+      "nickname": "GNZ48-李姗姗",
+      "avatar": "/mediasource/avatar/20190121/1548009439373OMHLVjx61V.jpg",
+      "badge": [],
+      "level": 1,
+      "isStar": true,
+      "friends": "0",
+      "followers": "0",
+      "teamLogo": "/mediasource/teamLogo2/all/gnz48_g.png",
+      "signature": "",
+      "bgImg": "",
+      "vip": false,
+      "userRole": 3
+    }
+  },
+  {
+    "liveId": "342832146519232512",
+    "coverPath": "/20190605/15596671523038VBuocq61k.jpg",
+    "title": "解除思念",
+    "liveType": 1,
+    "status": 2,
+    "ctime": "1559667152595",
+    "userInfo": {
+      "userId": "327581",
+      "nickname": "BEJ48-青钰雯",
+      "avatar": "/mediasource/avatar/1508308875165CqB71FDr3h.jpg",
+      "badge": [],
+      "level": 1,
+      "isStar": true,
+      "friends": "0",
+      "followers": "0",
+      "teamLogo": "/mediasource/teamLogo2/all/bej48_b.png",
+      "signature": "",
+      "bgImg": "",
+      "vip": false,
+      "userRole": 3
+    }
+  },
+  {
+    "liveId": "342818918384865280",
+    "coverPath": "/20190604/155966399752367cvdX2aTm.jpg",
+    "title": "2019.06.05素颜过二十大寿",
+    "liveType": 1,
+    "status": 2,
+    "ctime": "1559663998810",
+    "userInfo": {
+      "userId": "327564",
+      "nickname": "GNZ48-陈欣妤",
+      "avatar": "/mediasource/avatar/20181031/1540984990227s8GZd9i97q.jpg",
+      "badge": [],
+      "level": 1,
+      "isStar": true,
+      "friends": "0",
+      "followers": "0",
+      "teamLogo": "/mediasource/teamLogo2/all/gnz48_n3.png",
+      "signature": "",
+      "bgImg": "",
+      "vip": false,
+      "userRole": 3
+    }
+  }
+]

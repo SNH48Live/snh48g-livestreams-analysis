@@ -1,0 +1,117 @@
+[
+  {
+    "liveId": "329395525635608576",
+    "coverPath": "/20190428/15564636099945ckE2cCiIx.jpg",
+    "title": "尤克里里瞎弹",
+    "liveType": 2,
+    "status": 2,
+    "ctime": "1556463613184",
+    "userInfo": {
+      "userId": "407110",
+      "nickname": "BEJ48-刘闲",
+      "avatar": "/mediasource/avatar/20190404/15543613778036v673gZZTo.jpg",
+      "badge": [],
+      "level": 1,
+      "isStar": true,
+      "friends": "0",
+      "followers": "0",
+      "teamLogo": "/mediasource/teamLogo2/all/bej48_j.png",
+      "signature": "",
+      "bgImg": "",
+      "vip": false,
+      "userRole": 3
+    }
+  },
+  {
+    "liveId": "329410238973022208",
+    "coverPath": "/20190428/1556467120325g2jnNB1saE.jpg",
+    "title": "嗨",
+    "liveType": 1,
+    "status": 2,
+    "ctime": "1556467121117",
+    "userInfo": {
+      "userId": "417330",
+      "nickname": "GNZ48-杨可璐",
+      "avatar": "/mediasource/avatar/20190330/15539498408674iiX3Agr7M.jpg",
+      "badge": [],
+      "level": 1,
+      "isStar": true,
+      "friends": "0",
+      "followers": "0",
+      "teamLogo": "/mediasource/teamLogo/all/gnz_z_log2.png",
+      "signature": "",
+      "bgImg": "",
+      "vip": false,
+      "userRole": 3
+    }
+  },
+  {
+    "liveId": "329413800197165056",
+    "coverPath": "/20190429/1556467967686RiJej998UG.jpg",
+    "title": "没睡着..聊一下下好了",
+    "liveType": 2,
+    "status": 2,
+    "ctime": "1556467970179",
+    "userInfo": {
+      "userId": "63548",
+      "nickname": "GNZ48-陈珂",
+      "avatar": "/mediasource/avatar/1507968025370Aya7o6Ut6k.jpg",
+      "badge": [],
+      "level": 1,
+      "isStar": true,
+      "friends": "0",
+      "followers": "0",
+      "teamLogo": "/mediasource/teamLogo2/all/gnz48_g.png",
+      "signature": "",
+      "bgImg": "",
+      "vip": false,
+      "userRole": 3
+    }
+  },
+  {
+    "liveId": "329410393696702464",
+    "coverPath": "/20190428/1556467150692z4V7Ad0el9.jpg",
+    "title": "Gn",
+    "liveType": 2,
+    "status": 2,
+    "ctime": "1556467158005",
+    "userInfo": {
+      "userId": "528336",
+      "nickname": "IDFT-兰昊",
+      "avatar": "/mediasource/avatar/20190322/15532451519661Si87o37wR.jpg",
+      "badge": [],
+      "level": 1,
+      "isStar": true,
+      "friends": "0",
+      "followers": "0",
+      "teamLogo": "/mediasource/teamLogo/all/idft_logo_2.png",
+      "signature": "",
+      "bgImg": "",
+      "vip": false,
+      "userRole": 3
+    }
+  },
+  {
+    "liveId": "329396724690653184",
+    "coverPath": "",
+    "title": "在✨",
+    "liveType": 2,
+    "status": 2,
+    "ctime": "1556463898663",
+    "userInfo": {
+      "userId": "458335",
+      "nickname": "IDFT-李慧",
+      "avatar": "/mediasource/avatar/20180826/1535246668998G04P3qHPSi.jpg",
+      "badge": [],
+      "level": 1,
+      "isStar": true,
+      "friends": "0",
+      "followers": "0",
+      "teamLogo": "/mediasource/teamLogo/all/idft_logo_2.png",
+      "signature": "",
+      "bgImg": "/20190416/15554076685914Li2dwzO2Y.jpg",
+      "vip": false,
+      "userRole": 3
+    }
+  }
+]

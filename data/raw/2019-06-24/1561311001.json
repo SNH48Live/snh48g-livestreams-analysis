@@ -1,0 +1,163 @@
+[
+  {
+    "liveId": "349726305712672768",
+    "coverPath": "/20190624/1561310848333xRYBLVY0yU.jpg",
+    "title": "一个电台",
+    "liveType": 1,
+    "status": 2,
+    "ctime": "1561310848864",
+    "userInfo": {
+      "userId": "614728",
+      "nickname": "IDFT-雷宇霄",
+      "avatar": "/mediasource/avatar/20190127/1548583798929xb20cd5Qn0.jpg",
+      "badge": [],
+      "level": 1,
+      "isStar": true,
+      "friends": "0",
+      "followers": "0",
+      "teamLogo": "/mediasource/teamLogo/all/idft_logo_2.png",
+      "signature": "",
+      "bgImg": "",
+      "vip": false,
+      "userRole": 3
+    }
+  },
+  {
+    "liveId": "349719549439709184",
+    "coverPath": "/20190624/1561309237460p7Y41OCvcj.jpg",
+    "title": "再播半小时等热水",
+    "liveType": 1,
+    "status": 2,
+    "ctime": "1561309237420",
+    "userInfo": {
+      "userId": "327564",
+      "nickname": "GNZ48-陈欣妤",
+      "avatar": "/mediasource/avatar/20181031/1540984990227s8GZd9i97q.jpg",
+      "badge": [],
+      "level": 1,
+      "isStar": true,
+      "friends": "0",
+      "followers": "0",
+      "teamLogo": "/mediasource/teamLogo2/all/gnz48_n3.png",
+      "signature": "",
+      "bgImg": "",
+      "vip": false,
+      "userRole": 3
+    }
+  },
+  {
+    "liveId": "349703088415510528",
+    "coverPath": "/20190623/1561305306807YmHy4X509k.png",
+    "title": "hi",
+    "liveType": 1,
+    "status": 2,
+    "ctime": "1561305313447",
+    "userInfo": {
+      "userId": "869171",
+      "nickname": "SNH48-鲁静萍",
+      "avatar": "/mediasource/avatar/20190318/1552866278341xY7EeICIOf.jpg",
+      "badge": [],
+      "level": 1,
+      "isStar": true,
+      "friends": "0",
+      "followers": "0",
+      "teamLogo": "/mediasource/teamLogo2/all/snh48_x.png",
+      "signature": "",
+      "bgImg": "",
+      "vip": false,
+      "userRole": 3
+    }
+  },
+  {
+    "liveId": "349705178185535488",
+    "coverPath": "/20190416/15553511814747mGr16pOH7.jpg",
+    "title": "儿童节专属直播",
+    "liveType": 1,
+    "status": 2,
+    "ctime": "1561305811250",
+    "userInfo": {
+      "userId": "407104",
+      "nickname": "BEJ48-葛司琪",
+      "avatar": "/mediasource/avatar/20180809/1533816085151L3OoB4t2xZ.jpg",
+      "badge": [],
+      "level": 1,
+      "isStar": true,
+      "friends": "0",
+      "followers": "0",
+      "teamLogo": "/mediasource/teamLogo2/all/bej48_j.png",
+      "signature": "",
+      "bgImg": "",
+      "vip": false,
+      "userRole": 3
+    }
+  },
+  {
+    "liveId": "349712005015080960",
+    "coverPath": "/20190624/1561307438761433Q8Dr5In.jpg",
+    "title": "我来了！",
+    "liveType": 1,
+    "status": 2,
+    "ctime": "1561307438715",
+    "userInfo": {
+      "userId": "327577",
+      "nickname": "GNZ48-左婧媛",
+      "avatar": "/20190621/1561056227633Vs2F32NC9Z.jpg",
+      "badge": [],
+      "level": 1,
+      "isStar": true,
+      "friends": "0",
+      "followers": "0",
+      "teamLogo": "/mediasource/teamLogo2/all/gnz48_n3.png",
+      "signature": "",
+      "bgImg": "",
+      "vip": false,
+      "userRole": 3
+    }
+  },
+  {
+    "liveId": "349724916924092416",
+    "coverPath": "/20190624/1561310517240r58ndtLJAW.jpg",
+    "title": "一会会儿～",
+    "liveType": 1,
+    "status": 2,
+    "ctime": "1561310517755",
+    "userInfo": {
+      "userId": "63571",
+      "nickname": "BEJ48-田姝丽",
+      "avatar": "/mediasource/avatar/20180711/15312787608885chXYS0VhG.jpg",
+      "badge": [],
+      "level": 1,
+      "isStar": true,
+      "friends": "0",
+      "followers": "0",
+      "teamLogo": "/mediasource/teamLogo2/all/bej48_b.png",
+      "signature": "",
+      "bgImg": "",
+      "vip": false,
+      "userRole": 3
+    }
+  },
+  {
+    "liveId": "349691825509699584",
+    "coverPath": "/20190623/1561302627554D8824o0p8l.jpg",
+    "title": "啵",
+    "liveType": 1,
+    "status": 2,
+    "ctime": "1561302627618",
+    "userInfo": {
+      "userId": "63576",
+      "nickname": "GNZ48-阳青颖",
+      "avatar": "/mediasource/avatar/20180803/1533267979128J4V9yg1UE7.jpg",
+      "badge": [],
+      "level": 1,
+      "isStar": true,
+      "friends": "0",
+      "followers": "0",
+      "teamLogo": "/mediasource/teamLogo2/all/gnz48_g.png",
+      "signature": "",
+      "bgImg": "",
+      "vip": false,
+      "userRole": 3
+    }
+  }
+]

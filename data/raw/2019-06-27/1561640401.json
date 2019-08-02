@@ -1,0 +1,117 @@
+[
+  {
+    "liveId": "351095735872983040",
+    "coverPath": "/20190627/1561637337432eWV0N8y7o4.jpg",
+    "title": "啦啦啦啦啦",
+    "liveType": 2,
+    "status": 2,
+    "ctime": "1561637346474",
+    "userInfo": {
+      "userId": "874505",
+      "nickname": "IDFT-刘宇晴",
+      "avatar": "/mediasource/avatar/20190227/1551275776874HFh1XiOA3W.jpg",
+      "badge": [],
+      "level": 1,
+      "isStar": true,
+      "friends": "0",
+      "followers": "0",
+      "teamLogo": "/mediasource/teamLogo/all/idft_logo_2.png",
+      "signature": "",
+      "bgImg": "/20190513/15577207229857SR4zx5OE4.jpg",
+      "vip": false,
+      "userRole": 3
+    }
+  },
+  {
+    "liveId": "351090625499435008",
+    "coverPath": "/20190619/156095451369849vxTi4N62.jpg",
+    "title": "十分钟",
+    "liveType": 1,
+    "status": 2,
+    "ctime": "1561636127797",
+    "userInfo": {
+      "userId": "327597",
+      "nickname": "BEJ48-苏杉杉",
+      "avatar": "/mediasource/avatar/20180829/1535545582428vP45t8wGVs.jpg",
+      "badge": [],
+      "level": 1,
+      "isStar": true,
+      "friends": "0",
+      "followers": "0",
+      "teamLogo": "/mediasource/teamLogo2/all/bej48_e.png",
+      "signature": "",
+      "bgImg": "",
+      "vip": false,
+      "userRole": 3
+    }
+  },
+  {
+    "liveId": "351101757710733312",
+    "coverPath": "/20190626/1561553475859GglLm67uue.jpg",
+    "title": "买菜了",
+    "liveType": 1,
+    "status": 2,
+    "ctime": "1561638782192",
+    "userInfo": {
+      "userId": "614730",
+      "nickname": "IDFT-孟玥",
+      "avatar": "/mediasource/avatar/20181015/1539605755360VDEs04N5Yc.jpg",
+      "badge": [],
+      "level": 1,
+      "isStar": true,
+      "friends": "0",
+      "followers": "0",
+      "teamLogo": "/mediasource/teamLogo/all/idft_logo_2.png",
+      "signature": "",
+      "bgImg": "",
+      "vip": false,
+      "userRole": 3
+    }
+  },
+  {
+    "liveId": "351107393475383296",
+    "coverPath": "/20190601/1559363181481WH1bd0bWj1.jpg",
+    "title": "听说电台修好啦",
+    "liveType": 2,
+    "status": 2,
+    "ctime": "1561640125551",
+    "userInfo": {
+      "userId": "874698",
+      "nickname": "IDFT-鄢羽蝶",
+      "avatar": "/mediasource/avatar/20190410/1554910632819tY6VCI2M8S.jpg",
+      "badge": [],
+      "level": 1,
+      "isStar": true,
+      "friends": "0",
+      "followers": "0",
+      "teamLogo": "/mediasource/teamLogo/all/idft_logo_2.png",
+      "signature": "",
+      "bgImg": "",
+      "vip": false,
+      "userRole": 3
+    }
+  },
+  {
+    "liveId": "351095364366700544",
+    "coverPath": "/20190627/15616372558769Hy1873Jx9.jpg",
+    "title": "无标题",
+    "liveType": 2,
+    "status": 2,
+    "ctime": "1561637257619",
+    "userInfo": {
+      "userId": "711732",
+      "nickname": "BEJ48-彭嘉敏",
+      "avatar": "/mediasource/avatar/20190314/15525719869123Rit6KaB45.jpg",
+      "badge": [],
+      "level": 1,
+      "isStar": true,
+      "friends": "0",
+      "followers": "0",
+      "teamLogo": "/mediasource/teamLogo2/all/bej48_e.png",
+      "signature": "",
+      "bgImg": "",
+      "vip": false,
+      "userRole": 3
+    }
+  }
+]

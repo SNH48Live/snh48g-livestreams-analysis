@@ -1,0 +1,48 @@
+[
+  {
+    "liveId": "330147722329657344",
+    "coverPath": "/20190501/15566429486446xI8Il0Ol6.jpg",
+    "title": "出道两周年啦",
+    "liveType": 2,
+    "status": 2,
+    "ctime": "1556642950850",
+    "userInfo": {
+      "userId": "530392",
+      "nickname": "BEJ48-张羽涵",
+      "avatar": "/mediasource/avatar/20181008/1538995322677x4XyNKiR14.jpg",
+      "badge": [],
+      "level": 1,
+      "isStar": true,
+      "friends": "0",
+      "followers": "0",
+      "teamLogo": "/mediasource/teamLogo2/all/bej48_b.png",
+      "signature": "",
+      "bgImg": "",
+      "vip": false,
+      "userRole": 3
+    }
+  },
+  {
+    "liveId": "330052132707045376",
+    "coverPath": "/20190430/1556620158744Tooyyed8EM.jpg",
+    "title": "收拾家",
+    "liveType": 2,
+    "status": 2,
+    "ctime": "1556620160216",
+    "userInfo": {
+      "userId": "528339",
+      "nickname": "IDFT-乔钰珂",
+      "avatar": "/mediasource/avatar/20190122/1548092084975bIKM2g6S8B.jpg",
+      "badge": [],
+      "level": 1,
+      "isStar": true,
+      "friends": "0",
+      "followers": "0",
+      "teamLogo": "/mediasource/teamLogo/all/idft_logo_2.png",
+      "signature": "",
+      "bgImg": "",
+      "vip": false,
+      "userRole": 3
+    }
+  }
+]

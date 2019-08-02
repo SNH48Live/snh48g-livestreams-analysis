@@ -1,0 +1,102 @@
+[
+  {
+    "liveId": "361558602153791488",
+    "coverPath": "/20190726/1564131887733v8Cix7aD69.jpg",
+    "title": "后台运行中👀",
+    "liveType": 1,
+    "status": 2,
+    "ctime": "1564131888027",
+    "userInfo": {
+      "userId": "63557",
+      "nickname": "GNZ48-高源婧",
+      "avatar": "/20190715/1563156371686V8ri4RcZg1.jpg",
+      "badge": [],
+      "level": 1,
+      "isStar": true,
+      "friends": "0",
+      "followers": "0",
+      "teamLogo": "/mediasource/teamLogo2/all/gnz48_g.png",
+      "signature": "",
+      "bgImg": "/20190709/15626827806687dU7nIYB6i.jpg",
+      "vip": false,
+      "userRole": 3
+    },
+    "liveMode": 0,
+    "pictureOrientation": 0
+  },
+  {
+    "liveId": "361543865642848256",
+    "coverPath": "/20190726/15641283733423zN1MBGAkH.jpg",
+    "title": "大家都在直播",
+    "liveType": 2,
+    "status": 2,
+    "ctime": "1564128374607",
+    "userInfo": {
+      "userId": "327560",
+      "nickname": "GNZ48-张琼予",
+      "avatar": "/mediasource/avatar/20190207/1549547210113SkxdD9fY19.jpg",
+      "badge": [],
+      "level": 1,
+      "isStar": true,
+      "friends": "0",
+      "followers": "0",
+      "teamLogo": "/mediasource/teamLogo2/all/gnz48_g.png",
+      "signature": "",
+      "bgImg": "/20190622/1561155469378i8E8ixte0O.jpg",
+      "vip": false,
+      "userRole": 3
+    },
+    "liveMode": 0,
+    "pictureOrientation": 0
+  },
+  {
+    "liveId": "361550896269430784",
+    "coverPath": "/20190726/1564130050225j3vtf5371d.jpg",
+    "title": "我肿了哈哈",
+    "liveType": 1,
+    "status": 2,
+    "ctime": "1564130050960",
+    "userInfo": {
+      "userId": "63559",
+      "nickname": "BEJ48-胡晓慧",
+      "avatar": "/mediasource/avatar/20190201/1549010069756CoeL0kaw99.jpg",
+      "badge": [],
+      "level": 1,
+      "isStar": true,
+      "friends": "0",
+      "followers": "0",
+      "teamLogo": "/mediasource/teamLogo2/all/bej48_b.png",
+      "signature": "",
+      "bgImg": "",
+      "vip": false,
+      "userRole": 3
+    },
+    "liveMode": 0,
+    "pictureOrientation": 0
+  },
+  {
+    "liveId": "361562068997705728",
+    "coverPath": "/20190726/1564132714090gz84BS9ubu.jpg",
+    "title": "我真的很幸福！！！",
+    "liveType": 1,
+    "status": 2,
+    "ctime": "1564132714747",
+    "userInfo": {
+      "userId": "607513",
+      "nickname": "GNZ48-符冰冰",
+      "avatar": "http://www.gnz48.com/images/member/zp_30075.jpg?ram=1523268262040",
+      "badge": [],
+      "level": 1,
+      "isStar": true,
+      "friends": "0",
+      "followers": "0",
+      "teamLogo": "/mediasource/teamLogo2/all/gnz48_g.png",
+      "signature": "",
+      "bgImg": "",
+      "vip": false,
+      "userRole": 3
+    },
+    "liveMode": 0,
+    "pictureOrientation": 0
+  }
+]

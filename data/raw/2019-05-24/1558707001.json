@@ -1,0 +1,94 @@
+[
+  {
+    "liveId": "338804141794856960",
+    "coverPath": "/20190524/1558706800150fZFn2APl15.jpg",
+    "title": "不会动的小赖",
+    "liveType": 2,
+    "status": 2,
+    "ctime": "1558706802080",
+    "userInfo": {
+      "userId": "530440",
+      "nickname": "IDFT-赖俊亦",
+      "avatar": "/mediasource/avatar/20190213/1550061722081Z9c031902p.jpg",
+      "badge": [],
+      "level": 1,
+      "isStar": true,
+      "friends": "0",
+      "followers": "0",
+      "teamLogo": "/mediasource/teamLogo/all/idft_logo_2.png",
+      "signature": "",
+      "bgImg": "",
+      "vip": false,
+      "userRole": 3
+    }
+  },
+  {
+    "liveId": "338800756077170688",
+    "coverPath": "/20190523/15586191998593DTwgnjF92.jpg",
+    "title": "开开心心",
+    "liveType": 1,
+    "status": 2,
+    "ctime": "1558705994862",
+    "userInfo": {
+      "userId": "614730",
+      "nickname": "IDFT-孟玥",
+      "avatar": "/mediasource/avatar/20181015/1539605755360VDEs04N5Yc.jpg",
+      "badge": [],
+      "level": 1,
+      "isStar": true,
+      "friends": "0",
+      "followers": "0",
+      "teamLogo": "/mediasource/teamLogo/all/idft_logo_2.png",
+      "signature": "",
+      "bgImg": "",
+      "vip": false,
+      "userRole": 3
+    }
+  },
+  {
+    "liveId": "338794975713890304",
+    "coverPath": "/20190524/1558704615655EqqQPik91h.jpg",
+    "title": "来唠嗑",
+    "liveType": 2,
+    "status": 2,
+    "ctime": "1558704616382",
+    "userInfo": {
+      "userId": "6744",
+      "nickname": "SNH48-杨冰怡",
+      "avatar": "/mediasource/avatar/20190128/1548630747508Wp90xGFtVT.jpg",
+      "badge": [],
+      "level": 1,
+      "isStar": true,
+      "friends": "0",
+      "followers": "0",
+      "teamLogo": "/mediasource/teamLogo2/all/snh48_x.png",
+      "signature": "",
+      "bgImg": "",
+      "vip": false,
+      "userRole": 3
+    }
+  },
+  {
+    "liveId": "338800985941807104",
+    "coverPath": "/20190524/1558706046338dJox6jB602.jpg",
+    "title": "这一刻心的飞镖好像脱靶了💗",
+    "liveType": 2,
+    "status": 2,
+    "ctime": "1558706049666",
+    "userInfo": {
+      "userId": "458335",
+      "nickname": "IDFT-李慧",
+      "avatar": "/mediasource/avatar/20180826/1535246668998G04P3qHPSi.jpg",
+      "badge": [],
+      "level": 1,
+      "isStar": true,
+      "friends": "0",
+      "followers": "0",
+      "teamLogo": "/mediasource/teamLogo/all/idft_logo_2.png",
+      "signature": "",
+      "bgImg": "/20190416/15554076685914Li2dwzO2Y.jpg",
+      "vip": false,
+      "userRole": 3
+    }
+  }
+]

@@ -1,0 +1,94 @@
+[
+  {
+    "liveId": "346820998929911808",
+    "coverPath": "/20190616/1560618169192J16h7IDE3A.jpg",
+    "title": "一会会儿～",
+    "liveType": 1,
+    "status": 2,
+    "ctime": "1560618169765",
+    "userInfo": {
+      "userId": "63571",
+      "nickname": "BEJ48-田姝丽",
+      "avatar": "/mediasource/avatar/20180711/15312787608885chXYS0VhG.jpg",
+      "badge": [],
+      "level": 1,
+      "isStar": true,
+      "friends": "0",
+      "followers": "0",
+      "teamLogo": "/mediasource/teamLogo2/all/bej48_b.png",
+      "signature": "",
+      "bgImg": "",
+      "vip": false,
+      "userRole": 3
+    }
+  },
+  {
+    "liveId": "346834333557657600",
+    "coverPath": "/20190616/1560621348572i59jsR858L.jpg",
+    "title": "冲浪🏄‍♀️",
+    "liveType": 1,
+    "status": 2,
+    "ctime": "1560621348954",
+    "userInfo": {
+      "userId": "711735",
+      "nickname": "BEJ48-曲美霖",
+      "avatar": "/mediasource/avatar/20190220/1550643122590xo68HjPx7R.jpg",
+      "badge": [],
+      "level": 1,
+      "isStar": true,
+      "friends": "0",
+      "followers": "0",
+      "teamLogo": "/mediasource/teamLogo2/all/bej48_b.png",
+      "signature": "",
+      "bgImg": "/20190606/1559802839601tp9RGH9qcp.jpg",
+      "vip": false,
+      "userRole": 3
+    }
+  },
+  {
+    "liveId": "346828686053150720",
+    "coverPath": "/20190616/15606200019599XRx8t0QGU.jpg",
+    "title": "突袭突袭",
+    "liveType": 1,
+    "status": 2,
+    "ctime": "1560620002490",
+    "userInfo": {
+      "userId": "417321",
+      "nickname": "GNZ48-农燕萍",
+      "avatar": "/mediasource/avatar/20190320/15530499365132cGb73U939.jpg",
+      "badge": [],
+      "level": 1,
+      "isStar": true,
+      "friends": "0",
+      "followers": "0",
+      "teamLogo": "/mediasource/teamLogo/all/gnz_z_log2.png",
+      "signature": "",
+      "bgImg": "",
+      "vip": false,
+      "userRole": 3
+    }
+  },
+  {
+    "liveId": "346813704355778560",
+    "coverPath": "/20190616/156061642960219MF7Ceed5.jpg",
+    "title": "嗨",
+    "liveType": 1,
+    "status": 2,
+    "ctime": "1560616429978",
+    "userInfo": {
+      "userId": "417325",
+      "nickname": "GNZ48-王炯义",
+      "avatar": "/20190605/1559745391833GM2Yw7FxW3.jpg",
+      "badge": [],
+      "level": 1,
+      "isStar": true,
+      "friends": "0",
+      "followers": "0",
+      "teamLogo": "/mediasource/teamLogo/all/gnz_z_log2.png",
+      "signature": "",
+      "bgImg": "",
+      "vip": false,
+      "userRole": 3
+    }
+  }
+]

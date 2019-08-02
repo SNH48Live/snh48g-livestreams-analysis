@@ -1,0 +1,77 @@
+[
+  {
+    "liveId": "358322868714278912",
+    "coverPath": "/20190717/1563360428642W75mfC0KJg.jpg",
+    "title": "𓅪嗷嗷待哺的崽",
+    "liveType": 1,
+    "status": 2,
+    "ctime": "1563360428903",
+    "userInfo": {
+      "userId": "618319",
+      "nickname": "BEJ48-程戈",
+      "avatar": "/mediasource/avatar/20190129/15487646031399WVF7BVGM9.jpg",
+      "badge": [],
+      "level": 1,
+      "isStar": true,
+      "friends": "0",
+      "followers": "0",
+      "teamLogo": "/mediasource/teamLogo2/all/bej48_b.png",
+      "signature": "",
+      "bgImg": "",
+      "vip": false,
+      "userRole": 3
+    },
+    "liveMode": 0,
+    "pictureOrientation": 0
+  },
+  {
+    "liveId": "358331277471715328",
+    "coverPath": "/20190717/1563362433119985msGB5T2.jpg",
+    "title": "吃饭",
+    "liveType": 1,
+    "status": 2,
+    "ctime": "1563362433771",
+    "userInfo": {
+      "userId": "867895",
+      "nickname": "IDFT-彭榆涵",
+      "avatar": "/mediasource/avatar/20190318/15528990764788jnBnk4d0X.jpg",
+      "badge": [],
+      "level": 1,
+      "isStar": true,
+      "friends": "0",
+      "followers": "0",
+      "teamLogo": "/mediasource/teamLogo/all/idft_logo_2.png",
+      "signature": "",
+      "bgImg": "",
+      "vip": false,
+      "userRole": 3
+    },
+    "liveMode": 0,
+    "pictureOrientation": 0
+  },
+  {
+    "liveId": "358331244714201088",
+    "coverPath": "/20190717/1563362423468CPhaQyf2FX.jpg",
+    "title": "# 小刘同学 来辽!",
+    "liveType": 2,
+    "status": 2,
+    "ctime": "1563362425867",
+    "userInfo": {
+      "userId": "327602",
+      "nickname": "BEJ48-刘胜男",
+      "avatar": "/mediasource/avatar/20180912/1536738767599RNswodwA3R.jpg",
+      "badge": [],
+      "level": 1,
+      "isStar": true,
+      "friends": "0",
+      "followers": "0",
+      "teamLogo": "/mediasource/teamLogo2/all/bej48_e.png",
+      "signature": "",
+      "bgImg": "",
+      "vip": false,
+      "userRole": 3
+    },
+    "liveMode": 0,
+    "pictureOrientation": 0
+  }
+]

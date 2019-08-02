@@ -1,0 +1,71 @@
+[
+  {
+    "liveId": "343800104263421952",
+    "coverPath": "/20190607/1559897931811w46q7kZee1.jpg",
+    "title": "喵喵喵",
+    "liveType": 1,
+    "status": 2,
+    "ctime": "1559897932353",
+    "userInfo": {
+      "userId": "610042",
+      "nickname": "BEJ48-唐霖",
+      "avatar": "/mediasource/avatar/20181120/1542722104622NOQnn6r6tT.jpg",
+      "badge": [],
+      "level": 1,
+      "isStar": true,
+      "friends": "0",
+      "followers": "0",
+      "teamLogo": "/mediasource/teamLogo2/all/bej48_j.png",
+      "signature": "",
+      "bgImg": "",
+      "vip": false,
+      "userRole": 3
+    }
+  },
+  {
+    "liveId": "343805663729487872",
+    "coverPath": "/20190607/1559899256793Zj02v3272f.jpg",
+    "title": "考完了来聊天！",
+    "liveType": 1,
+    "status": 2,
+    "ctime": "1559899257595",
+    "userInfo": {
+      "userId": "874505",
+      "nickname": "IDFT-刘宇晴",
+      "avatar": "/mediasource/avatar/20190227/1551275776874HFh1XiOA3W.jpg",
+      "badge": [],
+      "level": 1,
+      "isStar": true,
+      "friends": "0",
+      "followers": "0",
+      "teamLogo": "/mediasource/teamLogo/all/idft_logo_2.png",
+      "signature": "",
+      "bgImg": "/20190513/15577207229857SR4zx5OE4.jpg",
+      "vip": false,
+      "userRole": 3
+    }
+  },
+  {
+    "liveId": "343813443739783168",
+    "coverPath": "/20190607/1559901111913D1U0coyc9C.jpg",
+    "title": "隔壁家的辣椒真香",
+    "liveType": 1,
+    "status": 2,
+    "ctime": "1559901112732",
+    "userInfo": {
+      "userId": "460004",
+      "nickname": "IDFT-杨允涵",
+      "avatar": "/mediasource/avatar/20181027/1540649704887L38FXNji6v.jpg",
+      "badge": [],
+      "level": 1,
+      "isStar": true,
+      "friends": "0",
+      "followers": "0",
+      "teamLogo": "/mediasource/teamLogo/all/idft_logo_2.png",
+      "signature": "",
+      "bgImg": "",
+      "vip": false,
+      "userRole": 3
+    }
+  }
+]

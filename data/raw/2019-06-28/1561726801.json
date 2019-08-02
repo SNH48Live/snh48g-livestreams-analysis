@@ -1,0 +1,94 @@
+[
+  {
+    "liveId": "351466572086054912",
+    "coverPath": "/20190628/1561725757172l9jN10gunD.jpg",
+    "title": "电台hou",
+    "liveType": 2,
+    "status": 2,
+    "ctime": "1561725760718",
+    "userInfo": {
+      "userId": "867891",
+      "nickname": "GNZ48-方琪",
+      "avatar": "/mediasource/avatar/20190407/1554630900541zKF82vA89r.jpg",
+      "badge": [],
+      "level": 1,
+      "isStar": true,
+      "friends": "0",
+      "followers": "0",
+      "teamLogo": "/mediasource/teamLogo/all/gnz_z_log2.png",
+      "signature": "",
+      "bgImg": "/20190611/1560228887931la4w95ored.jpg",
+      "vip": false,
+      "userRole": 3
+    }
+  },
+  {
+    "liveId": "351469339810795520",
+    "coverPath": "/20190628/1561726418892awmb348ARq.jpg",
+    "title": "hi",
+    "liveType": 2,
+    "status": 2,
+    "ctime": "1561726420284",
+    "userInfo": {
+      "userId": "407130",
+      "nickname": "IDFT-张韩紫陌",
+      "avatar": "/mediasource/avatar/20190408/1554702629948jiX42k0iPA.jpg",
+      "badge": [],
+      "level": 1,
+      "isStar": true,
+      "friends": "0",
+      "followers": "0",
+      "teamLogo": "/mediasource/teamLogo/all/idft_logo_2.png",
+      "signature": "",
+      "bgImg": "",
+      "vip": false,
+      "userRole": 3
+    }
+  },
+  {
+    "liveId": "351463657225129984",
+    "coverPath": "/20190628/1561725064638z2dhLwlCZO.jpg",
+    "title": "这是一个电台",
+    "liveType": 1,
+    "status": 2,
+    "ctime": "1561725065361",
+    "userInfo": {
+      "userId": "874500",
+      "nickname": "IDFT-冯嘉宝",
+      "avatar": "/mediasource/avatar/20190410/1554836077228l1hB971a2f.jpg",
+      "badge": [],
+      "level": 1,
+      "isStar": true,
+      "friends": "0",
+      "followers": "0",
+      "teamLogo": "/mediasource/teamLogo/all/idft_logo_2.png",
+      "signature": "",
+      "bgImg": "/20190416/155540368953294eN6ekrhj.jpg",
+      "vip": false,
+      "userRole": 3
+    }
+  },
+  {
+    "liveId": "351469450301345792",
+    "coverPath": "/20190628/1561726446182L89m4erCtF.jpg",
+    "title": "今天试一下包饺纸",
+    "liveType": 1,
+    "status": 2,
+    "ctime": "1561726446626",
+    "userInfo": {
+      "userId": "63549",
+      "nickname": "BEJ48-陈美君",
+      "avatar": "/mediasource/avatar/20180505/1525490672019vhaUovXM26.jpg",
+      "badge": [],
+      "level": 1,
+      "isStar": true,
+      "friends": "0",
+      "followers": "0",
+      "teamLogo": "/mediasource/teamLogo2/all/bej48_b.png",
+      "signature": "",
+      "bgImg": "",
+      "vip": false,
+      "userRole": 3
+    }
+  }
+]

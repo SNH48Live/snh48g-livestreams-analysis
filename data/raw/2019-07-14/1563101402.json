@@ -1,0 +1,52 @@
+[
+  {
+    "liveId": "357228715599269888",
+    "coverPath": "/20190714/1563099562053q1fu44LaHq.jpg",
+    "title": "不浪费妆面计划",
+    "liveType": 1,
+    "status": 2,
+    "ctime": "1563099562576",
+    "userInfo": {
+      "userId": "614741",
+      "nickname": "IDFT-曾佳",
+      "avatar": "/20190605/1559719819302iv55422Cs3.jpg",
+      "badge": [],
+      "level": 1,
+      "isStar": true,
+      "friends": "0",
+      "followers": "0",
+      "teamLogo": "/mediasource/teamLogo/all/idft_logo_2.png",
+      "signature": "",
+      "bgImg": "/20190630/1561889543816gYVr17PyRp.jpg",
+      "vip": false,
+      "userRole": 3
+    },
+    "liveMode": 0,
+    "pictureOrientation": 0
+  },
+  {
+    "liveId": "357230702575292416",
+    "coverPath": "/20190714/15631000360633zMeQjL5si.jpg",
+    "title": "没有脸 只有游戏",
+    "liveType": 1,
+    "status": 2,
+    "ctime": "1563100036303",
+    "userInfo": {
+      "userId": "460005",
+      "nickname": "SNH48-赵佳蕊",
+      "avatar": "/20190620/1561022216608Jbw49Cw427.jpg",
+      "badge": [],
+      "level": 2,
+      "isStar": true,
+      "friends": "0",
+      "followers": "0",
+      "teamLogo": "/mediasource/teamLogo2/all/snh48_n2.png",
+      "signature": "",
+      "bgImg": "/20190712/15628631946705eA8wqdk35.jpg",
+      "vip": false,
+      "userRole": 3
+    },
+    "liveMode": 0,
+    "pictureOrientation": 0
+  }
+]

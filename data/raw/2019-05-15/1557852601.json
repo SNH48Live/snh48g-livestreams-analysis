@@ -1,0 +1,48 @@
+[
+  {
+    "liveId": "335174170459312128",
+    "coverPath": "/20190514/15578413486881ykFLam583.jpg",
+    "title": "开开心心的最后一次聊天",
+    "liveType": 1,
+    "status": 2,
+    "ctime": "1557841349472",
+    "userInfo": {
+      "userId": "530381",
+      "nickname": "BEJ48-臧聪",
+      "avatar": "/mediasource/avatar/20181112/15419975169906zv6G119Jw.jpg",
+      "badge": [],
+      "level": 1,
+      "isStar": true,
+      "friends": "0",
+      "followers": "0",
+      "teamLogo": "/mediasource/teamLogo2/all/bej48_e.png",
+      "signature": "",
+      "bgImg": "",
+      "vip": false,
+      "userRole": 3
+    }
+  },
+  {
+    "liveId": "335214809746051072",
+    "coverPath": "/20190515/1557851036739SjXr1A7pKO.jpg",
+    "title": "假期",
+    "liveType": 2,
+    "status": 2,
+    "ctime": "1557851038633",
+    "userInfo": {
+      "userId": "711732",
+      "nickname": "BEJ48-彭嘉敏",
+      "avatar": "/mediasource/avatar/20190314/15525719869123Rit6KaB45.jpg",
+      "badge": [],
+      "level": 1,
+      "isStar": true,
+      "friends": "0",
+      "followers": "0",
+      "teamLogo": "/mediasource/teamLogo2/all/bej48_e.png",
+      "signature": "",
+      "bgImg": "",
+      "vip": false,
+      "userRole": 3
+    }
+  }
+]

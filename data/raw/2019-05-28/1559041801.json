@@ -1,0 +1,71 @@
+[
+  {
+    "liveId": "340205540009119744",
+    "coverPath": "/20190528/1559040918508tr46RTpszh.jpg",
+    "title": "我来了",
+    "liveType": 2,
+    "status": 2,
+    "ctime": "1559040921135",
+    "userInfo": {
+      "userId": "874693",
+      "nickname": "GNZ48-邓熳慧",
+      "avatar": "/mediasource/avatar/20190324/15533999659348IEM46dcJj.jpg",
+      "badge": [],
+      "level": 1,
+      "isStar": true,
+      "friends": "0",
+      "followers": "0",
+      "teamLogo": "/mediasource/teamLogo2/all/gnz48_n3.png",
+      "signature": "",
+      "bgImg": "",
+      "vip": false,
+      "userRole": 3
+    }
+  },
+  {
+    "liveId": "340206617332879360",
+    "coverPath": "/20190528/15590411747179C70NFmx4K.jpg",
+    "title": "Sing",
+    "liveType": 2,
+    "status": 2,
+    "ctime": "1559041177985",
+    "userInfo": {
+      "userId": "327576",
+      "nickname": "GNZ48-左嘉欣",
+      "avatar": "/mediasource/avatar/20190217/1550340810312V5BO1f4942.jpg",
+      "badge": [],
+      "level": 1,
+      "isStar": true,
+      "friends": "0",
+      "followers": "0",
+      "teamLogo": "/mediasource/teamLogo2/all/gnz48_n3.png",
+      "signature": "",
+      "bgImg": "",
+      "vip": false,
+      "userRole": 3
+    }
+  },
+  {
+    "liveId": "340200507309887488",
+    "coverPath": "/20190528/1559039720620I8755g8QDM.jpg",
+    "title": "175.0吃播",
+    "liveType": 1,
+    "status": 2,
+    "ctime": "1559039721264",
+    "userInfo": {
+      "userId": "63562",
+      "nickname": "GNZ48-林嘉佩",
+      "avatar": "/mediasource/avatar/20181012/15392802278986ARyi03706.jpg",
+      "badge": [],
+      "level": 2,
+      "isStar": true,
+      "friends": "0",
+      "followers": "0",
+      "teamLogo": "/mediasource/teamLogo2/all/gnz48_g.png",
+      "signature": "",
+      "bgImg": "",
+      "vip": false,
+      "userRole": 3
+    }
+  }
+]

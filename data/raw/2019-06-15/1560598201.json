@@ -1,0 +1,71 @@
+[
+  {
+    "liveId": "346736792157622272",
+    "coverPath": "/20190615/1560598092805ZP1SfEKA16.jpg",
+    "title": "试一试 如果卡 就去Fun",
+    "liveType": 1,
+    "status": 2,
+    "ctime": "1560598093052",
+    "userInfo": {
+      "userId": "327574",
+      "nickname": "GNZ48-熊心瑶",
+      "avatar": "/mediasource/avatar/20190228/155135996408281CB6TA2xf.jpg",
+      "badge": [],
+      "level": 1,
+      "isStar": true,
+      "friends": "0",
+      "followers": "0",
+      "teamLogo": "/mediasource/teamLogo2/all/gnz48_n3.png",
+      "signature": "",
+      "bgImg": "",
+      "vip": false,
+      "userRole": 3
+    }
+  },
+  {
+    "liveId": "346731277805490176",
+    "coverPath": "/20190615/1560596778086hAy7XdtkTU.jpg",
+    "title": "小江练琴二十分钟",
+    "liveType": 1,
+    "status": 2,
+    "ctime": "1560596778253",
+    "userInfo": {
+      "userId": "399662",
+      "nickname": "SNH48-江真仪",
+      "avatar": "/mediasource/avatar/20180417/1523942793150cR2NNWSjC7.jpg",
+      "badge": [],
+      "level": 1,
+      "isStar": true,
+      "friends": "0",
+      "followers": "0",
+      "teamLogo": "/mediasource/teamLogo2/all/snh48_n2.png",
+      "signature": "",
+      "bgImg": "",
+      "vip": false,
+      "userRole": 3
+    }
+  },
+  {
+    "liveId": "346718353917546496",
+    "coverPath": "/20190615/1560593696816p79020ca6o.jpg",
+    "title": "啊",
+    "liveType": 1,
+    "status": 2,
+    "ctime": "1560593697082",
+    "userInfo": {
+      "userId": "327587",
+      "nickname": "BEJ48-冯思佳",
+      "avatar": "/mediasource/avatar/20180420/1524158237082F67tg21k3I.jpg",
+      "badge": [],
+      "level": 1,
+      "isStar": true,
+      "friends": "0",
+      "followers": "0",
+      "teamLogo": "/mediasource/teamLogo2/all/bej48_e.png",
+      "signature": "",
+      "bgImg": "/20190416/1555430011580O9sDA7w1gQ.jpg",
+      "vip": false,
+      "userRole": 3
+    }
+  }
+]

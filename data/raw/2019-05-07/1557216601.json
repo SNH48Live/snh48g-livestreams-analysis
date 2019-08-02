@@ -1,0 +1,48 @@
+[
+  {
+    "liveId": "332549458105274368",
+    "coverPath": "/20190416/1555387399078225ft9UL3r.jpg",
+    "title": "重大发表",
+    "liveType": 1,
+    "status": 2,
+    "ctime": "1557215569128",
+    "userInfo": {
+      "userId": "874698",
+      "nickname": "IDFT-鄢羽蝶",
+      "avatar": "/mediasource/avatar/20190410/1554910632819tY6VCI2M8S.jpg",
+      "badge": [],
+      "level": 1,
+      "isStar": true,
+      "friends": "0",
+      "followers": "0",
+      "teamLogo": "/mediasource/teamLogo/all/idft_logo_2.png",
+      "signature": "",
+      "bgImg": "",
+      "vip": false,
+      "userRole": 3
+    }
+  },
+  {
+    "liveId": "332552011597549568",
+    "coverPath": "/mediasource/avatar/20190412/1555062531968beck8pV8lL.jpg",
+    "title": "来玩哇",
+    "liveType": 2,
+    "status": 2,
+    "ctime": "1557216178081",
+    "userInfo": {
+      "userId": "707369",
+      "nickname": "IDFT-魏小燕",
+      "avatar": "/mediasource/avatar/20190412/1555062531968beck8pV8lL.jpg",
+      "badge": [],
+      "level": 1,
+      "isStar": true,
+      "friends": "0",
+      "followers": "0",
+      "teamLogo": "/mediasource/teamLogo/all/idft_logo_2.png",
+      "signature": "",
+      "bgImg": "",
+      "vip": false,
+      "userRole": 3
+    }
+  }
+]

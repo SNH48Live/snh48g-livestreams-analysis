@@ -1,0 +1,71 @@
+[
+  {
+    "liveId": "333683715905228800",
+    "coverPath": "/20190510/1557485975636p3ae92me2D.jpg",
+    "title": "看n队首演🌚",
+    "liveType": 1,
+    "status": 2,
+    "ctime": "1557485997092",
+    "userInfo": {
+      "userId": "869171",
+      "nickname": "SNH48-鲁静萍",
+      "avatar": "/mediasource/avatar/20190318/1552866278341xY7EeICIOf.jpg",
+      "badge": [],
+      "level": 1,
+      "isStar": true,
+      "friends": "0",
+      "followers": "0",
+      "teamLogo": "/mediasource/teamLogo2/all/snh48_x.png",
+      "signature": "",
+      "bgImg": "",
+      "vip": false,
+      "userRole": 3
+    }
+  },
+  {
+    "liveId": "333684404349898752",
+    "coverPath": "/20190510/15574861583955ahkk04506.jpg",
+    "title": "Hi",
+    "liveType": 2,
+    "status": 2,
+    "ctime": "1557486161315",
+    "userInfo": {
+      "userId": "327587",
+      "nickname": "BEJ48-冯思佳",
+      "avatar": "/mediasource/avatar/20180420/1524158237082F67tg21k3I.jpg",
+      "badge": [],
+      "level": 1,
+      "isStar": true,
+      "friends": "0",
+      "followers": "0",
+      "teamLogo": "/mediasource/teamLogo2/all/bej48_e.png",
+      "signature": "",
+      "bgImg": "/20190416/1555430011580O9sDA7w1gQ.jpg",
+      "vip": false,
+      "userRole": 3
+    }
+  },
+  {
+    "liveId": "333688986408914944",
+    "coverPath": "/20190416/1555387399078225ft9UL3r.jpg",
+    "title": "一起陪我过生日吧～",
+    "liveType": 1,
+    "status": 2,
+    "ctime": "1557487254001",
+    "userInfo": {
+      "userId": "874698",
+      "nickname": "IDFT-鄢羽蝶",
+      "avatar": "/mediasource/avatar/20190410/1554910632819tY6VCI2M8S.jpg",
+      "badge": [],
+      "level": 1,
+      "isStar": true,
+      "friends": "0",
+      "followers": "0",
+      "teamLogo": "/mediasource/teamLogo/all/idft_logo_2.png",
+      "signature": "",
+      "bgImg": "",
+      "vip": false,
+      "userRole": 3
+    }
+  }
+]

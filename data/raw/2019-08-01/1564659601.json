@@ -1,0 +1,52 @@
+[
+  {
+    "liveId": "363768120287760384",
+    "coverPath": "/20190801/1564658676877g4qjdaF517.jpg",
+    "title": "八月 你好",
+    "liveType": 2,
+    "status": 2,
+    "ctime": "1564658678108",
+    "userInfo": {
+      "userId": "459995",
+      "nickname": "GNZ48-赖梓惜",
+      "avatar": "/mediasource/avatar/20181220/15453201878674NK0vNJ9Gl.jpg",
+      "badge": [],
+      "level": 1,
+      "isStar": true,
+      "friends": "0",
+      "followers": "0",
+      "teamLogo": "/mediasource/teamLogo/all/gnz_z_log2.png",
+      "signature": "",
+      "bgImg": "",
+      "vip": false,
+      "userRole": 3
+    },
+    "liveMode": 0,
+    "pictureOrientation": 0
+  },
+  {
+    "liveId": "363761947106938880",
+    "coverPath": "/20190801/1564657206109BRVbOS923K.jpg",
+    "title": "、",
+    "liveType": 1,
+    "status": 2,
+    "ctime": "1564657206231",
+    "userInfo": {
+      "userId": "19",
+      "nickname": "SNH48-孔肖吟",
+      "avatar": "/mediasource/avatar/20181101/1541073277380161Ks2dd3A.jpg",
+      "badge": [],
+      "level": 1,
+      "isStar": true,
+      "friends": "0",
+      "followers": "0",
+      "teamLogo": "/mediasource/teamLogo2/all/snh48_s2.png",
+      "signature": "",
+      "bgImg": "",
+      "vip": false,
+      "userRole": 3
+    },
+    "liveMode": 0,
+    "pictureOrientation": 0
+  }
+]

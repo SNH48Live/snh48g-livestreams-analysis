@@ -1,0 +1,71 @@
+[
+  {
+    "liveId": "333733723132203008",
+    "coverPath": "/20190428/1556381419692s083wHYDJY.jpg",
+    "title": "五分钟吼",
+    "liveType": 1,
+    "status": 2,
+    "ctime": "1557497920066",
+    "userInfo": {
+      "userId": "327597",
+      "nickname": "BEJ48-苏杉杉",
+      "avatar": "/mediasource/avatar/20180829/1535545582428vP45t8wGVs.jpg",
+      "badge": [],
+      "level": 1,
+      "isStar": true,
+      "friends": "0",
+      "followers": "0",
+      "teamLogo": "/mediasource/teamLogo2/all/bej48_e.png",
+      "signature": "",
+      "bgImg": "",
+      "vip": false,
+      "userRole": 3
+    }
+  },
+  {
+    "liveId": "333684404349898752",
+    "coverPath": "/20190510/15574861583955ahkk04506.jpg",
+    "title": "Hi",
+    "liveType": 2,
+    "status": 2,
+    "ctime": "1557486161315",
+    "userInfo": {
+      "userId": "327587",
+      "nickname": "BEJ48-冯思佳",
+      "avatar": "/mediasource/avatar/20180420/1524158237082F67tg21k3I.jpg",
+      "badge": [],
+      "level": 1,
+      "isStar": true,
+      "friends": "0",
+      "followers": "0",
+      "teamLogo": "/mediasource/teamLogo2/all/bej48_e.png",
+      "signature": "",
+      "bgImg": "/20190416/1555430011580O9sDA7w1gQ.jpg",
+      "vip": false,
+      "userRole": 3
+    }
+  },
+  {
+    "liveId": "333717671740510208",
+    "coverPath": "/20190510/1557494033017CEx75bP881.jpg",
+    "title": "排练错过首演~快来和我聊聊n 首演",
+    "liveType": 1,
+    "status": 2,
+    "ctime": "1557494093116",
+    "userInfo": {
+      "userId": "825969",
+      "nickname": "BEJ48-程宇璐",
+      "avatar": "/mediasource/avatar/20190221/1550680931459g30hieHLZh.jpg",
+      "badge": [],
+      "level": 1,
+      "isStar": true,
+      "friends": "0",
+      "followers": "0",
+      "teamLogo": "/mediasource/teamLogo2/all/bej48_e.png",
+      "signature": "",
+      "bgImg": "",
+      "vip": false,
+      "userRole": 3
+    }
+  }
+]

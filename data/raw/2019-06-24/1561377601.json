@@ -1,0 +1,71 @@
+[
+  {
+    "liveId": "350000706752417792",
+    "coverPath": "/20190417/1555501097612kfKpnfPI4U.jpg",
+    "title": "聊会天",
+    "liveType": 1,
+    "status": 2,
+    "ctime": "1561376270926",
+    "userInfo": {
+      "userId": "538697",
+      "nickname": "BEJ48-沈小爱",
+      "avatar": "/mediasource/avatar/20181017/1539711004316O80o9i0R5Q.jpg",
+      "badge": [],
+      "level": 1,
+      "isStar": true,
+      "friends": "0",
+      "followers": "0",
+      "teamLogo": "/mediasource/teamLogo2/all/bej48_b.png",
+      "signature": "",
+      "bgImg": "",
+      "vip": false,
+      "userRole": 3
+    }
+  },
+  {
+    "liveId": "350005520324431872",
+    "coverPath": "/20190624/15613773918073UqyrC44dM.jpg",
+    "title": "随随便便～",
+    "liveType": 1,
+    "status": 2,
+    "ctime": "1561377418558",
+    "userInfo": {
+      "userId": "825969",
+      "nickname": "BEJ48-程宇璐",
+      "avatar": "/mediasource/avatar/20190221/1550680931459g30hieHLZh.jpg",
+      "badge": [],
+      "level": 1,
+      "isStar": true,
+      "friends": "0",
+      "followers": "0",
+      "teamLogo": "/mediasource/teamLogo2/all/bej48_e.png",
+      "signature": "",
+      "bgImg": "",
+      "vip": false,
+      "userRole": 3
+    }
+  },
+  {
+    "liveId": "349999942306959360",
+    "coverPath": "/20190624/1561376088431I7HJ9J073f.jpg",
+    "title": "营业🈺️",
+    "liveType": 1,
+    "status": 2,
+    "ctime": "1561376088670",
+    "userInfo": {
+      "userId": "2508",
+      "nickname": "SNH48-张昕",
+      "avatar": "/mediasource/avatar/20190115/15475321892217K6V9FHtbL.jpg",
+      "badge": [],
+      "level": 2,
+      "isStar": true,
+      "friends": "0",
+      "followers": "0",
+      "teamLogo": "/mediasource/teamLogo2/all/snh48_h2.png",
+      "signature": "",
+      "bgImg": "",
+      "vip": false,
+      "userRole": 3
+    }
+  }
+]

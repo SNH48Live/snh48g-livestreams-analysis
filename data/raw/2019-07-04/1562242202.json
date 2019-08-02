@@ -1,0 +1,140 @@
+[
+  {
+    "liveId": "353619194687590400",
+    "coverPath": "/20190704/156223898159034RZ6YnFxE.jpg",
+    "title": "短短的电台",
+    "liveType": 2,
+    "status": 2,
+    "ctime": "1562238985691",
+    "userInfo": {
+      "userId": "867891",
+      "nickname": "GNZ48-方琪",
+      "avatar": "/mediasource/avatar/20190407/1554630900541zKF82vA89r.jpg",
+      "badge": [],
+      "level": 1,
+      "isStar": true,
+      "friends": "0",
+      "followers": "0",
+      "teamLogo": "/mediasource/teamLogo/all/gnz_z_log2.png",
+      "signature": "",
+      "bgImg": "/20190611/1560228887931la4w95ored.jpg",
+      "vip": false,
+      "userRole": 3
+    }
+  },
+  {
+    "liveId": "353626223699365888",
+    "coverPath": "/20190627/1561565372730SLWb5LjZFm.png",
+    "title": "来了",
+    "liveType": 1,
+    "status": 2,
+    "ctime": "1562240661786",
+    "userInfo": {
+      "userId": "606343",
+      "nickname": "SNH48-马凡",
+      "avatar": "/mediasource/avatar/20181220/15452894313753QN52T1Js4.jpg",
+      "badge": [],
+      "level": 1,
+      "isStar": true,
+      "friends": "0",
+      "followers": "0",
+      "teamLogo": "/mediasource/teamLogo2/all/snh48_n2.png",
+      "signature": "",
+      "bgImg": "",
+      "vip": false,
+      "userRole": 3
+    }
+  },
+  {
+    "liveId": "353619867835633664",
+    "coverPath": "/20190704/1562239145884ai9L17v8Id.jpg",
+    "title": "日常素颜",
+    "liveType": 1,
+    "status": 2,
+    "ctime": "1562239146088",
+    "userInfo": {
+      "userId": "11",
+      "nickname": "SNH48-温晶婕",
+      "avatar": "/mediasource/avatar/20181022/15402114005179J2yYY5Zt8.jpg",
+      "badge": [],
+      "level": 1,
+      "isStar": true,
+      "friends": "0",
+      "followers": "0",
+      "teamLogo": "/mediasource/teamLogo2/all/snh48_s2.png",
+      "signature": "",
+      "bgImg": "",
+      "vip": false,
+      "userRole": 3
+    }
+  },
+  {
+    "liveId": "353632137525399552",
+    "coverPath": "/20190704/15622420710107uETVA660A.jpg",
+    "title": "新发色",
+    "liveType": 1,
+    "status": 2,
+    "ctime": "1562242071752",
+    "userInfo": {
+      "userId": "677403",
+      "nickname": "SNH48-张茜",
+      "avatar": "/mediasource/avatar/20180721/1532103118479zIen7aXIHX.jpg",
+      "badge": [],
+      "level": 1,
+      "isStar": true,
+      "friends": "0",
+      "followers": "0",
+      "teamLogo": "/mediasource/teamLogo2/all/snh48_n2.png",
+      "signature": "",
+      "bgImg": "",
+      "vip": false,
+      "userRole": 3
+    }
+  },
+  {
+    "liveId": "353627870261481472",
+    "coverPath": "/20190704/15622410537280i6yuDHCYQ.jpg",
+    "title": "我是Shelly～",
+    "liveType": 1,
+    "status": 2,
+    "ctime": "1562241054086",
+    "userInfo": {
+      "userId": "63573",
+      "nickname": "BEJ48-熊素君",
+      "avatar": "/mediasource/avatar/20180608/1528436744438dC7138UwNE.jpg",
+      "badge": [],
+      "level": 1,
+      "isStar": true,
+      "friends": "0",
+      "followers": "0",
+      "teamLogo": "/mediasource/teamLogo2/all/bej48_b.png",
+      "signature": "",
+      "bgImg": "",
+      "vip": false,
+      "userRole": 3
+    }
+  },
+  {
+    "liveId": "353630293164101632",
+    "coverPath": "/20190704/156224163101977fTJW1QIq.jpg",
+    "title": "C的日常",
+    "liveType": 2,
+    "status": 2,
+    "ctime": "1562241631643",
+    "userInfo": {
+      "userId": "18",
+      "nickname": "SNH48-徐晨辰",
+      "avatar": "/mediasource/avatar/20190209/1549651868260kNNAF2ognA.jpg",
+      "badge": [],
+      "level": 2,
+      "isStar": true,
+      "friends": "0",
+      "followers": "0",
+      "teamLogo": "/mediasource/teamLogo2/all/snh48_s2.png",
+      "signature": "",
+      "bgImg": "",
+      "vip": false,
+      "userRole": 3
+    }
+  }
+]

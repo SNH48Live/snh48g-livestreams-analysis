@@ -1,0 +1,71 @@
+[
+  {
+    "liveId": "343095160443047936",
+    "coverPath": "/20190605/155972985968435suLMFq0U.jpg",
+    "title": "电台",
+    "liveType": 1,
+    "status": 2,
+    "ctime": "1559729860641",
+    "userInfo": {
+      "userId": "327587",
+      "nickname": "BEJ48-冯思佳",
+      "avatar": "/mediasource/avatar/20180420/1524158237082F67tg21k3I.jpg",
+      "badge": [],
+      "level": 1,
+      "isStar": true,
+      "friends": "0",
+      "followers": "0",
+      "teamLogo": "/mediasource/teamLogo2/all/bej48_e.png",
+      "signature": "",
+      "bgImg": "/20190416/1555430011580O9sDA7w1gQ.jpg",
+      "vip": false,
+      "userRole": 3
+    }
+  },
+  {
+    "liveId": "343116555906519040",
+    "coverPath": "/20190605/15597349609565O59zKSLPK.jpg",
+    "title": "晚上又好",
+    "liveType": 1,
+    "status": 2,
+    "ctime": "1559734961451",
+    "userInfo": {
+      "userId": "460004",
+      "nickname": "IDFT-杨允涵",
+      "avatar": "/mediasource/avatar/20181027/1540649704887L38FXNji6v.jpg",
+      "badge": [],
+      "level": 1,
+      "isStar": true,
+      "friends": "0",
+      "followers": "0",
+      "teamLogo": "/mediasource/teamLogo/all/idft_logo_2.png",
+      "signature": "",
+      "bgImg": "",
+      "vip": false,
+      "userRole": 3
+    }
+  },
+  {
+    "liveId": "343095546058969088",
+    "coverPath": "/20190605/1559729951273yNQ11Hf69K.jpg",
+    "title": "冲浪🏄‍♀️",
+    "liveType": 1,
+    "status": 2,
+    "ctime": "1559729952578",
+    "userInfo": {
+      "userId": "711735",
+      "nickname": "BEJ48-曲美霖",
+      "avatar": "/mediasource/avatar/20190220/1550643122590xo68HjPx7R.jpg",
+      "badge": [],
+      "level": 1,
+      "isStar": true,
+      "friends": "0",
+      "followers": "0",
+      "teamLogo": "/mediasource/teamLogo2/all/bej48_b.png",
+      "signature": "",
+      "bgImg": "",
+      "vip": false,
+      "userRole": 3
+    }
+  }
+]

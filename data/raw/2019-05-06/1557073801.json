@@ -1,0 +1,94 @@
+[
+  {
+    "liveId": "331936835663892480",
+    "coverPath": "/20190505/155706950656118jktvvmD3.jpg",
+    "title": "冲浪🏄‍♀️",
+    "liveType": 2,
+    "status": 2,
+    "ctime": "1557069508709",
+    "userInfo": {
+      "userId": "711735",
+      "nickname": "BEJ48-曲美霖",
+      "avatar": "/mediasource/avatar/20190220/1550643122590xo68HjPx7R.jpg",
+      "badge": [],
+      "level": 1,
+      "isStar": true,
+      "friends": "0",
+      "followers": "0",
+      "teamLogo": "/mediasource/teamLogo2/all/bej48_b.png",
+      "signature": "",
+      "bgImg": "",
+      "vip": false,
+      "userRole": 3
+    }
+  },
+  {
+    "liveId": "331948063782146048",
+    "coverPath": "/20190506/1557072184980Cuw467mWFc.jpg",
+    "title": "放假惹",
+    "liveType": 1,
+    "status": 2,
+    "ctime": "1557072185113",
+    "userInfo": {
+      "userId": "614735",
+      "nickname": "IDFT-田倩兰",
+      "avatar": "/mediasource/avatar/20190405/15544410566123IdGRnH7GC.jpg",
+      "badge": [],
+      "level": 1,
+      "isStar": true,
+      "friends": "0",
+      "followers": "0",
+      "teamLogo": "/mediasource/teamLogo/all/idft_logo_2.png",
+      "signature": "",
+      "bgImg": "",
+      "vip": false,
+      "userRole": 3
+    }
+  },
+  {
+    "liveId": "331939188890734592",
+    "coverPath": "/20190425/1556158933886GNNYd6LqyG.jpg",
+    "title": "我武苗苗又回来了",
+    "liveType": 1,
+    "status": 2,
+    "ctime": "1557070069763",
+    "userInfo": {
+      "userId": "874717",
+      "nickname": "IDFT-武晓迪",
+      "avatar": "/mediasource/avatar/20190320/15530212766396Z27rSj8z0.jpg",
+      "badge": [],
+      "level": 1,
+      "isStar": true,
+      "friends": "0",
+      "followers": "0",
+      "teamLogo": "/mediasource/teamLogo/all/idft_logo_2.png",
+      "signature": "",
+      "bgImg": "/20190417/15554740176236psv46M2iY.jpg",
+      "vip": false,
+      "userRole": 3
+    }
+  },
+  {
+    "liveId": "331930928808792064",
+    "coverPath": "/20190505/1557068099271D6m1c5sGmP.jpg",
+    "title": "你要是唠这个",
+    "liveType": 1,
+    "status": 2,
+    "ctime": "1557068100405",
+    "userInfo": {
+      "userId": "407110",
+      "nickname": "BEJ48-刘闲",
+      "avatar": "/mediasource/avatar/20190404/15543613778036v673gZZTo.jpg",
+      "badge": [],
+      "level": 1,
+      "isStar": true,
+      "friends": "0",
+      "followers": "0",
+      "teamLogo": "/mediasource/teamLogo2/all/bej48_j.png",
+      "signature": "",
+      "bgImg": "",
+      "vip": false,
+      "userRole": 3
+    }
+  }
+]

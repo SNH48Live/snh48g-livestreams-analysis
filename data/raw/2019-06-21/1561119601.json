@@ -1,0 +1,48 @@
+[
+  {
+    "liveId": "348919132569014272",
+    "coverPath": "/20190621/1561118403044Wy9SJXReOI.jpg",
+    "title": "第一次路演，紧张😬",
+    "liveType": 1,
+    "status": 2,
+    "ctime": "1561118403531",
+    "userInfo": {
+      "userId": "327558",
+      "nickname": "GNZ48-罗寒月",
+      "avatar": "/mediasource/avatar/1507606221549au6dMAy7FQ.jpg",
+      "badge": [],
+      "level": 1,
+      "isStar": true,
+      "friends": "0",
+      "followers": "0",
+      "teamLogo": "/mediasource/teamLogo2/all/gnz48_g.png",
+      "signature": "",
+      "bgImg": "",
+      "vip": false,
+      "userRole": 3
+    }
+  },
+  {
+    "liveId": "348919639408709632",
+    "coverPath": "/20190621/1561118523810mKarKLctsv.jpg",
+    "title": "hi",
+    "liveType": 1,
+    "status": 2,
+    "ctime": "1561118524370",
+    "userInfo": {
+      "userId": "327596",
+      "nickname": "BEJ48-马玉灵",
+      "avatar": "/mediasource/avatar/1519889151363Zo95j99D0p.jpg",
+      "badge": [],
+      "level": 1,
+      "isStar": true,
+      "friends": "0",
+      "followers": "0",
+      "teamLogo": "/mediasource/teamLogo2/all/bej48_e.png",
+      "signature": "",
+      "bgImg": "",
+      "vip": false,
+      "userRole": 3
+    }
+  }
+]

@@ -1,0 +1,163 @@
+[
+  {
+    "liveId": "347481072362917888",
+    "coverPath": "/20190617/1560775541998t1U8pn8TZt.jpg",
+    "title": "试一试",
+    "liveType": 1,
+    "status": 2,
+    "ctime": "1560775543537",
+    "userInfo": {
+      "userId": "16",
+      "nickname": "SNH48-李艺彤",
+      "avatar": "/mediasource/avatar/20190127/1548580231520Cppkkh50ad.jpg",
+      "badge": [],
+      "level": 1,
+      "isStar": true,
+      "friends": "0",
+      "followers": "0",
+      "teamLogo": "/mediasource/teamLogo2/all/snh48_h2.png",
+      "signature": "",
+      "bgImg": "",
+      "vip": false,
+      "userRole": 3
+    }
+  },
+  {
+    "liveId": "347484349141946368",
+    "coverPath": "/20190601/1559363181481WH1bd0bWj1.jpg",
+    "title": "脱粉现场 生人勿进",
+    "liveType": 1,
+    "status": 2,
+    "ctime": "1560776324782",
+    "userInfo": {
+      "userId": "874698",
+      "nickname": "IDFT-鄢羽蝶",
+      "avatar": "/mediasource/avatar/20190410/1554910632819tY6VCI2M8S.jpg",
+      "badge": [],
+      "level": 1,
+      "isStar": true,
+      "friends": "0",
+      "followers": "0",
+      "teamLogo": "/mediasource/teamLogo/all/idft_logo_2.png",
+      "signature": "",
+      "bgImg": "",
+      "vip": false,
+      "userRole": 3
+    }
+  },
+  {
+    "liveId": "347484485058367488",
+    "coverPath": "/20190617/156077635665368L2406i12.jpg",
+    "title": "185.0出现",
+    "liveType": 1,
+    "status": 2,
+    "ctime": "1560776356750",
+    "userInfo": {
+      "userId": "63562",
+      "nickname": "GNZ48-林嘉佩",
+      "avatar": "/mediasource/avatar/20181012/15392802278986ARyi03706.jpg",
+      "badge": [],
+      "level": 2,
+      "isStar": true,
+      "friends": "0",
+      "followers": "0",
+      "teamLogo": "/mediasource/teamLogo2/all/gnz48_g.png",
+      "signature": "",
+      "bgImg": "",
+      "vip": false,
+      "userRole": 3
+    }
+  },
+  {
+    "liveId": "347477889641156608",
+    "coverPath": "/20190617/1560774784191QQZccG2uhE.jpg",
+    "title": "今天聊点什么～",
+    "liveType": 1,
+    "status": 2,
+    "ctime": "1560774784305",
+    "userInfo": {
+      "userId": "417320",
+      "nickname": "GNZ48-龙亦瑞",
+      "avatar": "/mediasource/avatar/20190225/1551080730904c9yOx38iu9.jpg",
+      "badge": [],
+      "level": 1,
+      "isStar": true,
+      "friends": "0",
+      "followers": "0",
+      "teamLogo": "/mediasource/teamLogo/all/gnz_z_log2.png",
+      "signature": "",
+      "bgImg": "",
+      "vip": false,
+      "userRole": 3
+    }
+  },
+  {
+    "liveId": "347484475159810048",
+    "coverPath": "/20190617/1560776354198brqWEKKfyJ.jpg",
+    "title": "不抛弃不放弃",
+    "liveType": 1,
+    "status": 2,
+    "ctime": "1560776354510",
+    "userInfo": {
+      "userId": "707369",
+      "nickname": "IDFT-魏小燕",
+      "avatar": "/mediasource/avatar/20190412/1555062531968beck8pV8lL.jpg",
+      "badge": [],
+      "level": 1,
+      "isStar": true,
+      "friends": "0",
+      "followers": "0",
+      "teamLogo": "/mediasource/teamLogo/all/idft_logo_2.png",
+      "signature": "",
+      "bgImg": "",
+      "vip": false,
+      "userRole": 3
+    }
+  },
+  {
+    "liveId": "347484279319367680",
+    "coverPath": "/20190617/1560776307533C0N8ka2OEk.jpg",
+    "title": "请你慷慨 come on",
+    "liveType": 1,
+    "status": 2,
+    "ctime": "1560776307818",
+    "userInfo": {
+      "userId": "614735",
+      "nickname": "IDFT-田倩兰",
+      "avatar": "/mediasource/avatar/20190405/15544410566123IdGRnH7GC.jpg",
+      "badge": [],
+      "level": 1,
+      "isStar": true,
+      "friends": "0",
+      "followers": "0",
+      "teamLogo": "/mediasource/teamLogo/all/idft_logo_2.png",
+      "signature": "",
+      "bgImg": "",
+      "vip": false,
+      "userRole": 3
+    }
+  },
+  {
+    "liveId": "347484631540240384",
+    "coverPath": "/20190617/156077639110365FyLw2s6U.jpg",
+    "title": "电台～",
+    "liveType": 1,
+    "status": 2,
+    "ctime": "1560776392111",
+    "userInfo": {
+      "userId": "867891",
+      "nickname": "GNZ48-方琪",
+      "avatar": "/mediasource/avatar/20190407/1554630900541zKF82vA89r.jpg",
+      "badge": [],
+      "level": 1,
+      "isStar": true,
+      "friends": "0",
+      "followers": "0",
+      "teamLogo": "/mediasource/teamLogo/all/gnz_z_log2.png",
+      "signature": "",
+      "bgImg": "/20190611/1560228887931la4w95ored.jpg",
+      "vip": false,
+      "userRole": 3
+    }
+  }
+]

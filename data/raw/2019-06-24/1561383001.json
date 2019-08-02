@@ -1,0 +1,94 @@
+[
+  {
+    "liveId": "350028563557978112",
+    "coverPath": "/20190624/1561382912068W1jzkC2Z8j.jpg",
+    "title": "无标题",
+    "liveType": 1,
+    "status": 2,
+    "ctime": "1561382912434",
+    "userInfo": {
+      "userId": "711732",
+      "nickname": "BEJ48-彭嘉敏",
+      "avatar": "/mediasource/avatar/20190314/15525719869123Rit6KaB45.jpg",
+      "badge": [],
+      "level": 1,
+      "isStar": true,
+      "friends": "0",
+      "followers": "0",
+      "teamLogo": "/mediasource/teamLogo2/all/bej48_e.png",
+      "signature": "",
+      "bgImg": "",
+      "vip": false,
+      "userRole": 3
+    }
+  },
+  {
+    "liveId": "350018363606241280",
+    "coverPath": "/20190624/15613804802143ir5oa9lXq.jpg",
+    "title": "一个电台哈",
+    "liveType": 1,
+    "status": 2,
+    "ctime": "1561380480602",
+    "userInfo": {
+      "userId": "614728",
+      "nickname": "IDFT-雷宇霄",
+      "avatar": "/mediasource/avatar/20190127/1548583798929xb20cd5Qn0.jpg",
+      "badge": [],
+      "level": 1,
+      "isStar": true,
+      "friends": "0",
+      "followers": "0",
+      "teamLogo": "/mediasource/teamLogo/all/idft_logo_2.png",
+      "signature": "",
+      "bgImg": "",
+      "vip": false,
+      "userRole": 3
+    }
+  },
+  {
+    "liveId": "350025657840635904",
+    "coverPath": "/20190619/156095451369849vxTi4N62.jpg",
+    "title": "十分钟",
+    "liveType": 1,
+    "status": 2,
+    "ctime": "1561382219664",
+    "userInfo": {
+      "userId": "327597",
+      "nickname": "BEJ48-苏杉杉",
+      "avatar": "/mediasource/avatar/20180829/1535545582428vP45t8wGVs.jpg",
+      "badge": [],
+      "level": 1,
+      "isStar": true,
+      "friends": "0",
+      "followers": "0",
+      "teamLogo": "/mediasource/teamLogo2/all/bej48_e.png",
+      "signature": "",
+      "bgImg": "",
+      "vip": false,
+      "userRole": 3
+    }
+  },
+  {
+    "liveId": "350016567617851392",
+    "coverPath": "/20190618/1560868331720QCMvi5kl5c.jpg",
+    "title": "(*˘︶˘*).。.:*♡",
+    "liveType": 1,
+    "status": 2,
+    "ctime": "1561380052409",
+    "userInfo": {
+      "userId": "594005",
+      "nickname": "IDFT-熊沁娴",
+      "avatar": "/mediasource/avatar/151351509536646GDn0Hp83.jpg",
+      "badge": [],
+      "level": 1,
+      "isStar": true,
+      "friends": "0",
+      "followers": "0",
+      "teamLogo": "/mediasource/teamLogo/all/idft_logo_2.png",
+      "signature": "",
+      "bgImg": "",
+      "vip": false,
+      "userRole": 3
+    }
+  }
+]

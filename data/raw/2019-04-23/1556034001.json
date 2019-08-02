@@ -1,0 +1,94 @@
+[
+  {
+    "liveId": "327591753536049152",
+    "coverPath": "/20190423/1556033526479CeVY3D7sZt.jpg",
+    "title": "商业互动",
+    "liveType": 2,
+    "status": 2,
+    "ctime": "1556033560403",
+    "userInfo": {
+      "userId": "417311",
+      "nickname": "GNZ48-陈桂君",
+      "avatar": "/mediasource/avatar/20190410/1554867474036s34918L583.jpg",
+      "badge": [],
+      "level": 1,
+      "isStar": true,
+      "friends": "0",
+      "followers": "0",
+      "teamLogo": "/mediasource/teamLogo/all/gnz_z_log2.png",
+      "signature": "",
+      "bgImg": "",
+      "vip": false,
+      "userRole": 3
+    }
+  },
+  {
+    "liveId": "327578182458609664",
+    "coverPath": "/20190423/15560303242115Q4uLZWO72.jpg",
+    "title": "Hi",
+    "liveType": 1,
+    "status": 2,
+    "ctime": "1556030324806",
+    "userInfo": {
+      "userId": "327587",
+      "nickname": "BEJ48-冯思佳",
+      "avatar": "/mediasource/avatar/20180420/1524158237082F67tg21k3I.jpg",
+      "badge": [],
+      "level": 1,
+      "isStar": true,
+      "friends": "0",
+      "followers": "0",
+      "teamLogo": "/mediasource/teamLogo2/all/bej48_e.png",
+      "signature": "",
+      "bgImg": "/20190416/1555430011580O9sDA7w1gQ.jpg",
+      "vip": false,
+      "userRole": 3
+    }
+  },
+  {
+    "liveId": "327586227012046848",
+    "coverPath": "/20190423/15560322419050cBHS6k5WH.jpg",
+    "title": "hi",
+    "liveType": 2,
+    "status": 2,
+    "ctime": "1556032242777",
+    "userInfo": {
+      "userId": "63570",
+      "nickname": "SNH48-宋雨珊",
+      "avatar": "/mediasource/avatar/20190327/1553617483738Kpo2F8GHce.jpg",
+      "badge": [],
+      "level": 1,
+      "isStar": true,
+      "friends": "0",
+      "followers": "0",
+      "teamLogo": "/mediasource/teamLogo2/all/snh48_h2.png",
+      "signature": "",
+      "bgImg": "",
+      "vip": false,
+      "userRole": 3
+    }
+  },
+  {
+    "liveId": "327578441075200000",
+    "coverPath": "/20190423/15560303837164JTLSX9w90.jpg",
+    "title": "论相亲 我是专业的",
+    "liveType": 2,
+    "status": 2,
+    "ctime": "1556030386465",
+    "userInfo": {
+      "userId": "614735",
+      "nickname": "IDFT-田倩兰",
+      "avatar": "/mediasource/avatar/20190405/15544410566123IdGRnH7GC.jpg",
+      "badge": [],
+      "level": 1,
+      "isStar": true,
+      "friends": "0",
+      "followers": "0",
+      "teamLogo": "/mediasource/teamLogo/all/idft_logo_2.png",
+      "signature": "",
+      "bgImg": "",
+      "vip": false,
+      "userRole": 3
+    }
+  }
+]

@@ -1,0 +1,117 @@
+[
+  {
+    "liveId": "330043228946239488",
+    "coverPath": "/20190430/1556618036872wImpH1d16U.jpg",
+    "title": "Hi",
+    "liveType": 1,
+    "status": 2,
+    "ctime": "1556618037426",
+    "userInfo": {
+      "userId": "327587",
+      "nickname": "BEJ48-冯思佳",
+      "avatar": "/mediasource/avatar/20180420/1524158237082F67tg21k3I.jpg",
+      "badge": [],
+      "level": 1,
+      "isStar": true,
+      "friends": "0",
+      "followers": "0",
+      "teamLogo": "/mediasource/teamLogo2/all/bej48_e.png",
+      "signature": "",
+      "bgImg": "/20190416/1555430011580O9sDA7w1gQ.jpg",
+      "vip": false,
+      "userRole": 3
+    }
+  },
+  {
+    "liveId": "330043989470023680",
+    "coverPath": "/20190430/155661821804053Lz94C23l.jpg",
+    "title": "救救孩子",
+    "liveType": 1,
+    "status": 2,
+    "ctime": "1556618218814",
+    "userInfo": {
+      "userId": "528336",
+      "nickname": "IDFT-兰昊",
+      "avatar": "/mediasource/avatar/20190322/15532451519661Si87o37wR.jpg",
+      "badge": [],
+      "level": 1,
+      "isStar": true,
+      "friends": "0",
+      "followers": "0",
+      "teamLogo": "/mediasource/teamLogo/all/idft_logo_2.png",
+      "signature": "",
+      "bgImg": "",
+      "vip": false,
+      "userRole": 3
+    }
+  },
+  {
+    "liveId": "330049018167889921",
+    "coverPath": "/20190430/1556619391148lQ5T7O089o.jpg",
+    "title": "我知道哪里不对了，我又忘记点泪痣了！",
+    "liveType": 1,
+    "status": 2,
+    "ctime": "1556619417945",
+    "userInfo": {
+      "userId": "867899",
+      "nickname": "IDFT-赵思雨",
+      "avatar": "/mediasource/avatar/20190410/15548267308528NpRGaX4rv.jpg",
+      "badge": [],
+      "level": 1,
+      "isStar": true,
+      "friends": "0",
+      "followers": "0",
+      "teamLogo": "/mediasource/teamLogo/all/idft_logo_2.png",
+      "signature": "",
+      "bgImg": "",
+      "vip": false,
+      "userRole": 3
+    }
+  },
+  {
+    "liveId": "330042610181541888",
+    "coverPath": "/20190430/1556617889394d6Xt6835O0.jpg",
+    "title": "聊聊最近",
+    "liveType": 1,
+    "status": 2,
+    "ctime": "1556617890161",
+    "userInfo": {
+      "userId": "867895",
+      "nickname": "IDFT-彭榆涵",
+      "avatar": "/mediasource/avatar/20190318/15528990764788jnBnk4d0X.jpg",
+      "badge": [],
+      "level": 1,
+      "isStar": true,
+      "friends": "0",
+      "followers": "0",
+      "teamLogo": "/mediasource/teamLogo/all/idft_logo_2.png",
+      "signature": "",
+      "bgImg": "",
+      "vip": false,
+      "userRole": 3
+    }
+  },
+  {
+    "liveId": "330052132707045376",
+    "coverPath": "/20190430/1556620158744Tooyyed8EM.jpg",
+    "title": "收拾家",
+    "liveType": 2,
+    "status": 2,
+    "ctime": "1556620160216",
+    "userInfo": {
+      "userId": "528339",
+      "nickname": "IDFT-乔钰珂",
+      "avatar": "/mediasource/avatar/20190122/1548092084975bIKM2g6S8B.jpg",
+      "badge": [],
+      "level": 1,
+      "isStar": true,
+      "friends": "0",
+      "followers": "0",
+      "teamLogo": "/mediasource/teamLogo/all/idft_logo_2.png",
+      "signature": "",
+      "bgImg": "",
+      "vip": false,
+      "userRole": 3
+    }
+  }
+]

@@ -1,0 +1,117 @@
+[
+  {
+    "liveId": "329716831946084352",
+    "coverPath": "/20190417/1555516453727WEJ5ZDpI5D.png",
+    "title": "直播营业",
+    "liveType": 1,
+    "status": 2,
+    "ctime": "1556540218577",
+    "userInfo": {
+      "userId": "63582",
+      "nickname": "SNH48-张怡",
+      "avatar": "/mediasource/avatar/20181025/1540475517669K5z48SpenC.jpg",
+      "badge": [],
+      "level": 1,
+      "isStar": true,
+      "friends": "0",
+      "followers": "0",
+      "teamLogo": "/mediasource/teamLogo2/all/snh48_n2.png",
+      "signature": "",
+      "bgImg": "",
+      "vip": false,
+      "userRole": 3
+    }
+  },
+  {
+    "liveId": "329696930405617664",
+    "coverPath": "/20190429/15565354718137w3k3uy98m.jpg",
+    "title": "Hi",
+    "liveType": 2,
+    "status": 2,
+    "ctime": "1556535473680",
+    "userInfo": {
+      "userId": "327587",
+      "nickname": "BEJ48-冯思佳",
+      "avatar": "/mediasource/avatar/20180420/1524158237082F67tg21k3I.jpg",
+      "badge": [],
+      "level": 1,
+      "isStar": true,
+      "friends": "0",
+      "followers": "0",
+      "teamLogo": "/mediasource/teamLogo2/all/bej48_e.png",
+      "signature": "",
+      "bgImg": "/20190416/1555430011580O9sDA7w1gQ.jpg",
+      "vip": false,
+      "userRole": 3
+    }
+  },
+  {
+    "liveId": "329714573661507584",
+    "coverPath": "/20190429/15565396770125iKIIGbsjz.jpg",
+    "title": "我在打游戏～",
+    "liveType": 2,
+    "status": 2,
+    "ctime": "1556539680160",
+    "userInfo": {
+      "userId": "874505",
+      "nickname": "IDFT-刘宇晴",
+      "avatar": "/mediasource/avatar/20190227/1551275776874HFh1XiOA3W.jpg",
+      "badge": [],
+      "level": 1,
+      "isStar": true,
+      "friends": "0",
+      "followers": "0",
+      "teamLogo": "/mediasource/teamLogo/all/idft_logo_2.png",
+      "signature": "",
+      "bgImg": "/20190415/1555336133714yq6rI1nDYf.jpg",
+      "vip": false,
+      "userRole": 3
+    }
+  },
+  {
+    "liveId": "329719087084933120",
+    "coverPath": "/20190429/1556540755352cQ7wevB1SK.jpg",
+    "title": "吃菠萝饭",
+    "liveType": 1,
+    "status": 2,
+    "ctime": "1556540755846",
+    "userInfo": {
+      "userId": "874500",
+      "nickname": "IDFT-冯嘉宝",
+      "avatar": "/mediasource/avatar/20190410/1554836077228l1hB971a2f.jpg",
+      "badge": [],
+      "level": 1,
+      "isStar": true,
+      "friends": "0",
+      "followers": "0",
+      "teamLogo": "/mediasource/teamLogo/all/idft_logo_2.png",
+      "signature": "",
+      "bgImg": "/20190416/155540368953294eN6ekrhj.jpg",
+      "vip": false,
+      "userRole": 3
+    }
+  },
+  {
+    "liveId": "329714528300109824",
+    "coverPath": "/20190429/1556539592811lC6ewdE7U0.jpg",
+    "title": "……我该怎么形容今天得心情",
+    "liveType": 2,
+    "status": 2,
+    "ctime": "1556539668964",
+    "userInfo": {
+      "userId": "867899",
+      "nickname": "IDFT-赵思雨",
+      "avatar": "/mediasource/avatar/20190410/15548267308528NpRGaX4rv.jpg",
+      "badge": [],
+      "level": 1,
+      "isStar": true,
+      "friends": "0",
+      "followers": "0",
+      "teamLogo": "/mediasource/teamLogo/all/idft_logo_2.png",
+      "signature": "",
+      "bgImg": "",
+      "vip": false,
+      "userRole": 3
+    }
+  }
+]

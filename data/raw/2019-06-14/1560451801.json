@@ -1,0 +1,48 @@
+[
+  {
+    "liveId": "346100293896572928",
+    "coverPath": "/20190614/15604463398655xS25573X6.jpg",
+    "title": "这是一个电台～",
+    "liveType": 1,
+    "status": 2,
+    "ctime": "1560446340285",
+    "userInfo": {
+      "userId": "530392",
+      "nickname": "BEJ48-张羽涵",
+      "avatar": "/mediasource/avatar/20181008/1538995322677x4XyNKiR14.jpg",
+      "badge": [],
+      "level": 1,
+      "isStar": true,
+      "friends": "0",
+      "followers": "0",
+      "teamLogo": "/mediasource/teamLogo2/all/bej48_b.png",
+      "signature": "",
+      "bgImg": "",
+      "vip": false,
+      "userRole": 3
+    }
+  },
+  {
+    "liveId": "346114721799016448",
+    "coverPath": "/20190614/15604497795511O1N7N2xJ8.jpg",
+    "title": "晚安播 一会儿儿🥰",
+    "liveType": 1,
+    "status": 2,
+    "ctime": "1560449780109",
+    "userInfo": {
+      "userId": "63557",
+      "nickname": "GNZ48-高源婧",
+      "avatar": "/20190604/1559579294957gAOk1G78PX.jpg",
+      "badge": [],
+      "level": 1,
+      "isStar": true,
+      "friends": "0",
+      "followers": "0",
+      "teamLogo": "/mediasource/teamLogo2/all/gnz48_g.png",
+      "signature": "",
+      "bgImg": "",
+      "vip": false,
+      "userRole": 3
+    }
+  }
+]

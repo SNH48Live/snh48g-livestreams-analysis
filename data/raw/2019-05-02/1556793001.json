@@ -1,0 +1,48 @@
+[
+  {
+    "liveId": "330771764640288768",
+    "coverPath": "/20190502/1556791733473rSeGG1m0mB.jpg",
+    "title": "五一劳动节快乐",
+    "liveType": 1,
+    "status": 2,
+    "ctime": "1556791733930",
+    "userInfo": {
+      "userId": "874508",
+      "nickname": "IDFT-尚官",
+      "avatar": "/mediasource/avatar/20190407/1554629669002MgHL7DDwv3.jpg",
+      "badge": [],
+      "level": 1,
+      "isStar": true,
+      "friends": "0",
+      "followers": "0",
+      "teamLogo": "/mediasource/teamLogo/all/idft_logo_2.png",
+      "signature": "",
+      "bgImg": "/20190416/15553995584983HTG023YQA.jpg",
+      "vip": false,
+      "userRole": 3
+    }
+  },
+  {
+    "liveId": "330777084234108928",
+    "coverPath": "/20190502/1556793001464ZIjRv19qLN.jpg",
+    "title": "应援会ShowTime演出顺序抽签",
+    "liveType": 1,
+    "status": 2,
+    "ctime": "1556793002124",
+    "userInfo": {
+      "userId": "327683",
+      "nickname": "GNZ48",
+      "avatar": "/mediasource/avatar/327683.jpg",
+      "badge": [],
+      "level": 1,
+      "isStar": false,
+      "friends": "0",
+      "followers": "0",
+      "teamLogo": "",
+      "signature": "",
+      "bgImg": "",
+      "vip": false,
+      "userRole": 999
+    }
+  }
+]

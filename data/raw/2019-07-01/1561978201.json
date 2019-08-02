@@ -1,0 +1,48 @@
+[
+  {
+    "liveId": "352520773998284800",
+    "coverPath": "/20190701/1561977101447d6sLWq55SZ.jpg",
+    "title": ".",
+    "liveType": 1,
+    "status": 2,
+    "ctime": "1561977101822",
+    "userInfo": {
+      "userId": "49005",
+      "nickname": "SNH48-沈梦瑶",
+      "avatar": "/mediasource/avatar/20190302/155146332801927FZq9873v.jpg",
+      "badge": [],
+      "level": 1,
+      "isStar": true,
+      "friends": "0",
+      "followers": "0",
+      "teamLogo": "/mediasource/teamLogo2/all/snh48_h2.png",
+      "signature": "",
+      "bgImg": "",
+      "vip": false,
+      "userRole": 3
+    }
+  },
+  {
+    "liveId": "352513321743486976",
+    "coverPath": "/20190701/1561975324543mHQq612aZe.jpg",
+    "title": "电台",
+    "liveType": 1,
+    "status": 2,
+    "ctime": "1561975325016",
+    "userInfo": {
+      "userId": "327575",
+      "nickname": "GNZ48-郑丹妮",
+      "avatar": "/mediasource/avatar/20190209/1549721765053uy7481V1E8.jpg",
+      "badge": [],
+      "level": 1,
+      "isStar": true,
+      "friends": "0",
+      "followers": "0",
+      "teamLogo": "/mediasource/teamLogo2/all/gnz48_n3.png",
+      "signature": "",
+      "bgImg": "",
+      "vip": false,
+      "userRole": 3
+    }
+  }
+]

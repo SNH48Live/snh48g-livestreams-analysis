@@ -1,0 +1,94 @@
+[
+  {
+    "liveId": "349000651778101248",
+    "coverPath": "/20190622/15611378391002rtG60121T.jpg",
+    "title": "siren",
+    "liveType": 1,
+    "status": 2,
+    "ctime": "1561137839486",
+    "userInfo": {
+      "userId": "407104",
+      "nickname": "BEJ48-葛司琪",
+      "avatar": "/mediasource/avatar/20180809/1533816085151L3OoB4t2xZ.jpg",
+      "badge": [],
+      "level": 1,
+      "isStar": true,
+      "friends": "0",
+      "followers": "0",
+      "teamLogo": "/mediasource/teamLogo2/all/bej48_j.png",
+      "signature": "",
+      "bgImg": "",
+      "vip": false,
+      "userRole": 3
+    }
+  },
+  {
+    "liveId": "348992892064043008",
+    "coverPath": "/20190622/15611359888614lo7jK6508.jpg",
+    "title": "一会会儿",
+    "liveType": 1,
+    "status": 2,
+    "ctime": "1561135988972",
+    "userInfo": {
+      "userId": "677403",
+      "nickname": "SNH48-张茜",
+      "avatar": "/mediasource/avatar/20180721/1532103118479zIen7aXIHX.jpg",
+      "badge": [],
+      "level": 1,
+      "isStar": true,
+      "friends": "0",
+      "followers": "0",
+      "teamLogo": "/mediasource/teamLogo2/all/snh48_n2.png",
+      "signature": "",
+      "bgImg": "",
+      "vip": false,
+      "userRole": 3
+    }
+  },
+  {
+    "liveId": "348971677144387584",
+    "coverPath": "/20190621/1561130767915wgXm7pFf00.jpg",
+    "title": "伪电台-无聊的嘚嘚",
+    "liveType": 1,
+    "status": 2,
+    "ctime": "1561130930997",
+    "userInfo": {
+      "userId": "327578",
+      "nickname": "BEJ48-林溪荷",
+      "avatar": "/mediasource/avatar/20190222/1550838797875R9t4yq64NL.jpg",
+      "badge": [],
+      "level": 1,
+      "isStar": true,
+      "friends": "0",
+      "followers": "0",
+      "teamLogo": "/mediasource/teamLogo2/all/bej48_b.png",
+      "signature": "",
+      "bgImg": "/20190419/1555605488038552AuRrgK1.jpg",
+      "vip": false,
+      "userRole": 3
+    }
+  },
+  {
+    "liveId": "348999787306881024",
+    "coverPath": "/20190425/155620749203590TD68vgc2.jpg",
+    "title": "直播啦！",
+    "liveType": 1,
+    "status": 2,
+    "ctime": "1561137633383",
+    "userInfo": {
+      "userId": "677398",
+      "nickname": "SNH48-李玉倩",
+      "avatar": "/mediasource/avatar/20180609/1528474175451cOokW9vNU7.jpg",
+      "badge": [],
+      "level": 1,
+      "isStar": true,
+      "friends": "0",
+      "followers": "0",
+      "teamLogo": "/mediasource/teamLogo2/all/snh48_h2.png",
+      "signature": "",
+      "bgImg": "",
+      "vip": false,
+      "userRole": 3
+    }
+  }
+]

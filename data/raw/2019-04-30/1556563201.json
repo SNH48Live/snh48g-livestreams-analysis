@@ -1,0 +1,71 @@
+[
+  {
+    "liveId": "329772008765984768",
+    "coverPath": "/20190429/1556553370255qEIqM8Rsq0.jpg",
+    "title": "Gn",
+    "liveType": 2,
+    "status": 2,
+    "ctime": "1556553373324",
+    "userInfo": {
+      "userId": "528336",
+      "nickname": "IDFT-兰昊",
+      "avatar": "/mediasource/avatar/20190322/15532451519661Si87o37wR.jpg",
+      "badge": [],
+      "level": 1,
+      "isStar": true,
+      "friends": "0",
+      "followers": "0",
+      "teamLogo": "/mediasource/teamLogo/all/idft_logo_2.png",
+      "signature": "",
+      "bgImg": "",
+      "vip": false,
+      "userRole": 3
+    }
+  },
+  {
+    "liveId": "329777089339002880",
+    "coverPath": "/20190430/15565545820065zgGrHfLeV.jpg",
+    "title": "都市夜谈",
+    "liveType": 2,
+    "status": 2,
+    "ctime": "1556554585059",
+    "userInfo": {
+      "userId": "407104",
+      "nickname": "BEJ48-葛司琪",
+      "avatar": "/mediasource/avatar/20180809/1533816085151L3OoB4t2xZ.jpg",
+      "badge": [],
+      "level": 1,
+      "isStar": true,
+      "friends": "0",
+      "followers": "0",
+      "teamLogo": "/mediasource/teamLogo2/all/bej48_j.png",
+      "signature": "",
+      "bgImg": "",
+      "vip": false,
+      "userRole": 3
+    }
+  },
+  {
+    "liveId": "329759273609138176",
+    "coverPath": "/20190429/15565503353564b98R7OcTp.jpg",
+    "title": "尤克里里卖艺养家惹",
+    "liveType": 2,
+    "status": 2,
+    "ctime": "1556550337458",
+    "userInfo": {
+      "userId": "407110",
+      "nickname": "BEJ48-刘闲",
+      "avatar": "/mediasource/avatar/20190404/15543613778036v673gZZTo.jpg",
+      "badge": [],
+      "level": 1,
+      "isStar": true,
+      "friends": "0",
+      "followers": "0",
+      "teamLogo": "/mediasource/teamLogo2/all/bej48_j.png",
+      "signature": "",
+      "bgImg": "",
+      "vip": false,
+      "userRole": 3
+    }
+  }
+]

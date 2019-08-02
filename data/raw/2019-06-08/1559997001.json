@@ -1,0 +1,71 @@
+[
+  {
+    "liveId": "344200924503019520",
+    "coverPath": "/20190608/1559993494468uuQR7Gxy4g.jpg",
+    "title": "结束啦",
+    "liveType": 1,
+    "status": 2,
+    "ctime": "1559993495345",
+    "userInfo": {
+      "userId": "407126",
+      "nickname": "BEJ48-杨晔",
+      "avatar": "/mediasource/avatar/15165350409443tHUm0sZTa.jpg",
+      "badge": [],
+      "level": 1,
+      "isStar": true,
+      "friends": "0",
+      "followers": "0",
+      "teamLogo": "/mediasource/teamLogo2/all/bej48_j.png",
+      "signature": "",
+      "bgImg": "",
+      "vip": false,
+      "userRole": 3
+    }
+  },
+  {
+    "liveId": "344196705985302528",
+    "coverPath": "/20190608/1559992488860uzzGn71o5C.jpg",
+    "title": "🐷🐷🐷",
+    "liveType": 1,
+    "status": 2,
+    "ctime": "1559992489326",
+    "userInfo": {
+      "userId": "679448",
+      "nickname": "SNH48-陈俊羽",
+      "avatar": "/mediasource/avatar/20190226/155111833498635ny9u0RJL.jpg",
+      "badge": [],
+      "level": 1,
+      "isStar": true,
+      "friends": "0",
+      "followers": "0",
+      "teamLogo": "/mediasource/teamLogo2/all/snh48_s2.png",
+      "signature": "",
+      "bgImg": "/20190420/1555775954557Kip4ffmh0K.jpg",
+      "vip": false,
+      "userRole": 3
+    }
+  },
+  {
+    "liveId": "344211633987194880",
+    "coverPath": "/20190608/1559996047732z43e46cwkC.jpg",
+    "title": "来吃螺蛳粉",
+    "liveType": 1,
+    "status": 2,
+    "ctime": "1559996048685",
+    "userInfo": {
+      "userId": "459999",
+      "nickname": "BEJ48-韩家乐",
+      "avatar": "/mediasource/avatar/20190103/1546447223080708qPty07v.jpg",
+      "badge": [],
+      "level": 1,
+      "isStar": true,
+      "friends": "0",
+      "followers": "0",
+      "teamLogo": "/mediasource/teamLogo2/all/bej48_j.png",
+      "signature": "",
+      "bgImg": "",
+      "vip": false,
+      "userRole": 3
+    }
+  }
+]

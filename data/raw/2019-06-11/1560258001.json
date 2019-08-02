@@ -1,0 +1,140 @@
+[
+  {
+    "liveId": "345305499389726720",
+    "coverPath": "/20190611/1560256845742bV6ApINf6p.jpg",
+    "title": "杨帅帅来了",
+    "liveType": 1,
+    "status": 2,
+    "ctime": "1560256846107",
+    "userInfo": {
+      "userId": "417331",
+      "nickname": "GNZ48-杨媛媛",
+      "avatar": "/mediasource/avatar/20190124/1548313840900sSL5Tb52b7.jpg",
+      "badge": [],
+      "level": 1,
+      "isStar": true,
+      "friends": "0",
+      "followers": "0",
+      "teamLogo": "/mediasource/teamLogo/all/gnz_z_log2.png",
+      "signature": "",
+      "bgImg": "/20190417/15554339261524k4e2gqV82.jpg",
+      "vip": false,
+      "userRole": 3
+    }
+  },
+  {
+    "liveId": "345302045095170048",
+    "coverPath": "/20190611/1560255955337zUcnR4CXkq.jpg",
+    "title": "聊一会儿",
+    "liveType": 1,
+    "status": 2,
+    "ctime": "1560256022952",
+    "userInfo": {
+      "userId": "614742",
+      "nickname": "IDFT-左欣",
+      "avatar": "/mediasource/avatar/20181120/154272276885220WFfOZesM.jpg",
+      "badge": [],
+      "level": 1,
+      "isStar": true,
+      "friends": "0",
+      "followers": "0",
+      "teamLogo": "/mediasource/teamLogo/all/idft_logo_2.png",
+      "signature": "",
+      "bgImg": "",
+      "vip": false,
+      "userRole": 3
+    }
+  },
+  {
+    "liveId": "345308140429709312",
+    "coverPath": "/20190611/1560257475276U9zgo95cH3.jpg",
+    "title": "今天聊点儿什么～",
+    "liveType": 1,
+    "status": 2,
+    "ctime": "1560257476193",
+    "userInfo": {
+      "userId": "327563",
+      "nickname": "GNZ48-陈楠茜",
+      "avatar": "/mediasource/avatar/20190117/1547700110400lR1uWbpPJl.jpg",
+      "badge": [],
+      "level": 1,
+      "isStar": true,
+      "friends": "0",
+      "followers": "0",
+      "teamLogo": "/mediasource/teamLogo2/all/gnz48_n3.png",
+      "signature": "",
+      "bgImg": "",
+      "vip": false,
+      "userRole": 3
+    }
+  },
+  {
+    "liveId": "345306534191632384",
+    "coverPath": "/20190611/15602570924548KhmFP8sz0.jpg",
+    "title": "坑坑游戏主播上线～",
+    "liveType": 1,
+    "status": 2,
+    "ctime": "1560257093236",
+    "userInfo": {
+      "userId": "407108",
+      "nickname": "IDFT-李泓瑶",
+      "avatar": "/mediasource/avatar/20190226/155118607049876lUsSiZ6A.jpg",
+      "badge": [],
+      "level": 1,
+      "isStar": true,
+      "friends": "0",
+      "followers": "0",
+      "teamLogo": "/mediasource/teamLogo/all/idft_logo_2.png",
+      "signature": "",
+      "bgImg": "",
+      "vip": false,
+      "userRole": 3
+    }
+  },
+  {
+    "liveId": "345305694064152576",
+    "coverPath": "/20190611/1560256892267cUFbNuIe2C.jpg",
+    "title": "喵",
+    "liveType": 1,
+    "status": 2,
+    "ctime": "1560256892629",
+    "userInfo": {
+      "userId": "677404",
+      "nickname": "SNH48-周诗雨",
+      "avatar": "/20190605/1559721434750limxgLlGzq.jpg",
+      "badge": [],
+      "level": 1,
+      "isStar": true,
+      "friends": "0",
+      "followers": "0",
+      "teamLogo": "/mediasource/teamLogo2/all/snh48_n2.png",
+      "signature": "",
+      "bgImg": "",
+      "vip": false,
+      "userRole": 3
+    }
+  },
+  {
+    "liveId": "345295785549434880",
+    "coverPath": "/20190611/1560254529822JnCtQ95idD.jpg",
+    "title": "|｡･･)っ♡",
+    "liveType": 1,
+    "status": 2,
+    "ctime": "1560254530560",
+    "userInfo": {
+      "userId": "35",
+      "nickname": "SNH48-莫寒",
+      "avatar": "/mediasource/avatar/1518105052569rDJYmaNkqP.jpg",
+      "badge": [],
+      "level": 1,
+      "isStar": true,
+      "friends": "0",
+      "followers": "0",
+      "teamLogo": "/mediasource/teamLogo2/all/snh48_s2.png",
+      "signature": "",
+      "bgImg": "",
+      "vip": false,
+      "userRole": 3
+    }
+  }
+]

@@ -1,0 +1,94 @@
+[
+  {
+    "liveId": "346736792157622272",
+    "coverPath": "/20190615/1560598092805ZP1SfEKA16.jpg",
+    "title": "试一试 如果卡 就去Fun",
+    "liveType": 1,
+    "status": 2,
+    "ctime": "1560598093052",
+    "userInfo": {
+      "userId": "327574",
+      "nickname": "GNZ48-熊心瑶",
+      "avatar": "/mediasource/avatar/20190228/155135996408281CB6TA2xf.jpg",
+      "badge": [],
+      "level": 1,
+      "isStar": true,
+      "friends": "0",
+      "followers": "0",
+      "teamLogo": "/mediasource/teamLogo2/all/gnz48_n3.png",
+      "signature": "",
+      "bgImg": "",
+      "vip": false,
+      "userRole": 3
+    }
+  },
+  {
+    "liveId": "346738619905282048",
+    "coverPath": "/20190615/1560598528482XF43KL2Vp4.jpg",
+    "title": "直播～",
+    "liveType": 1,
+    "status": 2,
+    "ctime": "1560598528817",
+    "userInfo": {
+      "userId": "528329",
+      "nickname": "BEJ48-孙晓艳",
+      "avatar": "/mediasource/avatar/152052582125385Y3rslp05.jpg",
+      "badge": [],
+      "level": 1,
+      "isStar": true,
+      "friends": "0",
+      "followers": "0",
+      "teamLogo": "/mediasource/teamLogo2/all/bej48_b.png",
+      "signature": "",
+      "bgImg": "/20190513/1557712071161KfK36TqqiO.jpg",
+      "vip": false,
+      "userRole": 3
+    }
+  },
+  {
+    "liveId": "346739800987734016",
+    "coverPath": "/20190615/1560598809709okCxJiur6I.jpg",
+    "title": "今天游戏局",
+    "liveType": 1,
+    "status": 2,
+    "ctime": "1560598810669",
+    "userInfo": {
+      "userId": "874505",
+      "nickname": "IDFT-刘宇晴",
+      "avatar": "/mediasource/avatar/20190227/1551275776874HFh1XiOA3W.jpg",
+      "badge": [],
+      "level": 1,
+      "isStar": true,
+      "friends": "0",
+      "followers": "0",
+      "teamLogo": "/mediasource/teamLogo/all/idft_logo_2.png",
+      "signature": "",
+      "bgImg": "/20190513/15577207229857SR4zx5OE4.jpg",
+      "vip": false,
+      "userRole": 3
+    }
+  },
+  {
+    "liveId": "346718353917546496",
+    "coverPath": "/20190615/1560593696816p79020ca6o.jpg",
+    "title": "啊",
+    "liveType": 1,
+    "status": 2,
+    "ctime": "1560593697082",
+    "userInfo": {
+      "userId": "327587",
+      "nickname": "BEJ48-冯思佳",
+      "avatar": "/mediasource/avatar/20180420/1524158237082F67tg21k3I.jpg",
+      "badge": [],
+      "level": 1,
+      "isStar": true,
+      "friends": "0",
+      "followers": "0",
+      "teamLogo": "/mediasource/teamLogo2/all/bej48_e.png",
+      "signature": "",
+      "bgImg": "/20190416/1555430011580O9sDA7w1gQ.jpg",
+      "vip": false,
+      "userRole": 3
+    }
+  }
+]

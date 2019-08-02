@@ -1,0 +1,94 @@
+[
+  {
+    "liveId": "347512058018598912",
+    "coverPath": "/20190617/15607829304328o5JU1LTaA.jpg",
+    "title": "来",
+    "liveType": 1,
+    "status": 2,
+    "ctime": "1560782930705",
+    "userInfo": {
+      "userId": "460004",
+      "nickname": "IDFT-杨允涵",
+      "avatar": "/mediasource/avatar/20181027/1540649704887L38FXNji6v.jpg",
+      "badge": [],
+      "level": 1,
+      "isStar": true,
+      "friends": "0",
+      "followers": "0",
+      "teamLogo": "/mediasource/teamLogo/all/idft_logo_2.png",
+      "signature": "",
+      "bgImg": "",
+      "vip": false,
+      "userRole": 3
+    }
+  },
+  {
+    "liveId": "347517820098908160",
+    "coverPath": "/20190617/1560784304428La0AsAWQw6.jpg",
+    "title": "来聊聊人生",
+    "liveType": 1,
+    "status": 2,
+    "ctime": "1560784304477",
+    "userInfo": {
+      "userId": "63561",
+      "nickname": "SNH48-蒋舒婷",
+      "avatar": "/mediasource/avatar/20190204/1549251764336AHA9NB0qqp.jpg",
+      "badge": [],
+      "level": 1,
+      "isStar": true,
+      "friends": "0",
+      "followers": "0",
+      "teamLogo": "/mediasource/teamLogo2/all/snh48_h2.png",
+      "signature": "",
+      "bgImg": "",
+      "vip": false,
+      "userRole": 3
+    }
+  },
+  {
+    "liveId": "347535600248492032",
+    "coverPath": "/20190618/1560788543287TZ604E8N5g.jpg",
+    "title": "这是一个电台～",
+    "liveType": 1,
+    "status": 2,
+    "ctime": "1560788543548",
+    "userInfo": {
+      "userId": "530392",
+      "nickname": "BEJ48-张羽涵",
+      "avatar": "/mediasource/avatar/20181008/1538995322677x4XyNKiR14.jpg",
+      "badge": [],
+      "level": 1,
+      "isStar": true,
+      "friends": "0",
+      "followers": "0",
+      "teamLogo": "/mediasource/teamLogo2/all/bej48_b.png",
+      "signature": "",
+      "bgImg": "",
+      "vip": false,
+      "userRole": 3
+    }
+  },
+  {
+    "liveId": "347512744345145344",
+    "coverPath": "/20190617/1560783094195L7NrE37k83.jpg",
+    "title": "会动的小赖",
+    "liveType": 1,
+    "status": 2,
+    "ctime": "1560783094336",
+    "userInfo": {
+      "userId": "530440",
+      "nickname": "IDFT-赖俊亦",
+      "avatar": "/mediasource/avatar/20190213/1550061722081Z9c031902p.jpg",
+      "badge": [],
+      "level": 1,
+      "isStar": true,
+      "friends": "0",
+      "followers": "0",
+      "teamLogo": "/mediasource/teamLogo/all/idft_logo_2.png",
+      "signature": "",
+      "bgImg": "",
+      "vip": false,
+      "userRole": 3
+    }
+  }
+]

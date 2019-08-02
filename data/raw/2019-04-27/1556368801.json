@@ -1,0 +1,163 @@
+[
+  {
+    "liveId": "328971531421814784",
+    "coverPath": "/20190420/15557599118965Yv1oj5g75.jpg",
+    "title": "唠嗑又是我",
+    "liveType": 1,
+    "status": 2,
+    "ctime": "1556362525086",
+    "userInfo": {
+      "userId": "8",
+      "nickname": "SNH48-孙芮",
+      "avatar": "/mediasource/avatar/20190214/1550123117339PcXGE6BBg4.jpg",
+      "badge": [],
+      "level": 1,
+      "isStar": true,
+      "friends": "0",
+      "followers": "0",
+      "teamLogo": "/mediasource/teamLogo2/all/snh48_s2.png",
+      "signature": "",
+      "bgImg": "/20190419/1555657199301255RGW26zU.jpg",
+      "vip": false,
+      "userRole": 3
+    }
+  },
+  {
+    "liveId": "328984900337995776",
+    "coverPath": "/20190427/1556365711989iLeRI93sF9.jpg",
+    "title": "🍅来了",
+    "liveType": 1,
+    "status": 2,
+    "ctime": "1556365712216",
+    "userInfo": {
+      "userId": "867891",
+      "nickname": "GNZ48-方琪",
+      "avatar": "/mediasource/avatar/20190407/1554630900541zKF82vA89r.jpg",
+      "badge": [],
+      "level": 1,
+      "isStar": true,
+      "friends": "0",
+      "followers": "0",
+      "teamLogo": "/mediasource/teamLogo/all/gnz_z_log2.png",
+      "signature": "",
+      "bgImg": "/20190422/1555935911568Dq3tb5R5az.jpg",
+      "vip": false,
+      "userRole": 3
+    }
+  },
+  {
+    "liveId": "328984912023326720",
+    "coverPath": "/20190416/15553511814747mGr16pOH7.jpg",
+    "title": "生了",
+    "liveType": 1,
+    "status": 2,
+    "ctime": "1556365715270",
+    "userInfo": {
+      "userId": "407104",
+      "nickname": "BEJ48-葛司琪",
+      "avatar": "/mediasource/avatar/20180809/1533816085151L3OoB4t2xZ.jpg",
+      "badge": [],
+      "level": 1,
+      "isStar": true,
+      "friends": "0",
+      "followers": "0",
+      "teamLogo": "/mediasource/teamLogo2/all/bej48_j.png",
+      "signature": "",
+      "bgImg": "",
+      "vip": false,
+      "userRole": 3
+    }
+  },
+  {
+    "liveId": "328995631091486720",
+    "coverPath": "/20190427/1556368270106W7DU7vYnmm.jpg",
+    "title": "˙Ꙫ˙  ",
+    "liveType": 1,
+    "status": 2,
+    "ctime": "1556368270895",
+    "userInfo": {
+      "userId": "407112",
+      "nickname": "BEJ48-任心怡",
+      "avatar": "/mediasource/avatar/20181013/153941393706955jrG9uh9H.jpg",
+      "badge": [],
+      "level": 1,
+      "isStar": true,
+      "friends": "0",
+      "followers": "0",
+      "teamLogo": "/mediasource/teamLogo2/all/bej48_j.png",
+      "signature": "",
+      "bgImg": "",
+      "vip": false,
+      "userRole": 3
+    }
+  },
+  {
+    "liveId": "328993572959096832",
+    "coverPath": "/20190418/1555600921386Ft1q24tdQ8.jpg",
+    "title": "hi",
+    "liveType": 1,
+    "status": 2,
+    "ctime": "1556367779907",
+    "userInfo": {
+      "userId": "607591",
+      "nickname": "GNZ48-吴羽霏",
+      "avatar": "/mediasource/avatar/20180805/1533400850576XkF46Fa3et.jpg",
+      "badge": [],
+      "level": 1,
+      "isStar": true,
+      "friends": "0",
+      "followers": "0",
+      "teamLogo": "/mediasource/teamLogo2/all/gnz48_n3.png",
+      "signature": "",
+      "bgImg": "",
+      "vip": false,
+      "userRole": 3
+    }
+  },
+  {
+    "liveId": "328996848140095488",
+    "coverPath": "/20190416/1555430092327M1A62mHE9D.jpg",
+    "title": "快乐直播",
+    "liveType": 1,
+    "status": 2,
+    "ctime": "1556368560657",
+    "userInfo": {
+      "userId": "707365",
+      "nickname": "IDFT-戴紫薇",
+      "avatar": "/mediasource/avatar/20190123/1548242321357p2mYSbnREE.jpg",
+      "badge": [],
+      "level": 1,
+      "isStar": true,
+      "friends": "0",
+      "followers": "0",
+      "teamLogo": "/mediasource/teamLogo/all/idft_logo_2.png",
+      "signature": "",
+      "bgImg": "",
+      "vip": false,
+      "userRole": 3
+    }
+  },
+  {
+    "liveId": "328988534534639616",
+    "coverPath": "/20190425/1556202055427ge3w10yBYY.jpg",
+    "title": "开直播好难营业好难",
+    "liveType": 1,
+    "status": 2,
+    "ctime": "1556366578944",
+    "userInfo": {
+      "userId": "36",
+      "nickname": "SNH48-钱蓓婷",
+      "avatar": "/mediasource/avatar/15191826878632L1BWx8088.jpg",
+      "badge": [],
+      "level": 1,
+      "isStar": true,
+      "friends": "0",
+      "followers": "0",
+      "teamLogo": "/mediasource/teamLogo2/all/snh48_s2.png",
+      "signature": "",
+      "bgImg": "",
+      "vip": false,
+      "userRole": 3
+    }
+  }
+]

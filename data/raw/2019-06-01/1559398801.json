@@ -1,0 +1,163 @@
+[
+  {
+    "liveId": "341699762100965376",
+    "coverPath": "/20190601/1559397170816d7b6AtjS69.jpg",
+    "title": "聊天",
+    "liveType": 1,
+    "status": 2,
+    "ctime": "1559397171759",
+    "userInfo": {
+      "userId": "63554",
+      "nickname": "BEJ48-段艺璇",
+      "avatar": "/mediasource/avatar/20190226/1551176339365r4BVxn60hs.jpg",
+      "badge": [],
+      "level": 1,
+      "isStar": true,
+      "friends": "0",
+      "followers": "0",
+      "teamLogo": "/mediasource/teamLogo2/all/bej48_b.png",
+      "signature": "",
+      "bgImg": "",
+      "vip": false,
+      "userRole": 3
+    }
+  },
+  {
+    "liveId": "341706286227591168",
+    "coverPath": "/20190601/1559398725432NxqO36W637.jpg",
+    "title": "营业🈺️",
+    "liveType": 2,
+    "status": 2,
+    "ctime": "1559398726864",
+    "userInfo": {
+      "userId": "2508",
+      "nickname": "SNH48-张昕",
+      "avatar": "/mediasource/avatar/20190115/15475321892217K6V9FHtbL.jpg",
+      "badge": [],
+      "level": 1,
+      "isStar": true,
+      "friends": "0",
+      "followers": "0",
+      "teamLogo": "/mediasource/teamLogo2/all/snh48_h2.png",
+      "signature": "",
+      "bgImg": "",
+      "vip": false,
+      "userRole": 3
+    }
+  },
+  {
+    "liveId": "341704995216625664",
+    "coverPath": "/20190601/15593984183882DHi26B54h.jpg",
+    "title": "喵",
+    "liveType": 1,
+    "status": 2,
+    "ctime": "1559398418937",
+    "userInfo": {
+      "userId": "677404",
+      "nickname": "SNH48-周诗雨",
+      "avatar": "/mediasource/avatar/20190308/15520328406081gtx18Dtip.jpg",
+      "badge": [],
+      "level": 1,
+      "isStar": true,
+      "friends": "0",
+      "followers": "0",
+      "teamLogo": "/mediasource/teamLogo2/all/snh48_n2.png",
+      "signature": "",
+      "bgImg": "",
+      "vip": false,
+      "userRole": 3
+    }
+  },
+  {
+    "liveId": "341704436178817024",
+    "coverPath": "/20190601/1559398284540wjJr2N7l0e.jpg",
+    "title": "Hi",
+    "liveType": 2,
+    "status": 2,
+    "ctime": "1559398285783",
+    "userInfo": {
+      "userId": "327587",
+      "nickname": "BEJ48-冯思佳",
+      "avatar": "/mediasource/avatar/20180420/1524158237082F67tg21k3I.jpg",
+      "badge": [],
+      "level": 1,
+      "isStar": true,
+      "friends": "0",
+      "followers": "0",
+      "teamLogo": "/mediasource/teamLogo2/all/bej48_e.png",
+      "signature": "",
+      "bgImg": "/20190416/1555430011580O9sDA7w1gQ.jpg",
+      "vip": false,
+      "userRole": 3
+    }
+  },
+  {
+    "liveId": "341695717021913088",
+    "coverPath": "/20190601/15593962068055Fgl5HfvKI.jpg",
+    "title": "饿了",
+    "liveType": 1,
+    "status": 2,
+    "ctime": "1559396207337",
+    "userInfo": {
+      "userId": "614727",
+      "nickname": "GNZ48-李姗姗",
+      "avatar": "/mediasource/avatar/20190121/1548009439373OMHLVjx61V.jpg",
+      "badge": [],
+      "level": 1,
+      "isStar": true,
+      "friends": "0",
+      "followers": "0",
+      "teamLogo": "/mediasource/teamLogo2/all/gnz48_g.png",
+      "signature": "",
+      "bgImg": "",
+      "vip": false,
+      "userRole": 3
+    }
+  },
+  {
+    "liveId": "341690683701923840",
+    "coverPath": "/20190601/1559395006383B30Sir6Lp7.jpg",
+    "title": "一会会儿～",
+    "liveType": 1,
+    "status": 2,
+    "ctime": "1559395006972",
+    "userInfo": {
+      "userId": "63571",
+      "nickname": "BEJ48-田姝丽",
+      "avatar": "/mediasource/avatar/20180711/15312787608885chXYS0VhG.jpg",
+      "badge": [],
+      "level": 1,
+      "isStar": true,
+      "friends": "0",
+      "followers": "0",
+      "teamLogo": "/mediasource/teamLogo2/all/bej48_b.png",
+      "signature": "",
+      "bgImg": "",
+      "vip": false,
+      "userRole": 3
+    }
+  },
+  {
+    "liveId": "341686684877656064",
+    "coverPath": "/20190601/1559394053035AbIe10SySs.jpg",
+    "title": "节日快乐🎉",
+    "liveType": 1,
+    "status": 2,
+    "ctime": "1559394053589",
+    "userInfo": {
+      "userId": "417326",
+      "nickname": "GNZ48-王偲越",
+      "avatar": "/mediasource/avatar/20190121/1548078577946YWW7jN2ZUL.jpg",
+      "badge": [],
+      "level": 1,
+      "isStar": true,
+      "friends": "0",
+      "followers": "0",
+      "teamLogo": "/mediasource/teamLogo/all/gnz_z_log2.png",
+      "signature": "",
+      "bgImg": "",
+      "vip": false,
+      "userRole": 3
+    }
+  }
+]
